@@ -6,10 +6,13 @@ from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
 import string
 
+# Download NLTK resources if not already downloaded
+nltk.download('punkt')
+nltk.download('stopwords')
+
 # Load podcast datasets
-joe_rogan_podcast_data = pd.read_csv('joe_rogan_podcast_dataset.csv')
-TAL_podcast_data = pd.read_csv('TAL_podcast_dataset.csv')
-ben_shapiro_podcast_data = pd.read_csv('ben_shapiro_podcast_dataset.csv')
+all_podcast = pd.read_csv('final_df_raw.csv')
+
 
 # Function to download audio data
 def download_audio(url):
@@ -35,23 +38,22 @@ def tokenize_text(text):
     tokens = [stemmer.stem(token) for token in tokens]
     return tokens
 
-# Process Joe Rogan podcast dataset
-for index, row in joe_rogan_podcast_data.iterrows():
-    audio_data = download_audio(row['download_url'])
-    if audio_data:
-        # Perform tokenization on transcript
-        tokens = tokenize_text(row['title'])
+# Tokenize transcript data in the all_podcast dataset
+tokenized_transcripts = []
 
-# Process TAL podcast dataset
-for index, row in TAL_podcast_data.iterrows():
-    audio_data = download_audio(row['download_url'])
-    if audio_data:
+for index, row in all_podcast.iterrows():
+    transcript = row['transcript']
+    if isinstance(transcript, str):  # Check if transcript is a valid string
         # Perform tokenization on transcript
-        tokens = tokenize_text(row['title'])
+        tokens = tokenize_text(transcript)
+        # Append tokens to list
+        tokenized_transcripts.append(tokens)
+    else:
+        tokenized_transcripts.append([])  # Append empty list if transcript is not available
 
-# Process Ben Shapiro podcast dataset
-for index, row in ben_shapiro_podcast_data.iterrows():
-    audio_data = download_audio(row['download_url'])
-    if audio_data:
-        # Perform tokenization on transcript
-        tokens = tokenize_text(row['title'])
+# Add tokenized transcripts to the all_podcast dataset
+all_podcast['tokenized_transcript'] = tokenized_transcripts
+
+# Save the updated dataset to a new CSV file
+all_podcast.to_csv('all_podcast_with_tokens.csv', index=False)
+
