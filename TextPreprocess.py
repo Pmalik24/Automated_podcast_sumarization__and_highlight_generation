@@ -49,7 +49,7 @@ for index, row in all_podcast.iterrows():
         # Append tokens to list
         tokenized_transcripts.append(tokens)
     else:
-        tokenized_transcripts.append([])  # Append empty list if transcript is not available
+        tokenized_transcripts.append([]) 
 
 # Add tokenized transcripts to the all_podcast dataset
 all_podcast['tokenized_transcript'] = tokenized_transcripts
