@@ -9,17 +9,17 @@ from tqdm import tqdm
 input_dir = "/Users/meagandyer/Desktop/NLPClass/Project/Transcripts"
 output_dir = "/Users/meagandyer/Desktop/NLPClass/Project/Cleaned"
 
-# Define a function to clean text
+# Defines clean text
 def clean_text(text):
-    # Remove time markers like '0 (0s)' and '4 2m 3s'
-    text = re.sub(r'\b\d+\s+\(\d+s\):\s*', '', text)  # Removes '0 (0s)' format
-    text = re.sub(r'\b\d+\s+\dm\s+\ds\b', '', text)   # Removes '4 2m 3s' format
-    text = re.sub(r'\b\d+\s+\ds\b', '', text)         # Removes '0 23s' format
+
+    text = re.sub(r'\b\d+\s+\(\d+s\):\s*', '', text) 
+    text = re.sub(r'\b\d+\s+\dm\s+\ds\b', '', text)  
+    text = re.sub(r'\b\d+\s+\ds\b', '', text)  
     
     # Remove sections with questions and time markers
     text = re.sub(r'\b\d+\s+\dm\s+\ds\b.*?questions.*?\d+\s+\dm\s+\ds\b', '', text, flags=re.DOTALL)
     
-    # Remove long time markers like '0 10m 42s'
+    # Remove long time markers
     text = re.sub(r'\b\d+\s+\dm\s+\ds\b', '', text)
     
     # Tokenize the text
