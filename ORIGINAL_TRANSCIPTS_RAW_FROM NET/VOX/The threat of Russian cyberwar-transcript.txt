@@ -1,0 +1,248 @@
+0 (1s):
+Welcome back to today, explained Russia. Isn't happy with the United States right now, most recently it sent a formal warning to the Biden administration. Stop sending advanced weapons to Ukraine or risk quote, unpredictable consequences part to know what's Putin means by that. But one thing we do know is Russia has been ramping up cyber warfare and Ukraine
+
+2 (26s):
+Top Ukrainian cyber security official has confirmed at NBC news. That Ukraine is once again, under cyber attack and among the reported victims are banks and government websites.
+
+0 (35s):
+And that's Putin. His frustration grows as does the threat of cyber warfare.
+
+3 (40s):
+Everybody's vulnerable cyber activities. No, no sovereign boundaries. And so the United States is surely going to be a, a potential target.
+
+0 (49s):
+The threat of cyberwarfare from Russia and how the United States isn't really ready ahead on today. Explained Today, explained I'm Sean Rama's from, and this is Glenn
+
+3 (1m 10s):
+I'm Glenn <inaudible> Glenn
+
+0 (1m 12s):
+Used to be in the NS.
+
+3 (1m 15s):
+I'm the former general counsel of a national security agency. Having served there from 2015 to 2020,
+
+0 (1m 21s):
+But now he's just a regular civilian.
+
+3 (1m 23s):
+And I'm currently a senior advisor at a Washington DC think tank the center for strategic and international studies.
+
+0 (1m 29s):
+Glenn still thinks a lot about national security. So he seemed like the right kind of guy to ask about cybersecurity.
+
+3 (1m 35s):
+We're seeing right now, very significant cyber attacks in Ukraine, including one that was just recently forwarded just days ago, which would have been a successful attack on the electric grid in Kiev. That would have been the third such attack. One was done by Russia in 2015
+
+4 (1m 51s):
+And unprecedented cyber attack left 225,000 Ukrainians without
+
+3 (1m 55s):
+Power in another. In 2016
+
+5 (1m 58s):
+Hackers sent emails with infected attachments to power company employees stealing their login credentials, and then taking control of the grid systems to cut the circuit breakers at nearly 60 substations.
+
+3 (2m 11s):
+So we know that Russia is capable of this. We see the kind of indiscriminate activity they're engaged in, in the military operations on the ground. And the fear is that this indiscriminate, but forceful type of attack might occur in the cyber realm as well.
+
+0 (2m 25s):
+And the United States is potentially vulnerable to such an attack.
+
+3 (2m 29s):
+Everybody's vulnerable cyber activities, no, no sovereign boundaries. And so the United States is surely going to be a, a, a potential target
+
+6 (2m 37s):
+March 18th, FBI bulletin obtained by CBS warned at least 23, us companies that 140 Russian linked IP addresses work scanning networks for vulnerabilities, for use and potential future intrusions,
+
+3 (2m 51s):
+Malicious cyber activity runs the gamut. It's on a spectrum at one end, something that doesn't produce destructive effects. That's the kind cyber activity where a foreign adversary may be tries to get into the computer networks of our defense contractors or the, or the national government. As we saw a couple of years ago with the so-called solar winds intrusion
+
+7 (3m 12s):
+Sending malware to 18,000 private and government organizations, including the U S department of justice, treasury state, and Homeland security.
+
+3 (3m 24s):
+It was a simply old fashioned spying operation, but done by means of a computer. And at the other end of the spectrum, we have potentially devastating physically destructive cyber attacks where we're used cyber to produce a real world effect in our daily lives. And that could involve turning off electricity, which could mean everything from homes, getting cold and winter to hospitals, having to shut down in the middle of operations, due to electricity, being turned off to potentially water supplies being contaminated. So the potential for a real-world consequences, very significant. And between those two extremes are other variations. One of which is ransomware that generally doesn't corrupt data.
+
+3 (4m 3s):
+Generally it doesn't stop everything dead in its tracks, other than access to the computer. But in theory, if you pay the ransom and the ransomware gang is honest, they'll let you have your computer back. And you'll be back after a rather transient period of damage, but not permanent.
+
+0 (4m 19s):
+And Russia's capable of the full spectrum.
+
+3 (4m 22s):
+Russia is capable of the full spectrum. When I was at the national security agency, we regarded Russia as one of the top four cyber adversaries. We regarded Russia as a near peer. We had to take them very seriously. They are capable of the most sophisticated type of cyber operations. And we've seen that over the past several years,
+
+0 (4m 42s):
+Some more about what Russia has executed during this war with Ukraine.
+
+3 (4m 47s):
+We've seen a relentless barrage from Russia, probably by the GRU, which is the intelligence unit of the Russian military, possibly also the SVR, which is sort of the equivalent of their CIA. We've seen a history of significant cyber attacks seeking to bring down a government websites by something called a distributed denial of service attack. And that basically involves sending hundreds and millions of messages at a computer to sort of overwhelm it and take it offline. That produces only a temporary effect because of the computers are able to get back online. Indeed, we just saw it, the Finnish foreign ministry, evidently in retaliation for Finland's current consideration of joining NATO suffered a significant DDoSs attack where they were taken offline for several hours.
+
+8 (5m 36s):
+This is all happening as Ukrainian president, the Linsky was speaking virtually to members of Finland's parliament. The websites of both the finished defense and foreign ministry went down.
+
+3 (5m 47s):
+That is part of a very coordinated effort on the part of the Russians tied up with their, their disinformation operations. So the combination of spreading disinformation on social media to induce panic, coupled with selected physical disruptions in sort of everyday real life websites being turned off, there were two state banks that were unable to function for several days due to computer attacks. People couldn't get money from ATM machines. Coupled with that Russia in a very concerted way, sent out text messages to people saying you won't be able to get your money from ATM machines, sort of inducing panic and sewing chaos. So this is a, they have a very integrated way of combining their information operations together with their ability to engage in physically destructive cyber attacks.
+
+0 (6m 33s):
+So it sounds like Russia is certainly engaging in these cyber warfare tactics and Ukraine and even beyond, but they aren't going as hard as they could. From what you've said, the spectrum is
+
+3 (6m 43s):
+We haven't seen that. So we certainly seen, as I said, relentless, somewhat lower level attacks. We haven't seen the shock and awe that might be accompanied with a massive cyber attack causing the entire country to plunge into darkness, telephones, and internet disrupted on a, on a national scale. We haven't seen that. So why is that we'll know the answer in a few years when the full history comes out, but one reason surely has to be that Vladimir Putin thought this was going to be an easy victory. He thought he was going to be able to have troops come in and reach a Kieve in a matter of days from crossing the border. So one is they didn't think it was necessary to, they might not want it anyway, because if they thought they were going to be coming into the country and occupying it as an invader, they'd want to function economy, they want they'd want a populace that was willing to, to engage in normal commercial activities.
+
+3 (7m 32s):
+And that's obviously not what it even remotely is turned out. It's also possible that lack of coordination we see in the Russian military on the ground and lack of coordination between their ground forces and their sea forces and air forces is replicated or extended to lack of coordination with their cyber units. So maybe the cyber folks weren't clued into the full invasion plans. Maybe they weren't completely clued in to exactly how the military would be operating. That certainly certainly seems to have evidence of that. Finally, perhaps it's just the simple fact that Ukrainians have had several years to prepare for this. They've known since 2015 and experienced since 2015 relentless cyber attacks. And there they're better prepared.
+
+0 (8m 11s):
+It sounds like there might be some overlap between why Russia isn't waging as aggressive as cyber war on Ukraine as it could. And why Russia isn't waging as much of a cyber war on say the countries that are helping Ukraine, Germany, France, UK, the United States, is that fair.
+
+3 (8m 29s):
+It's a little hard to see exactly what strategic value, what the upside is for Vladimir Putin to let us just simply say, attack the electric grid in France or the New York stock exchange, or pick whatever target you want. I can't imagine that if, if to take an example that the Kremlin were to orchestrate and launch a very severe physically destructive cyber attack against the United States that we would say, oh, well, in that case, forget the sanctions. Obviously we're not going to do that. If anything, we'll double down on them, we would engage in some kind of escalation, some kind of significant retaliation having said that I could see a situation in which he feels cornered either because he feels he's got nothing left to lose.
+
+3 (9m 15s):
+The sanctions are already imposed so strict. There's, there's not much worse than that. They, they can't get much worse. Or what I fear is that when the sanctions we've imposed start having a real world effect on the average Russian citizen and they take to the streets, we see more demonstrations in St. Petersburg. Of course they could be brutally to put down, but if they aren't and it turns out to be an existential issue for Putin where his rule is threatened, then I could see him engaging in what we would regard as irrational, retaliation, and strike out in terms of cyber, without regard to the consequences. Because at that point he won't, he won't care. He'll he'll engage in something that's just lashing out irrationally.
+
+3 (9m 55s):
+And that's something we do have to be concerned about.
+
+0 (9m 57s):
+And it sounds like the United States is preparing for that scenario.
+
+3 (10m 2s):
+I think we need to be prepared for that scenario. Certainly our government is taking it very seriously. And an example of that is an absolutely unprecedented action by the president of the United States. Just several weeks ago, president Biden issued a statement and an announcement
+
+9 (10m 15s):
+Today. My administration issue renewal is that based on evolving intelligence, Russia may be planning a cyber attack against us
+
+3 (10m 23s):
+Urging American businesses to be prepared for significant malicious cyber activity from Russia. This was coming directly from the president. We've never had that before. And that's obviously because our intelligence community must have been in possession of some information that gave them some specific reason to, to ring the alarm bell at that level. So we do need to be prepared. We know their capabilities, we know how they're reacting to these sanctions. It's not impossible that they could retaliate in a way that would be extremely unpleasant.
+
+Novo (11m 9s):
+Support from the show today comes from Novo. Not know-how not so ho no vote. It's a business banking platform built for small business owners. Unlike the traditional banking model, Novo has no minimum balances, no transaction limits and no hidden fees. That's a lot of nos, but those are the kinds of good nos you want. When you're working with a bank, Novo can be customized to fit your business needs help save time and frees up cashflow by seamlessly integrating programs, such as Stripe, Shopify, QuickBooks, online, and more. According to Novo, you can sign up right now for a free business checking account at Novo com slash explained plus today. Explain listeners get access to over $5,000 in perks and discounts. That's N O V o.com/explain to sign up for free Novo dot C O slash explained. Nova platform make is a FinTech, not a bank banking services provided by Middlesex federal savings at a member FTI see terms and conditions apply
+
+Future (12m 20s):
+Building a workout routine and sticking with it is a lovely idea, but it is easier said than done. Future is an app that can help make it easier for a fixed monthly price. Future connects you with a trainer who will offer unlimited personal workout sessions and custom designed routines that fit your needs and your lifestyle. Future coaches are there to keep you motivated every day. And they're focused on making every workout feel fresh. Most of them are trained athletes from top college and pro programs across the country. And having one in your corner could make a big difference. Get started right now with 50% off your first three months at try future.com/explained again, that's try future.com/explained.
+
+11 (13m 10s):
+Did you find the files? I don't even know what they look. What do they look like? They're in the computer. They're in the computer.
+
+12 (13m 18s):
+Yeah, they're definitely in there. I just don't know how he labeled
+
+11 (13m 20s):
+Them. I got it.
+
+12 (13m 22s):
+You got to figure it out.
+
+11 (13m 23s):
+Roger in the computer
+
+0 (13m 30s):
+Today explained we're back with Glenn. Gerstel
+
+13 (13m 35s):
+Used to be in the bed. S a,
+
+0 (13m 40s):
+It sounds like the president is concerned. He issued this unprecedented warning to American business to American infrastructure. As you mentioned, just recently, give us an idea of how prepared this country is for malicious cyber warfare attacks from a country like Russia. In this moment,
+
+3 (13m 57s):
+America's preparedness varies in the industries that have a history of working together because that's the nature of their business. Say the banking and finance industry or the energy industry where they're shipping and injury and coordinating supplies and deliveries to each other. No surprise that those industries are actually fairly well-organized in terms of being prepared for, for malicious cyber activity. They're also wealthy enough that they can afford to hire the best people, the best cyber security engineers. They can buy the best equipment and they have the money to spend time on making sure all patches are up to date. Their computers are up to date, et cetera.
+
+3 (14m 37s):
+So I would give those industries, the financial and banking sector, credit card industry, a pretty, pretty high grade. Well over passing.
+
+0 (14m 53s):
+Comforting.
+
+3 (14m 53s):
+That's the good news.
+
+0 (14m 54s):
+What's the bad news.
+
+3 (14m 56s):
+The bad news is there are some guys at the back of the classroom or aren't doing so well While nobody wants to be pointed out. As who's sitting in the back of the classroom, their state and local governments clearly are at a poor end of the spectrum. They don't have enough money to do many of the important social services they want to do. Let alone cybersecurity. Their computers are often outdated. They, it's not a question of patching the computers, the computers, and their network systems. Maybe you're running old versions of windows or old versions of some software. So it's not a question of patching it. They just haven't spent the money to buy it.
+
+0 (15m 29s):
+And this is why they fallen victim to ransomware in the past.
+
+3 (15m 33s):
+And we see time and time again, a school systems, municipalities, Baltimore Atlanta
+
+15 (15m 38s):
+Essential services like 9 1, 1 and 3, 1, 1 are still working, but most of the city servers are shut down.
+
+16 (15m 45s):
+Last Thursday, the city of Atlanta was attacked by hackers and they demanded ransom money blocking online access to certain city sites and leaving residents, unable to pay bills, report potholes, or even use the wifi at the airport
+
+3 (15m 58s):
+Being crippled by ransomware to the point where they can't even write parking tickets anymore. And another sector might be the water sector. There are over 52,000 water utilities in the United States. Most of them are very small. They often struggle to have the funds necessary to do all the upgrades and maintenance that they need to, to keep their water supplies proper. So they don't really have a lot of money left over for cyber. They often run antiquated equipment, cyber isn't integral to their business. They are significantly vulnerable. We know they're vulnerable. And the only offsetting feature I would say is that they're so dispersed. There's so many of them. There's so many school districts in the United States.
+
+3 (16m 38s):
+So many election precincts and election machinery. So many water supply companies pick any one of these infrastructure areas that are widely dispersed because they're geographically diverse. Well, the good news is it's going to be hard to attack them. At scale, you can't attack all 52,000 water utilities in the United States. You can take one by one, but you don't need to get all 50 2002 to produce a problem. Just imagine, imagine if Russia were successful in penetrating two or three water supply systems around the United States and using cyber to open valves, to add excessive amounts of disinfectant or to pollute the waters, or who knows what, imagine the level of concern that everybody would have when you'd go home and turn on the tap water.
+
+3 (17m 20s):
+You'd wonder, gosh, I wonder if they got into my system, what do I need to do? And so they could easily. And if that were coupled with Russia's disinformation campaign, and they're good at that, you can imagine sowing a significant concern in the United States with just a very limited attack. Again, I'm not trying to induce panic, but I'm just simply saying we need to be prepared for the worst case. Hopefully that will never occur, but we do need to be worried about it.
+
+0 (17m 44s):
+Does that also apply to power to grids?
+
+3 (17m 48s):
+Our electric grid system in the United States is connected in many important ways for all sorts of reasons, for redundancy, so that if electricity goes off in one area, and if it goes off in Pennsylvania, then it's possible for electricity from Virginia to be funneled along the electric grid to deal with the power. Right? So that's the good part of the fact that our grids are at some level tied together. And the concern there is that if Russia were able to go after one or two key spots in the grid, it could have a significant, significant regional effect. It's hard to see how it would have a really truly national effect. But again, if you're talking about a key city such as Washington in New York, that will have a national effect, even if the lights go out only in wall street,
+
+0 (18m 30s):
+It sounds like the silver lining here is there's a whole lot of systems. And so attacking one does not necessarily mean disrupting the entire nation though, as you said, there is potential to hit a really critical city or state and cause major disruptions. What's the fix though? What, what do we do to not be vulnerable at all?
+
+3 (18m 53s):
+So the fix is complicated. The problem is complicated. If it was, if it was easy, we would have fixed it by now. So we know the problem is complicated and, and there's a whole bunch of reasons for our cyber vulnerability. But at the end of the day, we need to approach our cyber vulnerabilities. In several ways. We certainly need such easy steps or relative easy steps, easy to articulate steps is getting more cyber professionals. There are over 3 million cyber jobs that are going vacant in the United States right now.
+
+17 (19m 20s):
+And it's going to take a lot of professionals to fill that gap. But due to the pandemic, coupled with the ongoing labor crunch, workers are being stretched thin, both preventing attacks and responding to the ones that make it through.
+
+3 (19m 32s):
+We need to train average users, how to be more cyber secure about their, their, their laptops, their phones using so-called two factor authentication to make sure someone doesn't get into your email or into your phone. So we need general public education. But then at the end of the day, we really need to make sure that American businesses and infrastructure owners employ the best cyber practices. And, and they don't. The simple fact of the matter is they don't some industries, as we've already discussed are really good at it. Others aren't, but we're only as strong in our terms of our national well-being as the sort of weakest link. And so we've got to make sure that we, we address that
+
+18 (20m 9s):
+Tonight. The MTA confirms it got hit by a cyber attack in April.
+
+19 (20m 13s):
+The hack is the latest and a number of high profile cyber attacks in the U S over the past few weeks,
+
+20 (20m 19s):
+Hackers targeting our healthcare system, stealing private data and holding it for ransom. So far, five hospitals, security experts warn hundreds more under threat.
+
+3 (20m 29s):
+We've relied for basically, oh, a generation basically 20 years since the internet and cyber has been a thing in our lives. We've relied fundamentally on market solutions and what have market solutions given us, they've given us buggy software, which is vulnerable to many cyber attacks. And they've given us a system where we tolerate evidently just a low, but still significant levels of ransomware that affect us every day. Computer outages and market solutions have proven ineffective to, to prevent us from these ransomware attacks, these malicious cyber surveillance attacks against the federal government state governments, election, election interference.
+
+3 (21m 11s):
+We've allowed our social media to be polluted through cyber maliciousness, et cetera. So private sector, it's not working. And we need to recognize that. So what does that mean? Will we need the government to step up? The United States constitution says that our federal government is designed for the quote common defense. And we certainly know that it undertakes that duty in the case of foreign malicious real-world attacks. So for example, if North Korea tact, Sony pictures, cause they didn't like the picture that Sony was producing about the North Korea dictator and in retaliation, they interview exactly a devastating attack against Sony pictures, knocking them offline, causing millions of dollars of damage at Sony.
+
+3 (21m 54s):
+They undertook that attack through cyber means.
+
+21 (21m 57s):
+Yeah, they called it an act of war and an act of terrorism, which is a comedian is like what you're fucking looking for. Huh?
+
+3 (22m 6s):
+If instead the north Korean military had launched a missile at Sony pictures in Culver city, California. Well, we know what the United States response would be. We would probably involve a B 52. Right. But instead, because it was a cyber attack, what did we do? We impose sanctions against, against North Korea. So cyber exploits, a vulnerability, it exploits a vulnerability in the way our federal government is empowered and organized to defend the United States against foreign malicious cyber activity. And that's a very severe gap, very severe vulnerability To remedy it. We need the government to step up and provide at the end of the day, mandatory minimum cyber security standards like we do in so many other areas we need to regulate this area.
+
+0 (22m 55s):
+And the government you're talking about is the federal government
+
+3 (22m 58s):
+Only the federal government is in, is in a position to deal with what is in effect, a threat to our national well-being. And that means recognizing that market solutions aren't, aren't getting us to where we need to be. We need the government to impose mandatory minimum cybersecurity standards that will involve regulation. It'll involve a bureaucracy. No one wants either of those. But the alternative is to sit back and suffer ever more devastating ransomware attacks.
+
+0 (23m 24s):
+Is this the moment that the federal government wakes up to the imminent dangers of a cyber warfare attack from, from Russia? Is, is it this war that has brought us the closest we've been in generations to a direct conflict with Russia? Or is it the actual attack that comes one day and cripples, you know, critical American infrastructure
+
+3 (23m 48s):
+In a funny way, I'm sort of worried that there won't be that kind of devastating attack that will the, the, the equivalent of nine 11, that will cause us to form a department of Homeland security that will cause us to reform their intelligence agencies, et cetera. We may never, or hopefully we'll never see such a devastating attack, but I don't want the fact that we haven't seen a devastating attack to be an excuse for not doing anything about this. We need to take action. And I think I've seen in talking to members of Congress and the staff on the, on Capitol hill, a real change in their attitude, Is it going to be sufficient to overcome partisan gridlock, the normal inertia that we have about and making any changes in government?
+
+3 (24m 32s):
+I don't know. I'd like to think we're, we're on the path to addressing that I'm under no illusions, that it's going to be easy or going to be quick. But I think, I think we've started that process.
+
+0 (24m 46s):
+Glenn Gerstel is definitely not in the NSA. He's a senior advisor at the center for strategic and international studies here in Washington, DC. The program today was produced by Victoria Chamberlain with edits by Matthew Collette. We were fact checked by Laura Bullard and mixed and mastered by Paul mousey. It is today explained

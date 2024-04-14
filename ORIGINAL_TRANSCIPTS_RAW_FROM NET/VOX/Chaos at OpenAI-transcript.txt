@@ -1,0 +1,215 @@
+1 (2s):
+Breaking news overnight. A stunning new twist in the power struggle over the future of the company. Behind chat, GPT,
+
+2 (8s):
+Sam Altman, the co-founder and ousted leader that will now return to OpenAI as CEO. We know that these negotiations have been going on in the last 24 hours. So the
+
+3 (17s):
+Soap opera, I don't know if it's officially over, but it's, I think we're to extra innings at this point.
+
+4 (23s):
+Sam Altman's shocking Ouster from his company on Friday became a back in stir late yesterday. Now the man who some people feared had too much power in the world of artificial intelligence has even more power and the backing of a friendlier board. Coming up. On today explained five days that shook the tech world. A November to remember you can't keep a good Sam down. You know what? I bet chat PT could write something better. Hang on.
+
+New York Magazine (1m 0s):
+Hey, you've got all kinds of people yelling at you about sales Black Friday and Cyber Week these days. So I'll keep this short. Get the lowest prices of the season on an annual subscription to New York Magazine. Now through November 30th, prices started $8 for a monthly digital subscription and top out at $45 for a year of print and digital access. Give yourself the gift of Vulture, the Cut, Intelligencer and all your other favorite New York magazine brands for over 75% off until the end of the month. Go to ny mag.com/holiday by November 30th and you'll get the best deal of the year.
+
+Imperfect Paradise People Versus Karen (1m 35s):
+In December 2020 a Latino couple was falsely accused by a white mom influencer of attempting to kidnap her children. the Karen phenomenon where white women falsely accuse people of color of crimes, usually fixates on the accuser, the so called Karen But. for this series, we focus on the innocent couple At. the heart of this story, I just want the public to know what she did was wrong. Imperfect Paradise, People Versus Karen available now wherever you get your podcasts
+
+0 (2m 6s):
+You're listening to today,
+
+5 (2m 8s):
+Explain.
+
+8 (2m 10s):
+I'm Sigal Samuel, I'm a senior reporter for V'S. Future Perfect.
+
+4 (2m 14s):
+Sigal, what is OpenAI? What does this company do?
+
+8 (2m 18s):
+So OpenAI is a really unusual tech company. It was initially founded in 2015 together with Elon Musk, a name you like may or may not have ever heard of before. And like the goal was to really focus on researching AI safety. So how to make advanced ai but how to make sure that it's gonna be safe and beneficial to all humanity. That's the mission.
+
+9 (2m 45s):
+My worst fears are that we cause significant we the field, the technology, the industry cause significant harm to the world. I think that could happen in a lot of different ways. It's why we started the company.
+
+4 (2m 55s):
+Okay, so founded in 2015 and then where does it go from there?
+
+8 (2m 59s):
+So from there, you know, at the beginning it's a pretty low key thing, you know, it's doing its own like research like so many other groups, but it progressively makes more and more advances, especially in the realm of large language models, the kind of AI that eventually culminated in what we now know as chat GPT. But you know, at first it was like pretty quiet. They were having very cautious launches and then a year ago, almost exactly a year ago, they ended up launching chat GPT, which really sort of rocketed OpenAI to becoming a household name chat. GPT is that application that lets you type in a question or the beginning of a prompt and then it will fill in the rest of the text for you.
+
+8 (3m 46s):
+So you can write the first line of a poem, say and ask it to complete the rest. It'll complete the rest of the poem for you. So it does an amazing job with language.
+
+10 (3m 54s):
+GP four takes what you prompt it with and just runs with it from one perspective. It's a tool, a thing you can use to get useful tasks done in language from another perspective, it's a system that can make dreams, thoughts, ideas, flourish in text in front of you.
+
+8 (4m 12s):
+The funny thing is that when they initially launched they said in-House, this is just gonna be a low key research preview and lo and behold it becomes like the fastest growing, you know, such app in in history and OpenAI becomes incredibly famous overnight and this kind of propels OpenAI into a situation where it's pushing more and more for commercialization. It's pushing out products aggressively and quickly and it's starting to look less and less like the company it was originally founded to be, which was supposed to be very careful, very sober, very safety conscious.
+
+4 (4m 54s):
+Tell me about ex Ex CEO, Sam Altman, who's
+
+8 (4m 58s):
+He? So Sam Altman is in many ways a classic kind of Silicon Valley entrepreneur. Pretty famous in the startup world from his work at Y Combinator, he is really known as at this point the poster boy for ai. He has kind of become synonymous with ai, I think like for much of the public because of his role launching products like ChatGPT and because he's at the helm of OpenAI, he is not just
+
+11 (5m 25s):
+A big deal in Silicon Valley. He has become the face of AI or at least one of the main faces of ai. He's testified before Congress, he's met with CEOs and you know, ChatGPT PT has really been the AI product in generative AI that has changed the perception of its abilities earlier this year. And he is intertwined with all of that.
+
+8 (5m 52s):
+He's a fantastic salesman. I'll say that he's really been able to kind of push open AI's vision for AI into the mainstream. Is
+
+4 (6m 1s):
+He good at his job? What's his reputation like in Silicon Valley? Do people like this guy? Is he, is he expedient? Is he high functioning?
+
+8 (6m 9s):
+I think that he's actually really well liked in the valley. You know, as we've seen recently, you know, he, he has a lot of backing from the staff of OpenAI. There's a lot of people who are really, really in his corner. They're team Sam, ride or die
+
+12 (6m 23s):
+In terms of Sam. I mean look, this was his baby. He brought in these people. It seems to be quite a culture of love. Literally this weekend they were all tweeting hearts at each other, different color hearts.
+
+8 (6m 36s):
+So yeah, he is well liked. There's also a reputation in some quarters though for alleged manipulation deceitfulness. So there's some people who are not overwhelmingly happy on personal grounds and there's also critics on an intellectual level of his approach to ai, which in recent months and years has become seemingly less focused on keep AI safe and mitigate the risks and more focused on let's rush to market, let's make a profit. Let's commercialize
+
+4 (7m 12s):
+Sigal, can you walk us through what has happened over the past five days? Five and a half days starting late Friday?
+
+8 (7m 21s):
+Absolutely, it's been a complete roller coaster. Friday, late afternoon, we're all getting ready to wind up for a nice quiet weekend. Little did we know news was about to drop that would basically be an earthquake in the tech world. So OpenAI announces that they're firing Sam, Altman, the CEO, he's being fired by the board. The board releases a very vague kind of cryptic statement that they're firing him because he has not been consistently candid in his communications with the board.
+
+13 (7m 57s):
+They go on to say the board no longer has confidence in his ability to continue leading OpenAI.
+
+8 (8m 2s):
+So it seems like there's some alleged lack of transparency and the board has decided in a kind of boardroom coup to suddenly get rid of him.
+
+3 (8m 13s):
+Altman was notified about that via video meeting on Friday that he had been fired and Greg Brockman, who was not part of that meeting, although he's the chair of the the board, he was stripped of that role. He was told he was gonna be the president of the company, but he quit in protest on Friday night. Several other executives and senior researchers also resigned.
+
+8 (8m 32s):
+This was done by just a small board. Who it should be noted is the board of the non-profit of OpenAI. And this is a a bit of a funny detail, but it's important for the story. OpenAI was initially founded as a nonprofit, it later spun up a for-profit arm. But the nonprofit board is really in control of the bigger picture and it's, it has control of firing and firing. And the Board's mission is not to protect, you know, investors. It's not to protect employees, it's to protect humanity. It is to safeguard the best interests of humanity.
+
+8 (9m 14s):
+So it has to do what it thinks is best in terms of like keeping AI safe. So for whatever its reasons weren't made clear initially it said it's firing Sam. The company president Greg Brockman gets super upset about this and he quits in protest, alright on Saturday, suddenly the pair is trying to get the board to reinstate them. They're going to OpenAI, they're trying to negotiate negotiations don't go their way. Sam Altman posts a funny picture on Twitter on x where he has to wear like a visitor badge going to OpenAI. He's like, this is the first and last time I'm ever wearing one of these.
+
+8 (9m 55s):
+And meanwhile the whole staff of OpenAI, not the whole but a huge majority starts to revolt in Sam's favor. They're really upset that he's been fired by Sunday. Both Sam and Greg have accepted jobs with Microsoft, which is the major investor in OpenAI. In
+
+14 (10m 15s):
+A cryptic post this morning Altman said of his new role, the mission continues
+
+8 (10m 20s):
+And Microsoft is like super happy. They're saying yeah this is, this is fine, this is great. Sam and Greg can continue working on their cutting edge AI in-house here at Microsoft. We
+
+15 (10m 31s):
+Chose to explicitly partner with OpenAI and we want to continue to do so and obviously that depends on the people and of OpenAI and staying there or coming to Microsoft. So I'm open to both options
+
+8 (10m 42s):
+But this is like turning into a huge problem for OpenAI because more and more OpenAI employees are now threatening to leave for Microsoft as well
+
+16 (10m 51s):
+Get this more than 700 employees, that's 95% of the companies say they are ready to follow Altman to Microsoft where he's set to build a new AI venture. They've signed this letter calling for open AI's board of directors to resign in full and then reinstate Altman and the letter states we are unable to work for or with people that lack competence, judgment, and care for our mission and employees.
+
+8 (11m 17s):
+Okay. By Tuesday new reports are indicating, hey guess what? Altman and Brockman are back in talks. They're still in talks about a possible return to OpenAI even though when we went to sleep the night before, we all thought they were safely at Microsoft. So this was like a huge Chaos. And then just when you thought it couldn't get any wilder late, late, late Tuesday night when we were all contentedly about to finally go to sleep, it is announced that actually OpenAI has reached an agreement, at least in principle to reinstate Sam Altman, he and Greg are gonna be back at OpenAI. Greg is posting like pictures on Twitter on X now of like what seems like a huge proportion of the staff celebrating cheering and the OpenAI folks are saying we're back like we are so back.
+
+4 (12m 8s):
+Okay they are back. And what about the board that fired? Sam? Altman?
+
+8 (12m 15s):
+Yeah, so the board has now had a shakeup of of its own. So basically Sam Altman and Greg Brockman have agreed, at least for the time being to not have a seat on the board. But Helen Toner, who you know was on the board and who really it seems like she was castigated by Sam for writing a academic paper that appeared to be critical of open AI's approach to AI safety. She's now off the board and instead we've now got Brett Taylor who is an early Facebook officer and was also helming Salesforce. And we've got Larry Summers who's a former treasury department secretary.
+
+8 (12m 57s):
+The only one who was on the board previously and is still on the board is Adam DeAngelo who's in charge of Cora. So it's really a, a big change. There's also talk that Microsoft may later insist on having some kind of place on the board whether that's an active role or at least an observer role on the board so they don't get caught out unawares like they did you know, in the past few days.
+
+4 (13m 22s):
+Does it strike you as weird that the two women are off the board replaced by two men? Yeah,
+
+8 (13m 29s):
+This is an industry that's not necessarily friendly to women and what Helen Toner did took a lot of guts and that's sadly not always rewarded in these contexts. And
+
+4 (13m 40s):
+Like we're talking about the end of the world. I mean that's what strikes me. It's like okay the dynamic seems to be the women were holding us back and now we can go and we can, we can have terminated time. Okay, yeah. So it has been five days, five days of roller coaster. Is Sam Altman coming back to the same company he left or has OpenAI been fundamentally changed by this drama?
+
+8 (14m 8s):
+I think that OpenAI has been fundamentally changed by this nutty drama in Sam's favor. I think that he is a winner of all of this because he's back and he's now gonna have a board that's much more friendly to his approach. The people on the board who were, you know from his perspective maybe reigning him in trying to hold them back, they're gone and now he's got on the board a bunch of dudes who you know, I think it's fair to say AI safety is maybe not their top concern here. So I think Sam has freer rein now to do, you know, what he thinks is the best approach and what with the staff having mutiny in his favor and then Sam being reinstated on the back of that.
+
+8 (14m 58s):
+I think it shows Sam to be in a position of huge power. I think this is basically like a, a major consolidation of his power at the company.
+
+4 (15m 9s):
+Coming up a fault line runs through it. The profound existential fears that led to this week's Chaos at OpenAI. Sigal Samuel will be back with US
+
+0 (15m 34s):
+Fox Creative.
+
+Eli Lilly and Company (15m 36s):
+This is advertiser content from Eli Lilly and Company. There's a fair amount of stigma with Alzheimer's disease. Dr. Brandy Matthews is a neurologist in Alzheimer's disease expert at Lilly and she sees a chance for this to change. I'm hopeful that we're now entering an era in which people will actively seek a timely and accurate Alzheimer's disease diagnosis. To make this future real, we have to start unlearning some of the things we thought we knew about Alzheimer's disease. Like one untruth that I encounter is that everyone will inevitably develop Alzheimer's disease because it's part of normal aging memory and thinking do change with age much like eyesight and hearing. However, these changes are relatively subtle and restricted mostly to speed of thinking or processing information and naming of specific items when changes become observable to others or begin to interfere with typical activities as a red flag. Myth two, if I'm diagnosed with Alzheimer's disease, there's not much I can do. Diagnosis that's timely in a patient's disease course may also have an impact on the progression of the disease. If the intervention happens early knowledge is power and acting early matters. If, you are noticing memory and thinking issues piling up, go to more than normal aging.com to learn more.
+
+Quince (17m 12s):
+Support for today's show comes from Quince. Quince promises high quality items with prices that are within reach like their 100% Mongolian cashmere sweaters starting at just $50 according to Quince. Quince only works with factories that use ethical, safe, and responsible manufacturing practices. And according to Quince, their pieces are always made with premium fabrics and finishes. Liz Kelly Nelson works over at the business side of things on Vox and she tried out some products from Quince. What I really appreciate about Quince more than anything is that their pieces are timeless, they're not trendy. These are items that like my cashmere sweater will be staples in your wardrobe, not just for the entire season, but for seasons to come over multiple years Affordable luxury with Quince. Listeners can go to quince.com/explain for free shipping on an order and 365 day returns. That's q uce.com/explained to get free shipping and 365 day returns. quince.com/explained
+
+19 (18m 20s):
+Play today explained how,
+
+20 (18m 23s):
+I'm sorry Dave, I'm afraid I can't do that.
+
+4 (18m 28s):
+It's today explained. We're back with Egal Samuel, she's a senior reporter at Vox and she has been covering the Chaos at OpenAI Egal. Let's start this way. You wrote for Vox recently that OpenAI is a company built on a fault line. What did you mean by that?
+
+8 (18m 45s):
+Yeah, so the fault line was open AI's dual mission, which is simultaneously to build AI that's as smart as or smarter than humanity, while also making sure that that AI will be safe and beneficial to all of humanity. That's part
+
+21 (19m 1s):
+Of our mission is to really make sure that we have an answer for like how humanity continues to fit in and continues to be the the the end beneficiary of all these systems kind of almost no matter how smart they get,
+
+8 (19m 13s):
+There's like an inherent tension over there because you know, if you've got super advanced AI it could theoretically harm people in a variety of ways. And I don't just mean like terminator scenarios
+
+22 (19m 25s):
+Baby,
+
+8 (19m 26s):
+I mean everything from entrenching bias against minority groups to enabling bio-terrorism or manmade pandemics. And I think inevitably that was gonna lead to some fracturing.
+
+4 (19m 37s):
+Okay, so there are people on this board who were more cautious about the future of AI and there are people on the board who are more incautious who are like, eh, probably the worst won't happen. But I wonder, If, you can talk us through the perspective of people in Silicon Valley who are afraid of what AI is, is capable of because we see AI scientists being polled and some of them saying, oh yeah, almost casually it seems, yeah this could bring about the end of mankind, the extinction of humanity. Yeah and I think what we really wanna understand is are those concerns legitimate?
+
+8 (20m 11s):
+Yeah, I think like these, the people who really worry about this are kind of sometimes classed in in one way as like they're called the doomers in this, in this world, but there's really a spectrum of people, right? There's some people who like really think, wow, this is for sure gonna kill all of us. And you know, it's some kind of like terminator scenario or like really sci-fi sounding scenario and they're imagining maybe an AI that gets smarter than humans and right all of that. But like you don't even need to go that far to be really genuinely worried. You could actually just have ais that are like pretty dumb, right? Like just to say like, you know, just only as smart as me or something. Or you know, an average person, you're
+
+4 (20m 51s):
+Very smart.
+
+8 (20m 53s):
+But you know, the thing is If, you have enough of those ais that are not like super smart but they're working in tandem and especially if they're, you know, working with a human actor who's a malicious actor that could do a lot, a lot of damage. So you know, like you don't need to be a way out there dor to be like legitimately concerned about what AI could do even before it gets to a hypothetical smarter than human stage. Just like a reasonably smart stage. There could be a lot of risk,
+
+4 (21m 23s):
+There could be a lot of risk. And with Sam Altman coming back and the composition of the board being changed to favor the risk takers, do we get the sense that there is now a broad agreement that perhaps the cautious people were being overcautious or overstating the case?
+
+8 (21m 39s):
+Yeah, I think there is a sense like that. And it's funny 'cause you hear a lot of people saying like, oh the the cautious people were, were overstating the case. But regardless of your opinion on that, I think just having Sam and Greg back and having a board that now is, is not very safety conscious should maybe make you feel at least a little concerned even if you're not worried about like real doomsday scenarios, but you're just worried about like other risks of of AI like entrenching or perpetuating bias against women or people of color or misinformation. Like even if you're just worried about things like that, this is all on the continuum of safety and risk and maybe you want leaders who are concerned about protecting safety and mitigating risk.
+
+8 (22m 28s):
+What OpenAI has said in recent months is like they've made it explicit that their real number one focus is getting to AGI, artificial general intelligence, which is as smart as or smarter than humans. And that has increasingly become kind of like the holy grail that the leaders are pushing towards. And the concern is like are they pushing towards that dream at any cost? And over the past few months it really seems like they're in more and more determined to get to AGI. Even if there's like warnings along the way that maybe this isn't great for safety and by the way, did we ever pull humanity and agree that we want AGI, is that even something that should exist?
+
+8 (23m 12s):
+Like hmm, who knows but they're charging full steam ahead.
+
+4 (23m 16s):
+Artificial intelligence is a race. There are a lot of companies that want to win this race. OpenAI seemed to be winning because of chat GPT. It was the coolest thing ever. It was really performing and with Sam Altman out, I think you could speculate that another company could win the race or at least be in the running in a new kind of way. Sam's now back at OpenAI, does that mean OpenAI has won the race is winning, the race is sure to win the race. Where does this leave the race for artificial intelligence?
+
+8 (23m 49s):
+First of all, like for humanity, if this is treated as a race, that's a really bad thing. Like we shouldn't want it to be treated as a race 'cause that's gonna be a race to the bottom. Unfortunately the race continues. I think that Sam would've continued that whether he was at Microsoft or at OpenAI. I think it should be noted that OpenAI has done more than any other company to catalyze the arms race kind of mentality, especially with its release of ChatGPT GBTA year ago and with All that it's been kind of pushing to market quickly since. So I think this just basically continues the race and OpenAI continues to be at the front of the pack.
+
+8 (24m 34s):
+So at the end of the day, you know, If, you ask the question, did open AI's board make the right decision when it fired Sam or did it make the right decision when it rehired him? Paradoxically, I think the answer might be yes to both. I think if they saw something that made them concerned that Sam was taking the company in direction that was not super safety conscious and remember their mandate is to protect the best interest of humanity, not of OpenAI, then it was right to get rid of him. But at the same time, when the conditions then changed such that it looked like there might be a mass exodus of open AI's top talent to Microsoft, a company that seems significantly less safety conscious, it might have actually been the wisest move to rehire Sam Greg and keep in house all of that top talent so that at least they're at a company that is, we could say at least nominally committed to AI safety and has some, you know, kind of direction on them that's gonna keep them caring about safety as opposed to pushing them straight into the arms of Microsoft where they could potentially develop HEI in a less safety conscious environment.
+
+8 (25m 47s):
+So paradoxically OpenAI board might've been right to fire Sam and also might've been right to rehire him.
+
+4 (26m 1s):
+That was Segal Samuel, she's a senior reporter for v's. Future. Perfect. Today's episode was produced by Abishai Artsy and Haddi Mawajdeh. It was edited by Matthew Collette. Laura Bullard is our fact checker and Isabelle is an Angell for helping us out with facts today. David Herman and Rob Byers are our engineers and I'm Noel King today. Explained the podcast is off Thursday and Friday of this week. New episodes drop on Monday and If, you listen to us on your local NPR station, you'll get to hear some of our greatest hits. Happy Thanksgiving everyone.

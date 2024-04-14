@@ -1,0 +1,227 @@
+2 (0s):
+Support for the show today comes from who we are. It's a new podcast by Ben and Jerry and it's produced by Vox creative. There's some people who do like ads and stuff for Vox, but they also make podcasts and right now they're making one where you can join ACLU legal director, Jeffrey Robinson and Peabody award-winning journalist Carville Wallace each week to understand how we got here as a country and how we can all move towards a better future. We are Launches on September 15th and airs every Tuesday. Listen And subscribe wherever you listen And subscribe.
+
+2 (49s):
+Kenosha Wisconsin isn't going away President Trump visited today, even though the state's Governor wrote him a letter asking him not to Vice President Biden kicked off the week talking about how President Trump can't stop the scenes. We saw their last week and even Facebook is going through this internal Reckoning over what role The Social Network may have played in fomenting violence. Are in particular the shooting of three protestors by Kyle Rittenhouse a 17 year old who apparently went to Kenosha to support the police. Casey Newton has been covering what happened at Facebook for The Verge.
+
+4 (1m 27s):
+So it begins with a Facebook page for something called the Kenosha guard which had amassed about 3,000 members and in the day or so leading up to the big protest. Stat which the shooting occurred advertised an event on Facebook, encouraging and armed response to the unrest so the event was called armed citizens to protect our lives and property and it said quote any Patriots willing to take up arms and defend our city tonight from the evil thugs. No doubt. They are currently planning on the next part of the city to burn tonight.
+
+2 (2m 9s):
+Do we know how many people saw? This Facebook post and then went to Kenosha to have any idea was was Kyle Rittenhouse one of those people
+
+4 (2m 19s):
+so I have been asking around about this and no one at Facebook can tell me whether this Rittenhouse saw the post. They have said that he did not follow the page and that he had not been invited to the event. Look there are other places where he could have learned that these Us were taking place, right but regardless of that I think there is still some appropriate concern about this page being posted on Facebook and kind of the circumstances under which it was eventually
+
+2 (2m 54s):
+removed. Okay. So any Patriots willing to take up arms and defend our city tonight from the evil thugs? No doubt. They are currently planning on the next part of the city to Burn Tonight is obviously a dangerous potentially violent thing to post on Facebook. Is that something you're allowed? To post on Facebook.
+
+4 (3m 14s):
+So the answer turned out to be no, but the interesting question is why? So on August 19th Facebook introduced a new policy that said you're not allowed to organize a militia on
+
+2 (3m 33s):
+Facebook which you
+
+4 (3m 35s):
+know, maybe you didn't realize that up until a couple weeks ago. You could have put together a whole militia on Facebook if you had thought to do so but not anymore. Right and we actually
+
+2 (3m 44s):
+covered why last week on the show in our Q&A on
+
+4 (3m 47s):
+episode today Facebook band about
+
+2 (3m 50s):
+2,000 groups pushing the queue and on conspiracy theory accusing them of
+
+4 (3m 53s):
+promoting violence. It's and leading to Crime. So one of the questions that I had for for folks that Facebook was like what this post have been taken down if the policy had been updated and the the message I got back is maybe because you're not supposed to incite violence on Facebook. And so it seems possible maybe even likely that eventually given what happened. This event would have been removed for inciting violence, but the policy under which it was eventually removed was hey you're not allowed to form a militia on Facebook
+
+2 (4m 32s):
+So the post goes up though. It's violating a policy it stays up
+
+4 (4m 39s):
+for a while. What
+
+2 (4m 40s):
+happens while it's up?
+
+4 (4m 43s):
+Well, it gets reported to Facebook. 455 Times by people who saw it saying this is inciting violence, and we know that because Ryan Mac at BuzzFeed got a hold of the internal report inside Facebook showing just how many times this had been raised to the attention of
+
+2 (5m 3s):
+moderators is 400 or in this case over 400 complaints a lot.
+
+4 (5m 9s):
+Yes. It's highly unusual for a single post to probably get even a dozen reports. So once you get into the hundreds that that's a real outlier, so we know that moderator is saw it. We know that at least four of them decided to leave the post up regardless and the open question. Is why they left it up for as long as they did
+
+2 (5m 30s):
+and that question remains open today. It is currently being investigated
+
+4 (5m 34s):
+and I'm hoping that once Facebook is able to determine why it was left up. They will let
+
+2 (5m 40s):
+us know. So this post violates Facebook's policies around forming a militia. It's flagged over 400 times. It stays up. Anyway, we don't yet know why but we've spoken to you about Facebook moderation before Casey. What do you know about this
+
+4 (5m 59s):
+process things get reported. They're sent to human beings to look at them. The human beings will pull up the relevant policy. They'll take a look at the post and they'll try to make their best determination as to whether the post. Violates the policy or not. But of course things are never that clear. There's always room for judgment calls for gray areas. I talked to a former moderator who said that often when it came to post about protests where people would say things like they should shoot the protesters. The moderators will be told well leave that up because it's not clear that you're trying to kill them. Maybe you're you know, just firing your gun in the air to scare them, you know that sort of thing and so historically moderators I've spoken in with have been encouraged to leave up posts like this even though you or I might look at them and say well gosh that seems like a pretty clear incitement to
+
+2 (6m 49s):
+violence and it looks like that may be what happened here.
+
+4 (6m 53s):
+Yeah until finally enough noise got made about it and some of the adults at Facebook took another look at it and said it's got to come down and of course it happened after this horrible violence that
+
+2 (7m 7s):
+transpired How does this back-and-forth play out within the social
+
+4 (7m 12s):
+network? So there's just kind of increasing frustration with Facebook. Like hey, we reported this 455 times. Why didn't you do anything about it? Mark Zuckerberg has his weekly QA late last week and he kicked off this QA by talking about this particular incident. There have been a bunch of media reports asking why this page an event weren't removed. Sooner especially to when it is case the bunch of people did report the page. And
+
+2 (7m 45s):
+the reason for this who's it was
+
+4 (7m 47s):
+largely an operational mistake. He said they were investigating but Ryan Mac reported and BuzzFeed that there was just a lot of anger inside Facebook and the reason is because they keep getting in trouble over enforcement decisions, like clockwork every few weeks. It seems like something either stays up that we say Well, that should have come down or they take something down that we say they should have left up and so it's just kind of a never ending cycle. And I mean keep in mind. This has been a summer where Facebook employees have been quite attuned to issues of civil rights. There was a two-year audit of Facebook's effect on civil rights that was completed just in July.
+
+4 (8m 32s):
+Well the main takeaways from the
+
+2 (8m 34s):
+report is that
+
+4 (8m 36s):
+Facebook has a lot of work to do. That's a heart. Part of the big problems that we're facing is the way in which the platform is weaponized in our election and there had been a virtual walk out at Facebook in the aftermath of the company's decision to leave up a controversial post by the president in
+
+3 (8m 54s):
+June employees are angry and frustrated with CEO Mark Zuckerberg is handling of some of President Trump's posts Ducks Workforce was so angry at him that hundreds of employees simply walked off the job yesterday in Virtual. Most of company policies one Facebook employee said he disagrees with drug coverage decision to do nothing about the post and says, there isn't a neutral position on
+
+4 (9m 18s):
+racism and that post said when the Looting starts the shooting starts in what was widely interpreted to be an incitement to violence and indeed after the the president posted that both on Facebook and Twitter there was violence at protest the following week. So Facebook employees have been asking themselves a lot of questions about the degree to which their work is contributing to racial and Justice and other civil
+
+2 (9m 40s):
+rights issues. Hmm. Is this sort of like a uniform call inside Facebook to do better on these issues or is their internal opposition as well?
+
+4 (9m 51s):
+Some people think that Facebook has generally made the right calls here Facebook is not a monolith, right? It has 50,000 people who work there. They are people of every political stripe. There are some very conservative people who work at Facebook. There is a person who is best friends. Brett Kavanaugh and sat behind him during his confirmation hearings and he's the head of policy at Facebook. Right? So so there is a whole range of viewpoints inside that company and one of the interesting things about it is that you know while it is effectively a monarchy, right Mark Zuckerberg has total control over the company. He can't be removed from the board. It has adopted a lot of democratic aspect starting with the fact that employees can ask questions.
+
+4 (10m 36s):
+Is that gerberg every week what I think is different. Print this time is that the people who are critical of Facebook instead of sort of keeping all of the discussion inside the company, which is what it is historically done. You're now seeing more and more of it spill out through leaks so that you know reporters like me hear about
+
+1 (10m 53s):
+it.
+
+2 (11m 5s):
+Facebook made a mistake with Kenosha last week, but there's an election in two months is Facebook ready more with Casey after the
+
+1 (11m 16s):
+break.
+
+2 (11m 29s):
+At the top of the show. I told you a bit about who we are a new podcast from Ben & Jerry's and vaux creative right now. I'm going to tell you a little bit more again hosted by ACLU legal director, Jeffrey Robinson and Peabody award-winning journalist carvell Wallace who we are Combs through the complicated History of the United States to understand how exactly we got to the point where at right now and how everyone can move towards a better future. It takes a look at the legal. Political origins of voter suppression the racial wealth Gap black maternal mortality and more and at the end of each episode who we are offers opportunities for how you can be a part of much-needed progress.
+
+2 (12m 12s):
+What do you listen to your podcast? I guarantee come September 15th when this show launches you'll be able to find who we are there and you might be able to find it right now because they've got a trailer who we are search for it. Where you search for. Are you podcasts? Casey another reason it feels like this really matters right now is because we're just about two months out from a presidential election is Facebook ready for this election.
+
+4 (12m 55s):
+Well, that's the open question. It's definitely the case that they have invested a ton in making sure that they don't repeat the mistakes of 2016.
+
+3 (13m 9s):
+Facebook is receiving criticism for how it handled evidence of Russian election interference on The Social Network the times reports Security Experts at Facebook flagged attempts by Russian hackers to probe accounts as early as the spring of 2016 that's months before Zuckerberg downplay the effects of Russian propaganda on the 2016
+
+4 (13m 28s):
+election. So it seems less likely in 2020 that we're going to find out that some foreign State, you know, successfully. Hacked into Facebook and distorted public opinion on a bunch of issues. Although that fight is ongoing and we should consider that battle one for good. The dicier question is is Facebook equipped to handle all of the unique issues that 2020 is presenting such as the fact that we will be voting during a global pandemic many of us will be relying on mail-in voting and the president of the United States is currently Ducting a disinformation campaign about the safety and efficacy of mail-in
+
+3 (14m 11s):
+voting mail-in ballots are very dangerous thing. They're subject to massive fraud.
+
+4 (14m 16s):
+So the really crazy thing about this year is that Facebook has to contend with a bad actor in The White House who is actively making their job more difficult and it's still kind of an open question of how much they can do on that front.
+
+2 (14m 31s):
+What kind of political speech is performing the best on Facebook right now? Do we
+
+4 (14m 36s):
+know? Yeah, so my friend Kevin ruse is a reporter at the New York Times and he does this gimmick on Twitter where he posts every day now through a separate account the top 10 pages that get the most engagement on Facebook. So this isn't the most viewed content on Facebook, but of all of the public Pages, you know, like the New York Times CNN conservative commentators who gets the most attention and almost every single day what he finds is it's the the The right wing sometimes the far right wing that is getting by far the most clicks mm anyone on Facebook.
+
+2 (15m 13s):
+Why is it important to look at most engaged versus most viewed?
+
+4 (15m 17s):
+So in other words, these are just all of the links that you're seeing in the news feed that your friends are posting themselves. It's the pages that are then being re-shared into the news feed or it's just engagement on the page itself, right? Maybe you're a big CNN person. So you go to the CNN Facebook page and leave a comment there. That's the the engagement. That were able to measure because Facebook has a tool called Crown table, which allows us to view it in real time. It's not public that a lot of journalists and researchers have access to it. And so we're able to get this data and what it shows pretty consistently is that conservatives are doing fantastic on
+
+2 (15m 55s):
+Facebook. Okay. So instead of CNN or the New York Times people are engaging with Ben Shapiro Breitbart or commentators like The Hodgetwins way more the cops. Tried to arrest him take him down to the ground dead didn't work to try the taste them. That didn't work. Jacob got up. Pull it out a knife. So let me ask you woke NBA players you
+
+4 (16m 19s):
+woke African-Americans what else it to do? What else could you do those two cops?
+
+2 (16m 26s):
+What
+
+4 (16m 27s):
+pull out of damn magic wand?
+
+2 (16m 29s):
+And what does that mean for the veracity of the posts that people are engaging with most the New York Times CNN. They fact-check they have reporters with Decades of experience in journalism right wing and even far right wing Outlets like Breitbart less so they do make stuff up Facebook is okay with that
+
+4 (16m 48s):
+generally speaking. It's find a lie on Facebook. But if you tell a big lie, it might get sent to a fact checker for review a big lie would basically be alive that goes viral and so one of these independent fact Checkers that Facebook does not control directly will review it and if they find that it's false. They will rate it as false and then basically fewer people will see it on
+
+2 (17m 12s):
+Facebook. Okay, so a big lie being told by some right-wing outlet might have some chance of getting fact-checked if it's really big and a lot of people are flagging it and then it might get taken down but it still has a better chance of succeeding then some legitimate fact-check news.
+
+4 (17m 33s):
+Yeah, the news outlets are losing great. Okay,
+
+2 (17m 36s):
+so what kind of Dangerous does that present for the election?
+
+4 (17m 41s):
+Well, you know some of us believe that it's important to live in a democracy where people have a shared sense of reality and basic understanding of the facts as they are and there is some fear that if osei half of the country were to sort of cleave off into a separate information ecosystem where Up Is Down and left is right, then we could find ourselves in some pretty scary times. So the more I look at the world around me the more it seems like those are the times that we're living in Shawn. I how about
+
+2 (18m 12s):
+you. How is this fact checking process Facebook has instituted played out in recent weeks or months where they've been saying that they're going to do a lot better job with information in the lead up to an election.
+
+4 (18m 25s):
+They've taken down many things that Trump and his campaign have posted. I mean, I understand why that's not a bigger story. But I mean it is pretty wild right that this company is having to say, you know that the president of the United States is so Are outside the bounds of acceptable discourse but among the things that he did say was that children were quote almost immune and quote to covid-19, which they are not and of course that's a very dangerous thing to say for many reasons. And so Facebook remove that there was another case where the campaign had posted some imagery that Drew on Nazi symbols. Those are banned on Facebook. So Facebook remove those so, you know, the company does work to get rid of a lot of stuff.
+
+4 (19m 7s):
+Us and they think a lot of the debate that we're having is around like are they taking down enough or like is the system just so fundamentally broken that we want to replace it with something else.
+
+2 (19m 17s):
+And is this is this election going to be a test of that
+
+4 (19m 20s):
+it is but it's like, you know, I go back and forth all night on how big a role I think Facebook will play in this election. I think the information ecosystem is bigger than Facebook. It seems wrong to me that we talked so much more about Facebook than we talk about Fox News like yes, Facebook's audience is We bigger but the academic research shows that Fox News does a much better job of convincing people of terrible radical ideas. And so I think it's super important to talk about Facebook a lot. There's a reason why I do it all the time and have made it my job and my business but I also don't think you should talk about them in a vacuum like a lot of times the problem that some people want pastebin to solve is that Donald Trump is President and that's not a problem that Facebook consult and that seems to sort of
+
+2 (20m 5s):
+be in in the vein. Of an argument that Mark Zuckerberg himself would make that it's not Facebook's job to tell you the president is a liar, but maybe more so it's Facebook's job to let the president Li so you can go like, hey look the president's alyre.
+
+3 (20m 23s):
+We don't do this to help politicians, but because we think people should be able to see for themselves. What politicians are
+
+4 (20m 29s):
+saying? Yeah, and historically it has been a pretty good argument, but I think that the introduction of Like Facebook have complicated that question because they enable a lie to get around the world instantaneously. They allow it to spread virally these recommendation algorithms that can pull people into groups like The anti-vaccine Movement the Boogaloo boys the queue and on groups. And so these platforms are not neutral actors on that subject. They are playing a role in changing up that information ecosystem.
+
+2 (21m 4s):
+Hmm. So what do you make of what's going on at Facebook right now? Now, I mean we've spoken to you about content moderation before does this incident regarding Kenosha feel different does the sort of Reckoning that Mark Zuckerberg had late last week in his weekly Q&A feel
+
+4 (21m 20s):
+different at this point. I sort of feel like a cop who's been on the content moderation beat for like 20 years. And so when I hear there was a bad post on the internet and it didn't get taken down quickly. I think well, yeah that happens. Sometimes it's bad and it's bad if you know that there were real world consequences. One says because of it. I still haven't seen any kind of causal chain that suggests some innocent boy saw a Facebook event, which radicalized him and led him to go buy an AR-15 and go shoot up a crowd of protesters. Like I don't think anyone is saying that that's what happened. But I do think that Facebook should be a place that is free of militias, right like and I think that they should live up to the standards that they have set for themselves.
+
+4 (22m 5s):
+These are sort of private company matters that are actually matters of public concern, right it matters whether this guy saw that event page it matters why the moderators didn't take it down and it matters how they're going to try to do better next time. So my advice to the company is after you investigate issue a public report it maybe it's a page long, but I think you owe it to the Democracy to let us know how you are investigating these issues and how you are regulating.
+
+3 (22m 35s):
+Speech on the
+
+4 (22m 35s):
+internet. Facebook Newton, thank you for your
+
+3 (22m 43s):
+time. I really appreciate this my pleasure explains.
+
+2 (23m 8s):
+One last note that the podcast who we are is coming soon to a device near you it launches on September 15th and airs every Tuesday with new episodes. You can listen And subscribe wherever you do that kind of thing. It's a new podcast from Ben & Jerry's and vaux creative that searches for the answer to the difficult question of how we got here and how we go forward in a more Equitable peaceful way. Your hosts are ACLU. The director Jeff Robinson and the Peabody award-winning journalist carvell Wallace who we are check it out.

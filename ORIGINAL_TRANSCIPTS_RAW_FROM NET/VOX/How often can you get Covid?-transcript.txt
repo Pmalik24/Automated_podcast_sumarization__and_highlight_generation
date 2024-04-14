@@ -1,0 +1,275 @@
+1 (4s):
+Okay. So I got COVID about a month ago and I wouldn't recommend it, but I was relieved that it meant out essentially be immune for the summer. Right, right. That's how it works. No one seems to be sure anymore. Like some people tell me, oh yeah, man, you're good for three months. And other people tell me, I know someone who got it again in six weeks. And some people just laugh at me and are like, okay. Yeah, you're immune for the summer. Whatever you say, guy, I don't know what to believe anymore or who to believe anymore. So on today's explained, we're going to ask a scientist. Who's been studying Omicron re-infection in South Africa, no less where Omicron was first reported to the world health organization answers.
+
+1 (53s):
+At least as far as we know are coming up.
+
+2 (1m 1s):
+If you've been listening to the Ben and Jerry's podcast into the mix, you've heard hosts Ashley C. Ford talk with musicians, organizers, and defense attorneys about how each of them approaches their activist work. In recent episodes. Ashley sat down with Phil Agnew and organizer and co-founder of the dream defenders, musician and poet, Patty Smith and environmental activist, bill McKibben. And in an upcoming episode, she'll talk to the founders themselves, Ben and Jerry, about why it's been important to infuse their company with social justice values beyond tasty ice cream. Check out into the mix. Now
+
+3 (1m 36s):
+Hurry into mattress firm for a limited time, save up to $500. When you get a king bed for the price of a queen or a queen for a twin plus get a free adjustable base with qualifying Sealy purchases up to $499 in value, or get up to 60% off America's top rated brands like Sealy queen mattresses starting at 2 79 99, or Sleepy's for 1 69 99 in stock for fast delivery. Only at mattress firm restrictions apply, see store or mattress, firm.com for details.
+
+1 (2m 19s):
+All right. Today I explained Rama's from, I felt some degree of relief once I conquered COVID-19 about a month ago, because I felt like, okay, maybe now I can go out in the world and not sweat this thing for awhile. And I just want to acknowledge right out of the gate that not everyone feels that way.
+
+4 (2m 32s):
+My name is Andy Kindler. I'm a standup comedian.
+
+1 (2m 36s):
+For example, who's been in quarantine since this started back in 2020
+
+4 (2m 42s):
+March 11th on I've been in my house in Los Angeles, completely masked up. I'm 65 years old. My wife has is around the same age. She has asthma. I don't want to catch any version of COVID. I don't want short COVID and then went into intermittent COVID I want no form of COVID.
+
+1 (2m 59s):
+I mean, just to clear here, I didn't want COVID either, but I did go see a friend's band when they were on tour. And I put myself in a situation where I could get COVID and I did. Andy's not risking it.
+
+4 (3m 11s):
+We don't know what the longterm effects of all these things are going to be. And so, you know, like I told my wife, I don't want to fly to Cleveland to do a two night gig and make $2,000. Well, maybe I should say I make more $20,000 and then come back and bring a short form of COVID for her.
+
+1 (3m 29s):
+And Andy has found a way to sustain his career without leaving the house.
+
+4 (3m 34s):
+I am, I do cameos. You can't get sick doing cambios. I do a voiceover on Bob's burgers. You mean
+
+5 (3m 41s):
+I have a medicine cabinet full of corpse moisturizers. Oh yes. Do they make my skin soft as a baby? You decide,
+
+6 (3m 49s):
+Oh, it's not Gracie.
+
+4 (3m 51s):
+If I do three or four episodes of Bob's burgers a year, of course, now that that's going to cause pressure on the people there to give me three or four,
+
+7 (4m 2s):
+I being murdered to death
+
+4 (4m 5s):
+And I have pensions. I have pensions. I am very old. And then I have social security who doesn't want to become 70 in this house.
+
+1 (4m 16s):
+Andy looks at people who've sort of reentered society gone back to normal and he still kind of astonished.
+
+4 (4m 23s):
+I was watching poker, world poker and these famous poker players you're sitting right next to each other. Are they insane?
+
+1 (4m 30s):
+I mean, I can think of a few things. They might be doing one. They might've already had COVID like me. So they are not presently worried about getting COVID again. Cause they may have had recently too, they might need the money. Three. They might be very sick of staying at home and willing to take the risk for, they might not have an immunocompromised wife.
+
+4 (4m 51s):
+I'm all over it. I'm totally with them. They want to do that. They've all agreed. All of these idiots, seven of these monsters have agreed to. First of all, I think the lesson from COVID is that we should not be in proximity to other people at any point. Wow.
+
+1 (5m 9s):
+But some people, some people live for that. Andy, some people just want to be around other people. There's social people out there.
+
+4 (5m 14s):
+Well, I'm on the plane. What do you do for a living and she's breathing? Oh, I, I go around, I travel around, I tongue into tongue kiss people for a living. You get me on a plane, you get on the plane, you get out of the plane. You're going to have COVID or if you hadn't have it, you're going to have COVID. But look who hasn't Andy Kindler and his amazing wife. This is the wrong attitude.
+
+1 (5m 37s):
+Okay. Not sure there's anything we can discover. That's going to convince Andy Kindler and his amazing wife to reenter society. But for everyone who is in some way, shape or form, we want it to answer one essential question. Maybe two, how often can we get COVID after we've had it? And how much has the answer changed with the Omicron variance?
+
+8 (6m 1s):
+I'm Juliet Pulliam. I'm the director of Sistema, which is the south African center for epidemiological modeling and analysis. And here in the room with me is Leroy. My dog. You might hear in the background,
+
+1 (6m 11s):
+We decided to ask a scientist and not just any scientist, a scientist in South Africa where Omicron was first reported to the world health organization.
+
+8 (6m 19s):
+Yes, I'm here in South Africa and Stellenbosch, which is outside of Cape town,
+
+1 (6m 23s):
+Juliet and her team have been studying reinfection for awhile now.
+
+8 (6m 28s):
+And the emergence of the beta variant. We decided to start looking at re infections because it was something that was a big question at the time. And there were laboratory assays that were suggesting that beta was better at reinfecting people than the earlier variants. So we have actually been monitoring for re-infection since January of 2021. And we developed a couple of methodologies that would allow us to track at the population level, the rate of reinfection, and to look at that through time and to see how it was changing. We watched it throughout the tail end of the beta wave. We watched three infections all through the Delta wave and we basically were seeing that the re-infection rate remained pretty much constant when you account for things like the fact that there were more and more people eligible for reinfection because more people had been infected.
+
+8 (7m 14s):
+And then when OMA came along pretty immediately, we saw a very different story and we saw that there were a lot of free infections and a lot more than were expected.
+
+1 (7m 23s):
+Did you find an answer to this question? We've been asking ourselves for over two years now, how often can I get COVID-19?
+
+8 (7m 31s):
+So we found that re-infection is where much more common with Omicron variant than with the previous variants. And one of the other things that we found that was really surprising to me, at least at the time was that people were getting reinfected multiple times. So there were individuals in our study who we identified as having up to four infections
+
+1 (7m 51s):
+Of the four.
+
+8 (7m 52s):
+Yeah. So we can say that people were getting reinfected at a much higher rate during our Omicron wave. And in December than in the prior waves, Omicron is much better at reinfecting people than the prior variants. There are some other studies that suggest that re infections do occur within 60 days,
+
+1 (8m 13s):
+60 days.
+
+8 (8m 14s):
+The other thing that I think is really important and isn't directly in our study is that the population level immunity in South Africa is, is currently very high studies that were done right before the Omicron wave showed that there were about 70% of the population had immunity from either from vaccination or from natural infection, the studies that were done after the Omicron wave. So in mid-March show that about 98% of the population seems to have some form of immunity to the virus. And yet we just experienced a large resurgence following that that mid-March study, which suggests that re infections or infections of vaccinated people is essentially what's driving transmission within South Africa,
+
+1 (8m 59s):
+Which certainly suggests that people are going to get Omicron multiple times.
+
+8 (9m 3s):
+Yes. So it's not in the published study, but we have been continuing to monitor three infections. And we have definitely seen individuals who were infected in December who have been infected again in the last month or so. And that that's all Omicron, it's probably different sub lineages of Omicron, but it is people getting infected again with the same drink.
+
+1 (9m 27s):
+And we're the people in your study, vaccinated and or boosted.
+
+8 (9m 31s):
+Yeah, that's a great question. So when we started the study, there was no vaccination in the country and it was rolled out sort of over the timeframe that we were monitoring the re infections. By the time that Omicron came along with the total vaccination rate in the country, I think was still less than 30%. So we aren't able to actually link the vaccination status to the reinfection status in the data set that we have.
+
+1 (9m 55s):
+Okay. So this re-infection data isn't taking vaccination status or booster status into account. Do we have any idea how long immunity lasts? Is there any consistency in your study?
+
+8 (10m 9s):
+So I don't think we can say how long immunity lasts per se. There are other studies that have tried to address that. And the important thing that we can say from the south African experience is that the immunity that people have does appear to protect against severe disease. So we just had a, a fairly major resurgence. The hospitalizations barely came up, the deaths barely came up, but the case numbers were pretty high. We attribute that to the fact that we have this high level of population immunity. So probably about 85% of the population has been infected. And we also have a reasonable vaccination rate at this stage.
+
+8 (10m 48s):
+And so combined that equals a very high level of population immunity.
+
+1 (10m 54s):
+Did the cases of COVID become less severe with second, third, fourth infections.
+
+8 (10m 59s):
+That's the really important question. And my feeling is yes. I think that we can see that in the population level data in South Africa and the fact that throughout the fourth wave, but also throughout this most recent resurgence, the hospitalizations and deaths have not gone up anywhere near as much as we would have expected.
+
+1 (11m 18s):
+Okay. That's a lot of useful data, but I wonder what it means for how we ought to behave in the world. I mean, as someone who is much more informed than most who did this study, but also is operating in society more than our friend, Andy Kindler, let's say, if you were to get COVID this week, would you feel liberated for, you know, a couple of weeks after you recovered?
+
+8 (11m 41s):
+I'm sure if I were to get COVID this week, I would feel really crummy.
+
+1 (11m 45s):
+I know, but the following leaves, would you feel a sense of,
+
+8 (11m 49s):
+Of protection,
+
+1 (11m 51s):
+Of protection, of, of, of, of, of freedom to sort of live in the world and not worry about being reinfected?
+
+8 (11m 58s):
+I guess I would be more confident than, than I am at the moment, not having been infected at the same time. You know, when I have gotten boosted, I have felt more confident for awhile after that as well.
+
+1 (12m 12s):
+What surprised you most from the research you did?
+
+8 (12m 16s):
+The thing that surprised me the most originally was the fact that we were seeing people with more than two infections. What we're seeing now in South Africa is suggestive that we are going to be seeing this pattern for a long time, because it doesn't seem that SARS cov two transmission has gone away. Even though we have this high level of population immunity, it seems like SARS, cov two transmission is doing just fine. Even though we have this high level of population immunity. And I think that sort of gives us a hint as to what it's going to look like in the future. The evidence so far to me, points to a high probability that most people are going to be reinfected. I suspect that it's going to keep circulating probably infecting people multiple times, possibly even impacting people multiple times in the course of a year.
+
+8 (13m 0s):
+And that the severity of the disease will hopefully continue to be much less. And I think the really big question at this point is what is the implication of re-infection for long COVID? And I don't think we have any data on that.
+
+1 (13m 21s):
+The most surprising thing you found was that people can get COVID over and over again, even as much as four times.
+
+8 (13m 27s):
+Yes,
+
+1 (13m 28s):
+We do not know how long immunity lasts. In some cases it might be 90 days. In some cases it might be 60 days. It could be more than that. It could be less than that.
+
+8 (13m 38s):
+And it probably varies a lot.
+
+1 (13m 40s):
+It does seem that subsequent cases of COVID are less severe. Yes. And it sounds like people should just expect to get reinfected.
+
+8 (13m 51s):
+I think yes. Over the course of someone's lifetime, they should expect to have multiple SARS cov, two infections.
+
+1 (13m 58s):
+And if we're lucky, this continues to get less severe.
+
+8 (14m 1s):
+Yes.
+
+1 (14m 2s):
+And we have no idea what any of this means for log COVID still.
+
+8 (14m 6s):
+Exactly.
+
+1 (14m 7s):
+But you know what? It's nice to hear that from a scientist and not just from like your friend who also got COVID two weeks ago, it's been really helpful. I really appreciate it. Thank you for your time.
+
+8 (14m 19s):
+Okay. Sure thing.
+
+1 (14m 23s):
+Last summer, we did a show about where we might end up with this pandemic and the guest more or less said this place we're at right now, Ray infections, milder cases was the ideal scenario. Exactly where we wanted to be.
+
+9 (14m 39s):
+Yeah. Well, I think it's been pretty clear for awhile. And now that this virus is not going to be eradicated or eliminated, so it's not going to be like smallpox. It's not going to be like, pull your measles. We're going to be living with this virus for a really long time. So spires is going to be what people call it demic, which means it's going to keep circulating. It might be another seasonal virus. So it might look something like the flu or the cold. It's probably gonna be something that we hear about every year, but it's not necessarily something that's going to be like big news the way it is right now,
+
+1 (15m 9s):
+In a moment we're going to ask someone who studies viruses. If she feels that way, is this exactly where we want to be? It's today explained Support for the show today comes from foreign. Let's talk about graying for a second. When you get a gray hair or two, or in my case, like, you know, 300,000, you can always dye those hairs or you can embrace those hairs. I've clearly gone the latter route, whatever you choose though, just do what feels good for you. Thorn says, and it's important. Thorn says to have some control over how you show your age to the world, born is here to help you feel good about aging from the inside out.
+
+1 (15m 53s):
+Sounds nice. Thorn thorn empowers you with personalized information and solutions to take proactive steps towards healthy aging. Their testing provides individual data, which they use to educate you about your body and the best supplement formulas to support your health goals and needs. I don't have any supplement formulas for my aging. I'm just going with it. Maybe I should hit up Thorne to learn more. Visit thorn.com/u/explain that is thorn.com/the letter U slash explained Support for the shredded comes from wealth. Front wealth. Front is an automated investment service from their automated software helps optimize your investments by doing the work for you from rebalancing your portfolio to minimizing your tasks, you can go with wealth fronts, experts, built portfolios, including a socially responsible option.
+
+1 (16m 46s):
+That's designed around sustainability, diversity and equity, or you can build your own portfolio with their curated selection of funds that has nothing to do with diversity, sustainability, and equity. It's your choice folks. Even if you're totally new to investing wealth fronts can help you simply rebalance your existing portfolio. They are here to help you make informed and credible investment decisions. Plus Wealthfront is trusted with $27 billion in assets and Investopedia just named them their best robo advisor for 2022 y'all to get that first $5,000 of yours manager free for life. Go to wealthfront.com/explained that's w E a L T H F R O N t.com/explained to start building your wealth, go to wealthfront.com/explained to get started today.
+
+1 (17m 36s):
+Today explained we're back. Dr. Juliet Pulliam in South Africa just told us we can get reinfected a lot with Omicron. Like as much as four times, maybe more, maybe less. We don't really know how long immunity lasts, but it does look like reinfection are less severe. And we were wondering how we should feel about that. Is, is this the ideal scenario? Is this where we want it to land?
+
+11 (17m 58s):
+Yeah, I think this is what we're we're talking about when we're eventually expecting a pandemic to become more a, what we call an endemic.
+
+1 (18m 7s):
+This is Dr. Deborah Fuller professor of microbiology, university of Washington, school of medicine. She says, we're not quite at that endemic stage yet.
+
+11 (18m 17s):
+It's a state in which the virus is presence is, is kind of steady and predictable. And demic doesn't necessarily mean that the disease is going to be rare or even necessarily mild. The infection rates could still be high. It's just that they're much more static and predictable right now we're in a state where there's still a lot of unpredictability and potentially new variants emerging that can cause outbreaks and some increases in hospitalization. We want to get to is that, that level of predictability. And once we get to that point, then we can actually control that. For example, through potentially annual vaccinations.
+
+11 (18m 57s):
+So says we have with the flu,
+
+1 (18m 60s):
+Dr. Fuller is something of an expert in vaccine. So we asked her how we should be thinking about those older COVID vaccines. Many of us got in light of newer variants. People who are vaccinated are still getting Omicron, but then they have some Omicron immunity. Is that better than a vaccine? Since it's more recent,
+
+11 (19m 19s):
+When you get vaccinated, the level of antibody you generate is much more consistent among the vaccinated people. When you get immunity as a result of infection, those antibody titers can be highly variable with some people getting really robust responses and some people very low responses. I think there was a study that shows that it can be up to over 200 fold difference, the amount of antibody. And so somebody, you know, when you have a range of people who have been previously infected and they go out and, you know, out and say, Hey, you know, now I'm immune. And then they get reinfected very quickly. They might've been an individual who developed very poor antibody responses to the first infection, making them more vulnerable to the second one.
+
+11 (19m 59s):
+So the, those who are vaccinated are going to be a lower risk for re infections than those who are, have gained immunity solely through infection and reinfection.
+
+1 (20m 10s):
+So broadly speaking vaccination still gets you better antibody protection than just getting COVID.
+
+11 (20m 17s):
+There is evidence that a combination of say, if you were previously infected and then you got vaccinated, or if you vaccinate and you've got to expose that, that combination of sort of hybrid immunity is kind of what we're calling it results in actually really robust responses and immunity that can potentially last longer and offer even better protection against the new variants that are emerging. So as we see breakthrough infections come through, we might actually see actually that is facilitating the development of enhanced immunity in the population as a whole, as we start to see this combination or hybrid immunity merge.
+
+1 (20m 59s):
+Okay, so the vaccines are still helping and they're working together with breakthrough infections to create an even better kind of immunity.
+
+11 (21m 8s):
+Right? When we think about with the vaccines are very safe and effective. So it's really, really reassuring for those who are vaccinated. And then in the rare cases that they do get a breakthrough, they're less likely to get issues like long COVID. So the vaccines are very effective, but one of the things we have to start thinking about is, is at the individual level. So you're vaccinated. And if you're a relatively healthy and maybe not too old, even if you get a breakthrough infection you can positive for COVID, there's a lower likelihood of developing long COVID or, or symptoms that you know are going to cause long-term issues. The real issue comes more on the societal level, because what we're trying to do is get a control of a pandemic.
+
+11 (21m 54s):
+And, and if people who are vaccinated are still able to get these breakthrough infections, because we had these new variants, then that potentially puts that risks of people who are immune compromised or elderly, who don't necessarily respond as well to vaccination or whose immunity wanes much more quickly. And so, as long as we have sort of a, this, this going on, then it can continue to perpetuate the virus and put at risk the possibility of a, of a new variant emerging that completely Dodges, the immunity that has been induced by either prior infection or vaccination.
+
+1 (22m 28s):
+And even with like the amount of vaccine hesitancy we have in this country will boosters that come out every year, even if only what 20 30% of the population gets them, will they still be effective enough to keep us in this place? We want to be,
+
+11 (22m 43s):
+You know, with the flu vaccine, we do see, as an example, we do see that annual flu vaccinations helps to reduce the incidents of infection and death rate. And, and yet every year, probably only about 50% of the population actually goes and gets a flu shot on a routine basis. So flu is different from coronavirus in the sense that the, the rate of vaccination will likely have to be higher for helping to control that disease as compared to flu. But it's still kind of provides an example that you don't necessarily need a hundred percent of the population getting their booster immunizations, to be able to control of you, get the majority of them, then you can be able to control that disease.
+
+1 (23m 26s):
+So we opened the show with myself, admitting that now that I got COVID a few weeks ago and it sucked for about two or three days, but I'm lucky enough to be a healthy person. I feel this great sense of relief that I can reenter society. But then we spoke to this comedian, Andy Kindler, who I think represents a lot of people out there who don't necessarily feel that much relief right now, because he lives with someone who has asthma and other people out there know, or are immunocompromised people, right? What would you say to all those people who don't feel like this is ending over or any less anxiety inducing at this particular juncture?
+
+11 (24m 4s):
+The efforts are, you know, are underway to try to, to make better vaccines, not just ones that would protect against future variants, but also ones that work better in the immune compromised and the elderly. The other area that I think is important to think about is not just vaccines, but there's a whole new toolbox of antivirals that are well in underway in terms of being developed that are particularly being designed with these people in mind with the idea that, Hey, you know, we know that if you get a vaccine, you may not respond as well to the vaccines. So what happens if you get COVID and you're at higher risk of going into the hospital, we need drugs that will be able to treat those most effectively.
+
+11 (24m 45s):
+And there have been some recent oral drugs that have been FDA approved, particularly for say, elderly or immune compromised. If they become positive or COVID, they're the most likely to have it recommended that they can take that now helps their body to fight off that virus.
+
+1 (25m 3s):
+And for all the people out there who get this thing and then rip out their masks and, you know, jump into the most crowded club they can find, do you think they're insane? Or do you think that's a reasonable, that's a reasonable response.
+
+11 (25m 16s):
+I think that I would say to those people just think about not just yourself, because you're thinking about yourself, oh, well, I don't care. I'm going to, I'm healthy and whatever I'm going to be fine. I'm okay with getting sick for a few days and recovering, it's just a bad, cold, but think about your community and think about the fact that if we can actually work together to protect, not just ourselves, but those around us and especially the most vulnerable, then we can, we can save lives at well way and also help to accelerate the end of the pandemic. There's always risks. It's, nothing's a hundred percent. And so, you know, as best to be cautious,
+
+1 (26m 2s):
+Dr. Debra Fuller department of microbiology, university of Washington, not Washington state university confused the two at your own risk. Our show today was produced by John errands engineered by Paul mousey. Fact-checked by Laura Bullard and edited by Matthew Collette. I'm Sean Rama's from this is today explained.

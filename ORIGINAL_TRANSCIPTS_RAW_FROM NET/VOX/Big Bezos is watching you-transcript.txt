@@ -1,0 +1,245 @@
+1 (0s):
+Before we begin the show today a quick note about kiwi co.com. / explain. That's Ka iwi co.com explained. It's a website where you get the chance to try your first month of kiwi code projects out for free. Those are the educational projects you've heard about on this show before surely. They're great for the young person, you know, the older person, you know, the middle aged person, you know, what is age even check out kiwi co.com explained So it's the mid-90s Jeff Bezos is working at a hedge fund.
+
+1 (42s):
+I believe in New York and he hears the statistic that usage of the World Wide. Web is growing by something like twenty three hundred percent per year. He's Blown Away. How can I capitalize on that? How can I get in on that growth? And so he starts thinking what could I sell on the world wide web
+
+4 (1m 0s):
+and I picked books as the first best product to sell online for making a list like 20 different products that you might be able to sell. The books were great as the first best because books are incredibly unusual in one respect and that is that there are more items in the book category and there are items in any other category by far
+
+3 (1m 18s):
+by 1998 is started expanding gradually and carefully to other categories. So it started with selling music CDs and by 1999. It was selling Home Improvement products and computer software and video games and starting in 2000 the Amazon logo actually. Add an arrow that points from the A and Amazon to the Z in Amazon implying that they would eventually be selling everything from A to Z in 2007. It launched the
+
+4 (1m 47s):
+Kindle. One of the great things about electronic books is they don't go out of
+
+3 (1m 51s):
+stock. It's easy to forget how revolutionary that was at the time and this is way before iPads. It was the year that the iPhone came out but smartphones hadn't fully caught on yet and Amazon has in the years since expanded into a very large fast-growing Hardware business. And of course as we now know it sells online media streaming
+
+4 (2m 11s):
+services. The priest is quite home. So it
+
+3 (2m 14s):
+has Amazon web services which Powers so much of the internet to the backend for so many of the websites and apps we use
+
+4 (2m 21s):
+Amazon web services is arguably the most disruptive business in all of Technology
+
+3 (2m 26s):
+as you man. It has a Whole Foods, which it acquired in
+
+4 (2m 28s):
+2017 Amazon is already pushing its own Tech products between the quinoa and baby kale
+
+3 (2m 34s):
+and it has a startup that I think will be talking about some today. Ring which it acquired in
+
+4 (2m 38s):
+2018. It's a reported 1 billion dollar acquisition making it one of Amazon's biggest purchases.
+
+3 (2m 45s):
+If you are alive in the United States today, there's a very good chance you're interacting with the Amazon in some way. It has over a hundred million subscribers to Amazon Prime. That's as of January 2019 estimates are that it controls about 37% of the u.s. E-commerce market. So all of all online sales and about four percent of all retail. Bending in the United States, which is just staggering for a single
+
+1 (3m 10s):
+business. And if you are using the internet at all, you're going to a website
+
+3 (3m 15s):
+that's powered by Amazon when Amazon web services its Cloud business goes down half the internet goes out. You can't use anything
+
+1 (3m 24s):
+like most Americans will Remus uses Amazon for something be it books bananas back in web services asking Alexa something watching fleabag surveilling the neighborhood whatever unlike most Americans will Well, thanks Amazon has way too much of our information. He wrote about the host of privacy concerns presented by Amazon's everywhere nurse for the website 1 0 it has on kind of got a pass for several years while Tech journalism and advocacy turned its attention to online advertising as a threat to privacy and Amazon was kind of Untouched by because everybody thought of Amazon is this company that just, you know, you buy stuff on their site and then it shows up at your door and what could be creepy about that, right?
+
+1 (4m 7s):
+Well, it got a lot creepier in 2018 when it acquired ring and I think it has finally started to get some of the Privacy scrutiny that the other Tech Giants get. Okay. Let's start with the ring. What's up with the service the e-commerce giant announced yesterday. It has
+
+4 (4m 23s):
+officially closed the deal to buy the home security device company ring. It's a reported 1 billion dollar acquisition making it one of Amazon's biggest
+
+1 (4m 32s):
+purchases. This was a startup called doorbot a change the same to ring Amazon bought it. In early 2018 and by market research. It's the leader in the smart doorbell sector, which is just booming. The
+
+4 (4m 44s):
+device is a Wi-Fi enabled doorbell that streams live audio and HD video. It's lets users see what's happening on their property and even communicate with visitors even with no one's
+
+1 (4m 56s):
+home ring is different from other security camera companies in that it has this social network attached to it. It's called Neighbors. There's an app on your phone. Where everybody in your neighborhood who has a ring device can upload videos of stuff. They think is suspicious or stuff. They think is just funny or stuff. They just have questions about share it with everybody else in the neighborhood. So I actually don't have a ring device at my house. But I did download the neighbors app for research and now I get notifications anytime any of my neighbors saw something they think was suspicious. So there's basically now this like de facto Dragnet on residential streets all over the country and it's growing so
+
+3 (5m 34s):
+fast. Where does the ring fit into the increasing number of cameras we see everywhere we go, especially when you live in a city like New York or Washington DC. Well, what's interesting about the ring to me is that it brings individuals like just individual homeowners and renters into this this world of surveillance and makes us a part of it makes us complicit in and I mean, we've it's not brand-new that we have the ability to surveil people but It is new to put that in the hands of individuals and to distribute it in homes all around the country. I think the geographic reach of surveillance cameras.
+
+3 (6m 15s):
+Thanks largely to ring and then two other competitors it has to have grown by a multiple and if we're inching down the spectrum of Amazon's ability to surveil us ring starts to get a little creepy and weird. What comes next next I would put recognition. This is recognition with AK instead of a see like the band Korn. I'm sure right it is the product within Amazon web services. Which again is Amazon's Cloud business. It is a feature that they sell to clients. So these are companies and sometimes it's government agencies or police departments and what this feature does is uses cutting-edge AI to identify faces in photos or in video.
+
+3 (6m 59s):
+So if you have been taking surveillance footage, whether it's with, you know, probably not with ring because recognition because integrated with At the moment if you've been taking surveillance footage because you're a police department or a security company. You can upload that and have recognition look through it and compare it to a database of faces and see if any names pop up. See if there's any suspicious people there. And so now we're talking about not only being surveilled in public spaces all around the country, but the camera without any human having to be involved the camera could potentially be accessing software be connected to software that can say that's will or Remus in this photo and he was here at this time.
+
+3 (7m 49s):
+And here's what he was doing.
+
+1 (7m 55s):
+And a complicating Factor here is that Amazon doesn't exist in just some private bubble where they exist as a company that aims to make profits as you mentioned Amazon is the backend of how much of our internet estimates vary. So if you're looking at sheer number of websites, it's pretty small. It's like maybe 5% but if you're looking at a metric like traffic or you know popular websites, it's closer to 50% Yeah, and they got some pretty high-profile clients, right they do so If you use the workplace chat app slack slack relies on Amazon web services Pinterest relies on Amazon web services Netflix uses Amazon web services now I should say that doesn't mean that you're being you know surveilled or that face recognition is being used on you every time you use Netflix.
+
+1 (8m 43s):
+That's not the case. That's that's a product that right now Amazon sells to a relatively small number of clients as I understand it, but Amazon does have grand Ambitions for this and They competed for a very high-profile contract with the Department of Defense the u.s. Dod to run their Cloud basically to be the back end for everything the dod does there's there's a whole separate controversy over that because Microsoft One the deal and Amazon is suing but the point is that Amazon their ambition is to serve Police Department's Homeland Security government agencies of all kinds. Well, I wonder what do you see the future of Amazon looking like I mean in 20 years they've gone from an internet Bookseller to the biggest company in the world that is become integrated into so many of our lives.
+
+1 (9m 35s):
+Where do you go from there? They are a company whose Ambitions are pretty much boundless and they're just putting more and more sensors in more and more places. There's a product that is in its early stages called Amazon sidewalk where they want to build a new New wireless mesh protocol out on the street for connected devices soda, like a Bluetooth kind of thing. But something that would Power Smart cities and smart stoplights and you know, they showed a use case where you could use it to track your dog. If your dog gets lost to can keep sensing it and keep the dog's collar connected to the internet so you can see where it is Amazon acquired it wireless router company called Arrow key ero, and they have integrated Alexa so that you her routers.
+
+3 (10m 20s):
+Around your home will be
+
+1 (10m 22s):
+listening. I mean it would be it would be premature to say that Amazon is big brother because our Alexa devices are not trying to spy on us and the ring doorbells that's not connected with face recognition at this point. It's completely separate and all these things have some level of privacy protection built-in. They're not all integrated into one vast surveillance network, but I don't think it's premature to say that they could be and that we should be worried about that Prospect and we should be applying a lot of scrutiny to how these various products get integrated by Amazon.
+
+4 (10m 58s):
+I
+
+1 (10m 58s):
+think it goes back to that question of where aren't we being surveilled now, like where can we go anymore without the possibility that we're being watched that our faces being recognized by software
+
+3 (11m 13s):
+and I think the number of those kinds of spaces is rapidly diminishing thanks to ring and
+
+1 (11m 20s):
+recognition and and other products like
+
+3 (11m 22s):
+those it's hard to to say precisely what Could go wrong. It's more
+
+1 (11m 28s):
+that I
+
+4 (11m 29s):
+think oh her
+
+1 (11m 30s):
+holding which there's no privacy is you know, that's something has already gone
+
+3 (11m 34s):
+on and then the specific ways that will
+
+1 (11m 36s):
+play out. I guess remain to be seen.
+
+3 (11m 52s):
+I was at a holiday party this weekend where gifts were being exchanged and go figure one of the gifts that was exchanged in front of my very eyes was a subscription to chirico and it got a little awkward because everyone looked at me like I explained the gifts to this guy who doesn't know what Kimiko is and I was like, I do this professionally not for fun on Sundays, but needless to say the Person who received it a father of five a gentleman in his late 30s. His name's
+
+1 (12m 22s):
+Doug shoutouts to Doug great guy. He he really enjoyed the Kimiko subscription idea. He's a builder a tinkerer and seemed like he couldn't
+
+3 (12m 32s):
+wait to dig his hands into a kiwi co-create and the nice thing
+
+1 (12m 35s):
+about Doug with the five kids is that the five kids will probably enjoy the things that Doug ends up making through kiwi Co you can be just like Doug by going to Kiwi co.com / Plane, you can try kiwi Co out for one month for free.
+
+3 (12m 50s):
+Even that website again is Ka iwi co.com / explained or you cannot be like Doug you can be like choline who gave Doug the key because subscription because it's sometimes referred to as the giving season the season were in right now think about Doug and choline and kiwi Co, Will it feels a lot like you're
+
+1 (13m 21s):
+concerned about a dystopian future where Amazon can do real damage and that it's a concern that most people who use Amazon's Services don't share. Let's let's freak people out. What's your worst case scenario? There was this movie that I think is underrated Enemy of the State was pretty popular when it came and I fucking love that movie.
+
+4 (13m 40s):
+Will Robert Clayton Dean was innocent. It's a great movie is so as well. Will Smith Gene Hackman, I think Will Smith was like either rightly or
+
+3 (13m 49s):
+wrongly identified as having something that the government wanted that the NSA or some shadowy government agency wanted
+
+4 (13m 57s):
+and they were able to just really identify wrong. Okay, no framed framed Jason Lee from like Jay and Silent Bob Strike Back. He's playing some like hacker dude. Oh, you know the stuff this is great like runs into a lingerie store as he's being chased by like NSA agents
+
+3 (14m 13s):
+and Will Smith is in there buying some like sex. See unspeakables for his
+
+4 (14m 17s):
+wife meet Bobby Dean. We were at Georgetown together you okay? Help him the hacker do throws the thing in like Will Smith's lingerie bag. So he becomes the possessor of this like government data without even knowing it and the government ruins his life. Yes, and this is all right. I'm so glad
+
+3 (14m 36s):
+you noticed, you know, but much better than I
+
+4 (14m 38s):
+do but this is so prescient because what happens for the rest of the
+
+3 (14m 41s):
+film is that the government is able to Marshal all of the surveillance resources in Society that we didn't know it could Marshall we didn't know it had access to I
+
+4 (14m 50s):
+mean, you know, we got the blimp. Am we got the police officer can we've got to ATM cameras, but this is the one showing promise. This is the security camera at the underwear store freeze there and it's able to track him no matter where he goes. He cannot
+
+3 (15m 4s):
+Escape its sights. It's a good action flick but it is also I think it picture of the future that Amazon and other companies are helping to build where if you're wrongly identified. Notified or if you or if you know somebody's after you or if the government is oppressing you or you know, whatever. There will be. No Escape.
+
+1 (15m 25s):
+And we see real world example starting to crop up in particular in China where the Chinese government has been marshaling all the technology it can use to track the wigger ethnic minority. And China is obviously a different country the United States. The government is different a lot of things are different. It's not happening right now in the United States, but if we want a worst-case scenario, we should keep our eye on what is happening in countries where authoritarian regimes are using access to all the surveillance. For structure that has been built some of it private to oppress people and to track them everywhere they go and to take away all their for you and I guess you could look at these two examples Amazon the United States and just the Chinese government and its relationship to Chinese Enterprise and say, oh those are pretty different but as you related earlier Amazon is very much cording government contracts and already has some right.
+
+1 (16m 17s):
+Yeah, and in fact ring, it's a big problem with the strategy to work with local police departments all around the country. I think the latest what I saw I had them working with something like 600 local police departments already and when you think about it ring and Amazon are actually they're much bigger and more powerful than these local police departments and we've seen some great reporting some public information request of documents that show how Amazon tells the police department's exactly how to handle everything what to say what not to say how to handle the p.r yikes Amazon is basically directing these local police departments on exactly how it wants them to use and About ring and its surveillance capabilities, you know, this is might be a little paranoid but it's like Amazon's almost like a puppet master.
+
+1 (17m 1s):
+That's that's controlling the public agencies rather than the public agencies really being in control is the government doing anything to stop Amazon to slow it down. I guess. Yeah, not much when we talk about digital privacy regulation were usually talking about that other kind of privacy the privacy on your computer on your mobile device. That's where the conversation Verse ation still is there has not been a lot of discussion about how to curtail the spread of surveillance and one exception is San Francisco passed a law earlier this year that said public agencies could not use face recognition
+
+3 (17m 42s):
+Portland. Oregon recently went a step further and was working on a law that said
+
+1 (17m 48s):
+that can be neither public nor private uses of face recognition with in Portland. So cities have been The the earliest laboratory for putting
+
+3 (17m 57s):
+some kind of check on the spread of surveillance,
+
+1 (17m 59s):
+but at the federal level there's not a lot. We've got a
+
+3 (18m 1s):
+couple Senators who are asking questions writing letters asking for information. One thing I will say, I mean I think regulation would be the most effective deterrent from Building Systems that can be easily abused but I do think public pressure makes a difference in my career of covering technology companies when the chorus of criticism grows louder Enough when consumers actually start boycotting a product because they're concerned about privacy or about ethical considerations. The company's listen, their goal is not to be evil. Jeff Bezos. I don't think is an evil person. I think they would prefer to do good if they can but they are first and foremost concerned with building their business and building new products.
+
+3 (18m 52s):
+And so the public has to And the media has to help set up the incentives for them to not do bad stuff with we can impose a cost on being once on a with their privacy violations or being thoughtless or irresponsible and how they design their product. I would love to see them forced to take it more and more seriously because consumers and the media and advocacy groups and legislators are taking it more seriously.
+
+1 (19m 21s):
+Obviously, they're very grave concerns about privacy when it comes Is to Amazon we've been discussing them and the company has received criticism. How does it respond to it? I think until very recently Amazon did not get that privacy was a serious concern with its products. They felt that they understood how their products work and they didn't see any privacy problems. And so anybody who did just didn't understand the product and so they had this really dismissive attitude. I remember on a podcast. I actually asked Amazon's VP of Alexa. What's one privacy concern you think is really legitimate. What's one that you think is really a challenge that you're working on. I don't really have one for a response for that.
+
+1 (20m 4s):
+I feel there isn't really anything that falls in that category that that I'm aware of or focused on and that attitude has finally begun to change as some of the negative press about people listening to Alexa recordings has come out.
+
+4 (20m 19s):
+We were ready with the feature within 24 hours to give customers the ability to opt out of human. Annotation, so I think we were the first to be able to offer
+
+1 (20m 27s):
+that there's been a couple of Mix-Ups with Alexa recordings for somebody got sent somebody else's recordings
+
+4 (20m 32s):
+the first foundational thing and I know people don't always believe this but we don't want data for data's sake it at
+
+1 (20m 40s):
+Amazon. Now Amazon the last time it had an event. It opened the event by paying a lot of lip service to how important privacy is. We want to build privacy into every one of these products because you know, if you can't trust us to keep your information private then You won't buy our stuff, but then it proceeded of course to roll out like 12 new types of devices that can track you and all sorts of new Realms of Life. Basically. I think the company is at the point where it has realized. It has to pay lip service to privacy and when you listen to Jeff Bezos talk about this kind of stuff. He says look, I know there are concerns, you know, but really that's not for us to sort out, you know, the government has to be trusted to use our technology and responsible ways and one of the quotes that stood out to me.
+
+1 (21m 24s):
+Me is the last thing I would ever want to do is stop the
+
+4 (21m 26s):
+progress of new
+
+1 (21m 28s):
+technologies and it's like is that really that the last thing you'd ever want to do? I mean I can I get that stopping the progress of new technologies isn't the ideal thing, you know, but I feel like there are worse outcomes than that when it comes to surveillance technology is it's just how every Tech Giant response to concerns about privacy like, oh we're going to do our best to just feels like they just sort of doublespeak around it. Yeah, because caring about privacy too much would be
+
+3 (21m 54s):
+Your business. I don't know how
+
+1 (21m 55s):
+else to say it. I mean, I think they you know, I think they get that this is a real concern for some people. I think that there is an attitude in Silicon Valley and in Seattle that privacy concerns are overblown by the media by reporters like me that we're just trying to scare people for clicks by painting these big brother scenarios that aren't really realistic. I think a part of it is that these are well-off white men largely who are in charge of these products and they don't personally I have a lot of fears about technology being misused to Target them. It's not a visceral thing for them the idea that they might be on the wrong end of surveillance or they might be the person who's suspected of doing something that they didn't do or that they might have a stalker.
+
+1 (22m 41s):
+I mean, this is a much bigger concern for most women than men. They might have a stalker who is trying to track their location or you know threatened to do them harm may be an ex who's going to hurt them if they can find them. I honestly think that is a big Part of why they don't fully get the importance of privacy personally for them. They're like, what's the big deal? I get better targeted ads. That's fine with me. Bring it back to Enemy of the State for a second. If I may, please yes that movie to the best of my recollection came out in 1998 back when Amazon was still just an online book retailer and you know, I gotta say watching it when I was oh gosh 13 years old it felt plausible.
+
+1 (23m 28s):
+It almost felt inevitable and now we kind of lived in that future and you're telling me that you know, there is a potential future where Amazon could be helping the government surveil us and that this is already a reality in China with the uyghurs. How much of this is just waiting until there is a terrible invasion of privacy that there is a terrible hack that leads to all of our data being misused and an Amazon finally saying no are bad.
+
+3 (24m 7s):
+Yeah, it's I mean, it's it seems likely to me that that's where we're headed. But what we're building is something that once it's built it's going to be really hard to roll. Back, it makes a lot of sense to me for us to be thinking harder about how we slow it down so that we can keep an eye on what the harms might be before. We're in that Enemy of the State scenario at some point in the future and we're like, whoops.
+
+3 (24m 48s):
+Willa Remus writes about platforms privacy algorithms and online speech for one zero. I'm Shawn Rama's from this is today explained.
+
+1 (25m 17s):
+Thanks for listening to our show today. And thank you to Kiwi Co for supporting our show today, you can support our show and kiwi Co @ QE co.com. Explain Key. Biko is offering you listener the chance to try them out for one month for absolutely free after that. They're going to ask for some money. Don't say I didn't warn you. Okay. Bye.

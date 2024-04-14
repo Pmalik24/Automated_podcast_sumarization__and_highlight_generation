@@ -1,0 +1,179 @@
+3 (0s):
+Support for the show tonight comes from caviar the caviar app offers a curated list of great local restaurants and more than 25 major American cities maybe that restaurant you've been hankering to try is on there one way to find out download that caviar a pin right now just for our listeners caviar is offering $10 off an order of $20 more. All you have to do is use the offer code explain to check out $10 off a purchase of $20 or more with the offer code explaining. Who are we kidding when you're hungry? Angry, you're ordering more than $20 worth of food. I buy right who could relate gotta go by
+
+2 (37s):
+world champion soccer player and trailblazing activist Megan.
+
+3 (40s):
+Rapinoe is coming to HBO Sports
+
+2 (42s):
+in seeing America with Megan Rapinoe the iconic star athlete host of fearless conversation with representative Alexandria, Ocasio Cortez Pulitzer prize-winning journalist, Nicole Hanna Jones and acclaimed television host Hasan. Minhaj watch these changemakers come together to talk about the challenges we face as a nation. Seeing America with Megan Rapinoe premieres Saturday August 1st at 10 p.m. On HBO stream it on HBO Max. The bad boys of tack came to Capitol Hill to testify on Wednesday and by came, I mean they logged on to WebEx, but they were wearing suits and ties and they swore an oath not to lie.
+
+2 (1m 28s):
+Tim Apple Mark Facebook billionaire Bezos and Sunder Google. This is the Tim Mark Jeff and Sundar show. Here's your host Sean Ramos forum.
+
+3 (1m 54s):
+Casey Newton you write about tech and democracy for The Verge. How big a deal were Wednesdays hearings? Nothing quite like this had ever happened before at the very least. Yeah with the exception of the Microsoft antitrust case in the late 90s. We really haven't seen meaningful antitrust regulation in this country for 50 years 13 months ago the house Judiciary Committee and its antitrust subcommittee undertook an investigation into the market power of Apple Amazon Facebook. Google and in the months since they have held five preliminary hearings, they have produced 1.3 million documents and Wednesday. We had the culmination of that this hearing where you had the CEOs of the big tech companies facing real questions about how their companies have dominated the markets.
+
+3 (2m 44s):
+They're in for people who couldn't watch. What did the main event look like because none of these dudes actually showed up, huh? Well, as you know Shawn we have a global A pandemic that's happening right now sure. And so rather than risk it all to appear before the antitrust subcommittee the CEOs dialed in on Cisco WebEx and appeared before an in-person hearing of many members of the antitrust subcommittee was kind of a hybrid some of the members of Congress were at their homes or offices and some were actually there in DC in the committee room. And then everyone appeared on a giant Grid in the manner of so many of our conversations these And of course Jeff Bezos appeared to have the nicest room because he has the most money by far and that is how that were.
+
+3 (3m 30s):
+You make the most money. You have the nicest room. That's just basic science, so I didn't get to watch all of it, but I did get to watch some of it including the opening statements in it. In which each one of the tech Lord's laid out their inspiring American billionaire business stories with these gentle sort of pre-emptive suggestions that nothing about Apple Facebook Google or Or Amazon was anti-competitive. It felt like foreshadowing. Yeah, I mean nobody loves America like a billionaire right things are going very well for them. And they believe very firmly that they have acted within all of the relevant rules and laws and that nothing ought to change.
+
+3 (4m 11s):
+We also know that customers have a lot of choices and there are products face Fierce competition many of our competitors have hundreds of millions or billions of users some are upstarts, but others are Gatekeepers. Just with the power to decide if we can even release our apps and their app stores to compete with them research found that free services like search Gmail maps and photos provide thousands of dollars a year in value to the average American and many are small businesses using our digital tools to grow Amazon accounts for less than 1% of the twenty five trillion dollar Global retail market and less than four percent of us retail. And of course immediately thereafter that sort of Utopia they painted was pierced by the representatives on the committee.
+
+3 (4m 56s):
+It was kind of like Whiplash watching it because it would go from like Google and the military to like Facebook and Free Speech to like iPhone. So why don't we just help the people at home and go Company by companies starting with apple? Because Tim Cook seemed to sort of have an easy go. The thing that is happening with Apple is that it runs one of the two dominant. An operating systems and it also operates an App Store that is necessary to use any apps on that phone and for many of the apps that run on that phone Apple charges a 30% cut of Revenue and that is true even in cases where it makes a competing app that does not have to pay that cut.
+
+3 (5m 39s):
+So for example, Apple makes a music product that charges 10 bucks a month and Spotify make some music product that cost 10 bucks a month Spotify asked to pay three of those dollars to Apple and so many companies have come forward to say that this is hurting competition because they are unable to invest the same amount that apple is and they're not able to compete and how to Tim Cook respond to that that allegation that the App Store is inherently anti-competitive. Tim Cook says that 84% of the apps are charged nothing the remaining 16 percent either pay 15 or 30 depending upon the specifics and he says hey if you don't Like it go find another operating system on another phone people have like a 50/50 option there.
+
+3 (6m 27s):
+It's Apple or Google. Did Tim Cook sort of like get off easy in the whole thing. I think Tim Cook got off easy. He got the fewest questions of anyone up there something like 35 questions compared to something like 64 Zuckerberg. So it seemed like members just were not as interested in scrutinizing apple as they were the other Giants. And everyone loves to scrutinize Facebook including you, of course the questions to Mark Zuckerberg felt sort of familiar. Like old hat. Did they feel new and interesting to you? You're right and that Congress was really looking backward when it came to Facebook. Whereas the antitrust questions facing the other companies feel much more current and and future with Facebook.
+
+3 (7m 8s):
+The question was this is okubo you have written that Facebook can likely always just buy any competitive startups. In fact on the day Facebook bought Instagram, which you described as a threat you wrote quote. One thing about startups is you can often acquire him close quote. And so they presented a bunch of new documents which we reported on at The Verge that should conversations in which Zuckerberg says that it is a competitor and he would like to neutralize that threat now sucker bergtold Congress. Look I've been clear that Instagram was a competitor and the space is mobile photo sharing but we never could have imagined it was going to grow as big as it eventually did and in fact is Facebook says by having them join us.
+
+3 (7m 49s):
+They certainly went from being a competitor in the space of being a mobile camera to an app that we could help grow and help get more people to be able to use and yeah, I saw that moment and I kind of scratched my head because I felt like Instagram was pretty huge before Facebook acquired it. It was certainly growing by the time that the ink dried on the contracts. And now today it has over a billion users. So you Certainly Facebook had the data that showed that was growing incredibly quickly and that growth has done nothing but continued ever since hmm. Google had a much tougher go it seemed they were a lot of Representatives taking a lot of Google's decisions recently apart.
+
+3 (8m 35s):
+Yeah, Google Faces the most imminent risk of real antitrust action. There has been some reporting that an antitrust case may be brought against them by the federal. Ain't this summer and a lot of it has to do with search results. When you Google something in many cases, you will not see what you used to see on Google which was links to websites instead. Google will try to answer your question for you and often it will answer with another Google product. Right? Like if you search for a location on Earth Google will show you Google travel products and that has made it harder to compete for other travel based businesses, right or if you think about local reviews Yelp built a whole Smith on reviewing local businesses and it used to rank really highly in Google search and then Google started to build and reviews of local businesses and now Yelp reviews can be harder to find so it's those kinds of things that have gotten Regulators attention and it seems like that has been persuasive to at least some of those Regulators.
+
+3 (9m 34s):
+So to Sundar pichai do a good job of convincing the antitrust committee that Google is doing its best to Foster competition or you know is the federal government. Sure to take action this summer. I don't think he did a good job convincing because I actually don't think that this hearing was about convincing anyone. It was much more of a forum for members of Congress to present what they had learned and to show the homework that they had done. It was rare for a CEO to get more than a few sentences out of their mouth without being interrupted and told to wrap it up. I'm gonna someone most of the data today we collect is to help users and provide personalized experiences back a
+
+2 (10m 13s):
+data. Thank you. Thank you so much. Mr. Chairman, I yield back
+
+3 (10m 17s):
+and cigars defense. He didn't have a lot of room to make his case. And of course lastly, the other elephant in the room that is certainly facing a lot of allegations of being anti-competitive and was a big debut for billionaire bezos's Amazon, right? Yeah. He had never appeared to testify before Congress before which seems wild and he got questions. Is about how Amazon's Marketplace operates and whether it has made life difficult for the sellers that use that platform. Probably the thing that got the most attention is that Amazon has been accused of analyzing the sales activity on its platform seeing what the other sellers are doing and then saying oh, this is really popular we should make one of those and so then they make one of those and then they promoted higher in their search results and next thing, you know, the other guys out of business and Amazon will tell That's not supposed to happen.
+
+3 (11m 17s):
+But when Basil's was asked about it today, he said he could not deny that it had happened and he said the company was investigating which it has been saying for months. Now, how did Jeff Bezos do in his debut? Look he is a very genial presence. He I would say he did his best to come across as reasonable and frankly. It's easy to come across as reasonable when you're being constantly interrupted or right. Sometimes I feel like Congress would be better off if they would just let these Guys talk for a little while. Like you might actually learn something, you know, you know, but I will say he did stumble. For example, one of the members of Congress said in relation to this problem of counterfeit Goods when people go to sell something on your website,
+
+2 (11m 60s):
+do you require a real name and address? Yes or no?
+
+3 (12m 4s):
+I believe we do, but let me get back to your office and business didn't know and the member said do you
+
+2 (12m 9s):
+require a phone number? Yes or no
+
+3 (12m 11s):
+that seems like a fairly basic fundamental question that you would assume the CEO of Amazon would I don't know if it's required. I think we often have it and he did not know so briefly then. How do you
+
+2 (12m 21s):
+verify that? Each of these pieces of information is
+
+3 (12m 25s):
+accurate. I don't know the answer your question and that was useful for me to know something refreshing to see during this hearing which I certainly didn't see during the impeachment hearings was it seemed like Democrats and Republicans were like United in purpose if not motivation. Yeah, I think it's fair to say that both the Republicans and the Democrats are frustrated with these tech companies with almost an equal. Level of intensity, but I would also say that while the that only some of those complaints are rooted in reality like Republicans really only have one message which is they believe that there is a conspiracy among tech companies to systemically disadvantaged conservatives from using their platforms.
+
+3 (13m 18s):
+My quacker came out and was a whistleblower indicating that the manual Blacklist targets that goo Google specifically goes to
+
+2 (13m 28s):
+after are those who support President Trump who hold a
+
+3 (13m 31s):
+conservative Viewpoint and and he left your company in 2008 in 2019 because he was speaking out against these outrage mobs and that is despite the fact that a preponderance of evidence shows that conservative elected officials outperform Democratic elected officials, when it comes to the sheer reach and engagement that the things that they post on those networks receive does it seem like something might
+
+2 (13m 57s):
+Finally happen.
+
+3 (13m 59s):
+I think that yes, something will happen. I think that we will see any trust legislation against Google this summer. I think we'll probably see an antitrust case against Facebook. Although probably not before the election and of course the results of the election could could change that
+
+1 (14m 15s):
+outcome
+
+3 (14m 19s):
+people don't realize that there are now antitrust investigations being led separately by the Federal Trade Commission the department moment of justice and multiple groupings of State Attorneys General in to Facebook Amazon Google and apple and so while I don't expect that the result is that going to be every tech company, you know broken up into Smithereens. I do think we are going to see something meaningful come out of all of that. It just seems unimaginable that all of those investigations would turn out to be for naught Casey Newton's got a very good newsletter called the interface.
+
+3 (15m 4s):
+You can sign up for it at The Verge.com / interface and after the break, I'm going to talk to Kara Swisher about the Staggering amount of power these four Dudes have Support for the show today comes from Ernest. No, not that guy in your building who wants to talk about Indian matchmaking all day. I'm talking about Ernest the student loan refinance people. They want to lower your monthly payment and help you get some relief from all of that debt.
+
+3 (15m 45s):
+And because today's interest rates are so low Ernest is pretty sure it can help you lower your monthly payments. And right now they're offering $100 cash bonus. When you refinance a student loan over at Ernest.com / explained it's not available in all states. But you know where you can find out where it is available Ernest.com / explain and now I have to read some legal details here we go terms and conditions apply earn a student loan refinance loans are made by Ernest operations, LLC and MLS number 120 4917, California financing law license number 605 for seven eight eight three. Oh three Second Street, Suite 401 North Earth San Francisco, California nine 4107 visit Ernest.com licenses for a full list of licensed States I remember I used to have a history teacher back at UCLA who said to us that there are times when you could feel the fists of History tightening around you always thought about that.
+
+3 (16m 52s):
+She was talking not long after 9/11. But this is another one of those moments. It is a hinge moment in the American Democratic experiment. The entire Globe is being battered by the coronavirus. We're dealing with some of our oldest moons in this country on top of entirely new technologies like it is a crazy time. Mr. Klein host of years of Hangzhou podcast and what we're trying to do right now is understand our time and try to find some of the ideas that might help us chart a way out of it the past few months. We've talked to Tom a Seacoast about why the protest made him actually hopeful demariont'e Basu kado about the ways in which economic profession has misunderstood the concept and this measure the concept of value to Elizabeth Warren about her plan to combat the coronavirus trust outfit about whether or not American societies become decadent.
+
+3 (17m 37s):
+These have all been great conversations and there are so Many more I hope you'll join me every Monday and Thursday to stay informed and maybe we got a sense of hope as well subscribe to this recline show on Apple podcast Spotify or wherever you're listening to this right now. Something very strange happened on Fox news last week Tucker Carlson went after Jeff Bezos for making 13 billion dollars in one day the 20 years ago, if that had happened if a captain of industry made 13 billion dollars in a single day while the country got poorer the Democratic party would have had something to say about it.
+
+3 (18m 24s):
+Not anymore because people getting rich are members of the Democratic Party. But that wasn't particularly strange. It's rare anyone makes thirteen billion dollars in a day. It's worth questioning how that happened. The strange part transpired at the end of Tucker's Show when he was doing his hand off with Sean Hannity who always follows you seen these handoffs on cable. They're usually fluffy, you know, flattering fatuous. This one was not that have a great night and now Sean Hannity takes over from the other people who make money they provide goods and services. Because people want need and desire. That's America. It's called Freedom capitalism.
+
+3 (19m 4s):
+And as long as it's honest right people decide. All right Tucker great show Welcome to what you can't see is Tucker's face. He is frowning. He looks displeased with his colleague who just called him out. It's rare to see Sean Hannity call out Tucker Carlson on live TV and it was strange that the thing they were pecking at each other over was the wealth. Jeff Bezos Kara Swisher noticed as well and she wrote about it for the New York Times Tucker Carlson look totally
+
+2 (19m 36s):
+tweaked and then he had started out back in tweet saying well if it was dishonestly obviously not but honestly, I believe in capitalism. So was this weird thing but the point of the matter is is the 13 billion dollars and everybody focused on the money that Jeff Bezos has or the money that Mark Zuckerberg has and they all the tech Moguls. There's Bloomberg keeps a list have made enormous amounts of money during the pandemic.
+
+3 (19m 58s):
+For people like Tucker Carlson who can't really quite wrap their heads around how someone like Jeff Bezos could make thirteen billion dollars in one day. How does that happen? The stock of Amazon like
+
+2 (20m 10s):
+he owns a lot of Amazon and so Amazon's gone up. It's done a really good job of delivery. It's become a necessary service. We sort of fast forward a decade in terms of use of delivery services and he is the one who has the services that work in a pandemic really well compared to other retailers and other retailers are trying really hard but Amazon is like, you know just doing great. And of course, they've got their cloud services and she's always been super strong and he's you know, sort of trying to fires prove his distribution system not always successful. There's been a lot of illnesses and Amazon
+
+3 (20m 40s):
+warehouses. Has it borne out for Google and Facebook and apple
+
+2 (20m 44s):
+to everybody although all of them are doing great and and they're more powerful than ever as they go, you know to try to get congress not to legislate against how should people be
+
+3 (20m 54s):
+thinking about it? I mean, is it great that these American tech companies are Profiting hugely off of this pandemic or is it problematic? I mean did they set up the businesses that would succeed in this moment? And should we be happy for them?
+
+2 (21m 6s):
+Well, it is what it is. Right President Trump likes to say, you know, they are they do have these businesses are not in the restaurant business. They're not in the theater business, but everybody's being accelerated by a decade. That's what you have to think about. This is things trends that we're going in Amazon's direction or Google's direction are now accelerated and so, you know, Mark Cuban, I didn't know. You can pivot and it was he was like this is huge economic experiment to see if we're going to actually change our economy which we are the our economy is about to change in a massive way in terms of workers terms of benefits and lots of stuff like that. It's just it was trending that way, but now it's really trending that
+
+3 (21m 45s):
+way you seem to suggest in your off at in the New York Times that people should spend less time worrying about how much money these guys are making and spend more time thinking about how much power there amassing.
+
+2 (21m 57s):
+Yes. I could think about it like The Rock Rockefellers, look, they State rich and good thing because the foundation give away lots of money later and same thing with these these rich people. They're giving marks giving me money. MacKenzie's God is giving away money. So they're going to stay Rich. The issue is like the Rockefellers got out of power when there started to be legislation like the power that they held over Society, but the fact is that that's not going down until Amazon goes down. And so the question is how much power should these companies and how much mne guardrails and regulations and ways to stop them from being Totally dominant and there are no rules for the internet companies compared to Wall Street or chemical companies or car come everybody else has regulations except internet people and then on the side light is you see this damage being done whether it's hate speech or addiction or this and that it's all systemic to the fact that they have total power and we have no control as a society and we've talked
+
+3 (22m 52s):
+about this with you before and Casey just said he thinks there might finally be some antitrust. In this summer, I guess we'll see. Why is this so hard to do for Tech?
+
+2 (23m 4s):
+I don't know. I don't understand it because Republic Democrats can agree on something. They absolutely should agree on depending on the company. Now, the problem is each of these companies have a different issue apple is has to do with the App Store and that could maybe be by rules and regulations right? That doesn't have to get the break up Apple to do that. Amazon's got some issues around Marketplace and also selling things like I think the people who sell on the marketplace have a good question to be worried. About Amazon products being sold under I bought on Amazon face the other day because it was so much cheaper. It was great and it was the same safe in the Amazon bread did say yes it is. We have something I'm sure he has my number the number I think I trust that says, okay. Well, it's just it was like so sub so you tend to try to buy and then I'm like why am I buying branded stuff?
+
+2 (23m 49s):
+They're only being charged for Brandon. So why not like this white label stuff in Amazon make some of the batteries. Why should I pay triple for Batteries? Because their juror cell when they're the exact same bed. There's and so, you know, you sort of sit there you're like which one which ridiculous conglomerate do I want an advantage here, but the one who has lower prices and so that's the issue with that. And then there's Google which of course has searched dominance you seen a lot of stories recently about that. They Advantage their products and search and besides the fact that they have so much search dominance, which is crazy. Right? I mean think about it like 90 some percent that's another issue, but then they also have products that compete Apple also has products that compete with Spotify. When they go into music, they have special rules when they go directly against when they move into services that compete directly with their customers.
+
+2 (24m 35s):
+Should there be special rules and then Facebook is just a lot of stuff, you know, should they own Instagram to they have all the means of social communication so they dominate social Communications and so you know, and then there's the hate speech on there is their inability to control in this information. These are people in power that are affecting our society that are unelected so they become editorial entities. About having any editorial oversight and so over a massive system that's impossible to monitor because they made it the way
+
+3 (25m 5s):
+it is. I wonder you know, if the last few months have taught us anything. It's that like people still do have power in our democracy. But I feel like this is the sort of Evergreen question. We asked on our show, like what would it take for people to rise up and say hey, you know what Facebook, you know what Instagram Twitter you've gone too far. You need to do something about X and I wonder I still wonder what it would take to get people there.
+
+2 (25m 30s):
+I don't know because you know, the problem is you get a lot of free good stuff. Do you like, you know, that's I always as you know, I call And citizens cheap dates to the tech companies they get all the money we get like a dating app or a map got I got a map like thank you so much. Like what do you mean you took data from the government that we paid for then repurpose it and sold it to us and then took our data and now you have 13 billion dollars in one day. Oh how nice that is is that sad? Like, these are Innovative people have created really great product. They just need some regulation by the way, welcome to your billions. Mr. Bezos. He created something from nothing. But he sat on the system that was created for him by the government and the government should have some say in some of it like and they shouldn't be able to sell of safe for half the price of another company and and then put it up there in front of you and then being the only way it can be delivered and then you know, it takes just a second to be like I'm exhausted with covid.
+
+2 (26m 27s):
+My kids are screaming. I need a friggin safe like just deliver it to me. Mr. Baizen
+
+3 (26m 32s):
+and what if we do all just give up and submit to Facebook and Is on an apple and Twitter, I mean,
+
+2 (26m 38s):
+well, I'm not Facebook. I came off of it. I don't want them information. I don't want their grubby thieving hands in my data. That's how I look at it. I guy quit Instagram
+
+3 (26m 47s):
+to Fair. Can you just remind people what the dangers are of not regulating these tech companies
+
+2 (26m 53s):
+grab every piece of your data and turn you into Soylent Green. I don't know what to say, right? The internet is is people ha ha ha ha So take your data and they will they will they use it in any way they can and they need some regular and eventually these hacking incidents will get worse and you will not own yourself. That is what I feel is the problem. You need to own yourself.
+
+3 (27m 22s):
+All right, Kara. Thank you so much. Appreciate your time
+
+2 (27m 26s):
+where I couldn't resist.

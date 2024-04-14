@@ -1,0 +1,278 @@
+0 (1s):
+If I was actually shooting by the Corrina Nebula in a spaceship, what? It actually looked like that
+
+1 (9s):
+No, it would not actually look like this. I have to confess it with
+
+0 (13s):
+Whoa.
+
+1 (14s):
+It would still look really cool.
+
+0 (18s):
+Coming up on today, explained photos from the James Webb telescope broke the internet last week, and we're just getting started.
+
+3 (28s):
+We're starting to get a hit to, to learn what these distant galaxies are made of, because we've never been able to see that before,
+
+0 (37s):
+But there are also a digital representation of something no human could ever see with their own eyes.
+
+1 (46s):
+Yeah, the, the, well, the raw data is black and light, or I challenged you to imagine something even more abstract
+
+0 (52s):
+Earth is hot and stressful. So we're going deep on deep space today.
+
+Airtable (1m 1s):
+So you're finally planning a getaway with some of your best friends, but between navigating everyone's schedules, deciding on the right house to rent and setting up a trip that everyone will love. There are a thousand things that can fall between the cracks at work. Keeping everyone on the same page can be pretty overwhelming too. Whether you're prepping for a huge trip or getting ready for your next big launch air table can help you connect your teams and keep everyone on track. It's one place where you can see everything that's in motion. So nothing gets left out. Give it a try for free@airtable.com today. That's air table.com to get started for free.
+
+6 (1m 43s):
+Good morning. Good morning, everyone. We are alive and this is it. Today is the day we have all been waiting for. So let's get excited.
+
+3 (1m 54s):
+I am Amber Straughn and astrophysicist at NASA Goddard space flight center.
+
+0 (1m 59s):
+And I'm Sean Rama's from one of two hosts at today. Explain Dr. Amber Straughn is on a first name basis with the James Webb space telescope.
+
+3 (2m 10s):
+I am a scientist on the team at NASA for JWST
+
+0 (2m 16s):
+James Webb space, telescopes, friends, just call it J w S T.
+
+3 (2m 19s):
+And I've been in this role for 11, 12 years now, officially, and I've been working on it even before then as a postdoc and grad students. So it's been awhile,
+
+0 (2m 29s):
+Which means she saw these mind expanding images before they were cool.
+
+3 (2m 33s):
+I mean, I don't think you have to be an astronomer to appreciate the beauty of these images. And I think, you know, the past 30 years of Hubble has demonstrated that the public loves Hubble because of these beautiful images. And I don't know exactly why that is. It's a little strange that they're just sort of, it's a universal human experience to, to be sort of odd by beauty of the universe.
+
+0 (3m 1s):
+And I think that was the exact reaction, although I don't think people actually know in most cases exactly what they're looking at. So we were wondering if you could help us with that part of it.
+
+3 (3m 12s):
+So broadly speaking, these first five images that were released, sort of span a breadth of different science topics ranging from exoplanets
+
+7 (3m 23s):
+About the size of Jupiter, about half the massive Jupiter. It orbits around a cell Mike star, but it does it every bout three and a half days
+
+3 (3m 30s):
+To looking at regions of star birth and star desk.
+
+8 (3m 34s):
+And there are galaxies here in which we're seeing individual clusters of stars forming, popping up just like pop up
+
+3 (3m 41s):
+Two other galaxies light from some of the most distant galaxies in that image has been traveling over 13 billion years. So we are literally seeing galaxies as they were in the distant past, which is exactly what this telescope was designed to discover.
+
+0 (4m 0s):
+So the James Webb telescope is essentially a time machine
+
+3 (4m 3s):
+That is literally true, and it sounds sort of, you know, Saifai, but it's actually due to a very sort of basic principle of physics. And that is the fact that light takes time to travel. You're seeing a lamppost across the street light from that takes a tiny fraction of a second to reach your eye. The light from the sun takes about eight minutes to get to the earth. So in essence, you're seeing the sun as it was eight minutes ago, putting these powerful telescopes in space allows us to see things as they were literally back in time.
+
+0 (4m 38s):
+It's amazing. It's actually, it's the true definition of the word. Amazing.
+
+3 (4m 43s):
+I couldn't agree more.
+
+0 (4m 49s):
+Which of the images have been the widest circulated D do you know?
+
+3 (4m 53s):
+My sense is just from like looking at all the media reports and stuff that they, people have fallen in love with the default image and also the Korean and Nebula. Those two seem to be the ones that I've seen popping up, but all of them are spectacular for their own reasons.
+
+0 (5m 9s):
+Let me pull up the deep field image first. There's a lot going on in this image. Where do you even begin to start talking about it? I guess, what are we seeing broadly? Where are we
+
+3 (5m 21s):
+It's so much to take in, but I guess the first sort of thing to know about this image is it's a teeny tiny piece of sky. If you've held a grain of sand out at arms length, that's the amount of sky we're seeing here, which is incredible, right? And in this grain of sand, we're seeing thousands of galaxies. I mean, it's, it's absolutely incredible. And to go a little bit more in detail, the sort of fuzzy white galaxies, we Sr the center of the image. Those are making up a galaxy cluster. Those are further away. They're sort of in the background and essentially what's happening in this image. And the reason you get those little arcs is that the combined mass of the gal, the fuzzy white galaxies, and also crucially their dark matter is serving as this giant cosmic lens.
+
+3 (6m 12s):
+And so when light travels sort of through the universe from these distant galaxies and hits the mass of this galaxy cluster, it gets bent and stretched out. So that's what all these arcs that you're seeing are sort of like, you know, looking through the bottom of like a glass and you see how light gets weird and distorted. So proving once again, that Einstein was right,
+
+0 (6m 33s):
+Right about what,
+
+3 (6m 34s):
+The way the universe works and the way that mass can actually bend light
+
+10 (6m 39s):
+The equation E equals M things square in which energy is equal to mass multiplier. This is where our philosophy of life. It may be converted into a very large amount of energy.
+
+0 (6m 60s):
+It's like anything we're seeing a star.
+
+3 (7m 4s):
+Yes, the bright points of light that have spikes around them. So you can see several of those. Those are actually stars within our own Milky way, galaxy so relatively nearby. So anything with a spike is a star. Everything else, every other point of light is a galaxy. And of course, again, just to sort of go back to, you know, high school astronomy class, a galaxy is a grouping of stars. Our own Milky way. Galaxy has a couple hundred billion stars. And so each point of light, you see in this image, aside from the individual stars with spikes, every other point of light is an individual galaxy itself, probably with hundreds of billions of stars.
+
+0 (7m 50s):
+Okay. So that's like, that is actually mind blowing because what you're saying is that the galaxies greatly greatly outnumber the few spiky stars. We're seeing this photo, right?
+
+3 (8m 2s):
+Absolutely. The data's brand new. So we haven't done an actual count yet, but just by looking at this, I mean, there are thousands, right? There are thousands of galaxies here and just a few stars within the sort of foreground of the Milky way.
+
+0 (8m 14s):
+So there's thousands of galaxies here, which contain billions of stars. This photo is representative of holding a grain of sand up to the sky at arms length.
+
+3 (8m 26s):
+Right, right, right. It starts to give you a little tiny bit of a sense of just how big the universe is
+
+0 (8m 34s):
+And is the James Webb telescope going to sort of pivot on an axis and give us all the other grains of sand, what happens after this?
+
+3 (8m 44s):
+Well, that would of course take a very long time. But the good news is, is that I'm taking these little, teeny tiny snapshots of the universe helps to give us a sense of what thrusts of the universe is. Like. It's sort of just statistics because one of the fundamental assumptions and astrophysics is that the universe is sort of the same in all directions, roughly speaking. So you can imagine that point anywhere in the sky. And you would see roughly this many galaxies. Now that's a little bit, maybe not quite true because this is a galaxy cluster in the foreground, but of course we have examples from Hubble and we will soon have examples from JWST of just sort of clear deep fields, like deep fields of galaxies without the intervening galaxy cluster here.
+
+0 (9m 33s):
+Incredible is that is let's pivot to another photo here. One that marina Koren at the Atlantic called the coolest space picture I've ever seen. And this is of course the aforementioned Nebula, Korean and Nebula is that right?
+
+3 (9m 49s):
+This was the image that made me cry when I first saw it. You know, it's just, it's just so stunningly beautiful. And I love how it, I mean, it sort of brings the universe to life, right? You can see texture and structure and depth it's gorgeous.
+
+0 (10m 12s):
+And what exactly is it? It looks like some sort of like cotton candy cloud, deep space.
+
+3 (10m 20s):
+Yeah. Well maybe not cotton candy, but it is sort of a cloud. So the Korean and Nebula, which the team sort of nicknamed cosmic cliffs, which I think is great, but the Korean and Nebula is a relatively nearby star forming region was in our Milky way. Galaxy it's about 7,600 light years away. So, you know, relatively nearby, but it's basically a stellar nursery. So the orange stuff you see in this image is basically gas and dust. And then above the sort of Ridge of the Nebula here up above sort of out of the frame of view are some really hot, young, gigantic stars.
+
+3 (11m 6s):
+And these stars have immense amounts of radiation and stellar winds. And so you can imagine that radiation and wind is sort of pushing down on this region of gas and dust, and these processes are some of what help newborn stars to form. So it really is, you know, a stellar nursery.
+
+0 (11m 32s):
+What is the information collected thus far by the telescope reveal about the universe that we didn't already know,
+
+3 (11m 41s):
+The, the, the type of light this telescope sees. This is infrared light, which is light. That's a little bit more red than what your eyes can see. And this is the first time we've ever gotten a spectrum of an exoplanet in the certain longer wavelengths of light, which is super exciting. But in terms of what we've learned, this is just a first look. And so scientists are already busy sort of digging into the data. But the most impressive thing to me was this chemical, you know, fingerprint of this extremely distant galaxy, we're starting to get a hint to, to learn what these distant galaxies are made of, because we've never been able to see that before.
+
+3 (12m 22s):
+And this was one of the main drivers for building this telescope, the way that we did. So, you know, over the course of the last 30 years with Hubble, we've been able to learn incredible things about galaxies, about how the universe works in the sense of how galaxies change over time. And with Hubble, we've been able to look back pretty far into the distant past, but Hubble was not able to see the very first epic of galaxies that were born after the big bang. So we're talking about looking back in time, about 13 and a half billion years into the past.
+
+3 (13m 3s):
+That's a part of space we have never seen before. And this telescope was designed to find those first galaxies. And this very first deep field image was a relatively short image. It's just like a snapshot. And what we see what this image shows us is that we will be able to do that. We think we will be able to, to learn what that first epic of galaxies was like. That that set off the whole evolution of the universe.
+
+0 (13m 38s):
+That thing Dr. Amber Straughn from NASA said about this telescope, seeing infrared light. That's the reason all of these images have been painstakingly Dr. More on that in a minute on today, explained,
+
+11 (14m 1s):
+And let me tell you two fruits of life. There are no bad Bruno Mars songs, and there are no bad Katy Perry songs. They don't exist. These
+
+12 (14m 7s):
+Are extreme opinions,
+
+11 (14m 9s):
+And that is what I do.
+
+12 (14m 10s):
+Hey, there are phenomenal Katy Perry songs, but also say they're a terrible,
+
+11 (14m 13s):
+That's the worst, Katie parasol. You're wrong. It's good.
+
+13 (14m 19s):
+Hi, I'm Sam Sanders and I'm hosting a new culture podcast. It's called Intuit from vulture in New York magazine each week on the show. We'll get into the pop culture that we just can't stop thinking about like the Chainsmokers song that became a pro-choice Anthem on Tik TOK, or why comedy specials got so serious or yeah, honestly, I don't even know how to explain this one.
+
+14 (14m 45s):
+That's his poop also time travel. What about his saliva
+
+13 (14m 52s):
+Into it? The weekly culture podcast from vulture launching July 28th, subscribe wherever you get your podcasts.
+
+Land Of The Giants (15m 7s):
+And I'm Alex Heath, we're hosting land of the giants, a podcast about the biggest tech companies of our time. This season Metta formerly known as Facebook. It's a company in a particularly controversial and vulnerable moment. Mark Zuckerberg is placing a multi-billion dollar bet towards an imagined metaverse future. Meanwhile, the rest of us are still grappling with what he's already built This season. We're going to talk to the executive steering Meadows biggest decisions, and you'll hear from some of Meta's sharpest critics. It's former employees We'll explore wise. Zuckerberg is taking the company in a bold direction and how Facebook's past will inform its future Land of the giants. The Facebook meta disruption from Recode, the verge and the Vox media podcast network. This season is sponsored by Klayvio Subscribe for free wherever you listen and get our first episode on Wednesday, July 13th,
+
+13 (16m 6s):
+Isn't a spaceship. It's a time machine.
+
+0 (16m 12s):
+Welcome back today explained Joshua's SoCal is a freelance science writer, and he wrote recently in the New York times about how NASA went about selecting James Webb images for public consumption. We got him on the show because I had this sort of burning question. So Joshua, I was reading lots of articles about these James Webb images, because of course they were mind blowing and I wanted to learn more. And then Barry deepen one of them, not the headline, not in the first few graphs, but towards the end, by the way, all of these images you're seeing have been doctored. Is that, is that true?
+
+1 (16m 48s):
+Mm I mean, yes. Yes, it is true. They're all, they're all mediated
+
+0 (16m 55s):
+Mediated. Is that a euphemism
+
+1 (16m 57s):
+Well, there's, there's technology interfering between what's out there in the universe and in what you're seeing, and this is kind of something that we accept in other situations, you know, our phone cameras and our cameras in general, digital cameras, all kind of are creating a vision of reality. They're trying to create something that mimics what our eyes do, but it's not exactly real. I guess
+
+0 (17m 19s):
+I see what you're saying there, because I've noticed I recently went from an iPhone five to an iPhone 13. And what I'm noticing now, especially when I take photos at night, is that my iPhones rendering of events, this iPhone 13 is actually much better lit than what I actually see with my human eye, which is the more accurate reality. Is that like an existential question?
+
+1 (17m 42s):
+Yeah. It gets philosophical really quick. I mean, if you think about the romantic notion of an astronomer as somebody who their eye up to the, the lens of a telescope and looks at the universe and they perceive it all through their eyeball, the reality hasn't been like that for awhile. And also that's not the way our photography works. We're creating almost like a data visualization of, of your iPhone or the telescope. It creates an array of numbers. It takes in some data from the universe. And then there's this added step of like, how do we want to visualize that? Do we want to, do we want to make it look exactly mimicking how your eye might see it? Granted that people's eyes are different and lighting conditions are different, you know?
+
+1 (18m 24s):
+Or are you trying to show other things?
+
+0 (18m 27s):
+So what you're saying is the telescopes up there capturing ones and zeros. And the question is, how do we want to represent those ones and zeros?
+
+1 (18m 38s):
+The telescope is not up there to make really, really cool pictures. It's up there to take data about what's in the universe and what this kind of breaks down to is like in every pixel of this image, how much light do we see from the universe? And that's all at the telescope wants to do everything past that point of how would it look to us and how can we visually communicate what it's seeing and what it's doing. That's all a little bit subjective, a little bit of interpretation. It is a data visualization
+
+0 (19m 10s):
+What's coming across their desks in its raw form. Is it black and white?
+
+1 (19m 16s):
+Yeah. The, the, well, the raw data is black and white, or I challenged you to imagine something even more abstract.
+
+0 (19m 21s):
+Huh?
+
+1 (19m 23s):
+What it really is, is an array of numbers. And the array of numbers is just like how bright was the universe in each pixel? Like this pixel saw 100 photons from this crazy galaxy and this one saw a little bit less and it's just an array of numbers. What astronomers do on their computers is like immediately translate that into a black and white, like a gray scale image of let's see it, that will help me understand it. Cause I don't want to look at just a matrix code. You know, I want to see an image. So the really raw is the array of numbers. The kind of the way that then that's visualized is like, let's translate this into an image, digital image, black and white image, for sure.
+
+0 (20m 3s):
+Does that feel sort of distinct from the way, say our smartphones, our Google pixels and our iPhone thirteens are interpreting a landscape photo shot at night because here you're talking about actual black and white ones and zeros numbers of photons. And then what you end up with is this sort of stunning image of, of the Corrina Nebula, which people actually look at and can't believe what they're seeing. And it sort of turns out well that isn't exactly what anyone saw.
+
+1 (20m 38s):
+I think there's an analogy that holds up pretty well between the phone and the telescope. And then it breaks down towards the end. The way that our cameras, our regular cameras work is they're also really creating a raise of numbers, black and white images. And then they're combining them and they're creating they're, they're assigning colors to them digitally, combining them. They're showing us something that makes visual sense. A lot of times their goal is to recreate kind of how our eyes work and do something that, that looks like the kinds of things we see, but they might punch it up in certain ways because they're also trying to create something that's pleasing to us and contains the information about the scene that we want to see. The thing is when your phone does this, you're not involved in the process at all.
+
+1 (21m 23s):
+It's, it's all like underneath the hood in a black box. And what's happened with these telescope images is there were people involved in every step decisions made at every step. And it's just much more intentional about what is being communicated in the images.
+
+0 (21m 42s):
+If I was actually shooting by the Korean and Nebula in a spaceship, what it actually looked like that
+
+1 (21m 50s):
+No, it would not actually look like this. I have to confess it with
+
+0 (21m 54s):
+Whoa.
+
+1 (21m 55s):
+It would still look really cool
+
+0 (21m 57s):
+Palmer.
+
+1 (22m 1s):
+I mean, it would look cloudy and you would see a lot of these structures and you would definitely see less color with your eyes. And you cheated a little bit. And your example, because you said you're there in a spaceship like at warps feet. So you're still implying there's this technological mediation going on to get you close to this thing that like, I promise you, no human being in the next thousand years will ever be close to crying to Nebula. Visually your eyes could see a lot of cloudiness, a lot of structure, a lot of color. It would not be this vivid. It's fake in the sense that all images are sort of fake, but it's, it's hyper real. It's super humanly real it's beyond what you could do. And like, that's, what's cool about it too.
+
+0 (22m 42s):
+It seems like such an enormous responsibility because these images are essentially now the historical record. I mean, they have entered the public consciousness and that's how people will think about James Webb. How does NASA walk the line between getting the public excited about what this telescope is doing and representing fairly what it's actually seeing?
+
+1 (23m 12s):
+These images are a conscious act of visual communication. Part of that is almost brand management. It's like communicating, Hey, here's this thing that we do. That's very legible to the average person, this amazing image that you can appreciate and see. So it'll make the argument that the telescope that costs all this taxpayer money is, is worthwhile and it's functioning well, that it, that it's capable of doing amazing things. That's kind of a cynical thing. Almost. You know, we want to inform public perception of what this large public project is doing. The other part is that NASA is required with its spending to explain itself, to do science communication.
+
+1 (23m 55s):
+So you could also imagine that telescope is just taking all this really technical data, but it's not showing anything, nobody benefits from the knowledge generated. So there is this very genuine earnest desire in the people that work on this, just show like this is how we see the universe is what we can learn about it. This is what you paid for. Let me explain how it works. The colors are not fake to convince people to fund NASA more. The colors are punched up and combined and made aesthetically pleasing to communicate real information about just how precisely the telescope could see the universe, but it can really see this thing that looks red in the image.
+
+1 (24m 35s):
+That's this stuff out in space and this blue and the image is a totally different physical process. And Hey, look, isn't it amazing that we built this thing that can, that can like tell that difference. I mean, it's better than what our eyes can see. It's more informative and that's why they're doing it.
+
+0 (24m 52s):
+And if they released some black and white, no one would care
+
+1 (24m 54s):
+If they released it in black and white, they'd be showing off less of what the things true capabilities are. And they would be less impactful on an audience. They would be, they would be boring.
+
+0 (25m 14s):
+Joshua SoCal is a freelance science writer earlier in the show you heard from Dr. Amber Straughn she's with NASA. Our program today was produced by Victoria Chamberlain, Matthew Collette edited Laura Bullard. Fact-checked Paul mousey engineered. We had help from our friends at unexplainable, especially Dr. Brian Resnick. They just released their two episode series on the James Webb space telescope. If you want to hear more about what exactly this telescope is looking for in outer space, look for unexplainable, wherever you listen. This is today explained.

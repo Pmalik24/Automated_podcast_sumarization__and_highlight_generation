@@ -1,0 +1,191 @@
+1 (0s):
+Hey, it's Shawn. I know what you're thinking. It's Sunday get a life. But listen I had to come in to tell you about a new show called reset its from recode here at vaux and it's all about technology and how it's changing the way we live and it's going to be coming out 3 days a week including on Sunday. And that's why we wanted to introduce this show to you in our feed on a Sunday. It's a great episode all about artificial intelligence. I'm going to let the Host of reset already else who I'm Ross Take it Away.
+
+2 (33s):
+Enjoy. A few years ago David Hart came home from work to find his son and his wife agonizing over a
+
+1 (40s):
+problem. My son was on the computer and he was in tears and my wife was really frustrated and you know the second I walked in and she asked me to step in and help out and she was on the point of tears to
+
+2 (56s):
+his son was in the fourth grade and he had to write an essay for school. But rather than hand in the paper to his teacher the next day he was supposed to submit. The essay on line that night and it would get graded right away. The
+
+1 (1m 9s):
+website is called Utah compose. And the way it works is it has automated sa scoring
+
+2 (1m 17s):
+software. The key word here is automated. No human required. The grading is done by an algorithm to pass the assignment the essay had to hit a certain score,
+
+1 (1m 28s):
+you know, we had to get something like 25 points out of 30
+
+2 (1m 30s):
+points, but nothing his son had written so far had made the grade
+
+1 (1m 34s):
+and he only got a certain number of tries and they were running out of tries. The instructions said you're going to be scored on your ability to communicate clearly in the fewest number of words, right? So get the point across which seems like a good goal for writing.
+
+2 (1m 52s):
+But when David's wife tried to make the writing more concise, it didn't help her essay got scored even lower.
+
+1 (1m 59s):
+They were following the suggestions that the software was giving them and they still weren't getting increases in scores. And so they were just getting more and more
+
+2 (2m 6s):
+frustrated. Clearly something wasn't working. But as it turns out David was uniquely suited to help because he's a software engineer
+
+1 (2m 16s):
+and I have sort of a ongoing side project using some AI technology to help me render pictures and do
+
+2 (2m 24s):
+art AI artificial intelligence the technology behind self-driving cars and voice recognition. Now, it was also grading David's Sons essay, and the whole thing was exasperating his entire family, so David caved and did the thing every parent eventually has to do he Googled it.
+
+1 (2m 42s):
+I think I read some suggestions that you know, sometimes these things are really easy to trick and I started adding words to the essay just making it longer and immediately the score went
+
+2 (2m 54s):
+up. Oh, wow, even though initially did the goal was to try and keep it
+
+1 (2m 57s):
+short exactly. So I made it really really long and suddenly we hit the required
+
+2 (3m 2s):
+score if David ignored the program suggestions and made the essay longer. Algorithm was actually pretty easy to trick but at this point David was kind of pissed. So he had an idea.
+
+1 (3m 15s):
+I was sort of irritated that it wasn't scoring what it said it scored and number two all the suggestions were sort of bogus. And so I went Googling a little bit more and I found a long essay. It was a petition to ban automated as a scoring. Okay, and I pasted the entire essay verbatim in Ooh this website and the score hit 30.
+
+2 (3m 41s):
+That's a perfect score.
+
+1 (3m 46s):
+You know in terms of anything we could submit that was going to be way off topic and also get a perfectly high score. I just thought it was nice and
+
+2 (3m 57s):
+ironic. David's encounter with AI grading happened six years ago today his kids still use the automated sa greater.
+
+1 (4m 8s):
+The entire state is still using it and I asked my wife about this and my wife's quote was this offer has never helped our children improve their grades ever. It hasn't taught them anything. It hasn't helped them become better writers. It hasn't done anything like
+
+2 (4m 22s):
+that. How does it feel to actually work in AI to be interested in artificial intelligence and then to find yourself sort of? Hitting up against it when it comes to your son's education.
+
+1 (4m 36s):
+It's really interesting because it strikes me that there are good ways to use it and bad ways to use it. And ultimately I think what's important is that we understand a little bit more clearly exactly what it can do and exactly what the limitations are and not pretend that it's some magic box that could just do anything right? It's not really intelligent.
+
+2 (4m 58s):
+Yeah, right.
+
+1 (4m 59s):
+It's artificial, but it's not very It
+
+2 (5m 9s):
+I'm Ariel Jim Ross. This is reset on today's episode algorithms are grading student essays across the country. So can artificial intelligence really teach us to write better. Todd feathers wrote about a is a grading for the tech website motherboard.
+
+1 (5m 28s):
+I mean you did you hear that a computer is great in your kids essay. I think most people's initial reaction to that would be that's not
+
+2 (5m 36s):
+right. He called up every state in the country and found that at least 21 states use some form of automated scoring. The
+
+1 (5m 44s):
+algorithms are prone to a couple flaws one is that they can be fooled by and kind of nonsense gibberish sophisticated words. It looks good from afar, but it doesn't actually mean anything. Okay, and the other problem is that some of the algorithms have been proven by the testing vendors themselves to be biased against people from certain language backgrounds.
+
+2 (6m 3s):
+Todd wasn't able to pin down exactly how many students are affected by this but here's what we do know these programs are being used by students of all ages. I'm talking high school students students applying to grad school middle school and Elementary School students basically students at every level. The reason it's so hard to figure out who's affected by AI grading. Is because there's no one program that's being used. There are a bunch of different algorithms made by a bunch of different companies, but they're all made in basically the same way first an automated scoring company looks at how human graders behave
+
+1 (6m 39s):
+the vendor will come into a state and say, okay administer your test the normal way and we're going to take a thousand two thousand essays. We're gonna have expertise in graders grade A Certain percentage of them about half and we're In to train artificial intelligence engines to recognize these and predict what score a human grader would give an essay so they don't actually grade the essay they just
+
+2 (7m 3s):
+predict and depending on the program. Those predictions can be consistently wrong in the same way. In other words. They can be biased
+
+1 (7m 12s):
+it's a huge issue the system the grades of GRE tends to downgrade African-American students by about .81 points on a six-point grading scale when Compared to a human greater, which is huge. If you're trying to get into graduate school, you know, almost an entire point on an essay, right? Probably going to be a four five or six make a giant difference.
+
+2 (7m 35s):
+So legitimately what this means is that humans are better at allowing for various cultural backgrounds versus these these algorithms.
+
+1 (7m 46s):
+Yeah humans aren't perfect and there are plenty of examples of bias and education in general and in testing, but I Issue that we come into with AI in a lot of context has it doesn't just replicate the bias that it learns from, you know, the the human graded data sets it amplifies it.
+
+2 (8m 7s):
+Bias amplification. It's a term. You see a lot when you read about AI basically all the AI wants to do is be as accurate as possible to do that. The program picks up on small grading patterns. It sees in a data set and uses them to make broad generalizations at scale and sometimes those generalizations are biased that can happen in a few ways for instance a company might have a bad sample of essays that doesn't feature a diverse set of writers. The people grading the essays might frankly be Prejudiced and just give lower grades to certain groups of people or the algorithm might be reductive looking only at certain features in the writing and downgrading anything that deviates the point is there are bunch of ways that an algorithm can be biased but once they're built they reproduce those biases at a huge scale thousands of essays more than the training set and the worst part.
+
+2 (9m 2s):
+You can't cross-examine an algorithm and get to the bottom of why it made a specific decision. It's a black box. So by now you might be wondering if there are so many potential problems with AI graders. Why would anyone want to use them?
+
+1 (9m 20s):
+I think they're two arguments one. Probably the primary one is that it's cheaper. It's definitely cheaper to have a machine do it. But the other argument is that this gives immediate feedback to students in some context, you know, before you have to wait months to get the results of your standardized tests and by that point, you know, the students there. They're on summer vacation. They don't really care. They're not going to learn. And from a poor grade or they're not even going to remember what they
+
+2 (9m 46s):
+wrote and when students get feedback immediately that frees up teachers to work on something else like their lesson plans. So if you're a state that needs to save money and wants to give teachers a break AI graders look like a pretty decent option
+
+1 (10m 1s):
+I think will become more widespread. One of the things I asked everybody that I interviewed is if they thought their state would ever go back to human graded tests and they unanimously said no, Once you're into AI scoring so much cheaper. This is the Future
+
+2 (10m 18s):
+Okay, so both David and taught explain the problems with AI graders, but what do the companies who make them think I spoke to Eva call whole a managing senior research scientist at educational testing service their algorithm grades the GRE and other standardized tests. We have Assessments in all areas language proficiency graduate school entrance. See that kind of thing. I asked aoife about the bias problem. It's very possible. That programs can be by Just if you don't train them correctly, so you want to make sure that the data that you use to feed the system to train the system is as unbiased as possible, but it is very possible that you can introduce it because of course the systems are learning from humans. So if the data set you happen to choose is biased and the Machine is going to learn that bias.
+
+2 (11m 3s):
+So when you're picking a data set, how do you even know if that data set might be biased and then how do you know if that's actually affecting the machine? Well, it's a very challenging. Ting topic actually, we have a number of checks in place. First of all, we try and make sure that the humans that are scouring the essays in the first place or well-trained they get monitored to make sure that they're sticking to the rubrics. We make sure that responses would be scored by multiple humans to make sure that they're all roughly an agreement but it's not perfect. It's not a perfect system. It can happen potentially that's you might end up with a biased data set, you know, even despite all these checks that we would have in place. So we spoke to a parent who was frustrated that one of these language system.
+
+2 (11m 43s):
+Wasn't really teaching his child how to write. He thought the program was teaching his kid how to write big words rather than how to write. Well, how would you respond to that? He's probably not wrong at least when we develop tools that try and support Learners of writing. We try and collaborate with the writing Community to try and find out what are the things that people who are researching writing. What are the kinds of things that they teach what are the kinds of things that they think are important having a system teach big words is it's a particular skill, but it's maybe not core to being able to write. Well, you know the ability to write well as a whole range of skills, maybe vocabularies one piece of it, but it's not the whole thing.
+
+2 (12m 23s):
+So you read the motherboard article. What was your reaction to it? Well, I think what I felt was that people don't always get the full picture of how these systems are used. These systems can be used inappropriately and if they are then of course, there's going to be problems with them, but I think these systems actually can provide a lot of benefit and support to Teachers and students if they're used appropriately and I think that was my biggest disappointment with the article was that it didn't give that side of the thing. We reached out to the Utah Board of Education. They told us that the program Utah compose isn't designed to replace teachers quote like all instructional tools its value is either enhanced or diminished by how it is being used after the break what happens when a I write the essay instead of grading
+
+1 (13m 9s):
+it. Hey, this is John again. Just reminding you that you're listening to reset from recode here at Vox. It's a show that's going to be coming out three days every week Tuesday and Thursday and Sunday and each of those three days. It'll bring you stories about how technology is changing our lives and all the complexities there in you can find the show and subscribe to it right now. Wherever you listen. I can I can name a couple of places Apple podcast Spotify Stitcher. It's now playing wherever your podcasts are playing. Enjoy the The show and your Sunday hmm Sunday.
+
+2 (13m 47s):
+Okay, so far AI graders might seem like they're leading students to the wrong kind of writing yet another way to cut Corners when it comes to education and it might seem like a i itself is the problem maybe computers just aren't creative enough to grasp something as personal and human as writing. But Seagal Samuel would say that that's not necessarily true. She's a reported Fox who's written extensively about artificial intelligence. She's also a novelist and recently. She's been applying a I to her writing. I had a czar thought enter my head when I first heard about these language models, which was hmm. I wonder if at some point these a eyes are going to be able to write my novel idea is better than I could Seagal was thinking of this one program in particular called GPT to it's made by a company called open a I so I decided to sort of like test this by actually taking the novel that I published in 2015, which is called the mystics of Mile End and plonk.
+
+2 (14m 47s):
+Sort of paragraphs from that novel into GPT to it's it's at talk to Transformer.com. So you can actually just go on this website and put in like a couple sentences and see what happens exactly. So I put in you know, like three four sentences from my novel and then it generates a bunch of text a continuation. The algorithm is sort of analyzing your words your syntax and then it'll spit out how it thinks your text should be continued. Okay and Did that with your book exactly because I kind of wanted to see like, you know, this is how I finished this scene, but how would the a I finish the scene? So what were the results the results were sort of astonishingly good to me your I'll give you an example.
+
+2 (15m 40s):
+There's one scene where one of my characters a young woman is actually kind of losing her sanity. Her father has died spoiler and she's actually like in a moment of great distress eating this manuscript that he had been writing. And so I'll read you a little bit of what I wrote and then what the AI
+
+1 (16m 5s):
+wrote.
+
+2 (16m 8s):
+Mutters stumbled into my mouth and I swallowed them ink pour down my throat and I drank it and then words. I didn't know flowed through my skin and I drank them and drink them and drink them all over again. I ate sated until I vomited the a I came up with this great idea, which is that my character after like gobbling up her father's words in a sort of strange attempt to reconnect with him. Her body has this violent physical reaction to this attempt and she vomits and I love that idea and I didn't think of it and in retrospect it would have been perfect. So you actually feel like the a I did a better job than you did yourself.
+
+2 (16m 48s):
+Yeah. I mean in that very localized sense. Yes.
+
+1 (16m 54s):
+How
+
+2 (16m 55s):
+does that make you feel as an artist as a writer? I feel like all I can think is that most kind of hurt. Yeah, I mean part of me is like well damn like I spent years, you know, honing my craft and getting a degree in creative writing, but honestly, the bigger part of me is just pretty delighted because a this kind of new AI is just super cool and it's a fun toy to play with but be I really sincerely I really do think that it's going to make my future writing stronger. Hmm, and I'm excited for how I'm going to get to use GPT to to write my next novel. So you're actually going to use this to write your novel.
+
+2 (17m 35s):
+How are you going to use it? Well, one of the next projects I'm working on is a children's book. It's about two little girls who discover a hotel with infinite rooms and there's a black hole in the middle of it. And so they jump into the black hole and obviously there's ton of wormholes in the black hole so they have to figure out how to navigate them. I irritatingly have been facing a giant wall of writer's block with this book in the past few months. So I recently plucked a few sentences from it into gbt to and one of the things I've been struggling with is the World building which is very important in fantasy writing like how do the mechanics of this fantasy world you've concocted work exactly.
+
+2 (18m 19s):
+There has to be an internal logic to it. So I just plunked in a couple of sentences. They climbed into the Wormhole the air inside the tunnel felt cool and fresh and blue like the inside of clouds and the AI text asks the following questions. Here's the deal is the Wormhole closed or open and is the Wormhole stable and doesn't feel like it takes shape when you look at it or like it's a fluid thing like it has to be squeezed. The AI generated all these questions for me that are super super useful because they are going to help me world built as a writer. You don't always have the luxury of being in the middle of an MFA Workshop or just friends who you can bat around these ideas with so it's kind of nice to have this machine sounding board /
+
+1 (19m 10s):
+collaborator.
+
+2 (19m 17s):
+You sound really positive about this, but I can only assume that there are limitations. So what is it bad at? Hmm, so it can be really useful on the like localized level helping you think of specific questions or writing a few terrific sentences, but it's really bad at like larger story structure. It can only generate something based on what it's already what you've already put down. It can't generate like a whole narrative Arc a larger plot structure that you need for a novel that makes a novel satisfying. Do you think it could get there at some point? I think it's conceivable. I think we're not anywhere close to that.
+
+2 (19m 58s):
+But you know, it has been said that in all of literature. There are only six main story arcs. There's like the Cinderella Arc there, you know, there's Rags to Riches, you know, there's there's very specific arcs that are common to a lot of our literature. It's conceivable to me that an AI could be taught to mimic those basic templates and then kind of like slot in the specifics of characters and words and scenes. I am skeptical though that in AI by itself without any human involvement is ever going to write a Pulitzer prize-winning novel. We spoke in the first half of this episode about using AI to grade essays for high school students in elementary school students and given your experience with a a I am wondering what do you think of that?
+
+2 (20m 47s):
+I'm pretty skeptical of it. Am I language models are really really cool and can be helpful collaborators in a lot of ways. I think we run into problems when we try to use them as substitutes for humans. There's a big difference between creating and evaluating right? I think when we're creating our yeah, like let's use all these different tools and like let our imaginations run free and you know when we're evaluating Eating and attaching a grade and potentially penalizing someone it's gonna have an effect on their lives. Like I don't think we want to be super restrictive and for that matter that could apply to a human evaluator just as much as an AI evaluator. Yeah, I guess the difference is that you can actually interrogate a human evaluator and sort of go back and go.
+
+2 (21m 30s):
+Okay. How did you make this decision? Whereas I think with the AI That's a lot harder to do exactly a eyes often have this opacity this black box quality. We don't necessarily know exactly how they're arriving at their judgments. Okay. So with everything that we've talked about today, how do you feel about AI in general? I think this long side. Like all technology is you know, there are there are always risks to things and I think it's just because humans the creators of these things are people who you know, we do cool stuff like make awesome art and we do horrible stuff like disseminate fake news and start wars and things so I think it's really all just in how we use it.
+
+2 (22m 25s):
+Seagal Samuel is a staff writer at box reset is a recode by Vox gem if you like the Pod subscribe to reset for free on Apple podcasts Spotify Stitcher overcast Pocket Casts or wherever you listen to get new episodes three times a week and also give us a five star rating and review on Apple podcasts will read Martha Daniel and Skyler. And produce the show. Our engineer is Eric Gomez and gowtham tree cushion helped out on this episode Golda Arthur is our executive producer are Chung also ep the launch of the show The Mysterious brake master cylinder composed our theme music Liz Kelly Nelson is the editorial director of vocs podcasts this week reset Jose big debut.
+
+2 (23m 13s):
+Thanks to Nash off. Kurwa Alison Rocky Lauren Williams, Ezra Klein Kara Swisher Peter. Kostis Pika Irene noguchi Lauren cats Lair Hickman Del e upon SQ Zack Khan and Liz Noonan they helped us get off the ground. It takes a village, you know reset is produced in association with Stitcher and we are part of the VOX media podcast Network. I'm at the end Jim Ross, but you don't have to say it. That way. We'll be back on Tuesday later nerds.

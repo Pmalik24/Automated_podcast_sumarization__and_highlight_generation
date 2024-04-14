@@ -1,0 +1,332 @@
+0 (0s):
+Hey, chat, g p t. Write me an intro to a today explained episode where we talk about AI generation.
+
+2 (11s):
+Hello and welcome to today Explain. In this episode, we will be discussing the topic of AI generation. This refers to the use of artificial intelligence to generate various forms of content such as text, images, and audio. AI generation has the potential to revolutionize many industries and has already begun to change the way we create and consume content. We'll explore the implications of this technology and discuss some of the challenges it presents. Stay tuned for more.
+
+0 (50s):
+Thanks Chat, g p T.
+
+3 (1m 0s):
+This episode is sponsored by FXs Kindred, the original series only on Hulu. Based on Octavia e Butler's, bestselling novel FXs Kindred Centers on Dana James, a young black woman and aspiring writer. Dana begins to settle into her new home in Los Angeles and is violently pulled back and forth in time. She emerges at a 19th century plantation and is confronted with secrets she never knew, ran through her blood. FX is kindred. All episodes now streaming only on Hulu
+
+4 (1m 30s):
+Vultures. Tv. Critics spend a lot of time looking for the best tv, which in 2022 has been hard.
+
+5 (1m 38s):
+There was certainly a lot of TV more than anyone could humanly watch, but then every so often there would be yes, many nights where I would say like, is there just a law and order from 20 years ago that I could watch
+
+4 (1m 51s):
+The best TV of the year? And why it's so difficult to find something to watch this week on Intuit Vultures pop culture podcast.
+
+6 (2m 13s):
+Well, you seem like a person, but you're just a voice in a computer.
+
+7 (2m 16s):
+I can understand how the limited perspective of an unofficial mind would perceive it that way. You'll get used to it
+
+0 (2m 23s):
+Today. Explained Sean Ramas firm. The internet has been full of screenshots of people's dms lately, but they're not DMing with other people. They're messaging with artificial intelligence.
+
+8 (2m 35s):
+The Internet's going crazy over new artificial intelligence called chat. G p T.
+
+9 (2m 41s):
+You literally can put into it, you know, write a script, a Seinfeld script and about this, and it, it'll do it.
+
+4 (2m 46s):
+It took Netflix more than three years to reach 1 million users, but it took chat g p t just five days.
+
+10 (2m 53s):
+So the, the bot that everyone's been chatting to is chat, G P T, which was released on November 30th, and everyone's been talking to it for the last couple of weeks. Basically,
+
+0 (3m 2s):
+James Vincent is a senior reporter at The Verge, who's also a chat G p T user.
+
+10 (3m 7s):
+So it is an AI chat bot that is made by a company named OpenAI, who have been doing a lot of research into this and other AI areas. And it's sort of the most, one of the most advanced versions, or one of the most advanced examples of its type. But the big thing is, is that it's sort of publicly accessible in a way that these level of bots, these high quality bots haven't been before. So, you know, you can just jump into a conversation with it straight from your browser, open up a window, you know, like you were talking to a family member, and you can ask it questions, you can ask it anything you like, and it's, it's pretty clever.
+
+0 (3m 41s):
+Well, how does it work?
+
+10 (3m 42s):
+Chat, g p t, like other sort of AI chatbots is what we call a large language model. And they are trained by looking at huge stores of text, most of which have been scraped from the internet. So you do things like, you download all of Wikipedia, you download all the blog posts, you can find all the recipes, all the stories, everything like that. And you train a machine to look for patterns within that data. Hmm. What it does is it starts looking for where words appear next to one another within the text, and it starts looking for patterns within that. So it knows that if you say a sentence like the cat sat on the, it's gonna finish that more likely with matte or rogue or chair or whatever that might be than aluminum ballad or nuclear isotope, whatever that is, you know, so it looks for these patterns and then it learns from that, how sort of language flows forward.
+
+0 (4m 34s):
+Can we try it out right now? Can we, can we play with it?
+
+10 (4m 37s):
+Absolutely, yeah, we can load it up, have a little talk.
+
+0 (4m 41s):
+Where do I go? gpt.org
+
+10 (4m 44s):
+Chat.openai.com/chat.
+
+0 (4m 48s):
+Okay. Okay. That was my second guess. Yeah. chat.openai.com. Oh, I need to log in. Do I have a login?
+
+10 (4m 56s):
+You may need to sign up. I've gotta login with me now. Would you like me to, I'm ready to go if you'd like me to ask it some questions.
+
+0 (5m 3s):
+Okay. Why don't you just do it and I'll just, I'll just be entertained. Well,
+
+10 (5m 7s):
+You, you, you tell me what you wanna ask it, and I'll, I'll, I'll whack that in.
+
+0 (5m 10s):
+I mean, I want it to be hard. I don't want it to just be like, who is Beyonce? So why don't we make it something more nuanced? Like, why do people love Beyonce?
+
+10 (5m 20s):
+Okay, let's see what it says. There are many reasons why people love Beyonce. She's an incredibly talented singer, dancer and performer, and has been entertaining audiences for many years. She has a powerful and distinctive voice, and is known for her energetic and engaging life performances. She's also known for her beauty and style, which many people find appealing. Hmm. There we are. That, that's why people like Beyonce. I mean, like, it, it's not, it's not wrong as far as answers go.
+
+0 (5m 46s):
+No, I can see if this were like a fourth grade, you know, class, and we were doing an essay, write a paragraph about why people love Beyonce, that would be a pretty good answer from an eight year old
+
+10 (5m 57s):
+Old. But, so, but let's try and push it a little bit further then. I mean, so as you say, like, when, when it comes to, you know, scraping very basic in information off the internet, that's not too exciting, right? So, what, what is something a little bit more, are you, are you a Beyonce fan?
+
+0 (6m 10s):
+Sure. Sure.
+
+10 (6m 10s):
+Okay. So what, what's something a little bit more granular. What's your favorite song by Beyonce? Ooh.
+
+0 (6m 15s):
+Woo. That's tough. Wow. I didn't know that you were gonna be putting me on the spot. I mean, sorry. It's, no, it's okay. I like it. I appreciate it. I plastic off the sofas a recent favorite.
+
+10 (6m 31s):
+Okay, so why don't we ask the bot tell me why Plastic Off the Sofa is such an amazing song. So there may be a problem with this because the chat bot is only trained on data that goes right into 2021. So you've picked a recent one and it said, I'm sorry, I don't have any information about a song called Plastic Off the Sofa. So you've stumped it already.
+
+0 (6m 56s):
+We found it's blind spot. But let's, let's ask it to be creative. What if we said, write me a song in the style of Beyonce? Could it do that?
+
+10 (7m 7s):
+Yeah. What should the song be about?
+
+0 (7m 10s):
+Love. Come
+
+10 (7m 11s):
+On. That's too easy. Let's Too easy. Let's have something easy. Let's have something that Beyonce wouldn't write a song about. Because one thing these bots are very good at, they're very good at combining styles.
+
+0 (7m 20s):
+Okay, great, great, great. L write me a Beyonce's song about cheeseburgers.
+
+10 (7m 26s):
+All right. Okay. Verse one. I mean, this is, I, I'm reading this out loud, so this is gonna be terrible. We'll,
+
+0 (7m 33s):
+We'll, we'll get, we'll get you a beat. We'll, we'll drop the beat for you.
+
+10 (7m 37s):
+I'm in the mood for a cheeseburger, something savory, something sweet, juicy patty, melted cheese, top food, ketchup, lettuce, please. Cheeseburger, cheeseburger. It's my favorite food in the whole wide world. Cheeseburger. Cheeseburger. I would eat one every day, girl,
+
+0 (7m 52s):
+It's not terrible.
+
+10 (7m 54s):
+It's even worse in my accent. I really apologize for that.
+
+0 (7m 58s):
+This
+
+10 (7m 59s):
+Is the most un Beyonce thing anyway.
+
+0 (8m 1s):
+Oh man. That's great. Okay, so, so it's creative. The AI can can do creativity.
+
+10 (8m 6s):
+Absolutely. And it can do, you know, all sorts of styles of writing. So for example, if you wanted to say, write a college essay or you wanted to write a legal document, or you wanted to write a news article, you could ask it to say, write me a news article about blending on Mars, and we can put that in there. And then it'll come out in a few seconds.
+
+0 (8m 26s):
+Seconds.
+
+10 (8m 27s):
+A few. Yeah. I mean, it's not too slow. Oh, sorry. It's, it has, it's written me another song about cheeseburgers. Sorry
+
+0 (8m 36s):
+About that.
+
+10 (8m 38s):
+Well, should we do, should we do, who else, who else would you like to land on Mars apart from Beyonce?
+
+0 (8m 42s):
+Who else could be landing on Mars? And then if you're, let's say, write us an essay about Matt Damon landing on Mars.
+
+11 (8m 47s):
+They say that once you grow crops somewhere, you've officially colonized it.
+
+12 (8m 53s):
+So technically I colonized Mars,
+
+10 (8m 58s):
+Matt Damon. Okay. Landing on Mars, it's thinking actor Matt Damon has made history by becoming the first person to land on Mars. The Academy Award-winning actor was part of a NASA mission to explore the red planet in successfully touchdown on the surface earlier today, Damon, who has long been fascinated by space exploration, was selected by NASA to be the first person to land on Mars due to his experience as an astronaut in the 2013 film, the Martian, it
+
+0 (9m 25s):
+Made the connection.
+
+10 (9m 26s):
+It made the connection. See, it, it, it, it is the little things like that that are very impressive about this, cuz you're like, well, I never made that explicit. That was, that was implicit within your statement and it found it
+
+13 (9m 37s):
+In your face. Neil Armstrong.
+
+0 (9m 40s):
+So the AI can give me a song about cheeseburgers in the style of Beyonce. The AI can write me an essay for a future news event and connect some cultural references that I didn't even make explicit. What are the limitations here? Where does this really show its gears?
+
+10 (9m 57s):
+So there's two big limitations, one of which is sort of hard to see on demand, and it's the fact that these systems will make up information if they don't have a good answer for you.
+
+0 (10m 6s):
+Ah-ha.
+
+10 (10m 7s):
+So they, they really have no way of telling fact from fiction. It's not like an encyclopedia where it has a list of known things that happened. It is only, it's a probabilistic machine. It's only predicting the probability of the, the next word being correct. So sometimes you might ask it for a biography of someone and if it doesn't know what they were doing between the years 73 and 79, it'll just make it up. And, and the probability stuff means that it's also bad at some things like maths. So if you ask it to be like, oh, what's three times three? That is something it will have seen in its training data. So it'll know what that is. Or it'll know enough sort of small sums to know where that's going. If you ask it to multiply two very large numbers, the chance of it, having seen those numbers anytime before is next to nil.
+
+10 (10m 53s):
+So it won't know how to do that. Wait,
+
+0 (10m 55s):
+It can't do large multiplication. That feels like so basic, like my phone could do that.
+
+10 (11m 0s):
+But this is, this is like the, the, the promise of this technology right? Is that it has these huge strengths and it's because we are approaching how to make computers in a completely different way to normal. It is built on these principles of machine learning, which is all about learning from past examples. So it's created this sort of statistical map of how the language works and how text works. And it's done that by looking at lots of text scrape from the web. But that means that its knowledge is probabilistic rather than deterministic. So it only knows the probability that the next word will follow will be the one you want. And it doesn't have a sort of a system of hard-coded facts like an encyclopedia mite.
+
+10 (11m 41s):
+Lemme
+
+14 (11m 41s):
+Hear you say, Hey Ms. Carter,
+
+0 (11m 43s):
+The ethical issues, because obviously they're ethical issues in a minute on today. Explain,
+
+10 (11m 57s):
+I'm in the mood for a cheeseburger. Cheeseburger, something savory, something sweet, sweet, juicy patty. Melted cheese. Melted cheese. Top good ketchup, lettuce please. Cheeseburger, cheeseburger, cheeseburger. It's my favorite food in the whole wide world wide world. Cheeseburger, cheeseburger, cheeseburger. I would eat one every day. Go.
+
+0 (12m 28s):
+This episode is sponsored by Money App. If your money is currently in a traditional bank, it may be earning little to no interest money. App now offers an interest checking account with 3.25 a p y on all balances. There are no monthly fees and no minimum balance Money App is also F D I C insured up to 250,000 through Evolve Bank and Trust. Now through January 15th, money App is giving away a total of up to a hundred thousand dollars between 25 winners in their triple your paycheck giveaway. Here's how it works. If you sign up for a Money app account and are approved every paycheck directly deposited into your Money app account from today through January 15th has the chance to be tripled.
+
+0 (13m 10s):
+If you are selected to win, you can visit www.money.app/explain to sign up for money app. That's www dot m o n e y dot slash
+
+16 (13m 23s):
+Explain Money. App is a technology company, not a bank. Banking services provided by Evolv Bank and Trust member F D I C money app checking account has no fees in a competitive 3.25% annual percentage yield on all balances. Visit money.app/explained for entry and eligibility details. Each winner is capped at $4,000 sweepstakes offered and managed by Prague Services Inc. Not Evolve Bank and Trust, no purchase necessary.
+
+17 (13m 48s):
+Hi, I'm Power Fogt. Join me and my colleagues as we go beyond the headlines and deepen your understanding of the forces shaping our world today on the political scene, a newly updated podcast from the New Yorker. With episodes three times each week, the political scene accesses the sharpest minds in politics for insight and analysis about everything from abortion rights to the war in Ukraine. Make sure you're following the political scene available now, wherever you get your podcasts.
+
+18 (14m 19s):
+All the single patties, all the single patties, all the single patties, all the single patties, all the single patties, all the single patties. All the single patties. Get your cheese out
+
+0 (14m 30s):
+Today explained. We're back with James Vincent, senior reporter at The Verge. We talked about the AI powered chatbot that's been passed around online, but it's not just text, it's images too.
+
+10 (14m 41s):
+Yeah, they're related in that they're both part of the same sort of genre of AI called generative ai, which is all about sort of replicating human creativity basically, whether that's writing things or drawing things. And they also use some of the same sort of underlying technical methods. You know, they, they both involve looking at large amounts of data and then looking for patterns in that. And we've, you know, we've come up with some very good ways of doing that in the last couple of years, which is why these technologies are sort of bubbling up at the same time.
+
+0 (15m 12s):
+Is this the same chat bot, a different bot?
+
+10 (15m 15s):
+These are different bots, but some of which are made by the same company. Huh? So there's been a lot of image generation bots that have become really popular in the last year, one of which is called Dolly, which is also made by open AI like chat G P T. But there are also sort of very open source ones called Stable Diffusion Mid Journey and they're free for anyone to use. And in in, in the past these systems were sort of quite inaccessible. They were mainly used by researchers, but now they're available on the open web and so people are asking them to do all sorts of weird things.
+
+0 (15m 46s):
+Yeah, I mean I saw this one guy who I follow Hank Green, who's a friend of the show, say I decided to post AI generated images of cats and every time I post one I'm gonna add an A in the word cat until it's no longer a cat.
+
+19 (16m 4s):
+So I was on Twitter one day and somebody actually said to me as everyone was experimenting with mid journey, what, what would it look like? What would happen? Let's see, like how many as you could put into the word cat before mid journey no longer is giving you a cat. Did you see this?
+
+10 (16m 18s):
+Yeah, I did. I did. You got quite far.
+
+19 (16m 24s):
+So I did this and the first cat I got once I upgraded to V4 was just a perfect beautiful cat. It looked a little bit like my cat, honestly. I have like a long-haired kind of elegant, regal looking, you know, year and a half year old jerk named gummy bear who lives in my house. So that was beautiful regardless of, you know, the, the depth of the complexity of how it was created. And then I put in the second A and immediately I was like, oh, this is actually probably gonna work because that cat wasn't a normal looking cat anymore. It looked, I think it looked a little bit more like kind of a steampunk admiral.
+
+19 (17m 5s):
+So like immediately second a, it was like, you don't want just any cat, you want a special cat. And I, I was so happy, like I was like, okay, this is going to work, like something interesting is going to happen here. And as I kept adding, as they kept getting weirder, like there were a couple, like there was one who looked like he was gonna sell you weed. Yeah. And there was one who looked like he was probably from space. Yeah. But like a normal, like a cat spaceman, not like an alien cat, but it was just like a cat who went to space sometimes. And then eventually the, a's I think convinced mid journey that I wanted cats to scream because there was like a cat and they began to get kind of more and more angry and also further and further away from a cat until when I hit 10 As I finally got my first non-cat.
+
+19 (17m 54s):
+And it was a cat girl, it was a human with
+
+0 (17m 58s):
+Cat features.
+
+19 (17m 59s):
+I did eventually get one that was a building and definitely not cat-like at all. But I, I never posted that one cuz it was quite a ways in. And I think, you know, I I'm always looking at the kinds of tools that I think that the creators of the future will be using. And it seems very hard to imagine a world where this isn't a part of it.
+
+0 (18m 18s):
+Why is it that like eight as will create a human and not four,
+
+10 (18m 22s):
+But it, what is sort of similar to the chat systems you've seen, they have associations that are stored in their memory. What they've done is they've been trained by looking at lots of data on the internet. In the case of the emit generation models, there will be lots of pictures of cats on the internet who knew. And you know, they will be downloaded and they'll be attached to sort of data that describes what is in them. So if you are uploading a picture of a cat, you probably at some point, you know, either as a typo or because you are, you know, having fun with how you're typing it out, you've probably added some extra, you maybe added some extra as to that cat, however improbable that sounds. But there will be a point at which you've added so many as that no one's ever done that before. So the machine no longer recognizes that as an input.
+
+0 (19m 3s):
+Hmm. And, and like where in the case of the images, where are these images coming from? Are they stealing them from, from Google image results or, or what?
+
+10 (19m 13s):
+Each image is being created entirely afresh. It's a, it's a, it is a new image, but what they've done is that they've learnt by looking at older images for patterns in them. So they take a lot of pictures of cats and they work out what is a sort of common way in, in drawing or in depicting a cat. But this has sort of been quite a cause of controversy because a lot of the data used to train these image programs is copyrighted. Mm. It's been put on the web by artists, by photographers, illustrators, and it's been scraped, it's been taken without their permission and used by these companies to create these systems. And so if the system wants to recreate an individual style, you can ask it to do that and it will probably know who that person is and create art that looks like theirs.
+
+10 (19m 59s):
+And so the question is, is that copyright infringement? Is there an ethical problem there? You know, is it okay if a human copies a human? But what if a machine copy a
+
+0 (20m 8s):
+Human? And what's the answer it sounds like probably yes. Right.
+
+10 (20m 11s):
+Well, the, the, the legal side of this is very much up in the air. There is one ongoing court case, not about art, but about code being scraped from the internet and then used to train in AI where the people are saying that that was done, you know, without respo respect to licenses. But in terms of the art are spoken to a lot of lawyers about this in the past. And so the general consensus is that taking the data is legal, however, how you then use that data might be illegal. So for example, you might train a system on someone's artwork and that is fine that you know you're allowed to do, to do that, that's fair use. However, if you then use that system to create art and then you sell it by saying, this is art that looks like this guy's art, then that would be illegal.
+
+0 (20m 58s):
+Are there rules or regulations around these kinds of bots yet?
+
+10 (21m 2s):
+Some companies have put rules on them and some companies haven't. So OpenAI has quite a restrictive approach to using its AI image program called Dolly, and it makes people pay for it. And it's trying to turn it into more of a sort of, you know, a legitimate business. It partners with Microsoft and things like that. Other companies have gone well, the best way for us to do that is to just make this technology available for anyone to use. And that way it'll develop faster. And their approach is to put these models out without any restrictions at all.
+
+21 (21m 33s):
+We trust people and we trust the community as opposed to having a centralized, unelected entity controlling the most powerful technology in
+
+10 (21m 40s):
+The world. And obviously that comes with these dangers that they will be used for to copy people's artwork or that they will be used for things like generating pornography, for example, which is something that a, a company like OpenAI doesn't wanna be associated with.
+
+0 (21m 53s):
+Are there laws on the books yet?
+
+10 (21m 56s):
+Nothing comprehensive. I I think this is something where, you know, in classical tech fashion, the technology is moving much faster than the legislation is. You know, there are policies in the US in the EU aimed at dealing with these sorts of malicious uses of these programs, but they're not very well thought out. They're not necessarily gonna come into power very quickly. So I think we're gonna see problems with this stuff soon.
+
+22 (22m 20s):
+Algorithmic bias, like human bias results in unfairness. However, algorithms like viruses can spread bias on a massive scale at a rapid pace.
+
+23 (22m 31s):
+If we don't have women and underrepresented people of color at the table, we will bake into those systems bias, particularly artificial intelligence
+
+10 (22m 41s):
+Bias is a huge problem for these systems because they are trained on the internet and the internet is full of a lot of pretty horrible things. There is bias in the text systems and there's bias in the image systems as well. So, you know, you might ask a text bot to write a short story about a doctor who is a very nice doctor, and lo and behold, the doctor will be white and the doctor will be male because these are the biases that are already present in society. These AI systems, they tend to amplify these biases unless they are corrected. There are ways around that. There are sort of tactics and technical things you can do to sort of dampen those biases down.
+
+10 (23m 23s):
+But the number one thing is simply being aware that these, this is how these systems work and that they have these limitations in them.
+
+0 (23m 29s):
+And why is there so much investment or focus on generative ai? Is it because there's some really profitable, practical uses here? Or was it just a lark? I
+
+10 (23m 40s):
+Mean, people are betting it'll be very profitable. It's become the buzzword in many ways. And if you think about it, you know, tech has sort of been very exhausted in recent years by failures in crypto, by failures in the metaverse and generative AI actually works. You know, these systems actually do sort of what they promise they're going to. And if you look at the potential possibilities, you know, they are huge for the creative industries. If you're in Hollywood, if you're an illustrator, then you will have generative AI tools probably become part of your workflow. So something that you might do if you're a designer, if for example, you know, you might use a AI program to come up with some ideas.
+
+10 (24m 20s):
+So you have to design a new chair, it has to be a certain color, it has to fit into this environment. You might tap those specifications into an AI program. It'll spit out, you know, 20, 30 ideas and you'll use those as a starting out point. So I I, I think there's gonna be a lot more collaboration with AI in the workplace that's gonna become something that everyone's gonna be doing a bit more of.
+
+0 (24m 41s):
+And how do we get from, from here to there? What are the steps between where we are now and where we'll be when this feels like old hat perhaps?
+
+10 (24m 49s):
+I think they're quite short steps at this point. You know, I, I had something earlier this week. A friend of mine text me, he works at a university and he said, oh, what do you know about chat G P T? I've just been using it. And he was like, I just used it to write a macro for Excel, you know, a little, a little bit of code in order to sort a database. And that's now, that's something he does a lot as part of his job. And he's not a techy guy, but he had used this tool with no prompting to help make his job faster. The tool had written this bit of code for him and then he'd done a bit of debugging it to make it work properly and then he'd just used it in his job. I think that's sort of thing that we're gonna see becoming more and more commonplace. You know, you might not Google something, but you might ask an AI about it instead.
+
+0 (25m 40s):
+James Vincent, catch his work@theverge.com. Our show today was produced by Amanda Lou Ellen with an assist from artificial intelligence. Matthew Collette edited Laura Bullard, fact checked and AEM Shapiro engineered with help from Paul Mosey and additional help, not from ai, but from Brandon McFarland from the Vox Media podcast network who came in with an assist on that Beyonce bit. Thanks Brandon. It's today explained.
+
+18 (26m 6s):
+Oh, the single patties. All the single patties. All the single patties. All the single patties. All the single patties. All the single patties. All the single patties. Get your cheese out.

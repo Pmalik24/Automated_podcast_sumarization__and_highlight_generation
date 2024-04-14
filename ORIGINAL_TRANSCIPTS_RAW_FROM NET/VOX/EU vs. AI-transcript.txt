@@ -1,0 +1,263 @@
+0 (1s):
+Ai this AI that AI is changing the way we learn.
+
+1 (6s):
+No Wonder Chat GPT has been called the end of High School English, the end of the college essay and the return of the handwritten in class essay. It's
+
+0 (16s):
+Changing the way we work.
+
+2 (18s):
+I have a friend who's building an app on his own. Normally he would've hired a developer. Instead, he's just using chat DPT because it can code and it can correct its own code. All he has.
+
+0 (26s):
+Pretty soon it'll be changing the way we do just about everything.
+
+3 (29s):
+Alexa order, Trash liners,
+
+0 (32s):
+And. yet there have been just about zero rules governing artificial intelligence. Until. now
+
+4 (40s):
+I think we have made history today
+
+0 (44s):
+Europe's gone and done some regulating on our latest technology. As Europe often does. people are using words like landmark and first of its kind You might even hear us use those words. on this episode of Today Explained,
+
+6 (1m 1s):
+Your pup deserves the very best, the best food, the best dog bed, the best medical care.
+
+Fetch Pet Insurance (1m 7s):
+With Fetch Pet Insurance, you can use any vet in the US or Canada and get paid back up to 90% on unexpected Vet that Fetch Pet. Insurance is the most comprehensive insurance for dogs and cats and covers more types of injury and illness than most other providers, including sick visit exams and breed specific issues. Get a fast and free quote at Fetch Pet dot com slash Vox.
+
+Atlassian (1m 34s):
+Support for this show comes from Atlassian Atlassian Software like Jira, confluence and Trello help power global collaboration for all teams so they can accomplish everything that's impossible alone because individually we're great, but together we're so much better. No matter If, you're a team of two, 200 or 2 million Atlassian software keeps everyone connected and moving together as one towards shared company goals. Learn how to unleash the potential of your team at Atlassian dot com. That's A-T-L-A-S-S-I-A n.com. Atlassian
+
+5 (2m 16s):
+You are listening to today,
+
+0 (2m 18s):
+Explain. Jess Weatherbed is a news writer at The Verge and for a while now she's been covering the eus new AI Act. And was this process easy, breezy, fancy free, or was it complicated?
+
+8 (2m 35s):
+Yeah, complicated is probably one way of putting it. We've got kind of a two year timeline roughly to work with here. They, they proposed the AI Act back in 2021.
+
+3 (2m 47s):
+Artificial intelligence must serve people and therefore artificial intelligence must always comply with people's rights.
+
+8 (2m 56s):
+AI, as we know at that point, was vastly different to what it is now. They were working with systems that were designed to do a very specific purpose, so it was a little bit easier to try and categorize how risky those those systems are gonna be for, for people living within the EU. There's been a hell of a lot of interruptions and a lot of disruption caused by various things. But the biggest one I would say in the last two years was systems like Chat. GPT.
+
+9 (3m 18s):
+GPT is a software that has gone viral this week. It's a chat bot that uses natural language processing to generate responses to user inputs.
+
+8 (3m 28s):
+Now suddenly, rather than these AI systems that are only built to do a specific job, you've got these foundation models or large language models that are literally designed to do pretty much anything. You can put their their mind to it. They can generate images, they can write texts, they can apparently write code, they can, you know, and it presented so many new options that weren't anything that could be covered by the original scope of the AI Act.
+
+4 (3m 50s):
+We have seen a change, we have seen a change in the mood in the, in the discourse. And now there is no big deal, no big position on the need to find a a, a sensible regulation for generative ai.
+
+8 (4m 9s):
+It had to be like reworked several times over. It's, it's one of the largest contributors to the delays in actually getting it approved. Between that and discussions around how it can be applied to things like national security and law enforcement were the, the two most highly contested points of what's been argued and debated about over the last year.
+
+0 (4m 32s):
+Okay. So the EU has been talking about regulating AI for a good while, but things got real this December.
+
+8 (4m 40s):
+It kind of came to a head around 10 days ago. That was when the, the provisional agreements made, but prior to that it was about 36 hours of just solid debate.
+
+10 (4m 50s):
+I think that you have all heard and probably agree that AI is too important not to regulate and it's too important to badly regulate a good regulation that we all agree on as soon as possible must be a common objective.
+
+8 (5m 8s):
+At one point they had been in Brussels having one prolonged conversation trying to iron out the differences and compromises for about 22 hours at least. So you've got a lot of tired, cranky, potentially seep deprived lawmakers, policy makers all crammed into a building trying to finalize a set of blueprint AI regulations that are apparently going to be, you know, the set the example for every other global regulators. And yet they're in a room cramming like college students before a finals exam.
+
+0 (5m 38s):
+But they got it done. It was worth it because they got it done.
+
+8 (5m 41s):
+Yeah, well, it it, they got it provisionally. Agreed. So this is kind of the, the first big step to it being completely done.
+
+0 (5m 48s):
+What did they get done? What are these landmark EU regulations on artificial intelligence?
+
+8 (5m 54s):
+We don't know for sure yet. Oh, the, the full text isn't gonna be available for several weeks. What they tend to do with these is that they will make compromises based on principles. Now they actually have to go away and jazz it up with the, the legal language that they want to have things adhere to at that point.
+
+4 (6m 10s):
+And we built a risk-based approach that identifies high risk AI use cases that needs to be more regulated and needs to be checked on data used to train it.
+
+8 (6m 25s):
+A lot of it seems to be following the same kind of framework that they proposed years ago, which is that they wanted a risk-based tiered system that you could categorize different AI systems with. And by taking certain like attributes of what they could apply to, you can then go, great, these are low risk, these ones are high risk, which means that they're gonna have to be subjected to all these investigations. They're gonna have to tell us what they're doing with their data, how much power they use, like it, it just makes it a little bit easier rather than having a complete free for all or wild, wild west of not even having a distinction for what AI is, which was where they were in 2021.
+
+4 (7m 0s):
+And we also identified users that we think should be outrightly banned, like the use of biometric identification in public spaces on real time to avoid by banning it, the risk of mass surveillance. And we also banned the predictive policing, social scoring, emotional recognition for students and workers because we think that in this cases there is no added value and more risks than benefits.
+
+0 (7m 33s):
+I remember Joe Biden sort of announcing his oversight of AI and all the AI guys came to the White House and everyone was smiling and it felt very performative. Were the AI guys happy about this regulation or were they less into it
+
+8 (7m 50s):
+Initially? I haven't seen anything in terms of response off the, the finalized professional agreement that we've just seen. But early on when they were talking about blanking all of these systems as high risk 'cause they just didn't know what to do with them. They were very unhappy to say the least. So companies like OpenAI, Microsoft and Google, these companies all lobbied the EU to basically come forward and go, but we're, we're fine to self-regulate. We don't need to be held accountable and it's not fair that you're going to assume that our products are, are automatically bad just because they could be bad.
+
+11 (8m 21s):
+We've seen what happens to countries that try to overregulate tech. I don't think that's what we want to hear.
+
+8 (8m 28s):
+It wasn't only the AI companies that were a little bit unhappy about it, there was also some members of the EU that were not particularly happy about it because they're hoping that homegrown AI companies can have the room to innovate. So we know that France, Germany and Italy at some point back in November, turned around and went, how about we just don't regulate general AI at all and let them do their own thing. and I think quite understandably a lot of the rest of the, the EU turned around and went, no. Yeah. And then that led onto a couple of extra weeks of highly contested arguments about what they should be regulating, what should be involved in this agreement two years after it was first proposed.
+
+0 (9m 4s):
+Hmm. Well speaking of delays, when do these rules go into effect? I mean we don't even have them officially yet. When do they take effect?
+
+8 (9m 14s):
+So this is gonna be a multi-step process when the, the law comes into effect within six months. Anything that's outright prohibited, which includes, for example, a a lot of this was to, in terms of kind of like national security and biometric surveillance that will come into effect within six months to try and get that enforced as quickly as possible. The obligations that are gonna be impacted against general ai. So the stuff that's probably going to impact companies like OpenAI that should come into effect 12 months after the law itself has taken effect. So that stuff is probably gonna take into effect in 2025. Anything that's gonna impact these big companies and then the remainder of all the rest of the goins, everything else that they need to tidy up should be in place by 2026.
+
+8 (9m 56s):
+So like the full force of this law could take an another two years, like two and a half years potentially to actually do anything.
+
+0 (10m 3s):
+Are we gonna have a different set of problems by that point?
+
+8 (10m 6s):
+When, you consider how much stuff changed between them proposing this law in 2021 and then just right open AI kind of appearing on the scene within a year later going, Hey, have you heard of generative AI that can do anything? Like we could be looking at a completely different landscape by then and unfortunately I'm not in the business of being like a seer or a profit or anything. So I can't turn around and say absolutely we're gonna have a different environment to deal with. They've done the best with this system that they've got the tiered system to make sure that anything that's introduced might be able to just be categorized within it already. They know that if it's gonna be a, an AI model that's turning around saying that it can do several different jobs, it's gonna be classified as a, as a general AI and it's gonna be beholden to a certain level of restriction.
+
+8 (10m 49s):
+Same as if they look at it and go, well yeah this is a, I don't know, a customer facing chatbot that's gonna go here. Like they, they've made it so that anything that's developed within the future hypothetically can be slotted into the existing rules. But, hmm, as far as I'm aware there was also the plan in 2021 and look what happened. I don't think it's the ironclad set of rules that anyone was hoping for at this point in time. Especially when a lot of the stuff that needs to be regulated, people are actually saying needs to kind of be a discussed prompt like now, right. And it's taken I would say probably an embarrassingly long time for a bunch of politicians and a i i providers to come together and make an agreement on what should constitute a safe development going forward.
+
+8 (11m 33s):
+It's very much like the dog meme of just sitting there with the room on fire. Again,
+
+12 (11m 36s):
+This is fine. I'm okay with the events that are unfolding currently. It's
+
+8 (11m 40s):
+Good that they're in, there's still a lot of work to be done and there's still some changes that could be made. But for now at least it's, it's a concrete agreement. There's no more in squabbling about how we're going to work the tiered systems or what's going to be included in there. The framework is in place and they can at least progress now rather than this, the stagnation that we've had for the past two years.
+
+0 (12m 8s):
+Jess Weatherbed at The Verge read her at The Verge dot com when we're back on today. Explained why Europe is always first with this stuff.
+
+5 (12m 19s):
+First
+
+Mint Mobile (12m 23s):
+Support for today's episode comes from Mint Mobile right now If, you make the switch to Mint Mobile and purchase three month plan. You'll receive an additional three months absolutely free. How can they do that? Well Mint Mobile is an online only business, which means they can get rid of the traditional costs of retail and that lets them pass those savings onto you. All plans come with unlimited talk and text and HighSpeed data delivered on nations largest 5G network. You can use your own phone with any Mint Mobile plan and switch with EIM or If. you need a new device. You can get six months of free service When. you buy a select device and plan for a limited time. You can buy any three month Mint Mobile plan and get three more months free by going to Mint Mobile dot com slash explained. That's Mint Mobile dot com slash explained. New customers only. Guys, additional Taxes fees and restrictions apply. See Mint Mobile for details.
+
+BetterHelp (13m 20s):
+Support for today explained comes from BetterHelp online therapy as 2023 winds down and the holidays are right around the bend. Many of you're looking for the right gifts for the people you love or maybe you just need something for that weird coworker you got in this year's Secret Santa. And and what BetterHelp is implying here is that you don't love that person, but because of your status in life, you have to buy that person a gift. It's sad. It also might be true. The point of the story is most of us aren't thinking enough about what we need for ourselves. And that might be a missed opportunity. If you're ready to set aside a little time to treat yourself to some TLC this year, you might wanna check out BetterHelp. You can be number one on your own gift list with BetterHelp. You can Visit BetterHelp dot com slash explain today to get 10% off your first month. That's better. HEL p.com/explained. BetterHelp online therapy. Get yourself something this season.
+
+Atlassian (14m 21s):
+Support for this show comes from Atlassian Atlassian Software like Jira, confluence and Trello help power the collaboration for teams to accomplish what would otherwise be impossible alone. Because individually we're great, but together we're so much better. That's why millions of teams around the world, including 75% of the Fortune 500 trust Atlassian software for everything from space exploration and green energy to delivering pizzas and podcasts. Whether you're a team of two, 200 or 2 million, or whether your team is around the corner or around another continent altogether, Atlassian software is built to help keep you all on the same page from start to finish. That way every one of your teams from engineering and IT to marketing, HR and legal can stay connected and moving together as one towards shared company-wide goals, learn how to unleash the potential of your team at Atlassian dot com. That's A-T-L-A-S-S-I-A n.com.
+
+7 (15m 16s):
+Atlassian
+
+0 (15m 34s):
+Today explained Sean Ramas firm joined by Columbia University, professor Anu Bradford. She's the author of a book called The Brussels Effect, how the European Union Rules the World.
+
+14 (15m 46s):
+So the Brussels Effect refers to European union's unilateral ability to regulate the global marketplace. So the EU is one of the largest and wealthiest consumer markets in the world and there are very few global companies that can afford not to trade in the EU. So as the price for accessing the European market, they need to follow European regulations, but often it is in their business interest to basically extend those regulations across their global production or their global conduct because they want to avoid the cost of complying with multiple different regulatory regimes.
+
+0 (16m 22s):
+Is the EU just always trying to be first or is there something special going on here? How are they able to move relatively comparatively quickly on artificial intelligence?
+
+14 (16m 33s):
+I don't think the EU necessarily wants to be first, but it just has the ability to regulate If. you compare to the United States, there is not similar polarization in the European legislator as there is in Congress. So the political divides are not preventing legislation from moving forward. There's also much less lobbying or the lobbying is less effective in the EU. So the, the US legislative process is very much shaped by tech companies that have influence over lawmaking and the EU just does not operate quite the same way. So the civil society also has access to legislators and often then offsets or balances the message that the lawmakers are hearing from the tech companies.
+
+0 (17m 22s):
+So basically what you're saying is in Europe you all have functional government
+
+14 (17m 27s):
+That is the one very good way to put it. There is still a functioning government in the EU. There's a legislator that is capable of passing legislation and that makes a big difference.
+
+0 (17m 40s):
+So can you give us a sense of the history here, how much the EU has managed to accomplish in terms of tech regulation because of this functional government ideology on technology?
+
+14 (17m 53s):
+So I would go back to early 1990s. That's when the US really stepped back from regulation.
+
+15 (18m 6s):
+'cause the internet has such explosive potential for prosperity. It should be a global free trade zone.
+
+14 (18m 13s):
+Up until then, the US had often been setting the rules that had global impact, but then the US really adopted this market driven dogma that was very anti-regulation. So the US took the lead in promoting this deregulation agenda.
+
+15 (18m 31s):
+It should be a place where government makes every effort first as the vice president said not to stand in the way.
+
+14 (18m 39s):
+And the EU stepped in and filled the vacuum because at that very point the EU was ramping up its own efforts to integrate the common European market. And that meant it needed to harmonize regulations so that we remove the barriers from within the member states for training within the EU. So the EU started proactively building a regulatory state, not for the purpose of ruling the world, but for the purpose of making Europe an integrated strong trading area.
+
+16 (19m 10s):
+We will strengthen the impact of this community through the ongoing implementation of common foreign and security policies.
+
+14 (19m 17s):
+So then the EU started focusing its regulatory efforts on digital economy.
+
+17 (19m 23s):
+The European Union has approved rules to force big technology firms such as Google, Facebook, and Twitter to remove illegal content.
+
+18 (19m 30s):
+However, the European Union has hit tech giant meadow with a record breaking fine of over a billion dollars for defying privacy rules.
+
+14 (19m 38s):
+And the gap between what the EU was producing and what the US was failing to do in the regulatory space just became larger and larger. But initially it was really the US' decision to say that, look, we trust the markets and the EU making philosophically a very different rule. and I think the inadvertent effect the the unintended consequence was that the US basically seeded this whole governance base to the EU.
+
+0 (20m 9s):
+And what is it accomplished? Give give us some of the greatest hits.
+
+14 (20m 13s):
+Well, I would say the GDPR is by far the most famous hit.
+
+19 (20m 17s):
+The European Union's general data protection regulation known to friends as GDPR goes into effect tomorrow.
+
+14 (20m 25s):
+So that was enacted in 2016 and that is a very significant regulation in shaping the entire global data privacy conversation and legislative frameworks. Then also antitrust. So the Europeans are very concerned about the abuse of market power by dominant tech companies. You have to recognize that you have powers
+
+10 (20m 47s):
+Beyond anyone else and with that comes a responsibility.
+
+14 (20m 50s):
+So there have been four antitrust lawsuits against Google that have been successfully concluded in the EU and that have resulted in around $10 billion in fines. And then there is the content moderation space. So the Europeans are very concerned about disinformation, they're very concerned about hate speech and the toxic environments surrounding internet users when they're using the platforms. And
+
+10 (21m 18s):
+We need to say to some of these service providers, you have a responsibility for the way you do business to make sure that people feel as comfortable when they're online as well as when they're offline.
+
+14 (21m 29s):
+So the Europeans have moved to limit hate speech and limit disinformation even though they remain committed to freedom of expression. There is just a sense that that important commitment to free speech is balanced against some other fundamental rights, including a right to dignity
+
+0 (21m 49s):
+And a hard pivot away from dignity to your phone Chargers, maybe the most tangible of all these Brussels effects. There are
+
+20 (21m 58s):
+USBA chargers, there are USBB chargers, there are USBC chargers, there are micro USB chargers, there are mini USB chargers, there are lightning.
+
+14 (22m 9s):
+The E also regulates consumer electronics. So there's an environmental concern surrounding consumer waste. And then another concern just the the consumer convenience If, you like the idea that we do not want the consumers to have to buy different cords for all the different devices and all the different jurisdictions where they're using them. So the EU standardized the common charger, which then led Apple to also switched its own charging port and extend that change not just in Europe but also outside of the EU.
+
+21 (22m 47s):
+The, you know, the word from Apple basically is like the Europeans made us do it, but it's time and we think people aren't gonna freak out.
+
+0 (22m 55s):
+Now in a case like that with the Apple USBC charger situation where literally everyone around the world who has this device will have their tech now changed because of this EU regulation. Why does it make more sense for a tech company like Apple to change this charging port for the whole world instead of just for the European market? Tell us how the Brussels effect makes sense for a business.
+
+14 (23m 26s):
+So often for these tech companies, it just a matter of efficiency and a cost calculus. So it is not efficient to run multiple different production lines. There are scale economies in uniform production, so they don't want to be producing different variations for different markets. Markets. And same applies for companies like Meta's Facebook, they pride themselves of having one global Facebook. So If, you and me are having a conversation and I'm in Europe And, you are in the United States. They don't want there to be a different speech rules that apply to the conversation whereby I would not be seeing a part of the conversation that you are able to see because there are different content moderation rules that would make it really difficult to have effective cross-border conversations.
+
+14 (24m 16s):
+But I would say Sean, that the most common reason is just simply, it is just too expensive to have many varieties of the same product.
+
+0 (24m 26s):
+I mean, I wanna bring this back to AI and has, has Europe met its match in artificial intelligence? We were talking earlier in the show about how these new regulation proposals may not go into effect until 2026, at least fully. That's a very long time away and this technology might look dramatically different by then. Our guest did mention that, you know, these regulations might have room to be augmented to fit whatever AI looks like in 2026, but this does feel like a new day for tech regulation.
+
+14 (25m 0s):
+So I completely agree and I concede that regulating in this space is extremely difficult. This is a fast moving technology and nobody knows where we are a few years from now, but I don't think it is a reason not to intervene and regulate. There are simply too many serious homes that we need to guard individuals and societies against. So a responsible government does step in even knowing that that regulation may need to be revisited, but you cannot let the perfect be the enemy of the good. Hmm. There are also tremendous costs in waiting and, and we do not want to just watch for all those costs to be materialized.
+
+14 (25m 43s):
+The goal here is not to crush the, the development of ai because I think it, it, it really is important to encourage that. I think the goal is to understand that alongside those opportunities, there are non-trivial harms and the governments need to take those seriously. And trusting the tech companies to self govern it is irresponsible because these companies are so focused on pursuing the profits that they just cannot afford to spend enough time on thinking about what happens to democracy, what happens to individual rights. And that's not even the expertise.
+
+14 (26m 28s):
+And that's why I take comfort that there seems to be global momentum growing, that the governments are now increasingly seeing that, look, we need to regulate this space. And now they have a template. Now they have an example that the governments can step in and when they can step in, how do they do it? Well, they can look at the eus AI Act and I think that is a very powerful example for the rest of the world.
+
+0 (27m 0s):
+Anu Bradford Columbia University, she's the author of the Brussels Effect, how the European Union Rules the World. But even more recently, and also pertinent to our conversation, digital Empires, the global battle to regulate technology. Our show today was produced by Amanda Lewellyn. It was edited by Matthew Collette, fact checked by Laura Bullard and mixed by Patrick. Boyd today explained.

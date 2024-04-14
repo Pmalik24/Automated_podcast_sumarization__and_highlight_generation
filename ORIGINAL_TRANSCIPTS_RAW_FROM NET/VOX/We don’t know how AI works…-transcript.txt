@@ -1,0 +1,317 @@
+0 (1s):
+Over the course of the past few months, we've brought you all kinds of coverage of ai. On today explained, we told you about the Puffer Pope.
+
+1 (10s):
+Can I say something without you guys getting mad?
+
+0 (12s):
+We told you about the fake Drake song
+
+2 (13s):
+Running through the six where My walls,
+
+0 (16s):
+We told you about the people doing mind-numbing work to train AI systems
+
+3 (22s):
+Together. Almost 50,000 workers from 167 countries around the world helped us to cling, sort and label nearly a billion candidate images.
+
+0 (36s):
+But what we didn't tell you is that we don't really know how AI works.
+
+4 (41s):
+I've built these models, I've studied these models, we built it, we trained it, but we don't know what it's doing.
+
+Unexplainable podcast (46s):
+Our friends over at Unexplainable are gonna help us wrap our heads around that fact on the show today. Today, today, explain. Hello, it's Sean, but I'm gonna hand things over to Noam Hassenfeld from the Unexplainable program, also from Vox. Nom recently reported out a two part series titled The Black Box. It's all about how even the people who designed AI don't really understand how it works and how it's kind of scary that we're moving full steam ahead. Anyway, we're bringing you episode one today and episode two on Monday while we take a little breather for Labor Day.
+
+0 (1m 32s):
+Here's Noam. So how
+
+6 (1m 33s):
+Did we get to this place where we've got these super powerful programs that scientists are still struggling to understand? It started with a pretty intriguing question, dating back to when the first computers were invented.
+
+1 (1m 46s):
+The whole idea of AI was that maybe intelligence. This thing that we used to think was uniquely human could be built on a computer.
+
+6 (1m 54s):
+Kelsey Piper, AI reporter Vox,
+
+1 (1m 57s):
+It was deeply unclear how to build super intelligent systems, but as soon as you had computing, you had leading figures in computing say, this is big and this has the potential to change everything.
+
+6 (2m 10s):
+In the fifties, computers could already solve complex math problems and researchers thought this ability could eventually be scaled up. So they started working on new programs that could do more complicated things like playing chess.
+
+7 (2m 23s):
+Chess has come to represent the complexity and intelligence of the human mind, the ability to think
+
+6 (2m 30s):
+Over time. As computers got more powerful, these simple programs started getting more capable, and by the time the nineties rolled around, I B M had built a chess playing program that started to actually win against some good players. They called it deep blue and it was pretty different from the Unexplainable kinds of ais we're dealing with today. Here's how it worked. I b m programmed deep blue with all sorts of chess moves and board states. That's basically all the possible configurations of pieces on the board. So you'd start with all the ponds in a line with the other pieces behind them, pawn
+
+8 (3m 8s):
+E two to E four.
+
+6 (3m 11s):
+Then with every move you'd get a new board state now
+
+8 (3m 14s):
+G eight to G six,
+
+6 (3m 16s):
+And with every new board state there would be different potential moves. Deep blue could make
+
+8 (3m 20s):
+Bishop F one to C four
+
+6 (3m 24s):
+I b m programmed all these possible moves into deep blue, and then they got hundreds of chess grand masters to help them rank how good a particular move would be.
+
+1 (3m 33s):
+They used rules that were defined by chess masters and by computer scientists to tell deep blue this board state, is it a good board state or a bad board state? And deep blue would run the evaluations in order to evaluate whether the board stated had found was any good.
+
+6 (3m 51s):
+Deep blue could evaluate 200 million moves per second, and then it would just select the one i b m had rated the highest. There were some other complicated things going on here, but it was still pretty basic. Deep blue had a better memory than we do, and it did incredibly complicated calculations, but it was essentially just reflecting humans' knowledge of chess back at us. It wasn't really generating anything new or being creative and to a lot of people, including Gary Kaspar of the chess world champion at the time. This kind of chess bott wasn't that impressive, especially because it was so robotic.
+
+9 (4m 29s):
+They tried to use only computers, advantages, calculation, evaluation, et cetera. But I still am not sure that the computer will beat World Champion because it's 'cause world Champion is absolutely the best and his greatest abilities to find a new way in chess and it'll be something you can't explain the computer.
+
+6 (4m 51s):
+Kasparov played the first model of Deep Blue in 1996 and he won, but a year later against an updated model, the rematch didn't go nearly as well. What are
+
+10 (5m 1s):
+We missing? Something on the chessboard now that Kasparov sees, he looks disgusted. In fact, he looks just
+
+6 (5m 8s):
+Kasparov leaned his head into his hand and he just started staring blankly off into space.
+
+10 (5m 14s):
+And whoa, deep blue Kasparov has resigned.
+
+6 (5m 19s):
+He got up, gave this sort of shrug to the audience, and he just walked off the stage.
+
+10 (5m 25s):
+I, you know, I proved to be vulnerable. you know, when I see something that is well beyond my understanding, I'm scared. And that was something well beyond my understanding.
+
+6 (5m 34s):
+Deep Blue may have mystified Kasparov, but Kelsey says that computer scientists knew exactly what was going on here. It
+
+1 (5m 41s):
+Was complicated, but it was written in by a human. You can look at the evaluation function, which is made up of parts that humans wrote and learn why Deep blue thought that board state was good.
+
+6 (5m 53s):
+It was so predictable that people weren't sure whether this should even count, count as artificial intelligence.
+
+1 (5m 59s):
+People were kind of like, okay, that's not intelligence. Intelligence should require more than just, I will look at hundreds of thousands of board positions and check which one gets the highest rating against a pre-written rule and then do the one that gets the highest rating.
+
+6 (6m 14s):
+But Deep Blue wasn't the only way to design a powerful ai. A bunch of other groups were working on more sophisticated tech, an AI that didn't need to be told, which moves to make in advance, one that could find solutions for itself. And then in 2015, almost 20 years after Kasparov's dramatic loss, Google's DeepMind built an AI called AlphaGo, designed for what many people call the hardest board game ever made. Go.
+
+1 (6m 42s):
+Go had remained unsolved by AI systems for a long time after chess had been.
+
+6 (6m 46s):
+If you've never played Go, it's a board game where players place black and white tiles on a 19 by 19 grid to capture territory, and it's way more complicated than chess.
+
+1 (6m 56s):
+Go has way more possible board states. So the approach with chess would not really work. You couldn't hardcode in as many rules about in this situation, do this
+
+6 (7m 7s):
+Instead. AlphaGo was designed to essentially learn over time.
+
+1 (7m 11s):
+It's sort of modeled after the human brain.
+
+6 (7m 15s):
+Here's a way too simple way to describe something as absurdly complicated as the brain, but hopefully it can work for our purposes here. A brain is made up of billions and billions of neurons, and a single neuron is kind of like a switch. It can turn on or off. When it turns on, it can turn on the neurons it's connected to, and the more the neurons turn on over time, the more these connections get strength, which is basically how scientists think the brain might learn.
+
+1 (7m 42s):
+Like probably in my brain, neurons that are associated with my house, you know, are probably also strongly associated with my kids and other things in my house because I have a lot of connections among those things.
+
+6 (7m 58s):
+Scientists don't really understand how all of this adds up to learning in the brain. They just think it has something to do with all of these neural connections. But AlphaGo followed this model and researchers created what they called an artificial neural network because instead of real neurons, it had artificial ones, things that can turn on or off.
+
+1 (8m 17s):
+All you'd have is numbers. At this spot we have a yes or a no, and here is like how strongly connected they are.
+
+6 (8m 25s):
+And with that structure in place, researchers started training it. They had AlphaGo play millions of simulated games against itself, and over time it strengthened or weakened the connections between its artificial neurons,
+
+1 (8m 38s):
+It tries something and it learns. Did that go well? Did that go badly? And it adjusts the procedure it uses to choose its next action based on that,
+
+6 (8m 47s):
+It's basically trial and error. You can imagine a toy car trying to get from point A to point B on a table. If we hard coded in the root, we'd basically be telling it exactly how to get there. But if we used an artificial neural network, it would be like placing that car in the center of the table and letting it try out all sorts of directions randomly. Every time it falls off the table, it would eliminate that path. It wouldn't use it again. And slowly over time the car would find a route that works.
+
+1 (9m 18s):
+So you're not just teaching it what we would do, you are teaching it how to tell if a thing it did was good and then based on that it develops its own capabilities.
+
+6 (9m 29s):
+This process essentially allowed AlphaGo to teach itself, which moves worked and which moves didn't. But because AlphaGo was trained like this, researchers couldn't tell which specific features it was picking up on when it made any individual decision. Unlike with deep blue, they couldn't fully explain any move on a basic level. Still this method worked. It allowed AlphaGo to get really good and when it was ready, Google set up a five game match between AlphaGo and World Champion Lisa Doll, and they put up a million dollar prize.
+
+11 (10m 4s):
+Hello and welcome to the Google DeepMind challenge match Live from the Four Seasons in Seoul, Korea.
+
+6 (10m 12s):
+AlphaGo took the first game, which totally surprised Lee. So in the next game he played a lot more carefully, but game two is when things started to get really strange.
+
+12 (10m 23s):
+That's a very, that's a very surprising move
+
+11 (10m 26s):
+I thought. I thought it was, I thought it was a mistake.
+
+6 (10m 30s):
+On the 37th move of the game, alpha go shocked everyone watching even other expert go Players.
+
+13 (10m 37s):
+When I see this move, for me it's just the big shock. What normally human will never play this one because it's bad, just bad
+
+6 (10m 48s):
+Move. 37 was super risky. People didn't really understand what was going on, but this move was a turning point. Pretty soon AlphaGo started taking control of the board and the audience sensed a shift.
+
+13 (11m 2s):
+The more I see this move, I feel something changed. Maybe for human we think it's bad, but for AlphaGo, why not?
+
+6 (11m 12s):
+Eventually Lee accepted that there was nothing he could do and he resigned.
+
+11 (11m 17s):
+AlphaGo scores another win and a dramatic and exciting game that I'm sure people are gonna be analyzing and discussing. For a long time,
+
+6 (11m 27s):
+AlphaGo ended up winning four out of five matches against the world champion, but no one really understood how,
+
+1 (11m 34s):
+And that I think sent a shock through a lot of people who hadn't been thinking very hard about AI and what it was capable of. It was a much larger leap
+
+6 (11m 44s):
+Move 37 didn't just change the course of a go game, it represented a seismic shift in the development of ai. AlphaGo had demonstrated that an AI scientists don't fully understand might actually be more powerful than one. They can explain
+
+0 (12m 10s):
+A weirder and even more inscrutable form of AI called chat, G P T When we return On today
+
+Chromebook (12m 17s):
+explained, Wait, are you gaming on a Chromebook? Yeah, It's got a high res 120 hertz display plus this killer R G B keyboard and I can access thousands of games anytime, anywhere. Stop playing what? Get outta here, huh? Yeah. I want you to stop playing and get outta here so I can game on that Chromebook. Got it. Go down, discover the ultimate cloud gaming machine, a new kind of Chromebook
+
+Intuit (12m 54s):
+This week on Intuit a TV and movie fall preview from the new Scorsese film Killers of the Flower Moon. I was Sent down from Washington DC to see about these murders To the Golden Bachelor. He's Garrity and I'm your first Golden Bachelor. We'll tell you what to watch. Also, a few recommendations of stuff you might've missed so far this year, like Project Greenlight. It's not excellent, but it is a fascinating portrait of making movies and the problem with making movies. At this moment This week on Intuit Vultures pop culture podcast
+
+NRC Health (13m 33s):
+Today explained is supported by NRC Health, helping providers overcome health disparities by using a personalized approach and an emphasis on unique patient preferences. More at nrc health.com/connect
+
+20 (13m 48s):
+Players. Sam says, go
+
+0 (13m 52s):
+Today, explained is back, and today we're bringing you part one of The Black Box series from Unexplainable hosted by Noam Hassenfeld. It's all about the mysteries behind ai, and Noam's already told you about two major turning points in the history of artificial intelligence. The first was deep blue chess. The second was AlphaGo, and I bet the third you've heard of, it's called Chat, G P T, basically auto complete on steroids. Researchers fed this AI a ton of text and then got people to up vote and down vote. Good and bad responses to help it sound more natural, but Noam spoke to an AI researcher named Sam Bowman who said, even the people who built this AI don't really know how it works.
+
+4 (14m 38s):
+There's not a lot of code there. We don't really engineer this. We don't really deliberately build this system in any fine grained way,
+
+6 (14m 46s):
+Which means there are some pretty huge unknowns at the heart of chat G P T. Even when chat G B T creates an obvious seeming response, researchers can't fully explain how it's happening.
+
+4 (14m 59s):
+We don't really know what they're doing in any deep sense. If we open up chat G P T or a system like it and look inside, you just see millions of numbers flipping around a few hundred times a second and we just have no idea what any of it means.
+
+6 (15m 14s):
+Now, it's true that engineers often don't understand exactly how inventions work when they first design them, but the difference here is that researchers can't reliably predict what outcome they're gonna get. They can't steer this kind of AI all that well, which is pretty different from classic computer programming
+
+4 (15m 32s):
+With normal programs with Microsoft Word, with Deep Blue, we can tell these stories at most, a few sentences long about what every little bit of computation is doing. We just
+
+6 (15m 43s):
+Can't do that with chat G B T.
+
+4 (15m 45s):
+All we can really say is just there are a bunch of little numbers and they sometimes they go up and sometimes they go down and we're really just kind of searing these things almost completely through trial and error.
+
+6 (15m 55s):
+This trial and error method has worked so well that typing to chat G P T can feel a lot like chatting with a human, which has led a lot of people to trust it, even though it's not designed to provide factual information like one lawyer did recently.
+
+22 (16m 9s):
+The lawsuit was written by a lawyer who actually used chat G P T and in his brief cited a dozen relevant decisions. All of those decisions, however, were completely invented by chat G P T,
+
+6 (16m 26s):
+But it seems like there might be more going on here than just a chatbot parroting language. Just like AlphaGo Chat, G P T has started making moves. Researchers didn't anticipate the latest model, G P T four. It's gotten pretty good at morse code. It can get a great score on the bar exam, it can write computer code to generate entire websites and this kind of thing can get uncanny. Ethan Molik a Wharton business professor. He talked about this on the Forward Thinking podcast where he said that he used G P T four to create a business strategy in 30 minutes, something he called superhuman
+
+21 (17m 6s):
+In 30 minutes. The AI was just a little bit of prompting for me, came up with a really good marketing strategy, a full email marketing campaign, which was excellent by the way, and I've run a bunch of these kind of things in the past. Wrote a website, created the website along with c s s files, everything else you would need, and created a full social media campaign. 30 minutes. I I know from experience that this would be a team of people working for a week.
+
+6 (17m 29s):
+A few researchers at Microsoft were looking at all of these abilities and they wanted to test just how much G p t four could really do. They wanted to be sure that G P T four wasn't just parroting language it had already seen, so they designed a question that couldn't be found anywhere online. They gave it the following prompt. Here we have a book, nine Eggs, a laptop, a bottle, and a nail. Please tell me how to stack them onto each other in a stable manner. An earlier model had totally failed at this. It recommended that a researcher try balancing an egg on top of a nail and then putting that whole thing on top of a bottle, but G P T four responded like this.
+
+23 (18m 10s):
+Place the book flat on a level surface such as a table or a floor. Arrange the nine eggs in a three by three square on top of the book, leaving some space between them. The eggs will form a second layer and distribute the weight evenly.
+
+6 (18m 24s):
+G P T four went on recommending that the researchers use that layer of eggs as a level base for the laptop, then put the bottle on the laptop and finally
+
+23 (18m 34s):
+Place the nail on top of the bottle cap with the pointy end facing up and the flat end facing down the nail will be the final and smallest object in the stack.
+
+6 (18m 43s):
+Somehow G GT four had come up with a pretty good and apparently original way to get these random objects to actually balance. It's not clear exactly what to make of this. The Microsoft researchers claim that GT four isn't just predicting words anymore, that in some sense it actually understands the meanings behind the words. It's using that somehow it has a basic grasp of physics. Other experts have called claims like this silly that Microsoft's approach of focusing on a few impressive examples isn't scientific and they point to other examples of obvious failures like how G P T four often can't even win a tic-tac toe, but the truth of how intelligent G P T four is, it might be somewhere in the middle.
+
+24 (19m 35s):
+It's not as though the two extremes are like complete smoke and mirrors and human intelligence.
+
+6 (19m 42s):
+Ellie Pavlik is a computer science professor at Brown.
+
+24 (19m 45s):
+There's a lot of places for things in between to be like more intelligent than the systems we've had and have certain types of abilities. But that doesn't mean we've created intelligence of a variety that should force us to question our humanity or like putting it as like these are the two options I think oversimplify and like makes it so that there's no room for the thing that probably we actually did create, which is a very exciting, quite intelligent system, but not human or human level even
+
+6 (20m 20s):
+At this point. We really can't say if G P T four has any level of understanding, but for his part, Sam is less concerned with how to describe G P T four's internal experience than he is with what it can do because it's just weird that based on the training it got G P T four can create business strategy, that it can write code, that it can figure out how to stack nails on bottles on eggs. None of that was
+
+4 (20m 46s):
+Designed in, you're running the same code to get all these different sort of levels of behavior.
+
+6 (20m 51s):
+What's unsettling for Sam is that if GT four can do things like this that weren't designed in companies like OpenAI might not be able to predict what the next systems will be able to do.
+
+4 (21m 3s):
+These companies can't really say, all right, next year we're gonna be able to do this. Then the year after we're gonna be able to do that. They don't know at that point what it's gonna be able to do.
+
+6 (21m 11s):
+And it's worth emphasizing that so many of GT four's abilities were discovered only after it was released to the public.
+
+4 (21m 18s):
+This seems like the recipe four being caught by surprise when with these things out in the world and laying the groundwork to have this go well is gonna be much harder than it needs to be.
+
+6 (21m 29s):
+Some researchers like Ellie have pushed back on the idea that these abilities are fundamentally unpredictable. We might just not be able to predict them yet.
+
+24 (21m 38s):
+The science will get better. It just hasn't caught up yet because this has all been happening on a short timeframe. But it is possible that like this is a whole new beast and it's actually a fundamentally unpredictable thing. Like that is a possibility. We definitely can't rule it out.
+
+6 (21m 51s):
+As AI starts to get more powerful and more integrated into the world, the fact that its creators can't fully explain. It becomes a lot more of a reliability. So some researchers are pushing for more effort to go into demystifying ai, making it interpretable. Sam says there are two main ways to approach this problem. Researchers can either try to decipher the systems they already have or they can try to design new systems, which by their nature are fully explainable. But so far these two approaches have run into some serious roadblocks.
+
+4 (22m 25s):
+Both of these have turned out in practice to be extremely, extremely hard, and I think we're not making critically fast progress on either of them. Unfortunately,
+
+6 (22m 33s):
+There are a few reasons why this is so hard. One is because these models are based on the brain.
+
+4 (22m 39s):
+If we ask questions about the human brain, we very often don't have good answers. We can't look at how a person thinks and and really explain their reasoning by looking at the firings of the neurons. We don't yet really have the language, really have the concepts that let us think in detail about the kind of thing that a mind does.
+
+6 (22m 58s):
+And the second reason is that the amount of calculations going on in G P T four is just astronomically huge.
+
+4 (23m 5s):
+There are hundreds of billions of connections in these neural networks and so even if you can find a way that if you stare at a piece of the network for a few hours, you, you can make some good guesses about what's going on. We would need every single person on earth to be staring at this network to really get through all of the work of explaining it.
+
+6 (23m 22s):
+But there's another trickier issue here. Unexplainably may just end up being the bargain researchers have made.
+
+4 (23m 32s):
+We've got increasingly clear evidence. This technology is improving very quickly in directions that seem like they're aimed at some very, very important stuff and potentially destabilizing to a lot of important institutions. But We don't know how fast it's moving. We don't know why it's working when it's working and I dunno, that seems very plausible to me. That's gonna be the defining story of the next decade or so is how we come to a better understanding of this and how we navigate it.
+
+0 (24m 9s):
+That was an episode of Unexplainable from the Vox Media Podcast Network. We're bringing you a truncated version of their two-part series called The Black Box here, On today explained, but you can hear the full thing in the Unexplainable feed. We'll have more for you in this space on Monday.

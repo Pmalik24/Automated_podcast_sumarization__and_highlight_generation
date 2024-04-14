@@ -1,0 +1,179 @@
+2 (7s):
+It's not every week that the United States Senate tries the presidents of the United States. So you're totally forgiven. If you missed the news that the Crown Prince of Saudi Arabia may have hacked Jeff Bezos
+
+1 (20s):
+the initial expert who conducted the forensic investigation concluded with medium to high certainty that the source of the hacking was a video file sent to mr. Bezos towards up from an account owned by the Crown
+
+2 (40s):
+Prince and this wasn't just a claim from Bezos and his base's this came from the United
+
+1 (46s):
+Nations. We received the report of humans to go and over the last few weeks. We have consulted our own independent expert who have reviewed the findings and the work of that initial for Seek investigation and they have concluded following a range of expert exchanges that the most likely source of the hacking of. Mr. Bezos phone was indeed a WhatsApp message originating from an account owned by the Crown Prince of Saudi Arabia Mohammed.
+
+2 (1m 24s):
+Bin Salman, perhaps best known for ordering a hit on Washington Post journalist, Jamal. All khashoggi may have also dropped some spyware in a WhatsApp message to Jeff Bezos who owns the Washington Post we covered the news about Bezos getting hacked almost a year ago when we first found out with Peter Kafka from recode, but now that there's evidence pointing to Saudi Arabia. We called Peter back in to help us make sense of the story.
+
+1 (1m 55s):
+Let's take it back
+
+2 (1m 56s):
+to this time last year. Sure. Beginning of January of 2019 The National Enquirer starts running salacious stories about Jeff Bezos having an affair. They run some salacious photos. They intimate they have more salacious photos in
+
+1 (2m 14s):
+addition to the in their words below the belt selfie other lies colloquially known as a blank pick The Enquirer obtained a further nine
+
+2 (2m 22s):
+images. It's a staggering story and then a few weeks later. Jeff Bezos has all billionaires do writes a post on on medium where he says by the way, the National Enquirer tried to extort me. They tried to extract things from me. So they wouldn't run those photos. Obviously. I didn't
+
+1 (2m 39s):
+agree right this I was made an offer I couldn't refuse or at least that's what the top people at the National Enquirer thought I'm glad they thought that because it emboldened them to put it all in
+
+2 (2m 48s):
+writing. And also I have some other stuff. I want to get off my chest he feels apparently that there was political motivation for what The Enquirer was doing and so our sense a year ago. Was that the story was more than just a little phone hack and we were right but we were also kind of wrong. We still don't really know. It's definitely a weird ass story. We were I was focused on the idea that this was a connection between the National Enquirer and perhaps Donald Trump since those two entities work closely together, but Jeff Bezos even back then was saying by the way is something involving Saudi Arabia might be at play here. He didn't say Saudi Arabia hacked my phone, but he mentioned Saudi Arabia multiple times.
+
+2 (3m 30s):
+And it just seemed kind of too wild to think about and a lot of people sort of ended up ignoring that argument. Well, it turns out that when Jeff Bezos wrote that memo he believed that Saudi Arabia had hacked his phone. In March of last year guy named Gavin de Becker sort of a private eye to the rich and famous who's working for Jeff Bezos and was working for him during this time publishes under his own byline a piece of The Daily Beast. The title of that is Bezos investigations finds the Saudis obtained his private data Gavin de Becker
+
+1 (4m 7s):
+writes our investigators and several experts concluded with high confidence that the Saudis had access to bezos's phone and gained. I have an
+
+2 (4m 16s):
+information. This should have been a bombshell and for I guess multiple reasons everyone's sort of ignored it the conventional wisdom report in the Wall Street Journal a lots of other places was the reason Jeff Bezos has private stuff got out is that his girlfriend's brother had somehow got his hands on it and he had sold that information to the National Enquirer and we were all sort of satisfied with that explanation because we're fools we're fools. I mean eyes there's a smart person version of being foolish, which is believing in Occam's razor. Razor the idea that the simplest explanation is. Usually the accurate one and for me the idea that a middle-aged dude whose secret racy text to his girlfriend's got out.
+
+2 (4m 58s):
+He wasn't hacked that his girlfriend told someone or something like that because that makes sense. By the way, we can in theory Stitch. Both of these things together that Not only was Jeff Bezos his phone hacked by the Saudis, but the Saudis then routed that information through his girlfriend's doofus brother who then sold it to the choir so this particular angle this possibility that this is a Saudi involved phone hack is ignored for a long time until it's not this week what changed this week this week the guardian broke the news that there have been allegations that the Saudis had hack Jeff Bezos his phone and not just allegations, but there's a report and the report is somehow connected to the United Nations what it turns out is that there's a company called FTI which has done an investigation into Jeff Bezos his phone at Jeff Bezos has West and that report has then been passed on to various important bodies.
+
+2 (5m 52s):
+One of them is the UN the UN was already investigating the Saudis and their prince Mohammed bin Salman who are going to refer to as most people do now from here on out as MBS. He's the Crown Prince of Saudi Arabia. So what we discovered this week, is that the Crown Prince of Saudi Arabia, perhaps best known in these parts for ordering the hit on Washington Post journalist. Jamal khashoggi also hacked the owner of the Washington Post Jeff Bezos. Allegedly. We've got a report created by someone Jeff Bezos paid, which says they have medium to high confidence in this Theory the UN put out a press release says un experts call for investigation into allegations that Saudi Crown Prince involved in hacking of Jeff Bezos is phone.
+
+2 (6m 41s):
+So the UN isn't saying we believe this is a hundred percent sure. They're just saying sure seems like there's something here. They then publish sort of an abbreviated version. Vision of the report that's the full report thou has his surface in places like vice.com. So all this is now sort of out there if you go back and look at what Gavin de Becker wrote in March of last year. It's pretty much what he was saying back then there's just now a document and that seems to give it a lot more weight. So how exactly does this happen. How does MBS get into the phone? Jeff Bezos? He sends him a text. A message via WhatsApp. Oh just that simple just like that.
+
+2 (7m 23s):
+Yeah and Bs is doing a tour of the US. This is back when everyone in the u.s. Thought he was a reformer that he was the new Young Progressive face of Saudi Arabia. And also by the way, someone who had billions of dollars to spend he was going to let women drive and all this going to let women drive and he was open for business. Well, the prince has arrived the Crown Prince of Saudi Arabia
+
+1 (7m 46s):
+is in town tonight for some high. Profile meetings with Silicon Valley CEOs in the next few
+
+2 (7m 52s):
+days. So he made some everyone from Donald Trump to Michael Bloomberg to Tim Cook and eventually Jeff Bezos. Everyone is very excited to meet with them. They're all photograph with him and at some point he apparently has dinner with Bezos and at some point they exchanged WhatsApp information as I suppose world leaders do and then supposedly MBS sends him a video attachment via WhatsApp and Bezos clicks on it, and we don't know what Opens then in terms of the video what supposedly happens then is Jeff Bezos is phone starts uploading enormous amounts of information, huh? And here you have to sort of imagine what it's uploading but the suggestion is it's uploading personal stuff that he didn't want upload it and that it is going back to mbss phone.
+
+2 (8m 39s):
+Wow. Yeah, that's a wow. Well, first of all, what kind of videos does MBS send Jeff Bezos are these like cat videos are these memes courtesy of Vice? There's a screenshot of the video file. It's got a picture of a Saudi Arabia logo and a Sweden logo. I don't know why ha and a play button and you know, if you get random stuff sent to you via email, you generally don't click on it. I think when you get a WhatsApp from someone you're assuming they know you directly. It's probably safer. And maybe Jeff Bezos is just like us he occasionally clicks on things that he should not click on funny you say that because my dad sends me random videos on WhatsApp all the time and I never click on them.
+
+2 (9m 24s):
+Maybe dad wants to hack your phone. I don't trust him. I don't trust them. Okay. So Bezos clicks on this Sweden Saudi video for whatever reason and all of a sudden he's downloading some sort of spyware. Yes, that is the implication of the the report speculates that it could be something called Pegasus 3. Malware a product quote widely reported to have been purchased and deployed by Saudi officials that ones made by the NSO group. That's a bunch of Israeli hackers. There's some other software they're guessing it what it might be. They don't actually know here. We should caveat that some information security research experts including the guy who used to run information security for Facebook have looked at the reports that are out there and say this is certainly suspicious but they have not proven their case here.
+
+2 (10m 11s):
+We have questions about this report. We are not as convinced of as everyone else's so you can take this with one or two grains of salt if you would like. Okay, so while we're not completely sure what the spyware or malware MBS sent Bezos may have been things are looking pretty certain that MBS hacked bezos's phone. That isn't as much in question anymore. We're gonna use allegedly some caveats. And again, this is one report assessed with quote medium to high confidence, but that is The allegation that all of a sudden Jeff Bezos is phone starts just shooting out data increasing data egress Suddenly by twenty nine thousand one hundred and fifty six percent data spiking continue to undetected over some months and it rates as much as oh my gosh.
+
+2 (10m 60s):
+I can't even do that math 106 million percent higher than free video data. Does Basil's have any idea this is happening while it's happening is his phone, you know heating up while he's trying to go to sleep or something. They don't seem to think that he was alerted to this. He does then get to weird messages from MBS over the next few months, which he does find suspicious Apparently one is a picture of a woman which kind of looks like the woman that he was dating but not really again. If you look at it with a weird caption that essentially says something like hanging out with women is like reading the software license agreement in the end. You just press click that's the actual thing that mvs sent to Jeff Bezos sounds like a progressive reformer to me.
+
+2 (11m 45s):
+It's weird it again. It's maybe the kind of thing your uncle would send you But that seems suspicious more suspicious to Bezos is that at some point he is getting a briefing via the phone about attacks against him on social media, which his researchers believe are coming from Saudi Arabia and then gets a weird message from MBS saying quote Jeff all what you hear or told to it's not true and it's matter of time till you know, the truth. There is nothing against you or Amazon for me or Saudi Arabia. Oh, wow, so I don't know what's going on in your life. But if you get that message from mbsu, that's it alarm you so wait a second MBS while potentially hacking the phone of the richest man in the world and potentially one of the most powerful also sends him a message in broken ass English seg, Jeff everything cool.
+
+2 (12m 40s):
+No phone hack something like that. It does give you pause and think well, maybe not quite the Mastermind. Maybe it's like if CIA was trying to kill Fidel Castro. They sent him a note saying hey, if you get an exploding cigar your face, just so you know, it was definitely not from Langley. It doesn't seem super slick. So we have questions. Why would
+
+1 (13m 3s):
+MBS want to hack
+
+2 (13m 5s):
+Jeff Bezos is phone there bunch of reasons. You might want to hack the phone of one of the most powerful people in the world whether or not you were doing business with him and whether or not he owned the Washington Post and whether or not he employed a columnist that was antagonizing you but Jeff Bezos happened to be all those things to he happened to be all of those things. Do we know what else they got other than potentially as he so loved calling it Peter. We don't even know if he got the dick pics there, but that's the guess say dick pic one more time. I did it three times last episode. So we'll keep it to this time classy. So, how is the Crown Prince reacted to this report?
+
+2 (13m 47s):
+The Saudi government has denied it? Absolutely not total
+
+1 (13m 50s):
+nonsense from I
+
+2 (13m 52s):
+have no idea. This story was out here almost a year ago it was
+
+1 (13m 55s):
+defunct but then we rejected it
+
+2 (13m 57s):
+completely people are trying to sensationalize something that is pure fiction. Now they have also denied initially that anything happened to khashoggi then they denied that he was involved and they have subsequently said, well other people were involved in the murder of khashoggi but not the Crown Prince. They have called for an investigation. Patient into this by the way. Oh, so they're deeply concerned. Does that suggest that the very least that MBS and Jeff Bezos won't be doing business together anytime soon seems unlikely which add another day. I guess the question will be what other tech companies will or won't be doing business with Saudi Arabia and that is a pretty open question right now. We're going to take a quick break.
+
+2 (14m 38s):
+And after that I'm going to talk to Peter's recode colleague Kara Swisher about Saudi money. in Tech Something like 12 years ago my family and I we wanted to get a dog from the pound the pound in Pasadena, California and the pound in Pasadena, California had a website and one night late at night. We were browsing the the puppies that had come in and there was this like batch of adorable like deathly adorable half ciao half shepherd mixed puppies that had come in and we were like, oh my gosh, we're gonna go first thing in the morning.
+
+2 (15m 25s):
+And grab one of these dogs and life will be perfect and we showed up the next morning and they were all adopted like four out of the five were adopted and the only one remaining had a scar on his neck because his mother had like thrown him by the neck with her, you know jaw with her mandible. And now we said we'll take this dog with the scar because hello adorable who cares if it has a scar and his name is Charles and he's He's been our best friend ever since it's kind of analogous that situation to the one over at imperfect Foods. It turns out Americans toss about 20 billion pounds of produce in the trash.
+
+2 (16m 8s):
+Each year imperfect Foods wants to change that by putting less waste in landfills and more great food in your home. They buy the perfectly good food grocery stores can't or won't sell and deliver to you at a discount. Along with your produce. They have like Surplus coffee quinoa eggs almonds and much much more. You can start saving time and save some money and and save some waste right now when you go to imperfect Foods.com explained right now through February 16th, you'll get $10 off your next four orders. That's a total of $40 off when you go to imperfect Foods.com / explained you get $10 off your next four orders one more time for the road.
+
+2 (16m 55s):
+Mmm. Perfect Foods.com explained and use the code explained when you check out. Hey everyone, so I know you know all about Vox podcast because I talk about him all the time. He listened to one right now. I know you know about boxes Netflix show explain but Vox is also just getting into the regular like narrative TV game right now. You can find a show called Little America on Apple TV plus only in America Dia odd tax after you see the ticket Place only in America can such a part like the game exist Face Forward hamburgers. These Burgers bacon chili cheeseburger everything on top of everything only in America.
+
+2 (17m 45s):
+Well America comes from the people who brought you the big sick and master of none. It tells 8 extraordinary true stories of immigrants coming to America people from Syria. Uganda Mexico Nigeria. These stories are funny romantic their heartfelt and inspiring and who couldn't use a little bit of that right now Little America is live. Now, you can find it on the Apple TV app or go straight to tv.com All.com the show is called Little America 8 episodes check them out now.
+
+2 (18m 29s):
+Kara Swisher you've written about silicon Valley's relationship with Saudi Arabia. How deep are these ties? As far as we
+
+1 (18m 35s):
+know well quite deep there's a ton of investment. I mean the Saudis have been investing in Silicon Valley for many many years going back a long way big investors in Twitter big investors in Google big investors in lots and lots of companies. They've struggled with their Uber investment. Obviously another the Saudis have a seat on the board and there again, they're very much involved in lots and lots of He's that we use every day and we don't you know, you think about is very popular consumer companies
+
+2 (18m 59s):
+with the company like Twitter. I mean, we're not talking about the most obvious profit model in the world. What is Saudi Arabia's interest in in these companies and especially the ones that don't even have a clear profit model,
+
+1 (19m 12s):
+you know, there's been a lot of upside to being in Twitter. A lot of people made a lot of money from being shareholders or Twitter as it's gone up and down. There's been a lot of money made by Saudi investors in all kinds of things because the internet and Tech has been a good place to be Involved in they've been investing in apple. They've been investing in all you know Microsoft. They have investments just like any rich people they want to be involved where the highest returns are and that's been in Tech over the past decade at least if not
+
+2 (19m 37s):
+longer and how did this relationship if at all change after the murder of Jamal
+
+1 (19m 43s):
+khashoggi? Well, it didn't there hasn't been a cutback in the money people to are taking this money. These are very wealthy people with lots of money to put to use so
+
+2 (19m 53s):
+does that mean Bezos is basically a lie? Own and sort of cutting off his ties to MBS and Saudi Arabia. And and if so that it took the murder of one of his journalists and the hacking of his phone potentially to get to that
+
+1 (20m 6s):
+point. You know Bezos has to have a relationship with people all around the globe and MBS would be one of them as Amazon seeks to expand to places like Saudi Arabia across the Mideast and so the problem is that now he owns a newspaper that has a very different point of view about the Saudis and so, you know, No, I think he saw firsthand the repercussions of having that newspaper and there's Amazon and then there's the Washington Post even though President Trump tries to conflate the two those are two different businesses and the difficulty of owning a newspaper like this and being responsible for journalists like mr. Khashoggi. He's going to have repercussions from owning
+
+2 (20m 44s):
+that I'm just like wondering is that what it took for for someone in Tech to take a stand against Saudi Investment Saudi involvement in one of these firms was it, you know straight. Murder or say that the hacking of a phone. It does the rest of Silicon Valley not have a bar.
+
+1 (21m 2s):
+Well, you know money is money you if you talk to them off the Record, they're all like dirty money. They do say that you know, and they actually I was at a dinner party where they were stack ranking Dirty Money. They're like, well the best money to get right now is from the people from Singapore the rich people from Singapore because they're not as dirty as say the Russians are the Saudis or the Chinese or whatever, but you know, these are large masses. Massive amounts of capital that are needed to invest in Innovation and and these companies and they're not always from the places you might want them to be from and so off the Record they'll tell you how awful it is on the record. They'll a lot of these companies take the money.
+
+2 (21m 40s):
+Yeah. And so your impression is a lot of these companies aren't necessarily thinking about the risks involved.
+
+1 (21m 47s):
+Well, I don't know what the risk is. I mean, it's just it's a moral risk, right? What's the risk to
+
+2 (21m 51s):
+them? I mean, look what happened to Bezos here. BS was also meeting with Bloomberg and Trump and he's Pals with Jared Kushner. I mean State Secrets could be on the line over there. And then you wrote late last year about Saudis spies inside of Twitter,
+
+1 (22m 9s):
+right? There's that case it's an ongoing case. I think it continues to be an ongoing case does Saudi Arabia spending enormous amounts of money on they're cutting their called flies. But essentially they're messing with social media in order to push the whatever the Kingdom of Saudi Arabia wants. Pushed out there or to attack enemies of Saudi Arabia. So they're using social media very heavily that way, you know, I think this government is very aware. This is Audi government, very aware of the power of social media and also the ability to do surveillance using social media and you know the idea that they are that they are which they're they're denying what they're doing. I don't believe a word of it that they're spying on jumping the fact that they they try to spy on Jeff Bezos. Oh my God, what would the rest of us are finished if that's the case
+
+2 (22m 53s):
+right? Does this story come down to the same thing? Other Tech story comes down to which is that this is all going to be put on consumers to protect themselves and exercise
+
+1 (23m 1s):
+caution. Yeah, I don't know why Jeff clicked on that video. I wouldn't click on any video. I got from him. Mama didn't sell this is what powerful people do they talk to each other quietly off the Record just the idea that they're hacking into Jeff Bezos is accounts is just gives you a sense of how much arrogance that they have towards this and the uses that this government is a government that uses has social media to get through whatever they need to get through and you know, meanwhile behind the scenes they're working with the Trump Administration and lots of big companies and the death of mr. Khashoggi doesn't seem to matter to a lot of these corporations and they just keep going forward as always.
+
+1 (23m 45s):
+They can get to Bezos then get to everybody. That's the thing with enough money and enough influence. You can get to anybody in this world.
+
+2 (23m 58s):
+Kara Swisher, she hosts recode decode adweek named it the best podcast of the year
+
+1 (24m 5s):
+last year or colleague Peter Kafka who you heard from earlier hosts a podcast called
+
+2 (24m 10s):
+recode
+
+1 (24m 11s):
+media. It's also worth a listen. No thanks to add
+
+2 (24m 14s):
+week. I'm Sean Roberts from this is today explain probably the podcast of the century, but we'll all be dead or deaf before it's official. Have a nice weekend.

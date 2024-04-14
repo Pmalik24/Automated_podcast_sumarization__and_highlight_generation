@@ -1,0 +1,218 @@
+0 (1s):
+Support for the show today comes from more than this. It's a new podcast from straight talk wireless produced by Vox creative. Those are our friends in the advertising department here. It's all about those winding non-linear stories that lead to life altering changes. You can find more than this. Wherever you find today explained, and you can visit vox.com/more than this for an immersive transcript experience today. Explain doesn't even have one of those.
+
+0 (44s):
+Ooh, mayor Irfan you were born on science here at box. We got some big COVID-19 news on Monday. What happened?
+
+2 (51s):
+And on Monday, Merck, this $200 billion pharmaceutical giant filed for an emergency use authorization from the food and drug administration for it's new anti COVID antiviral drug. What does it look like? It's a little brown pill, a little brown pill. Yeah. If it's approved, it will likely be the first oral treatment for COVID-19.
+
+3 (1m 12s):
+The trial was designed to be given to people early in the course of infection. It's an orally administered drug. That's really very important.
+
+2 (1m 22s):
+It's prescribed as four pills taken twice a day for five days though, the dosing regimen may change as regulators review the
+
+3 (1m 32s):
+Well, this is certainly an important advance. There's no doubt about that. Whenever you have an orally administered medical intervention, that directly attacks the virus and has the kind of data that Merck announced with their announced.
+
+2 (1m 47s):
+According to Merck's internal studies and clinical trials, they found that it reduced the risk of hospitalization and death in at-risk patients by 50%. Okay. How
+
+0 (1m 57s):
+Significant is that?
+
+2 (1m 58s):
+That's pretty significant. You know, we have a number of different drugs that are available to treat COVID 19 to date. Only one has been actually fully approved by the FDA. That's called room desert here. There are a few others that are available under emergency use authorization and a few that are used off label, but none of them have been super effective or they have their own drawbacks for various reasons. But this one kind of stands out because it is very effective. And it's also something that's fairly easy to administer. You just have to take it through the mouth.
+
+0 (2m 30s):
+Okay. What's this little guy
+
+2 (2m 31s):
+Called it's called ball, new pair of ear mole,
+
+0 (2m 34s):
+New pair of ear.
+
+2 (2m 36s):
+The name is supposedly a reference to Thor's hammer from Nordic mythology meal near
+
+4 (2m 43s):
+The whole to this hammer, if he'd be willing.
+
+0 (2m 56s):
+Huh? Why is it a reference to Thor's hammer? Is this pill like hammer?
+
+2 (2m 60s):
+Yeah. It's hammers the virus and knocks it out with a bolt of lightning. No, not quite, but it's supposed to be, I mean, it has a pretty strong effect and I think that name is meant to sort of reflect that.
+
+0 (3m 22s):
+Did Thor's hammer only work 50?
+
+2 (3m 25s):
+I don't know. I am not that well-versed in Nordic mythology. I know.
+
+5 (3m 30s):
+Yup.
+
+2 (3m 35s):
+Now I do take issue with your point that it's only works half the time. It reduced hospitalization and death by 50%, but it can also reduce other kinds of clinical outcomes that weren't specifically measured. So it could reduce the course of the illness by a certain amount as well. So it's not just that it works half the time. It's that? That was one of the strongest effects, the reducing death and hospitalization. It could also work to a lesser degree in other patients as well.
+
+0 (4m 7s):
+How does mole new pair of
+
+2 (4m 11s):
+So persevere is an antiviral drug that interferes with how the virus makes copies of itself. So the other FDA approved drug for COVID-19 room does a VR works in sort of a similar fashion. What it does is it imitates part of what's used to make up the genetic sequence of the virus. So in order to encode its instructions, the virus uses a molecule called RNA, and it's assembled out of these building blocks that are represented by the letters, a UGC. And so REM heavier is like a fake version of the molecule. That's represented by the letter a whereas multiple severe imitates other letters. And what happens is when the virus takes those fake letters into its genetic sequence, it causes a whole bunch of problems with REM desert.
+
+2 (4m 56s):
+It causes the replication cycle to stop, but with <inaudible> it causes mutations that are detrimental to the virus. So when you say
+
+0 (5m 5s):
+There's a bunch of problems, you're talking about like good problems because they're problems for
+
+2 (5m 10s):
+The virus, right? We want to sort of gum up the machinery that the virus uses to make copies of itself. And so you can do that through stalling it's replication cycle or as multiple severe, does it induces mutations in the virus that make it just basically fall apart? Sounds good. And what's additionally special about these drugs is that they fool the viruses, replication machinery, but not human cells. So that causes only the virus to fail and normal, healthy cells are left alone. And that gives it a targeted effect. Now with molded curvier in particular, there were some concerns about its mechanism because it induces mutations. There were some concerns early on during testing about whether it could induce mutations in human cells or not.
+
+2 (5m 53s):
+So during clinical trials, they limited participants to ensure that people who were pregnant were not participating, but so far, the company Merck reports that there has been no evidence of this drug inducing mutations in humans at all. But this is something that regulators will also be paying very close attention to.
+
+0 (6m 14s):
+Okay. You mentioned earlier that this 50% reduction in death or hospitalization in particularly vulnerable patients is something we know based on Merck's own studies. Does that mean there haven't been independent trials done on this?
+
+2 (6m 29s):
+Well, there are ongoing clinical trials that are being monitored. The results were announced via a press release. So we're still waiting to see official published results in some sort of peer reviewed article or even in a preprint article. So we right now only have Mercs were to go on, but they did end their trial early because the effect was so strong and regulators had to approve that decision. So it stands to reason that the overseers, the people who are monitoring the trial did agree with their findings. So
+
+0 (7m 0s):
+How does the way this thing's being tested affect its approval from the FDA? Do we know?
+
+2 (7m 6s):
+Well, the FDA is going to review the data from the clinical trials and it's going to evaluate how well it works as well as the safety profile. We didn't really get a good sense of what the side effects are from this drug in the press releases. And so it's worth examining just what the potential risks are and then weigh them against the benefits. And that's what the FDA will do. One thing that the FDA does look at is, you know, who are the most ideal targets for using this drug? Like keep in mind that the 50% reduction in hospitalization and death that was in at-risk patients. So people who were older or had preexisting health conditions got it. So the authorization may be limited to them, or it may be expanded more broadly to the general population, depending on what the data actually looks like and what the reviewers actually consider.
+
+0 (7m 52s):
+But we can expect this thing to get approved like within the next month, is that fair
+
+2 (7m 57s):
+Within a month, within days, it's really hard to say, you know, the vaccines from the time that they filed for emergency use authorizations to approval that took about a month, but some drugs have only taken, you know, about a few days to get approved from the FDA when they have filed for emergency use. So it really depends on how quickly they want to move on this and how much data they think they have right now.
+
+0 (8m 20s):
+Okay. Well, if the drug is approved in the coming days or weeks or months, how much more treatable does COVID-19 become?
+
+2 (8m 28s):
+Well, one thing that's hard to overstate about this drug is just how easy it is to administer. So basically as soon as you're diagnosed with COVID-19 or you test positive, you can get in touch with your doctor and potentially ask them, you know, am I at a high risk group? And should I start taking this pill as a precaution? And you can start getting, taking the medicine right away without having to risk, going to a clinic without having to spend the money or the resources to get transfusions, which can be pretty expensive if you're paying out of pocket. So a lot
+
+0 (8m 56s):
+Easier to take, but still not a silver
+
+2 (8m 59s):
+Bullet that's right. You know, the no drug is going to be 100% effective against all this most severe cases of COVID-19, but on balance, they do tend to reduce the risks. And it's still not going to be anywhere near, as effective as getting vaccinated to begin with.
+
+0 (9m 17s):
+Do we think people will trust this new drug, this little brown pill that could treat COVID-19
+
+2 (9m 24s):
+Potentially, you know, there is a fair amount of vaccine hesitancy still around. There are still people who are adamantly against getting vaccinated, but maybe more inclined to get a treatment. But it's really hard to say. I mean, why the reasons that people refuse vaccines may overlap with their same reasons that they would refuse a therapy like this time will tell, we'll just have to see who takes this. But at this point, we know that the people that are facing some of the most severe consequences of the disease are those that are un-vaccinated. So at least in the U S it may not move the needle that much, where it can make a big difference is potentially in other countries where vaccination rates are really low, because they just don't have the supply chain or just the resources to administer the vaccines at this point.
+
+2 (10m 8s):
+So places where you have still ongoing spread of COVID-19, but haven't been able to get vaccines to them. This might make a big difference there. So these are other countries, potentially some of the more remote regions of the world, where this could make a big difference in reducing the overall impact of the COVID-19 pandemic
+
+0 (10m 31s):
+More with Lumiere in a minute support for the show today comes from more than this, you know, that old yarn that you know, it's not about the destination, it's about the journey. That's kinda what this podcast is about. You probably know people who, you know, blew up their lives during the pandemic. They switched jobs, move across country. You know, a lo got a dog, maybe like four dogs. Maybe they need to calm down with the dogs. That's sort of what this show's about. Not really like where they ended up, but how they got there. Cause that's where the really interesting stuff is your host, Danielle Prescott, who's a fashion editor, turned author on the other side of her own more than this moment is introducing listeners to people like Mandy Harvey.
+
+0 (11m 17s):
+Mandy's a musician who found her way back to her craft. After the loss of something crucial for hearing, you can find more than this, where you find today, explain, and they've got this cool visual transcript experience that you can find at vox.com/more than this. Lumiere. Remind me what wave we're in right now of this pandemic.
+
+0 (11m 57s):
+I've lost count. I think
+
+2 (11m 59s):
+Five I've lost count too. We're certainly on the downward slope of the wave that peaked in early September, but we don't know if this is going to be the last one.
+
+0 (12m 10s):
+Yeah. I mean, we spoke back in June when Delta was really popping off about, you know, how things looked good and then they didn't, where are we now?
+
+2 (12m 19s):
+Well, things are starting to look good right now. You know, we do have a number of things that are positive, you know, some good developments that we didn't have last year. We have more than half of all Americans in this country vaccinated. And certainly more than 80% of adults over the age of 65 that are vaccinated, you know, one of the highest risk groups. So that bodes well, the pace of vaccinations is certainly picking back up now that we are seeing vaccine mandates. If you want
+
+7 (12m 49s):
+To work with the federal government, do businesses get
+
+2 (12m 52s):
+Vaccinated. You know, now with the full approval of the Pfizer BioEnTech vaccine, the federal government, and a lot of private employers are starting to require their employees to get vaccinated. We're also seeing some of the first recipients of the vaccine get booster shots,
+
+5 (13m 8s):
+20 million Americans now qualify
+
+7 (13m 10s):
+For a booster I'm
+
+2 (13m 12s):
+Beginning my booster shot. And soon kids may be able to receive a vaccine as well, provided the FDA grants, an emergency use authorization for children. And if this piece of vaccination continues, you know, we'll still have a larger and larger fraction of this population. That's immune to COVID-19, which should put a big damper in the spread of the disease.
+
+0 (13m 36s):
+Yeah. I mean, let's talk more about that. I think at this point, you know, October 20, 21, we're still at about 2000 Americans dying from COVID-19 a day, which feels insane. Do we have a sense of how much that number drops in a forthcoming best case scenario?
+
+2 (13m 54s):
+There've been some models and estimates, but certainly if we continue on this trajectory, this downward slope, one modeling estimate found that we would get to about 90 deaths per day, by the end of February, 2022. And that would presume, you know, a continued decline through the winter that basically we maintain the gains that we have, and we continue advancing in terms of vaccination, but also in terms of containing the overall spread of the disease, that's certainly a very optimistic picture, but you know, it is one of the possibilities.
+
+0 (14m 24s):
+Hmm. Well, let's talk about how we get there. I mean, there's a lot of news about mandates right now, vaccine mandates government mandates business instituted mandates school mandates, and then there's sort of this counter movement of people resisting those mandates. I think famously Kyrie Irving of the Brooklyn nets popped up in that department yesterday. How well are mandates working?
+
+2 (14m 46s):
+It seemed to be working really well. You know, there are a lot, few holdouts that are getting a lot of attention, but I think it's worth emphasizing that the vast majority of people who are facing a mandate do comply with it. That's workers in healthcare, that's workers in government that's workers at airlines, we're seeing huge spikes in vaccination rates. And a lot of these mandates are helping close the gap. For instance, in New York, the vaccination rate among hospital and nursing home staff went from 75% to over 90% after a mandate was implemented. So there's a lot of evidence that actually making this a requirement does work in terms of getting people to get vaccinated. Okay.
+
+0 (15m 21s):
+And what about boosters? I think we are now officially giving out boosters in the United States, is that right?
+
+2 (15m 27s):
+Yes. Pfizer received approval from the food and drug administration on a limited basis to begin administering boosters to some of the earliest recipients of the vaccine. And right now the FDA is also not taking a stance on boosters from Madrona saying that there hasn't been enough evidence submitted that they're actually needed Johnson and Johnson. The one dose add no virus, vector vaccine is also putting out data, showing the effectiveness of their booster. So that might also receive approval in the coming weeks and months. But yeah, there's a lot of moving parts here and we may see more uses of vaccines being approved. Okay. And the kids, well kids right now are not even approved right now for vaccines.
+
+2 (16m 11s):
+You know, the FDA is still weighing the evidence right now from clinical trials for children, between the ages of five and 12.
+
+0 (16m 19s):
+As far as the kids are concerned, it's going to be safe in a couple of weeks for them to go out on Halloween and trick or treat.
+
+2 (16m 25s):
+It may not be available by Halloween. But Dr. Fowchee did say earlier this year that Halloween should be safe to enjoy your
+
+8 (16m 32s):
+Doors. For the most part, at least when my children were out there doing trick or treating and enjoy it, I mean, this is a time that children love. It's a very important part of the year for children. I know my children enjoyed it, so I may get,
+
+2 (16m 45s):
+But I imagine there would probably still be some precautions, you know, gathering in outdoor areas. There may, we're still require some social distancing and masking, and Halloween's the perfect holiday for masking, you know, what are
+
+0 (16m 56s):
+The anti mask who's going to do on Halloween?
+
+2 (16m 59s):
+Do the whole inverse mask thing, where they cover their eyes and leave their mouth open, you know, Batman style.
+
+0 (17m 5s):
+So it sounds like there's a lot of reasons to be hopeful, but we've all been hopeful before. What are some of the reasons to be pessimistic?
+
+2 (17m 16s):
+There's always reasons to be pessimistic. And I think the track record of this pandemic did kind of validate a lot of the pessimistic folks here. One big thing that is really putting a damper on all this is that there are still people that are absolutely adamant that they will not get the vaccine. It's about 10 to 12% higher, depending on certain areas. And that's pretty closely associated with political leanings. People who tend to vote Republican or jurisdictions that voted in large numbers for Donald Trump tend to have a much lower vaccination rate. And if those people remain vaccinated, they still remain reservoirs for this virus. We are seeing that a large proportion, almost all of hospitalizations and deaths at this point are among unvaccinated people.
+
+2 (17m 59s):
+And so as long as the virus continues to spread, it will continue to causing harm, but it will also continue mutating. And potentially those mutations could create another variant that would undermine progress against the disease. And the other factor to consider is also that human behavior is a key factor in controlling the spread of this disease. I mean, obviously vaccines are super effective, but we've seen that, you know, without other precautions alongside vaccines, we don't make as much progress as we could. So that means maintaining social distancing in some circumstances wearing masks in high risk settings may still be required. And if people are resistant to doing those things, then you know what little progress we're making could be eroded.
+
+0 (18m 40s):
+And that's been the cycle thus far, right? It's, it's, it's bad and then it's less bad and then it's bad. And then it's less bad. Are we going to break that cycle at some point? Do we know when?
+
+2 (18m 50s):
+I mean, it's again, it's really hard to say, you know, it's not as though we're facing one uniform pandemic, we're seeing this pandemic play out in different ways, in different places. You know, in areas where we do have a high vaccination rate, but also good social distancing and masking people are pretty close to normal. The transmission is law. The hospital beds are fairly empty and people aren't as worried, but in other areas where transmission rates remain high people aren't vaccinated and they aren't wearing masks. Then we're still seeing hospitals getting filled up. And so there, we will continue to see this sort of mosaic of pandemics across this country on a city, by city, even on a county by county basis, where you have different approaches leading to different outcomes.
+
+2 (19m 33s):
+And that's really a case for why we really need to take this pandemic seriously. Even as cases declined, you know, we do all want to get back to normal. I certainly do, but I also don't want to lose the fragile progress that has been made. And I certainly don't want to ratchet back some of the precautions that were in place during the darkest days. And so it will really require a concerted effort on all fronts in all areas in order to actually get out of this thing for good.
+
+0 (20m 3s):
+Can we make plans for the holidays
+
+2 (20m 5s):
+And if you want, but I would suggest booking flexible tickets with good cancellation policies. What are you going to do? Well, I'm actually going to Glasgow in November to attend the UN climate change conference. Jealous. Don't be those conferences. Aren't that interesting to spend a whole lot of time inside a conference hall, talking to people who don't want to talk to you. All right, your turn, Sean, what are you planning to do? I think I'll get married. You think
+
+0 (20m 34s):
+<inaudible> reports on science of box. Our show today was produced by will Reed and Halima Shaw. I'm Sean Robins from its today explained The support for the program today has come from more than this. They're asking a scary question on the show. What if, what if this actually isn't my dream job?
+
+0 (21m 15s):
+What if I did start that business? What if I took that trip? What if I did go on that date with that person who I don't think I like, but what if they're the person of my dreams listen to more than this? Wherever you're listening to this and go to vox.com/more than this each week for a visual transcript experience.

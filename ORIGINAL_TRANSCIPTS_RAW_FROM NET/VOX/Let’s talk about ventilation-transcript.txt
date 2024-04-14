@@ -1,0 +1,194 @@
+1 (0s):
+The program today is once again brought to you by who we are. It's a new podcast from Ben & Jerry's that's produced by Vox creative. They do a lot of ads for Vox, but they're also now in the business of making podcasts like who we are which is hosted by ACLU legal director, Jeffrey Robinson and Peabody award-winning journalist Carvel Wallace. They're going to try and understand how we got here is a country and how we can all move towards a better future fine. And it wherever you find your shows it launches on September 15th. Google's free tools are designed to help millions of businesses around the country as they adapt to a new way of working.
+
+1 (41s):
+And right. Now these businesses could use our help support the places near You by booking an appointment buying a gift card reading review more ordering takeout all With a Little Help from Google. Back in early April before much of the country had started wearing masks. We made an episode about why we should I spoke to Harvard Professor Joe Allen who specializes in indoor air
+
+2 (1m 16s):
+quality? Yeah, that's interesting. I forgot that was the early days of mask-wearing right and I was I came out with a piece that said, you know, the debate is over when you wear a mask of the time that seemed controversial and now I think hopefully everyone realizes that's not so controversial might be our best way out of this mess, but the same thing I think we're at the similar place now with our buildings as we were.
+
+1 (1m 35s):
+Mass back in April Joe's not talking about putting masks on our buildings. He's talking about ventilation.
+
+2 (1m 43s):
+The number one risk factor is time spent indoors. In fact almost every outbreak of three more people is associated with time spent indoors. I think the world is just starting to wake up to the fact that Airborne transmission is happening. And now that they're waking up is a realization that whoa the building actually matters people are starting to say we better pay attention to things like ventilation and
+
+1 (2m 5s):
+tration, okay ventilation and filtration before we dive in how does aerosol transmission actually work inside a building like if I'm at a restaurant and someone sneezes do I need to be running for the door
+
+2 (2m 18s):
+Airborne transmission just means that you can get this Beyond this magical six foot buffer but distance still matters and Engineering controls also matters. So let's make it really tangible. Let's say you and I are sitting across from each other at a table and I'm sick and infectious and I'm route. Eating aerosols as I talk, right? Well the closer you are the bigger the dose you will have now some of these viral particles can spread beyond that six foot and go to the other side of the room, but the dose will be lower and if the ventilation systems really cranking and bringing out a lot of fresh outdoor air, it'll be even lower because you're diluting. What's in the space one way to think about this is like cigarette smoke.
+
+2 (2m 60s):
+So if I'm smoking a cigarette you're three feet for me. Well, that's me really noxious and at your face at six feet a little bit less. Less across the room you'll still be able to smell it but imagine that room has a HEPA filter going in a lot of fresh outdoor air. You may not even smell it across the room right and smoke particles. That's just a particle you can think about the same thing like a viral particle. It's actually a good way to think about it. Imagine everybody smoking that's not the best visual but you know, you're walking down the street somebody's coming up. You don't want to smell their smoke. You know, that's their breath. Okay, I'll take an extra step to the side. Yeah. We're someone's at four feet. You know what I'm going to back it up to 6 feet maybe even 10 feet to be a little bit.
+
+1 (3m 35s):
+Are all right. Well, that's some useful background tell me how to know whether a building I'm walking into is well ventilated or or well
+
+2 (3m 45s):
+filtered. Yeah. Well, that's the hard part right you really can't is one of these things you have to ask about but it's critically important and the way to think about those two, you know ventilation and filtration. Is that every time we talk or sing or cough you mid a bunch of aerosols of different sizes and they're going to be removed through two mechanisms dilution. Through ventilation or air cleaning through filtration. And so that's why those two components are so critical in a building level strategy.
+
+1 (4m 13s):
+How well ventilated is the typical office building. All right. So let's start with
+
+2 (4m 18s):
+the problem. We're in right now is that we're in the sick building era largely because our current ventilation standards are not designed for health. So back in the 70s in the energy crisis, we tightened up our building envelope choked off the air supply. We let engineer set ventilation based on energy. Not human health and as a result, we have a buildup of indoor pollutants off-gassing from carpets and furniture. And now we also have the introduction of infectious aerosol from people and we're not deluding that are quick enough in nearly every single building we spend time in because they're all designed to these same minimum standards and not religious.
+
+2 (4m 59s):
+I'm for human health
+
+1 (4m 60s):
+this cranking up the air conditioner help. I know a lot of buildings do that anyway in the
+
+2 (5m 4s):
+summertime. Yeah. Yeah, but you know, it's not necessarily a problem with air conditioning systems, right? If you have a central air conditioning system in a big building commercial office building. It is bringing in outdoor air. The problem is that the standards only require a low level of outdoor air. They need to be bringing a lot more outdoor air one. We've talked about this for a long time. We've known the benefits to more outdoor air to better cognitive function reduce infectious disease transmission reduce sick building symptoms and yet we still Our buildings to these very minimum ventilation standards. We're paying the price for that right now with covid. Okay. So how hard is it
+
+1 (5m 42s):
+to fix a building's ventilation system. It's actually not that complicated
+
+2 (5m 47s):
+to fix. The reality is most of these systems can just be tweaked in subtle ways to bring in more outdoor air. So if you have a ventilation system, you have an outdoor air damper that's modulating how much outdoor air comes in and so most buildings are set for 20% outdoor are eighty percent. Elated are well, those dampers can be switched to bring in more outdoor air. There's a bit of an energy penalty, but that penalties worth paying right now in the middle of a pandemic to bring in a bit more outdoor air.
+
+1 (6m 16s):
+And then once it's in there, you got to up your game on filtration.
+
+2 (6m 20s):
+Well, if you're just recirculating the air through no filtration or a low-grade filter, you're not cleaning the air, but if you upgrade to a higher efficiency filter call a Merv 13 mer v13 filter you're starting to capture a large. Of Airborne particles including viral particles. So two things are happening when you bring in more outdoor air and then any are that's recirculated in the building has to go through a higher grade filter in that way. You're addressing both cleaning and dilution.
+
+1 (6m 49s):
+Okay, and how many buildings are installing better filtration at this point,
+
+2 (6m 54s):
+you know, a lot of them are actually at least the ones I'm talking to are the people that are following the guidance here. I know there's a run on Merv 13 filters. That's a good sign right people are out there upgrading their filters the problem is I do talk to organizations still that if I talk to them, they'll say well that's the first time we've heard about buildings and ventilation infiltration why people in my field have been yelling from the rooftops since February that you need to put in these control strategies, but CDC and who I have been really reluctant to acknowledge Airborne spread and as a result there have been slow to give guidance to people that they need to control this and even just recently, you know, the end of last week of August the national Adam he's had a meeting to talk about Airborne spread.
+
+2 (7m 39s):
+So think about that in February when it was happening. We're trying to give guidance and is only a late August that were starting to even have these really deep scientific conferences dedicated to the topic in the interim period many buildings aren't putting in the appropriate
+
+1 (7m 52s):
+controls. Well, let's talk about what they're doing instead the first few times. I went into office buildings for like a dentist or something like that. It was all sanitize this and sanitize that wipe down the chairs the tables. Seen these videos of people spraying down entire movie theaters with sanitizer is if they're you know watering the plants. I've seen the Denver Broncos walking through these misting stations on their way to
+
+2 (8m 17s):
+practice. I mean when we spoke back in April, I was still wiping down all my groceries is all the sanitizing
+
+1 (8m 23s):
+a joke. Well, you know, I'd like
+
+2 (8m 25s):
+to poke fun at you that you were that guy was wiping down you of every ketchup bottle and mustard bottle and every piece of
+
+1 (8m 30s):
+grocery. Yeah, man. It wasn't fun. It was a lot of extra work. Yeah.
+
+2 (8m 34s):
+That's right, but look, I mean you can you have to blame yourself that was early days of the pandemic and no one really knew what was going on. So, yeah, it's okay to be extra cautious. I'm trying to give you an out here. Thank you. But the reality is is that yeah, I think we're over cleaning and you know, some people have written about as hygiene theater that we're doing these things that make us feel good, but they're not actually tied to really solid risk reduction principles. For example, you mentioned go the NFL players walk through this tunnel and spray themselves. Well, that doesn't really do anything for risk. Covid probably increases the risk of a respiratory has to be honest because the simple way to break the chain of transmission through any contaminated Services just wash your hands occasionally or use hand sanitizer.
+
+2 (9m 18s):
+If you're not near soap and water
+
+1 (9m 20s):
+what has been the cost of our hygiene theater in this country
+
+2 (9m 24s):
+a couple things one is it takes away time and attention from fixing actual problems. The other cost is real dollars. I mean, I've talked to some commercial Landlord holders where we're spending hundreds of thousands of dollars per month on enhanced cleaning even in buildings that are at super low occupancy because no one wants to go back to work and we can feel good when we see everybody cleaning every all the time, but it's not really reducing risk in any real
+
+1 (9m 53s):
+way. Okay, so buildings need to bring in more outdoor air and upgrade to Merv. Teen filters to keep people safe, but even once they do a lot of people are never going back to their offices that's after the break.
+
+1 (10m 44s):
+Support for the show today comes from who we are. It's a new podcast by Ben and Jerry's produced by Vox creative. It asks a number of activists and Advocates and experts how exactly we got to this point in this country and how everyone can move towards a better future. You're going to hear about some very serious issues including voter suppression the racial wealth Gap black maternal mortality and much more. The end of each episode who we are will offer opportunities for you to be a part of much-needed progress in the country the show Launches on September 15th.
+
+1 (11m 24s):
+New episodes are going to come out every Tuesday and you can listen And subscribe on Spotify Stitcher Apple pipe casts, whatever app you use the show again is called who we are and Ben and Jerry's was involved who doesn't like Ben & Jerry's
+
+2 (11m 48s):
+Google's free tools are designed to help support millions of businesses around the country as they
+
+1 (11m 53s):
+adapt to a new way of working with Google tools small businesses are staying
+
+2 (11m 57s):
+connected to their customers by updating their business hours switching
+
+1 (12m 1s):
+to curbside pickup activating online booking and
+
+2 (12m 4s):
+more and if you want to support them, there are ways to help whether you're searching for restaurants salons bookstores Jim's boutiques or any other business near you show. Support by ordering takeout writing a review buying a gift card or making a donation all With a Little Help from Google.
+
+1 (12m 33s):
+It's takes planed. I'm Sean Rama's from and I am still working from home. The entire today explain team is still working from home. All of box is still working from home. And it sounds like we will be for quite some time. Maybe some are 2021 with or without safe Office Buildings. It's going to take a long time for a lot of those of us who are fortunate enough to work from home to get back to Before Time work life in the United States. Probably it's going to take until there's a well. Vaccine and even then Derek Thompson at the Atlantic says a lot of people are never coming back. There is definitely a sense that tens of millions of people went to work from home.
+
+1 (13m 16s):
+TENS of millions of people were suddenly forced into this work from home experiment where they didn't understand what remote workmen and then all of a sudden their companies were forced to suddenly be these far-flung Enterprises the estimates for what happens in the post vaccine world go as follows. There was a Harvard Business School survey that estimated that when all this is over one in six workers is projected to continue working from home or co-working at least two days a week one in six workers is a minority of workers, but it still means that something like 20 to 30 million people could be permanently remote work for the future. That's a huge number of people and even if just that number of people do decide to change the way they work.
+
+1 (14m 0s):
+It could really change a lot about America. Could reshape the US Workforce. It could change cities. It could change us demography and it could change u.s. Politics. I think it's really important to point out that even tiny changes in our remote work future could have huge implications for economics and technology and politics. Well, let's talk about some of those implications. What are the most essential changes that are happening to people what are the most essential changes that people are experiencing now that so many people are working remotely. Mostly, I think the most obvious is just that you're alone. People used to occupy two spaces in their lives at least which is their home and their office or whatever their place of work was and now they're just stuck in their living rooms all day long.
+
+1 (14m 52s):
+So sometimes that can be frustrating. Sometimes it can be absolutely depleting especially if you have to work while taking care of kids or taking care of other people in your family and then for others, it's just unbelievably boring to not be able to leave where you work. I think the other implication
+
+3 (15m 9s):
+of not being
+
+1 (15m 10s):
+able to be around other people is it means you don't meet anyone new and you don't have face-to-face interactions with your colleagues and there's all sorts of I think weird things that flow from that, you know, I know that in every single office, there's always a couple of people who are lovable but a little bit annoying and you remember that they're lovable because you know, they bring in guacamole on Thursdays and they give you a high-five when your football team wins on Sundays when they see you on Monday morning, but when your life is entirely mediated by Slack Mg. Chad Twitter. It all just doesn't those lovable annoying people just become purely annoying
+
+2 (15m 44s):
+abstraction. I think
+
+1 (15m 46s):
+it changes the way that we interact with our colleagues. What do we think about our colleagues? And then finally, I think that when you're stuck at home, you are stars of new experiences and people are starving new experiences. They don't have variety that spice of life. They just get ornery and so I think for in a variety of ways, you know, this forced working from home experience really does change so many things about lives and somehow those changes seem to sort of pale in comparison to the long-term changes and affects at this might have on our cities and our office parks and our commercial real estate. What's going to happen there?
+
+1 (16m 26s):
+Yeah. I'm really interested to see what happens with commercial real estate. Here's one scenario. Let's say that you have a lot of companies decide that they actually only need about sixty percent of the office space that they originally signed. This is for in 2015 or 2016. Well that frees up a lot of office space. It probably reduces office rents tremendously. So do you have new companies moving into this office spaces? Do you have any pressure for those commercial real estate space has to become residential real estate spaces that could have some interesting effects. It could mean a lot more work for construction workers a lot more work for interior decorators it can also I mean a lot more housing Supply in downtown urban areas, which is a great need for lots of cities.
+
+1 (17m 17s):
+Especially city is on the coast like Los Angeles, San Francisco New York City Washington DC Boston that could have huge effects on wrench huge effects on housing Supply and other kind of jobs that are in demand in those areas and what about all of the businesses in those districts in those downtown's that supported all the office workers who are previously there all the time. All the you know, walk-in Shoppers who are now exclusively on Amazon or maybe at their local grocery stores. Do we have any idea so far what the impact has been on these businesses on hotels on the airline industries that used to house a lot of traveling business people.
+
+1 (17m 59s):
+Yeah. We know this has been utterly catastrophic for the Leisure hospitality industry. It has been worse than a Great Depression. It has been an absolute evisceration of these companies of Tells of restaurants the question isn't whether this is a disaster if obviously is a disaster. The question is what happens in a post vaccine post herd immunity post antiviral medication world. How many of these companies will bounce back? I'm hopeful that American still want to go out to restaurants in 2022. I know I will certainly want to go out to restaurants in 2022. But again, where will I be will I be at my office or will I be at?
+
+1 (18m 40s):
+My apartment those are two different places for the vast majority of people. So if they're not going into their downtown office that totally changes the local economics of business districts. It means that if you're a restaurant or if you're a retailer that relies on weekday foot traffic from people just walking around on an average Thursday. Well, if 20 or 25 percent fewer people are showing up in that business district on an average. Stay and 2022. Suddenly you can't pay rent. So again, there's all sorts of implications of this future that I'm describing. But definitely one of them is that rents both commercial and residential will fall in expensive urban areas.
+
+1 (19m 27s):
+And that's really bad potentially for landowners. It could have some other trickle-down effects, but it also means that in a few years you could have people move into these areas and pay lower rents to live lower rents to open an office. It could be as I've described it as kind of like a forest fire effect with the forest fire. You have an absolute decimation of the forest, but then what grows back tends to be a slightly more diverse Flora are the cities would they do come back gonna look different? I don't know what your experience is, but it seems like people are leaving cities right now to yeah, and it's important to say that people were already leaving expensive coastal cities in 2019 and early 2020.
+
+1 (20m 10s):
+Before there was a pandemic. So this is as we so often say with the plague and acceleration of pre-existing Trends, but I do think that you're going to see people leave New York City. I think you're going to see people leave San Francisco. I think it's obviously happening you look at housing values in their cities, you're looking at the rental market and those cities prices are going down across the board. That's a sign that people and really expensive areas or either moving out to the suburbs where the money buys a bit more space or they're moving to other parts of the country where there's More space period I personally think this is going to accelerate a restoring of Americans especially liberal Millennials from the coasts to the Sunbelt moving from the Carolinas down through Georgia, including Texas and the southwest and this really interesting application of liberal Millennials re sorting to the Sunbelt right now Democrats are disadvantaged in the Electoral College such that Hillary Clinton won Manhattan and Brooklyn by 1.
+
+1 (21m 10s):
+Million votes that's more than Trump's margins of victory in Florida, Arizona, Georgia, North Carolina, Michigan, Wisconsin and Pennsylvania combined if Democrats are more efficiently sorted along the Sunbelt rather than entirely packed into the Superstar cities on the coast. It means that potentially rather than Trump in 2020 having a three-point Electoral College Advantage a Democrat running in 2024 or 2028 could actually have an electoral college. So again, lots of tiny individual decisions made by people living in densities could have huge implications for economics and politics.
+
+1 (21m 53s):
+And you talked about this sort of accelerating a trend that we were already seeing. I wonder just across the board in a company like Vox, for example, we already have people working remotely and all over the country and they're in their bedrooms and in their home offices were we gonna go this way anyway, and the pandemic just sort of gave us a huge nudge in that direction, you know is it's actually really funny so in February, This year. I walked into my editor's office the editor of the Atlantic magazine down Peck, and I said Don I have an idea for a column for the magazine.
+
+1 (22m 35s):
+So ever since the invention of the personal computer people have been predicting the death of distance. It can work for a software company in San Francisco and live in Boise, but for year after year after year, it just wasn't happening. But then I said to Don there's actually a study that just came out from the Federal Reserve that found that remote work is actually starting to take off and I said to him I think you're really going to see 20/20 being the year that Americans recognize that remote work really is the future and then I got scooped by fucking covid grass because this subtle observation that I was making sure the most fucking obvious thing.
+
+1 (23m 18s):
+You could possibly say about the economy. So covid essentially compressed maybe 10 20 25 years of change into six weeks to months. So as with so many things this plague is an accelerator not an inventor. It is pulling forward the future not setting us along some other time path. Derek Thompson, you can read his work about the changing American city and Workforce at the Atlantic.com. Joe Allen from the first half of the show rights to he's got a book called healthy buildings how indoor spaces drive performance and productivity today's episode was produced remotely by Bridget McCarthy and she's been producing episodes on our show since we launched back in early 2018.
+
+1 (24m 11s):
+In fact, she's produced more episodes of our show than anyone else. Today is her last. She's off to unravel the mysteries of the human psyche over at another show called hidden brain. Thank you for the shows the laughs and explaining Ukraine Bridget. We'll miss you. The rest of the takes plane team includes almond al-saadi Halima Shamu JD Jillian Weinberger a theme Shapiro and Nam hassenfeld who makes music to the show also features the jams of the mysterious brake master cylinder. We're blessed with Will reads help this week Cecilia
+
+2 (24m 46s):
+lecce. Sex facts and is also producing
+
+1 (24m 48s):
+this week Liz Kelly Nelson is the editorial director of box podcasts. And today explained his part of the VOX media podcast Network. Hi, I'm Avery troubleman and I'm the new host of the cut podcast from New York Magazine and the VOX media podcast Network
+
+2 (25m 32s):
+every Wednesday the cut editorial team and I will explore surprising provocative ideas about style
+
+1 (25m 39s):
+self culture and Power
+
+2 (25m 42s):
+in our first episode. We're looking at what it
+
+1 (25m 44s):
+means to be optimistic in
+
+2 (25m 46s):
+2020. You can listen And subscribe to the cut now on Apple podcast or wherever you listen.

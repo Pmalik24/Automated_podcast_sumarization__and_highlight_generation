@@ -1,0 +1,206 @@
+0 (0s):
+It's today explained I'm the wheel king for months. My colleague Dylan Matthews, a senior correspondent at Vox was of a particular opinion about inflation. He said, and many economists said, do not work.
+
+1 (12s):
+My new opinion is that I am somewhat worried about In my defense. I was not alone in that prediction. And I've done a lot of thinking recently about why I got that wrong and why other people might've gotten it wrong. And how we got into the current situation where inflation really is something to worry about.
+
+0 (31s):
+It's 8.5%. It's
+
+1 (33s):
+High. It's getting to a level we haven't seen since the 1970s, early 1980s, when inflation became sort of the defining issue in American politics and really caused a great deal of damage. And so we're very much not out of the danger zone
+
+0 (47s):
+Coming up, what economists and Dylan got wrong about inflation and how we might get out of the danger zone.
+
+3 (59s):
+This episode is brought to you by DirecTV stream. DirecTV stream is your home for baseball. With the most regional sports networks of any streaming TV provider, direct TV stream gives you the most local baseball games. And that means more double headers, triple plays and no hitters from your local team. Watch this seasons action on direct TV stream. Get the best of live TV and on demand at directv.com/baseball. Regional sports networks are available with choice package. Your higher may vary by zip code and package not available in all areas. Compatible device required.
+
+0 (1m 37s):
+Dylan Matthews, senior correspondent at Vox last year to you, it seemed like inflation would be transitory. There would be an end to it.
+
+1 (1m 45s):
+Yeah. In 2021, there was kind of a sense by me and some other people that inflation was happening in a few goods, but not everything. It seemed like cars were getting a lot more expensive. It seemed like gas and food were getting more expensive. And my general attitude was, you know, this, this isn't great, but this too shall pass. And it just kept not passing and worse, kept spreading to areas other than gas and cars and food into places where you wouldn't expect some of the shortages we were seeing to necessarily be driving prices up
+
+0 (2m 17s):
+To your credit. You weren't the only person who doubted that inflation would get this bad or last for this long where you
+
+1 (2m 23s):
+No. So when I was predicting inflation under 3% for 2022, I based that very explicitly on both the federal reserve who are basing this on literally hundreds of economists who work for the federal reserve system, trying to predict these things. They were all suggesting that inflation would cool throughout 2022, the survey of professional forecasters, which is a very useful survey of economists. We specialize in doing this kind of forecast had even lower predictions for inflation in 2022. So there was a really persistent error and it wasn't an error among everyone. Some people who were publicly projecting high inflation and I think deserve a bit of a victory lap include Larry Summers, the widely hated in some quarters beloved in some quarters, former treasury secretary.
+
+1 (3m 11s):
+So it was not an impossible thing to get, right, but it was a very broad-based failure, not just to me, but of, of a lot of economists and forecasters.
+
+0 (3m 19s):
+There is a kind of scaffolding or framework behind why you and many, many, many other very smart people thought that inflation, wasn't going to be a big deal. Tell me about where this kind of framework begins.
+
+1 (3m 34s):
+Sure. So you kind of have to understand the history of how economists have thought about inflation, The most basic framework for understanding it is something called the Phillips curve. If you Google economics papers on the Phillips curve, you will find thousands and thousands. This is a really crucial idea. And it was based on just a chart that this economist named Alvin William Phillips published in 1958, suggesting that inflation was connected to the level of unemployment in the economy. When unemployment gets to a very low point, businesses have to raise wages for their workers because there isn't sort of a large pool of unemployed people they can hire without raising wages.
+
+1 (4m 18s):
+This increase in wages passes through to an increase in prices for consumers, and you get sort of broad-based inflation correspondingly. If you tolerate higher unemployment, you can get lower inflation. And I think this theory was kind of taken as a philosophy of how to govern the economy in the 1960s.
+
+5 (4m 35s):
+The time has come when we must get to those who are last in line, the hard core unemployed, the hardest to reach
+
+1 (4m 47s):
+Lyndon Johnson wanted a very low unemployment rate, both for good reasons. I think he was genuine about wanting to eradicate poverty in America and for bad reasons, which is that he wanted to prosecute the war in Vietnam. And he wanted to spend lots of money and hire lots of people to like fund and arm the war effort.
+
+5 (5m 5s):
+And our objective is to place these 500,000 in private industry job within the next three years,
+
+1 (5m 17s):
+Very explicitly was willing to tolerate higher inflation in exchange for that lower unemployment. You know, we'll get a little bit of inflation, but it's temporary. We can always sort of readjust this. We can just pick a point in the trade-off between unemployment and inflation. There, wasn't a kind of aiming for a best of all worlds. There wasn't a sense that you could have stable prices and low unemployment and somewhat sensibly. They decided they cared more about unemployment and thought they could have modestly higher inflation for awhile in exchange for a better labor market. And they learned the hard way that that wasn't necessarily. So, and that, that trade off could break down certain instances.
+
+0 (6m 2s):
+What did inflation in the 1970s look like?
+
+1 (6m 6s):
+So you get a couple of waves of inflation in the seventies. The first comes in the early seventies in the aftermath of a couple of big international crises. The first was the Richard Nixon took the country off the gold standard.
+
+7 (6m 18s):
+We must protect the position of the American dollar as a pillar of monetary stability around the world.
+
+1 (6m 25s):
+The other thing was that in 1973, a number of Arab nations invaded Israel. The us stood with Israel in reaction. A lot of Arab oil producing countries announced an embargo on oil, two countries supporting Israel.
+
+4 (6m 39s):
+They will reduce oil production by 5% a month until the Israelis withdraw from occupied territories. If the Arab countries keep that pledge, it would reduce their production by almost 50% in one year.
+
+1 (6m 52s):
+And so oil price has shot up that led to first oil inflation and then sort of broad-based inflation that kind of tamped down in the mid seventies. And then it came roaring back at the end of the decade. And this really challenged the Phillips curve perception for a few reasons. One was just, you suddenly had not just high inflation, but relatively high unemployment. You had a struggling labor market at the same time that you had really nasty inflation. And that, that shouldn't happen as you started. We were on a point outside the Phillips curve and it suggested there was something wrong with that theory. And that that whole way of looking at the economy might work in some situations, but it can break down in, in certain contexts.
+
+0 (7m 32s):
+What year were you born?
+
+1 (7m 33s):
+I was born in 1990.
+
+0 (7m 34s):
+Okay. I was born in 81. And so neither one of us remembers this, but like this for our parents was a defining thing, you know, 9% inflation, 10% inflation. And then we manage to pull out of the spiral of the 1970s. What happens there?
+
+1 (7m 51s):
+So this is a story of a guy named Paul Volcker who became the fed chair in 1979. He was used as a real character
+
+8 (7m 57s):
+First, Mr. Chairman, and I appreciate your comments and those of your colleagues, your personal support and those of others. I also appreciate your concerns. And I think I understand some of your warnings personal and otherwise
+
+1 (8m 11s):
+It was like six, seven. So he towered over everyone. He loves cigars and would just chomp on cigars during congressional hearings and public appearances. It is often said that he broke the back of inflation. And what he did to do that is that he engineered two incredibly nasty recessions.
+
+9 (8m 30s):
+There are those who playing Paul Volcker is the real father of this recession. And October soon after he became federal reserve chairman, the fed intensified its efforts to stop inflation.
+
+1 (8m 40s):
+His judgment was inflation. Won't go down until the entire world is convinced. We're serious about stopping it. And we show we're serious about stopping it by dramatically tamping down on what people are spending and the way we tamped down on what people are spending is that we raise interest rates
+
+9 (8m 58s):
+Or welcome. First, are you willing to accept parenthood for this recession?
+
+8 (9m 3s):
+Oh, I claim no paternity. I don't even like the question being asked that way
+
+1 (9m 7s):
+The interest rates are raising is the rate that banks pay for sort of basic day-to-day operations. So when you raise that rate, the rate for mortgages goes up. The rate for credit cards goes up. The rate for auto loans goes up the rate for business loans to hire people and do stuff goes up. And so when you raise the rate, you throw people out of work, you shrink businesses, you reduce spending on everything from houses to cars, to, to anything that is financed by debt. And you've got a really nasty recession,
+
+10 (9m 36s):
+The gross national product, the value of goods and services produced by the economy fell during the third quarter, ending September 30th, by 0.6%. It had fallen in the second quarter by 1.6%.
+
+1 (9m 49s):
+And so unemployment surge to over 10% in the early eighties, as a result of these policies, which are, are now often called the Volcker shock homebuilders, who did things like drive a tractor onto the lawn of the fed and mail two by fours to Paul Volcker, to try to intimidate him. They lost their jobs and their livelihoods during this, but a lot of economists look at this as a huge success. He really did. And inflation at that period. It slowed down dramatically throughout the 1980s. And then for basically all of your, my lifetime until last year, you had extremely modest price increases of maybe one to 3% every year.
+
+1 (10m 33s):
+And it kind of felt like the inflation problem was solved and it felt like it was solved because this guy was willing to take really drastic, unpopular action for the sake of long-term recovery.
+
+0 (10m 47s):
+You know, we have this idea, we have this notion that like the Phillips curve governs all, and then it turns out that that is not okay and that we need something different. And then what we start to see essentially is like one economic theory appears to work fine. Okay, this is the one we're going to go with and then comes another turn in the great cycle. And that is a catastrophe in 2008.
+
+1 (11m 10s):
+That's right? So 2008, the financial crisis hits, but it's possible to have financial crises without as nasty recession as we had. And I think some of that was that the federal reserve was not as aggressive as it could have been. Anything. It wasn't as aggressive as it could have been in part because of the experience that the 1970s, that they were very nervous about bringing back that kind of inflation. And that meant that they weren't willing to always do the things that might've been necessary to satisfy the other side of their mandate to try to get unemployment down and stimulate the economy. And they tried to do some things, they bought up tons of bonds, but throughout the 2010s sort of the big failure of the, in the eyes of a lot of people was that it didn't satisfy its mandate to minimize unemployment.
+
+1 (11m 59s):
+And so it felt a lot like a lost decade and it felt like a lost decade due to timidity by the fed. And I think in reaction to that, a new generation of leadership in particular, the current fed chair, Jay Powell took a very different direction and started focusing like mono maniacally on trying to reduce unemployment and made inflation a very secondary concern to, to that task
+
+0 (12m 25s):
+And that new generation, that new generation that said, we focus too much on inflation on the threat of inflation and not enough on keeping people in jobs that would let them eat and pay their mortgages. That new generation was very influential going into 2020 and into the pandemic. Yeah.
+
+1 (12m 43s):
+Yes. And I would also say it was very successful in 2020 in the aftermath of the pandemic unplanned shot up to 14%. That was higher than the eighties. It was higher than the peak of the great recession. It was the biggest unemployment we had seen since the great depression almost a hundred years ago. And J-PAL just like fixed it. Now it's below 4%. He really dramatically pushed trillions of dollars into the markets. And he was also joined by Congress and president Trump and Biden. Trump spent trillions of dollars on the cares act in March, 2020, which included stimulus checks, bonus unemployment insurance, PPP loans to businesses to keep them afloat Biden past trillions, more in stimulus after he took office.
+
+1 (13m 35s):
+And so that in conjunction with the trillions that the fed was injecting into financial markets was successful at bringing unemployment down very, very, very rapidly. And I want to underline that cause we're, we're talking about some of the side effects in terms of inflation, but I think that was a genuine massive policy success. They really lived up to the unemployment side of their mandate. And I think a lot of people are better off now because of it. And we easily could have had another lost decade where instead of worrying about inflation right now, we'd be saying, you know, unemployment still at 9%, people are really suffering. Who cares if inflation is low, all these people are out of work.
+
+1 (14m 16s):
+They err very strongly on the side of having fewer people out of work. And there are real benefits to that, but we're also learning that there were some costs.
+
+3 (14m 48s):
+Hi, I'm Zach Beecham. And I cover global politics and democracy for Fox. I'm currently hosting a special four-part series. And the Vox conversations feed called the war in Ukraine explained each episode. I sit down with an expert to unpack a different dimension of this generation defining conflict. The series is designed to give you a top to bottom understanding of the Ukraine war, starting from the very beginning to what it could mean for the future, not only of Europe, but the entire world. In part one, I spoke with political scientists and scholar of Russian politics, Yoshiko Herrera about why Putin invaded Ukraine in the first place. And part two, I spoke with Tufts university professor and sanctions expert, Dan Drezner on the unprecedented economic warfare being waged by Western countries on Russia, in retaliation for the attack.
+
+3 (15m 31s):
+And this week for part three of speaking with nuclear policy expert, Jeff Lewis about the risks that this war escalates to a nuclear exchange and what we can do to prevent them listen and subscribe to the Fox conversations today, to hear the whole series
+
+0 (15m 55s):
+In econ 1 0 1, you might learn that one definition of inflation is too much money chasing too few goods simple, right? You want to take care not to flood in economy with too much money, but then the U S government floods the economy with a lot of money.
+
+1 (16m 12s):
+About $5 trillion is one estimate that I've heard about 1.8 trillion in unemployment and stimulus checks and other things to individuals about 1.7 trillion to businesses over 700 billion in state and local aid, just a lot, a lot, a lot of money. And that resulted in total spending, not just sort of matching where it was before the pandemic, which I think would have been the goal, but kind of exceeding it.
+
+0 (16m 38s):
+So the flood gates open $5 trillion comes pouring into the American economy. Inflation does start to go up. Everybody does notice it, but you didn't think it would turn out to be a big deal. Why
+
+1 (16m 51s):
+I had a few philosophies on this one was, you know, it's better to err on the side of too much than too little. And I think that gets at some of what we talked about, about the 2008 crisis where we did too little and a lot of people suffered. And I think some of it was also a sense that it would settle down. We might've gotten into a situation where there was more money than there was stuff to buy with it, but that would ease. People would go back to work. After they got vaccinated, the virus would kind of die down and stop sort of slowing the economy on its own by making people sick and making it harder to do stuff. And after all the money was dispersed by the federal government, people would spend it and then get back to normal and it wouldn't keep going.
+
+1 (17m 34s):
+A lot of those assumptions turned out to be wrong. People were pretty prudent with the government's money. And so they've been spending it very gradually. And that's definitely what, like my personal finance teacher high school would have told me to do, but it has made sort of the resulting inflation a lot more durable than otherwise would have been.
+
+12 (17m 57s):
+It says surging more than they have in 30 years. And there doesn't seem to be an end in sight.
+
+13 (18m 3s):
+I have a pound of bacon rising more than a dollar, a dozen eggs up 21% and a sirloin steak up a whopping $2 a pound. A lot of
+
+14 (18m 13s):
+People are wondering, when is this going to end?
+
+1 (18m 16s):
+It's also meant that price increases in some areas aren't offset by decreases in other areas. Normally when you have like a huge increase in gas prices, people spend less money on other stuff because they only have so much cash. And so they have to offset price increases in one area by spending less than other stuff that typically means that the other stuff sees its prices fall. And so you don't get overall inflation. You just get a change in relative prices between types of things. You didn't see that this time in part, because people had lots of money in their checking and savings accounts because the government had been so generous. And so you just sort of get a broad overall inflation.
+
+1 (18m 57s):
+We needed a strong fiscal response. We just did a lot of it. And a lot of it was not particularly well targeted. I think in retrospect, by far the most wasteful part of the whole package was the hundreds of billions of dollars sent to state and local governments. There was kind of an assumption that state and local governments were going to see if their tax receipts plummet and they would need all this federal help. And they really didn't. The economy recovered fast. They had a, a big surge in their tax receipts. And then they got this enormous handout from the federal government. And it would be one thing if they spent that sort of prudently improving services and whatnot, they've spent it on tax cuts.
+
+1 (19m 39s):
+And so sometimes when people hear, you know, we spend too much on stimulus, they hear like, oh, you wanted to take my check away. That's not necessarily what I mean. I mean that like maybe Texas shouldn't have gotten billions of dollars to like cut that. Like maybe that was somewhat inflationary. Again, it was an attitude of, it's better to err on the side of doing too much than doing too little. And that still might've been the case, but we definitely erred on the side of doing too much.
+
+0 (20m 8s):
+People are seeing that inflation has gone up by eight plus percent. Is it fair to assume that your average employee going into negotiate a salary is going to ask their employer for more money or the person who's already employed is going to go to their boss and say, Hey, you know, my paycheck is shrinking here.
+
+1 (20m 26s):
+Yeah. So this is a dynamic that's sometimes called a wage price spiral. And the idea being that when, when inflation is going up and people are seeing their, their wages adjusted for inflation, go down, they'll demand higher wages and they'll get them. I am skeptical of it basically because employers have a lot of power. So one example often use is hospitals. I grew up in a small town in New Hampshire. There were basically two hospitals nearby. And if you were a nurse, you kind of had to work for one of them. And it was pretty easy for them to, to not poach each other's people in such a way that that people could say, you know, if you don't give me a raise, I'm going to go to this other hospital.
+
+1 (21m 8s):
+And a lot of markets are like that. There are only a few employers who could, could theoretically hire you and that reduces your bargaining power and reduces your pay. So I think that has meant that workers can't exploit this inflation to get wage increases as much as they might want to or might be fair.
+
+15 (21m 26s):
+Last February, the average hourly wages have increased by more than 5%, historically that is a considerable increase. But with the cost of goods at its highest level in 40 years, it's posing a threat to the nation's economic recovery.
+
+0 (21m 41s):
+All right. So we have trillions of dollars floating around the economy from the STEMI. We also have a tight labor market. What does it take now? What will it take now to bring inflation down?
+
+1 (21m 50s):
+So I think there are a few key policies to pursue here. And one thing that I think some economists on the left have been emphasizing that I agree is very important is just increasing productive capacity for some things where we have shortages building more semiconductor factories, building more robust supply chains, expanding renewable energy so that gas prices are less important for people. That's all great. That's all part of a long-term approach to inflation management in a more short-term thing. You got to get the virus under control, and that's a tough public health challenge. People seem sick of masks, and we seem to maybe be reaching an upper limit on how much we can, can vaccinate people given sort of the number of people who are skeptical of vaccines for, for very bad reasons.
+
+1 (22m 36s):
+But there are still some people who, who aren't were working because of fear of the virus and the more you get the virus under control, the more you can get those people working and expand what we're able to do with our economy. But I think the, the ugly truth is the fed needs to use and has started using its lever of trying to tamp down, spending to get it, to match what the economy is actually capable of doing
+
+16 (23m 3s):
+Observe raising interest rates to a new range of 0.2, five to zero point.
+
+1 (23m 8s):
+And that's ugly and it's causing some concentrated pain, but we're at a point where it's clear that we're not going to expand our ability to make stuff for that supply to, to reach the level of demands we're at. Now. We're not able to do that in a very short term way. What we are able to do is constrained demand a little bit, to get it to, to better match up with what the economies is overall able to do. That's a conclusion I reached with some great regrets interest rate. Hikes are a little like chemotherapy. They cause a lot of pain in the now and they're blunt and they, they hurt healthy cells, but they might be better than the alternative and prevent future pain.
+
+0 (23m 58s):
+Dylan Matthews is a senior correspondent at Fox today's show was produced by we'll read, edited by Matthew collect engineered by Paul mousey and fact-checked by Laura Bullard. And also I'm going to L Saudi Matthew collect myself and we'll read as Laura is sick today. The rest of our team includes Halima Shaw, Hadi Morag, D miles, Bryan, Victoria Chamberlain, and my cohost Sean Rama's from special. Thanks this week to Sophie Leilani, our supervising producer is ominous Al Saudi Box's. VP of audio is Liz Kelly Nelson. We use music by Breakmaster cylinder and no I'm Hassenfeld I'm Noel king today explained is part of the Vox media podcast network Support for today's show comes from duck.
+
+0 (25m 7s):
+Duck go. If you're tired of being tracked online, DuckDuckGo believes it can help. Tracking is a comprehensive problem. There are trackers almost everywhere. Online websites, emails, even the apps on your phone, which means you need a comprehensive solution. Duck duck goes privacy app can be used as a browser with private search tracker blocking encryption and email protection built in it's the free, easy button for online privacy. Go to duck, duck, go.com to learn more.

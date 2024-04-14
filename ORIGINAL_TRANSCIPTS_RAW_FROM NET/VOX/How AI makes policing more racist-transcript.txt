@@ -1,0 +1,170 @@
+3 (1s):
+Support for the show today comes from neutrophil According to neutrophil 80 million men and women in the u.s. Experienced thinning hair, but now there's a drug-free step you can take to treat it. It's neutrophil neutrophil is a hundred percent drug-free and formulated with pure Botanicals to grow hair.
+
+1 (21s):
+That's a strong as
+
+3 (22s):
+you are gosh started, but never gets old. You can try neutral right now and get 20% off and neutrophil.com you Seeing the offer code explain. That's Nu traf o l.com use the promo code explained. A while back on the show. We talked about the dangers of facial recognition technology and we talked about the first city to ban it San Francisco. But over the last few weeks the NT facial ID movement has gone from a trickle to a flash flood until now a lot of the conversation has been around privacy these days. It's racial Justice
+
+1 (1m 2s):
+Amazon says, it is temporarily Banning Police and law enforcement from using.
+
+3 (1m 7s):
+Its controversial facial recognition software. The decision follows
+
+1 (1m 11s):
+weeks of protests against
+
+3 (1m 12s):
+police brutality in the wake of George Floyd's death. IBM said that he's getting rid of their facial recognition programs. Microsoft is urging Congress to put more regulation on facial recognition technology. IBM CEO sent a letter to Congress saying that he wants to work with Washington to promote Justice and create a dialogue on whether facial recognition software should be used by local police, but it's not just big Tech boss. Austin just became the largest city after San Francisco to ban government use of facial recognition technology should not be using racially discriminatory technology and technology that threatens our basic right and now the coders themselves are speaking out this week the association for computing Machinery the world's largest Computing group wrote this in a statement the technology too often produces results demonstrating clear bias based on ethnic racial gender and other human characteristics such bias and its effects are Into physically and socially unacceptable.
+
+3 (2m 12s):
+I asked Diana Howard why all of this is happening. Now. She's a roboticist who also teaches about ethics robots and AI at Georgia Tech.
+
+1 (2m 20s):
+It's because with with George Floyd the word I keep hearing as an Awakening that people started to realize that black folks as well as black and brown folks but black folks specifically have been kind of on the wrong side of some of these practices and policies with police and with law enforcement and facial recognition. Has of all the AI applications that have been out there facial recognition has had kind of the most movement into some of these fields with law enforcement. We know that AI is used by border patrol the FBI and US Immigration and Customs Enforcement are reportedly using driver's license photos for facial recognition searches without their owners knowledge or permission.
+
+1 (3m 8s):
+We know that the court system for criminal recidivism. Um determining who should be paroled and they use AI quite a bit. What's scary is when we see AI is being used in areas where our civil liberties can be violated. How does that work? Exactly. If you think about facial recognition, it means you need a lot of faces to put into the system. Now, where do you think those images are taken from their actually taken from police records. They're taken from the web. They're taking some all the places you could think of. That you have images. Well, we already know if you look online and you look at media, they historically have represented black and brown people in a negative light and then if you're adding in the fact that you're using police records, we already know that there's a bias and everyone knows this with respect to specifically black men.
+
+1 (4m 1s):
+That's the data that's being said and so if most of the data you have that's being fed into a I basically says 80% of these individuals that Look like this are perpetrators. It means that if you come in and you have someone innocent, well, you know, you're going to match to a larger percentage of the database of negative images because that's what's been learned. Say you're Innocent, but your broaden well first off a mug shot is taken you have fingerprints, even if you are exonerated you're now in the system you have been targeted which then means your searchable so becomes a systematic cycle where it's very difficult to break out.
+
+1 (4m 41s):
+especially because it's a i
+
+3 (4m 46s):
+Have we seen any recent examples of a i wrongly accusing a person of
+
+1 (4m 49s):
+color? There was a robbery and Michigan
+
+3 (4m 52s):
+someone stole nearly four thousand dollars in watches from this Detroit Shinola Boutique. Robert Williams who has no criminal history was wrongly arrested for the crime on his front lawn in front of his wife and young daughters facial recognition software falsely matched his driver's license photo to security footage of a shoplifter. Julia comes out water put me in handcuffs. My oldest daughter and I tell her hey Juju go back in the
+
+1 (5m 18s):
+house. They took the images of the camera. They then put it within a system and created a
+
+3 (5m 26s):
+mug shot detective turns over a picture of a guy inside Shinola and he's like, so that's not true. I'll look I said no, that's not me. He tells another Pit Road we say, I guess this not Julian I picked that paper up and hold it next to my Vegas. I said, this is not me like I hope y'all don't think all black people look alike.
+
+1 (5m 51s):
+They then found out. Oh, sorry wrong
+
+3 (5m 54s):
+person, which
+
+1 (5m 56s):
+means that also there's human biases that was introduced along with the AI bias. And so you had a double
+
+3 (6m 2s):
+whammy. There's been a lot of discussion in the last month about defunding the police or radically we thinking police instead of making, you know smaller fixes. Do we need to radically rethink AI to
+
+1 (6m 17s):
+defining the police basically means you don't have as many police officers, but you still have to do something in terms of quote-unquote Law and Order what's going to happen? You're going to bring an AI by default, right? That's like what people do you bring an automation when you reduce your workload? Means we need to be able to fix a i if you abolish Ai and also abolish the workforce. I don't know what you would be placing with
+
+3 (6m 44s):
+but should a I have a place in policing at all. I mean, is there an example of law enforcement using it responsibly?
+
+1 (6m 51s):
+So angle would a neighborhood in Chicago actually had a nice way of using AI they had an AI tool basically predictive policing that identified hotspots traditionally. What police do is they would send? And police officers to places that have hot spots, you know to make sure that they find the crime before it happens or find individuals instead. What they did is that they use those hotspots to then engage with the community leaders within those hot spots. So they work with the community to actually alleviate the crime and climb went down robberies went down they use the AI not to deploy police officers. They use AI as a tool to have much more human human.
+
+1 (7m 35s):
+Operation so that's rethinking like what you're doing. And so if you think about the justice system instead of using AI for criminal recidivism, how do you use AI to do something else? Right? Like what is it that enables human human interaction to then fix the
+
+3 (7m 52s):
+problem. It just seems a lot like playing with fire to me even if people or an institution have the best intentions. I mean if we're going to use AI how do we keep it under control,
+
+1 (8m 4s):
+you know one of the things We don't have which I think might actually work is this this aspect of accountability, right? And it's because if you think about what a I was used for it was it was, you know to make our lives better. So we have, you know, nice chat Bots online. It wasn't really used for things that can impact us in our in our day-to-day lives. But when we have something that impacts us and I would say like drugs and medicine right? Like there's an organization example the FDA that monitors like I as a company if Decide to make a drug in my house. I can't just release it. Like I have to go through a process and sometimes it takes long and sometimes it gets people frustrated but there's a process where I have to show like this drug has this positive benefit and guess what?
+
+1 (8m 49s):
+It does have these harms as well and sometimes fda's like yeah, you can't do it. You got it. You gotta go back to the drawing board. Sometimes FDA is like, okay. This is it acceptable harm, but you have to put it on the label if we think about AI for Those things that impact our civil liberties like facial recognition, you know, when it companies develop it it should go through this whole aspect of these are the positive things. These are the harms and we've done the studies and you have a third body basically say, yeah, no not acceptable.
+
+3 (9m 23s):
+Up next how the federal government could manage artificial intelligence or even ban law enforcement from using it? We are interconnected
+
+1 (9m 49s):
+when a black person is able to
+
+3 (9m 52s):
+obtain Justice and peace. All people are going to benefit. We have been suddenly plunged into an existential crisis and we are not a society in general that turns to deep questions of Life Meaning. Hey everyone. I'm Sean illing senior interviews writer at box.com.
+
+1 (10m 18s):
+I'm Seagal Samuel staff writer at Vox the
+
+3 (10m 20s):
+future perfect together. We're launching a new podcast miniseries called the way through every Wednesday. We'll talk with the low geon's philosophers and other thinkers about the challenges of this moment and how the best ideas can help us all get through
+
+1 (10m 34s):
+it Sean and I are both philosophy nerds and I'm also a former religion reporter. So this is our attempt to mine the
+
+3 (10m 40s):
+world's richest wisdom traditions for some guidance that can help us through these crazy times a
+
+1 (10m 47s):
+scary pandemic a huge economic collapse racial Injustice and social unrest
+
+3 (10m 53s):
+will bring on the smartest people. We can find to discuss everything from Meditations on Race to Albert Camus is the plague to how to turn all this trauma and suffering into something useful. So look for a new episode of the way through every Wednesday starting July 1st in the future. Perfect feed. You can also find us on Apple podcast or whatever you listen to podcast. Hey, I'm songwriter Charlie Harding and I a musicologist sniffs loan where the hosts of Switched on Papa podcast about how popular music works and why it matters every week Charlie and I break down the biggest pop songs in a way that you've never heard before I'll switched on pop.
+
+3 (11m 39s):
+We have conversations with the likes of Carly Rae Jepsen Liz. Oh and Phineas most recently we chatted with baz luhrmann to uncover one of the earliest internet hoaxes that turned into the unlike. He hit Everybody's Free To Wear Sunscreen and explored how people are making music in 2020 under extremely challenging circumstances and asked ourselves. If we were all wrong about Kanye West so join us search for switched on pop in your favorite podcast app and listen to an episode about your favorite artist and then subscribe for free on Apple podcast Spotify or wherever you're listening to get new music explainers each week.
+
+3 (12m 27s):
+Seagal Samuel co-host of the future perfect podcast here at vaux in the first half of the show. I Anna Howard mentioned that she wanted to see something like an FDA for artificial intelligence. Is there any indication that the federal government is going to do something like that
+
+1 (12m 41s):
+so far? I haven't seen any indications that the federal government is actually willing to do that, but it's not only a Jana who's calling for that. Definitely. I'm seeing an increase in calls for that from groups like The algorithmic Justice League, which is headed up by Joyce. Weenie researcher at MIT last year. I did a piece for Vox. It was presenting a crowdsourced algorithmic Bill of Rights and a lot of the experts I spoke to you for that piece. Also said this same idea. For example, Ben shneiderman who's a computer science professor at University of Maryland. He said that we need to create what he called a national algorithm safety
+
+3 (13m 18s):
+board your major company and you're about to put out a major algorithm. Oh you're a bank and you're going to change the way credit is a sign. I think it's appropriate that you come before the national algorithm safety board and that there's a review
+
+1 (13m 32s):
+just like we have oversight boards for airplanes. You know, they investigate the crashes. We need the same thing for facial
+
+3 (13m 40s):
+recognition. So we've got some proposals for these oversight committees, but is anyone working on legislation that could make these a reality somewhat quicker
+
+1 (13m 50s):
+something pretty exciting just happened on June 25th. Where lawmakers? The house and the Senate jointly introduced this new legislation that would effectively ban law enforcement from using facial recognition in the u.s. It's a pretty big deal. It's called the facial recognition and biometric technology moratorium Act of 2020. That was a mouthful. It's sponsored by Senators Marquis and Merkley and representatives. Jayapal and Presley
+
+3 (14m 18s):
+the criminal justice system is already rigged against black and brown Americans we have to act with urgency. Agency to ensure that this technology doesn't become a new tool in the 21st century to subjugate and filled the system with people of
+
+1 (14m 35s):
+color. Basically, it would right away put a stop to US federal agencies like the FBI from using facial recognition and it would also require State Police agencies to put in place similar policies Banning the use of the tech if they want to be able to receive certain federal grants. So if that passes that Could be pretty significant especially since we're not talking about a moratorium here. We're talking about a permanent ban. It's the kind of legislation that would stay in effect until new legislation is passed to unban it
+
+3 (15m 11s):
+How likely is that
+
+1 (15m 12s):
+pass, you know a few weeks ago. I would have been more cynical and I would have said I don't think it's that likely to pass but now I actually think it's more likely, you know, this legislation came just one day after. Robert Williams told his story to the press That's the black man in Detroit who is arrested falsely due to this racially biased facial recognition algorithm. And this is all coming on the heels of the upswell in Black lives matter protests and the major national conversation that has sparked about facial recognition. So given the cultural climate we're seeing now around all this stuff. I think that might have actually teed up quite nicely this moment where That kind of legislation might be more likely to pass.
+
+3 (15m 58s):
+So that's the political side of things but we've seen companies taking steps on this to I guess how cynical should we be about companies sort of trying to police themselves
+
+1 (16m 10s):
+personally. I think that we have every reason to be skeptical and not too credulous of giant tech companies when they say they're going to regulate or put more Toria on the technologies that they're creating. Buying and selling right their interest is in their own bottom line at the end of the day. So, you know, IBM said, okay, we don't need to do facial recognition anymore, but it wasn't making that much money off of its facial recognition Tech to begin with so it's not a really big deal for it to pull out of that business notice that Amazon said, you know, we're doing this one-year moratorium on the technology to give Congress enough time to come up with regulations.
+
+1 (16m 51s):
+Let me actually just read you what Amazon said in its statement it said we hope One-year moratorium might give Congress enough times Implement appropriate rules and we stand ready to help if requested. So, what does that mean? Right translation? We want to help write the regulations so that these new rules won't totally destroy our ability to profit from this
+
+3 (17m 11s):
+Tech. So I guess we have government regulation that seems like it's a bit away from being a reality. We have companies that are maybe saying that they want the government to regulate them, but could be actually Trying to get in on the regulation themselves. I mean how hopeful are you that we can put the cat back in the bag here.
+
+1 (17m 33s):
+It's funny. I tend to be quite cynical about this stuff, but I would say if ever there was a moment when it looked like we actually might be able to push back strongly in law against facial recognition. It's now
+
+3 (17m 50s):
+a lot of that has to do with the black lives matter protests that we've just been seeing over the past few weeks. during these protests you saw the FBI plus police in various cities like Seattle Austin Dallas publicly explicitly asking citizens to send them videos of the protests so that they could capture visual images of the protesters and then use facial recognition to identify them by name so that they could punish them if they were damaging property or looting, you know, I think the news of that really alarmed people and it helps kind of feel this National uproar over facial recognition. I think the other thing which is a bit Bittersweet is that the protesters were this racially mixed population you had of course a lot of black people.
+
+3 (18m 37s):
+You also have white people you had people of all backgrounds protesting together in the streets. And so I think for some of the white people some of the non-black people at the protests that was maybe the first time they came to realize this technology could actually be used on me. It could actually have Full consequences for my life too. And so more and more people outside of that black community and outside of the kind of privacy nerd Community are starting to see this as a real problem. So I think that's helping to build up this base for the pushback against facial recognition Tech.
+
+3 (19m 20s):
+Seagal Samuel is the co-host of the future perfect podcast at vaux future. Perfect. Actually just released a new limited series called the way through it's all about how to use philosophy and Faith to help us out in times of covid. I'm no I'm hassenfeld filling in for Sean. Rama's firm will be back on Monday. The rest of the team is Mu JT a FEMA Shapiro Jillian Weinberger Bridget McCarthy. I'm Anna al-saadi and Halima Shah. Cecilia lay checks are facts and mysterious brake master cylinder makes our music we had help from Brown this week and Liz Kelly Nelson is vaux's editorial director of podcasts one more thing. We're working on some kids episodes for later this summer, and we want to know all the creative ways.
+
+3 (20m 1s):
+Your kids have passed the time. Have they made up games written a play gotten into mysterious kinds of trouble or are they just really bored. We'll listen to that to have them record a voice memo and email it to us today explained at vox.com, or they can call and leave a message at 2 0 2 6 8 8 Eight five nine four four that's two zero two six eight eight five nine, four four. We're off tomorrow for the holiday weekend will be back in your feed on Monday.

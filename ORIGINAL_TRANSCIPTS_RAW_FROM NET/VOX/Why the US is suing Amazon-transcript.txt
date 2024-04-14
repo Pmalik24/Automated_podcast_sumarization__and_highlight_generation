@@ -1,0 +1,260 @@
+0 (1s):
+The United States government is suing amazon.com.
+
+1 (5s):
+So this case is ultimately about competition and competition that has been foregone because of Amazon's unlawful tactics. As the complaint lays out
+
+0 (13s):
+It's a clash of the Titans Biden versus Bezos Prime versus Priority mail express. FTC versus A. M Z. Okay. Truth be told, it's a lot more complicated than any of those things. What. it is is it's Coming up On today. Explain
+
+1 (33s):
+People. Are paying higher prices. Right. Consumers are paying more than they otherwise would. Small businesses are having to pay a 50% Amazon tax right now. And. so ultimately the complaint is seeking to restore the lost promise of competition. Greater competition will mean lower prices, better quality, better selection, and greater innovation. And that's ultimately what this case is about.
+
+Crucible Moments (1m 0s):
+Support for this show today comes from Crucible Moments. Crucible Moments is a new podcast from Sequoia Capital and it takes you inside the pivotal decisions that shaped top companies like Airbnb. PayPal 23 and Me and More You can tune into Sequoia s new podcast series to discover how some of the most transformational companies of the modern era were built. Crucible. Moments is out now and available everywhere you get your podcasts. And at Crucible moments.com you can listen to Crucible moments. Today,
+
+Nicorette (1m 34s):
+Are you ready to quit smoking? A little support can go a long way. Nicorette can increase your chances of quitting by up to 60% versus willpower alone. 'cause when you're dealing with a stressful commute, a tough day at work, or a night out with friends, your willpower could use a little help now and then. Nicorette gum fights cravings fast to help give more power to your willpower. Find out more@nicorette.co.uk. Nicorette two milligram gum contains nicotine stop smoking aid requires willpower. Always read the label
+
+0 (2m 13s):
+Today explained Sean Ramas Firm. When we heard the federal trade Commission sued Amazon on Tuesday, we reached out to Makena Kelly at The Verge to find out why.
+
+4 (2m 24s):
+It's a really big case and it's something that folks have been expecting for a couple of years now, if not like under the Trump administration. Then definitely when our current FTC chair, Lena Khan was confirmed in 2021 when President Biden was first inaugurated.
+
+0 (2m 40s):
+Has anything like this ever happened before? Is this like the first time the government's gone at Amazon? The
+
+4 (2m 46s):
+State governments have issued similar cases in the past. DC and California being like the only two that have challenged Amazon at this scale on state antitrust laws,
+
+5 (2m 57s):
+Amazon's practices prevent basic price competition.
+
+6 (3m 1s):
+California Attorney General Rob Bonta is suing Amazon, accusing the company of engaging in unfair business practices by pushing sellers to maintain higher prices on products sold on other sites.
+
+4 (3m 13s):
+But this is the first time that the FTC, a federal agency, has gone after Amazon and basically its entire business model, which is wild to think that the government is taking up, you know, such a popular company that people use every day. And looking at just even the most basic ways that it operates.
+
+0 (3m 32s):
+Well, tell us what the FTC is saying. What is Amazon's sin here?
+
+4 (3m 37s):
+So the lawsuit accuses Amazon of basically leveraging its market dominance to stamp out what be competitors.
+
+1 (3m 43s):
+These are a set of tactics, but ultimately Amazon has pursued them to deprive actual and potential competitors of the ability to gain the scale and momentum needed to effectively compete online. There's
+
+4 (3m 56s):
+A variety of different competitors here. Others being, you know, just other online marketplaces. Assume like you're going on walmart.com to try and find a similar product, or also the third party sellers that use Amazon's platform in the first place. So in order to maintain that dominance, Amazon is accused of deploying a variety of different strategies like bearing listings that some third party sellers are offering, you know, lower prices on other sites. So they'll bring those down in search results, or even charging sellers these exorbitant fees to even use the platform and list their products in the first place on Amazon. Mam,
+
+1 (4m 29s):
+Yum, yum, yum.
+
+4 (4m 30s):
+What did I buy last on Amazon? I bought cat food. And so when I just type in cat food, what, what do I see at first? I see advertisements for, you know, a variety of different, whether it's the wet food, the dry food, whatever, it's these different third party sellers, whether that is, I don't know, like the Rachel Ray Cat food,
+
+7 (4m 50s):
+A great taste that your cat or cats are going to love
+
+4 (4m 55s):
+The Purina, whatever it is. Purina, They will buy these ads in the search results in order to have their products shown higher up than everything else. And Amazon has power over, you know, the search listings. 'cause it runs the website, right? And so in order for these third party sellers to know that people are going to see their products, it is actually, you know, better for them to buy the ads in the first place rather than leaving it up to whatever Amazon's, you know, black box of an algorithm is. And so in order to even use the platform, folks kind of prefer using the ads, which then of course, you know, puts more money in Amazon's pockets, which can even create its own competing, you know, dog food.
+
+4 (5m 39s):
+If there's like an Amazon basics like pet food or something. Then of course like they're in the running against the other brands and third party sellers as well,
+
+0 (5m 48s):
+Which is like plausible. They own Whole Foods.
+
+4 (5m 50s):
+Yeah, they do. Along with a bunch of other different kinds of businesses.
+
+0 (5m 55s):
+So if Amazon wants to sell ads to Boost, I don't know, like Chairman Meows, like pet food into the search results a little higher up or whatever, is that technically illegal?
+
+4 (6m 6s):
+That's kind of what Chair Khan and the FTC is trying to test right now for however long, probably since the seventies and the eighties. American Antitrust School of Thought is basically saying that, well it's not anti-competitive as so long as the business is reducing prices. What con the FTC and even the Biden D O J right now is testing in a variety of their antitrust cases is a different way of thought, which is looking at competition first rather than just the prices and the short term effects on Consumers.
+
+1 (6m 43s):
+This case is about the competition that has been lost because of Amazon's monopolization in their unlawful tactics. And Consumers should be entitled to lower prices, to more competition, to more innovation. Similarly, sellers should be entitled to greater competition. And this alternative universe of greater competition, greater innovation, lower prices, better quality has been lost because of these tactics. And that's what we're really trying to get justice for.
+
+0 (7m 13s):
+What do they want Amazon to do about it? Or what do they want Amazon to do instead?
+
+4 (7m 17s):
+It called for, what it said was structural remedies. And for the keen observer and reporters who read these press releases all the time, that typically means a breakup. What would break off and what would happen even just earlier on Tuesday, Khan was pretty tightlipped on what she was looking for if something was to get pulled out of Amazon. But it does look like they're trying to, you know, shake down the company out of, you know, these different parts and businesses that it's accusing it of being, you know, so anti-competitive.
+
+0 (7m 48s):
+Did Amazon respond?
+
+4 (7m 50s):
+Yeah, Amazon and you know, different industry trade groups were really quick to point out that a lot of the lawsuit, which mind you is 172 pages, it was very long, uses the word sellers more than it uses the word Consumers. Huh. And so essentially they're pointing out that Amazon and of course these industry trade groups, these people who you know, end up being a bit more supportive business. These folks are basically pointing out that it sounds like the FTC wants to create more competition against Amazon rather than doing what is in the best interest of Consumers.
+
+0 (8m 25s):
+Amazon, of course not the only company getting some antitrust attention in tech. We recently covered Google on the show. How does this suit compare to that one?
+
+4 (8m 37s):
+So the Amazon case is fairly similar to the DOJs Google antitrust case. You know, the Google case going on right now, like you mentioned, is a search trial having to do with Google search engine and how it ranks, you know, its competitors and its search. But the government under Biden has been pursuing a ton of antitrust cases. The FTC itself has gone after Meta
+
+9 (8m 60s):
+Mark Zuckerberg taking the stand today in a San Jose court, and he's making the case that the FTC should allow meta to buy the VR studio within Unlimited. They make a popular fitness app called Supernatural.
+
+4 (9m 11s):
+The D O J has gone after Google several times.
+
+10 (9m 14s):
+Lawyers for the Department of Justice arrived here this morning to present their case alleging that Google got to its 90% market share by breaking the law and engaging in anti-competitive practices.
+
+4 (9m 25s):
+The search case is just the first one to really hit the courts and start taking place. But there has been this really big ramp up in attention in competition and antitrust in markets over the last couple years. I think that has a lot to do with like our current economic state with inflation and folks, you know, really kind of suffering to pay bills and stuff. And I think it also has to do with just like this change in thinking that is finally, you know, finding some support under the Biden administration after you know, how many years,
+
+0 (9m 59s):
+What happens next? Is Amazon gonna end up in an actual federal courtroom or is this just gonna resolve itself peacefully? What, what? What do you think?
+
+4 (10m 9s):
+There is always room for there to be a settlement, but from Amazon's statement on Tuesday responding to it, I would be shocked if they reached some kind of settlement. But you know, how long did it take to prepare this case? At least, you know, three years if not more. We're going to be looking at if not five, 10 more years of litigation and waiting for this day of the courts. Even though this Amazon case could be Lena Kahn's legacy in this role, it is going to outlive her for sure and probably even the Biden administration itself.
+
+0 (10m 49s):
+You can read Makena Kelly at The Verge dot com when we're back. On today explained we'll have a former FTC director weigh in on this lawsuit.
+
+Nicorette (11m 19s):
+Are you ready to quit smoking? A little support can go a long way. Nicorette can increase your chances of quitting by up to 60% versus willpower alone. 'cause when you're dealing with a stressful commute, a tough day at work or a night out with friends, your willpower could use a little help now and then. Nicorette gum fights cravings fast to help give more power to your willpower. Find out more@nicorette.co.uk. Two milligram gum contains nicotine stop. Smoking aid requires willpower. Always read the label.
+
+Amp (11m 52s):
+Support For this episode comes from amp. If you're looking for a place to create live playlists, chat live about your favorite tracks and find your new go-to artist, you'll want to check out Amp, Amazon's live audio app with Amp Music fans like you can create your own live audio show. AMP provides a space for communities of music lovers to play the songs they love, chat with other fans and artists in real time, and even get paid via the Creator fund. And there's more with the ComeUp Amps emerging artist program. Atlanta's music Tastemakers set out to find three rising stars from the city's hip hop scene. You can see their picks in the up docuseries or head to the AMP app to share your prediction on the next big names in hip hop. Play music, chat, live and find your music community on Amp. Download Amp on iOS in the app store or for Android in the Google Play Store. Available in the US only
+
+0 (12m 53s):
+Today explained. Listeners meet Bill.
+
+12 (12m 56s):
+I'm Bill Bayer. I'm a visiting fellow at the Brookings Institution of Washington. D c previously served in the Justice Department as head vanny trust enforcement, and before that, as head of antitrust enforcement at the Federal Trade Commission.
+
+0 (13m 12s):
+Okay, so you know a thing or two about the FTC, I imagine.
+
+12 (13m 16s):
+I sure hope so.
+
+0 (13m 18s):
+Tell me about the boss over there. Tell me about FTC chair. Lena Khan. I hear she and Amazon go way back.
+
+12 (13m 26s):
+She wrote a piece as a law student that was published in the Yale Law Journal,
+
+13 (13m 33s):
+The Amazon Antitrust Paradox by Lena Kahn.
+
+12 (13m 36s):
+Unprecedented for a law student to get that kind of prominent placement in one of the preeminent legal journals. And the piece was about Amazon as a monopolist, how and why antitrust enforcers up to now and the courts have failed to adequately challenge behavior by a successful tech platform by Amazon.
+
+13 (14m 3s):
+The company has positioned itself at the center of e-commerce and now serves as essential infrastructure for a host of other businesses that depend upon it. Elements of the firm's structure and conduct pose anti-competitive concerns, yet it has escaped antitrust scrutiny.
+
+12 (14m 18s):
+It was symbolic of a rethinking of antitrust among many progressives. The concern one I share is that antitrust enforcement had gotten way too conservative in the last 30 or 40 years. The courts weren't applying the literal language of the, our antitrust statutes. They were imposing on the government a very high standard of proof to challenge monopolies, to challenge mergers that increase concentrations.
+
+13 (14m 54s):
+The current framework in antitrust, specifically, its pegging competition to consumer welfare defined as short-term price effects is unequipped to capture the architecture of market power in the modern economy.
+
+12 (15m 7s):
+The light bulb moment in Lina K'S paper was that these tech platforms, including Amazon, which had been providing a new kind of service to us as Consumers, were not benefiting us in many ways that competition should, that these tech platforms which claim to be providing us a free service actually are costing us a lot. We pay not with money to go on the Amazon platform and shop or to go on the Google platform and search, but we pay with our personal data And that personal data is then sold or used by the companies to make money.
+
+12 (15m 55s):
+And traditional antitrust thinks about consumer injury as having to pay more for a product or a service than we would in a competitive market.
+
+13 (16m 6s):
+We cannot coe the potential harms to competition posed by Amazon's dominance. If we measure competition primarily through price and output.
+
+12 (16m 14s):
+She focused on the notion that we are paying something, but it is a cost that's hidden from us And. that is a problem that requires a new look, a new approach to antitrust in order to address problematic behavior by tech platforms like Amazon.
+
+13 (16m 33s):
+Consumer interests include not only cost, but also product quality, variety and innovation. Protecting these long-term interests requires a much thicker conception of consumer welfare than what guides the current approach.
+
+0 (16m 45s):
+Does she offer any solutions in this paper or was it more diagnosing a problem?
+
+12 (16m 51s):
+She both diagnosed a problem and suggested we needed various restrictions on what a dominant platform like Amazon can and cannot do to limit opportunities for competitors. She also raised the possibility that a company like Amazon should be broken up in various component parts.
+
+0 (17m 16s):
+So what does Lena Cotton do between writing that paper and becoming the chair of the FTC? At the probably unprecedented age of 32, she
+
+12 (17m 26s):
+Came to Washington. She spent some time working on antitrust issues at the Federal Trade Commission. She then joined the House Judiciary's antitrust subcommittee as a staffer, and she helped run a series of hearings in the fall of 2020 where the antitrust subcommittee brought the CEOs of these successful tech platforms to Washington for a series of hearings. How do
+
+14 (17m 56s):
+You sustain a business model in which users don't pay for your service
+
+16 (18m 2s):
+Senator? We run ads.
+
+14 (18m 5s):
+I see.
+
+12 (18m 7s):
+Interestingly, both Republicans and Democrats began to express concerns about dominance of these companies. The personal data they had on us, what they were doing with that data, and whether or not they were improperly excluding competitors from online market competition. She was a principal Author of an extensive report that summarized the findings and made a series of recommendations challenging tech platforms, including Amazon under the US antitrust laws.
+
+17 (18m 42s):
+A 450 page report found Amazon, Google, Facebook, and Apple have abused their market dominance by charging excessive fees and extracting valuable data from users. Recommendations include forcing the firms to divest that related businesses.
+
+0 (18m 58s):
+How surprising is it when Biden gives her the top job at the FTC?
+
+12 (19m 3s):
+It was not surprising that he appointed her as a commissioner, but the day she was confirmed by the Senate, the president who has the authority to designate, who will be the chair of the Commission said, and I want this person to be chair. That was a surprise. But you know, it was the president's right to make the choice. He did and she went down to the agency and got to work right away. She has brought a number of cases, challenged a lot of transactions, forced companies to abandon some deals that she and her fellow commissioners thought were problematic in court, though some of the challenges have not been successful.
+
+18 (19m 50s):
+Are you bringing cases that you expect to lose? Absolutely not. Okay. Well your track record seems to suggest otherwise.
+
+12 (19m 56s):
+She challenged a meta acquisition of a company called Within that is in the virtual gaming space.
+
+19 (20m 7s):
+Federal judge shot them down similarly, even as contrary to argue that Meta could make a similar product themselves.
+
+12 (20m 13s):
+The FTC more recently challenged Microsoft's effort to buy Activision. Activision makes some of the leading online and council games like Call of Duty. The FTC wanted to ban that transaction entirely. The
+
+9 (20m 33s):
+Judge has denied that preliminary injunction, meaning Microsoft at least will likely try to go forward here in the US to buy Activision for $69 billion.
+
+20 (20m 43s):
+But this is a big loss for FTC Charlene economy. She came out swinging against big tech and hasn't really delivered.
+
+12 (20m 49s):
+She did get concessions in which Microsoft promised it would make that game available to other makers of gaming consoles. So it was a loss in terms of not blocking the deal entirely, but a win in terms of making sure Microsoft did not abuse the power it would get from buying Activision and controlling access to two of, or three of the most popular games for gamers.
+
+1 (21m 20s):
+I'm certainly not somebody who thinks that success is marked by a hundred percent court record. I think we need to be, as public enforcers, we have a special obligation to be bringing the hard cases. I think it's also really important to be having the institutional dialogue among the three branches. So if the antitrust agencies look at the market, think that there's a law violation, think that you know, the current law might make it difficult to reach, there's huge benefit to still trying because If, you don't try. The message that sends out to the world is that the enforcers don't think there's a problem in the market.
+
+0 (21m 55s):
+Bill, you've worked inside these systems, you've worked on these types of cases. I, I wonder, you know, we've been hearing about reigning in big tech for years now to the point where it's become sort of cliche and it falls on deaf ears. Not much has happened. It seems like big tech is still in charge, is still calling the shots only you know, concedes when they themselves want to, when they see a business opportunity like Apple recently saying that, you know, we're gonna be carbon neutral by 2030 or 2050 or whatever it is. Has the government had any success here and might this be the first time if she wins this suit?
+
+12 (22m 37s):
+Well, there are a bunch of challenges pending. The problem with antitrust litigation is it takes a long time. So we've got the FTC having sued Facebook and the Trump administration, the Department of Justice having sued Google also in the Trump administration. Those cases are just making their way to trial three years after they were initiated. So what happens is the government identifies a problem, brings a challenge, then things kind of appear to go quiet because discovery is going on, documents are being exchanged, depositions are being taken, and it's only when as is happening as of last week with with Google when the trial starts that the evidence gets presented and we begin to see progress towards an outcome, whatever that might be.
+
+0 (23m 30s):
+So government moves slow, antitrust moves, slow tech famously moves fast and breaks things. Is government ill-equipped in this country to regulate tech?
+
+12 (23m 43s):
+That is a concern. At the same time, once a case is brought and litigated, it establishes precedent that courts that, that companies rather, that wanna be antitrust compliant, will follow. There's more than just the one case at stake here. It's providing guidance to companies and antitrust enforcers about what is illegitimate anti-competitive behavior and how it can be challenged and stopped.
+
+0 (24m 13s):
+You sound hopeful?
+
+12 (24m 14s):
+I am looking at the Amazon complaint, the allegations in there, although we can't see them all because the company has claimed confidentiality over the public version of the complaint. But the allegations suggest a pattern of conduct by Amazon that is problematic. And if those facts as alleged are proven in court, Amazon is in a world of hurt.
+
+0 (24m 47s):
+Bill Bear, find him at Brookings. Amanda Lewellyn. Halima Shah. Amina Aldi, David Herman, John Ehrens, Haddi Mawajdeh. Find them at today.
+
+0 (25m 0s):
+Explained
+
+Viator (25m 28s):
+Traveling is amazing. Dealing with logistics, not so much via tour can help make travel simple and enjoyable. Via Tour has over 300,000 bookable experiences ranging from simple tours to extreme adventures. Plus, via tour's experiences have millions of real traveler reviews. So you'll have the information you need to book the best activities for your trip. Download the Via tour app now and use code via Tour 10 for 10% off your first Booking one app over 300,000 experiences. You'll remember. Do more with Via tour
+
+polestar (26m 8s):
+The era of automotive advances with the All electric Polestar two. Now with faster charging improved E P A estimated range of up to 320 miles and advanced safety technology experience. Awe-inspiring performance combined with luxury design as standard. The time is now the All-Electric Polestar two. Book a test, drive and order today@polestar.com.

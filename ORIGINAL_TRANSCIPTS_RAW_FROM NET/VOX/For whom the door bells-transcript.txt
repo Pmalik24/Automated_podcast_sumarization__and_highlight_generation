@@ -1,0 +1,461 @@
+Working It (1s):
+Support for the show today comes from the financial times, but their friends just call them F T the UN climate change conference is in Glasgow. Through November 12th, it's called the cop 26. Their lofty goal is to unite the world to tackle climate change, to facilitate the broader conversation. Ft com will make all of their content free to read on November 3rd. That includes their extensive climate coverage and ongoing analysis of cop 26. Visit F t.com on November 3rd, to read all their content for free
+
+Stripe (37s):
+support for the show today comes from Stripe. If you're a startup founder, you know, early decisions can be the difference between success and failure. One decision that thousands of successful founders have made is choosing Stripe as their payments platform. According to Stripe, I have not personally verified that, but over the past decade, Stripe says it has supported the group of the most ambitious businesses, including Shopify, Lyft, and Kickstarter. If you want to learn how Stripe can support your business, visit stripe.com today, that is stripe.com to get started today.
+
+0 (1m 20s):
+I explained I'm Sean Robinson and I love Halloween, but I've gone from being a Halloween reveler to more of a Halloween retiree. Instead of hitting Halloween parties, a parades, I'm happy to just dress up and hand out candy to the kids and compliment their costumes. So that's what I was doing last night. But the thing I kept noticing is that kids wouldn't say trick or treat. They just walk up to me and, you know, hold up their plastic pumpkin or their plastic bag, or open up their pillowcase and wait for me to hand them candy. And eventually I realized that's because I was actually doing it wrong. I was standing on my stoop, eagerly awaiting trick-or-treaters, but where I needed to be was behind my door, waiting for them to ring my doorbell doorbell, open door moment of suspense.
+
+0 (2m 4s):
+They say trick or treat you hand out candy or get egged. The problem is I don't even have a doorbell, which means I'm really doing it wrong. At least according to the latest season of nice try. Nice tries. First season was all about utopias. And the new one is all about the lifestyle products that have been sold to us over and over. And the promises of domestic self-improvement they've made. The first episode of the new season is all about the doorbell, the essential technology that serves as an entry point into the American home and the new season of the show. And we thought we'd bring you that episode today as, as doorbells across the country and, and continents recover from the return of Halloween.
+
+0 (2m 47s):
+Nice try from the Vox media podcast network. Subscribe for more.
+
+3 (3m 6s):
+Hello, come up to the third floor. Thank you so much, Ruth,
+
+4 (3m 15s):
+From New York, magazine's curved and the Vox media podcast network. This is nice try. I'm Avery Truffleman. I want to start this with the act of entering someone else's home, an act that is a times mundane or exciting or transgressive, especially if one is barging in with a microphone. I am, you know, it's like, come on, I'll tell you why. I usually don't like season one of nice try was about failed utopian experiments about the yearning for more beautiful, more equitable, more pleasurable ways of living across centuries and around the world. And even though so many of these utopian efforts fell apart, that hunger remains this feeling, that there has to be a way to a better different lifestyle.
+
+4 (4m 6s):
+So this season is about where all those utopian yearnings got channeled. At least in the United States.
+
+3 (4m 13s):
+When I was a young adult, when I was your age, I knew a fair number of people who were living in continents, but they didn't some survive. There was communal living in Soviet Russia. It failed. It was communal living on the compute team and Israel, it failed.
+
+4 (4m 32s):
+So I want to ask why, but can I first ask you to introduce yourself
+
+3 (4m 39s):
+Professionally as an author? I'm Ruth Schwartz, Cowen
+
+4 (4m 42s):
+Professor Colin is a historian of science and technology, a big deal, Guggenheim fellow sort of historian. And some of the communes Ruth Cowan saw firsthand in the sixties actually did chug along for a little.
+
+3 (4m 54s):
+I mean, they survived more than at one summer, but three years didn't work. It just didn't work.
+
+4 (5m 1s):
+Why it's just because is it just our fundamental, inability to get
+
+3 (5m 5s):
+Along? Well, I'm not a psychiatrist. I can only tell you. People have very, very strong feelings about their sexual relations. They have very, very strong feelings about their children. People care very deeply about what they eat and they fight over those things. But I mean
+
+4 (5m 24s):
+Together in an industrial context and in an office, people do work together all the time in the name of Capitol. So why can't we work together?
+
+3 (5m 32s):
+And the domestic sphere, because work is different from life from domestic life, but that's like a cultural call. It, the, the doctor who says separate spheres,
+
+4 (5m 45s):
+The doctrine of separate spheres seems kind of obvious on its surface, but it's a bit of an insidious concept. It builds off this idea that life can be cleaved into, into a public world and a private world, a clean separation, one that has been grafted onto another neat binary onto this idea that women tend to home and men go out into society. Like that's just the way it was or supposed to be throughout much of the history of the west. And then in the Victorian era, this concept of separate spheres took on another layer of meaning a moral Christian one
+
+3 (6m 27s):
+Overlay that the home is the place that is pure, not solely by the public world.
+
+4 (6m 35s):
+This concept, or really this fiction is that the currency of the home is love not money. That home is a place for leisure, not labor, and that the home should aspire to be both ethically and practically a utopia. One that is deeply private and deeply personal. The American home became a Haven. According to Yale professor emerita, Delores Hayden, professor Hayden studies architecture and how the American home was designed. And it is around what she identifies as the Haven strategy.
+
+5 (7m 11s):
+The Haven strategy was certainly linked to the full of the United States from the 1920s on, and that's the way a lot of our housing was designed.
+
+4 (7m 24s):
+The Haven strategy also called the Haven model is this idea that the home is a distinct, separate world where you can totally retreat from business, from your neighbors, from public life, into a dominion all your own. And most obviously this manifests as the suburban house with a white picket fence.
+
+5 (7m 42s):
+Now, the Haven was usually a Haven for a male worker, but the Haven was never a Haven for a female who had to actually manage the husband, the children, the cooking, the cleaning, and every other thing connected to making this private,
+
+4 (7m 57s):
+This sort of 1950s archetype is a sensibly outdated, but America is still grappling with the construct of the separate spheres. Even though if you have conducted any business from home over the course of the last year or two, you have touched the gaps in the poorest boundary between the public and private spheres. And yet the Haven model still persists in popular imagination. Even if you don't have a house or a spouse, it's just this idea of a home that exists as a separate little dominion from the rest of the world. And like all utopian visions, the Haven model had its authors.
+
+5 (8m 35s):
+I think you can go back to the early middle 19th century. Someone like Catherine Beecher, who was an expert and wrote a book called the American woman's home with her sister, Harriet Beecher Stowe, the novelist
+
+4 (8m 51s):
+Harriet Beecher Stowe author of uncle Tom's cabin. But let's on her older sister, Catherine Beecher, because Katherine is fascinating. And in the same way that her younger sister's book was intended to be abolitionists literature, but ended up creating a racist caricature. Catherine Beecher had this early brand of feminism that by modern standards is a complete contradiction. Catherine Beecher was incredibly influential by the age of 35. She had founded in supervised two schools where Beecher wanted women to be able to study anything they wanted to grow to their fullest selves. But the twist is that Catherine Beecher thought women didn't need to vote her 1841 book, a treatise on domestic economy was a huge booster for the doctrine of separate spheres, because she was basically like, let's keep those spheres separate so that a woman can be Lord of the private world.
+
+4 (9m 48s):
+Like this was going to be the source of her power, deciding how her children and husband were to eat and present and sleep. She was basically the moral compass of the private world. And Beecher argued that this has more impact than a position in public life. Apparently a lot of people agreed because Beecher's book was reprinted at least 15 times. And I can't stress enough how different this was. It wasn't like, oh, a woman's place is in the home. Like at the time that was a given, this was uniquely American and Christian because Beecher was proposing that homemaking was a divine duty. And that if a housewife did it well, it reflected upon her, the homemaker as an individual servant of God, it was an expression of her soul.
+
+5 (10m 37s):
+She was in that home, taking care of her children, preferably without any servants connected to the notion that the woman would be doing all of her own nurturing work and that she would be receiving her reward in heaven is quite a remarkable thing to go back and read her writing because in some ways it seems all too familiar to us.
+
+4 (11m 1s):
+Okay. Bear with me. This might not sound exactly familiar just yet, but Beecher's words were a huge source of hope for many women, especially young white wives, setting up households in newly colonized areas of the United States because they were suddenly far away from friends or family or amenities to help them. And this is when doing a load of laundry with Lai took like all day. So overseeing your entire household was a massive, massive workload. It was for this reason that Catherine Beecher was all about life.
+
+5 (11m 36s):
+And she was someone who was designing a labor saving devices for the kitchens and producing designs for ideal homes, even though,
+
+4 (11m 46s):
+And Beecher's time, the mechanical equipment in the home was pretty basic.
+
+5 (11m 50s):
+She had heating and cooling of a kind she had in indoor
+
+3 (11m 54s):
+Plumbing of a kind, but all of that becomes much more developed and is sold much more aggressively.
+
+4 (12m 6s):
+So the American dream is this turn of phrase that gets thrown around a lot. And it means the private home, this idealized separate space and is antiquated and cliche, as it might feel, it really has impacted our dreams or at least my dreams around what we think a perfect place should be. And this dream is not a commune full of fellow believers or a big multi-generational family tilling the land together. It is a specific goal of an independent Pavan facilitated by a Merry band of products.
+
+3 (12m 46s):
+You might ask yourself what you're going to need to furnish your new apartment. My desk quite a bit prosperity, involves a lot of consumption
+
+4 (12m 56s):
+And home devices have become personal devices, refrigerators and washing machines and kitchen aids are all sold as direct reflections of our personalities and our values and this hammers home, the idea that the daily tasks of feeding and cleaning and washing our moral personal decisions, the very choices that make you, who you are that make your life yours. And that is why professor Ruth Schwartz Cohen said,
+
+3 (13m 30s):
+People can cooperate with each other on all kinds of things, but some of them are very emotional and they fight over those things. I guess,
+
+4 (13m 38s):
+You know, the, the thing that we're seeking, we're all seeking to answer in our lives. And especially in this series is just, are those things at odds, the idea of a utopia and the idea of the private home, can the private home be a sort of utopia?
+
+3 (14m 1s):
+Well, that's a $64,000 question. I would say that everybody I know, including my children sets out to create a private home, that will be a utopia and fails.
+
+4 (14m 21s):
+And so come along with me on a journey into the private sphere, into the technology and products that have determined the ways we clean cook, exercise, sleep and shit. As we attempt to sail to the unreachable shore, have a better life in our little homes or apartments or rooms each ideally it's own little fiefdom with its own culture and philosophy and rules and each contingent like any perfect I'm letting in only who they want to let in. And that decision who to let in and who to exclude is aided by a technology that I don't often think of as a technology.
+
+4 (15m 7s):
+But it's the first thing that you touch when you enter someone else's home. Once upon a time I was throwing a party. And I remember I wrote in bold in the email invitation, please ring the bell to get in because I was hosting and I didn't want to have to keep checking my phone all night, but sure enough, everyone just texted when they arrived and no one rang the bell, but I can't really throw stones because I too am one of these people who would rather text the news, the doorbell, I was just like, I don't want to bother people. And I don't really have good associations with that buzz at best.
+
+4 (15m 49s):
+It's a delivery of some kind, but at worst it's someone who's trying to sell you something interrogate you or bother you. It's obviously someone who doesn't have your number and I'm not alone in my aversion to the doorbell. I mean, just ask someone who rang doorbells every single day, working for the last census,
+
+6 (16m 7s):
+I could do 20 to 30 places in a day. I would say like, maybe half of the doorbells, like didn't even work or you couldn't figure out what unit they belong to
+
+4 (16m 20s):
+In her experience. As a census worker in the sunset park and borough park, neighborhoods of Brooklyn, Selena Jo noticed an obvious demographic disparity in doorbells.
+
+6 (16m 31s):
+We talked about this with my team. The demographics are really different. The blocks with the nicer houses definitely had working bells. And then on the other side of the coin, you have apartments that are above storefronts. And sometimes they don't have bills or a lot of the time they had bells that didn't work at all.
+
+4 (16m 52s):
+So Selena often had to just knock or give up and she had to pay extra attention to the way she presented certain
+
+6 (17m 2s):
+Sections where we thought there might be more undocumented respondents. The idea was not to like be too buttoned up and like, look like you're from the government trying to impose on them because it, even before they talk to you, I think there's just a split. Second of do I even open the door for this person?
+
+4 (17m 24s):
+Doorbell says a lot about one's relationship to the world, outside your door and how welcoming you're able to be. And to what degree your Haven is your own. And so the confidence of a loud resonant doorbell is powerful.
+
+7 (17m 44s):
+I think ringing a doorbell is bridging the outside and the inside and uniting a guest with the residents and they say welcome. Robert
+
+4 (17m 56s):
+Dobrin is obsessed with doorbells
+
+7 (17m 58s):
+Door chimes, doorbells, everything about
+
+4 (17m 60s):
+Them. And I am obsessed with people like Robert
+
+7 (18m 3s):
+Dobrin. I seriously believe that it's an underappreciated aspect of Americana and I'm doing my best to keep it alive.
+
+4 (18m 12s):
+Robert has a collection of 500 doorbells from around the world would inboxes inlaid with copper engraved, silver bells, plastic press buttons from the 1960s that are simple, like the flag of Japan. And you can see these all online.
+
+7 (18m 26s):
+If I can. My website is Electra, chime.com. That's all one word Electra chime. And can I, can I make a request if there's anybody out there with a exhibit space that's interested in exhibiting door chimes, I would be amenable to that.
+
+4 (18m 45s):
+So be warned if you are about to let Robert bring 500 doorbells into your exhibit space, know that a lot of it is going to sound really
+
+7 (18m 52s):
+Irritating. This particular bell that I'm going to ring is from the early 19 hundreds Know it does the trick. It notifies you that there's somebody at the door. There's nothing poetic about
+
+4 (19m 9s):
+Early wind up bells were mechanical, just a piece of metal hitting another piece of metal, just trying to generate a sound that was louder than a knock. And then battery operated buzzers were soon to follow, which is kind of funny to think that you had to actively replace a battery to maintain something that might've sounded like this. In some ways you can almost compare these to modern day smoke detectors. Like they were assessing a problem. Certain doorbells and buzzers were meant to be deterrence and make alarming noises, especially in the era of door to door salesman
+
+7 (19m 45s):
+The spam of the time. And you had to, you had unwelcomed callers and somebody had even invented a coin operated doorbell button that you had to put a diamond. And if you were a friend, you got your dime back. But if you were a salesman, you didn't get your dime back.
+
+4 (20m 7s):
+Some doorbells we're like pop-up blockers. And this is just to say, there's always been a modicum of anxiety around the door. And then around the 1930s, when electricity was more widespread and households and the real estate industry was ramping up and there was this interest in making lovely aspirational home products. Some doorbell manufacturers were like, Hey, what if you could design a doorbell, but didn't give you a heart attack. And they actually advertised these new singing doorbells. Like they were solving a major problem.
+
+7 (20m 38s):
+Some of the creative marketing was like prevent doorbell nerves or a doorbell. Noise is noise enemy. Number one,
+
+4 (20m 48s):
+The doorbell manufacturer NuTone use the catchphrase, a cheerful.
+
+7 (20m 53s):
+I thought that was kind of cute. And they were definitely status symbols as well.
+
+4 (20m 58s):
+And so the Melissa Lewis door chime became a luxurious hallmark of a welcoming home. And this is the part of doorbell history that really gets Robert going.
+
+7 (21m 10s):
+My real love is the long bell door chimes with long tubes that are kind of the grandest of doorbells. They're supposed to be electrically operated, but I'm going to cheat and just strike them with a mallet.
+
+4 (21m 23s):
+I think everyone would understand though. I think it's pretty cool. You're hitting them with a mallet. Can we say you're hitting them with a mouse? It's so cool.
+
+7 (21m 30s):
+As long as you say that this is exactly how they would sound electrically So that is a long bell. Eight note melody Westminster peel played on a vintage long bell door chime.
+
+4 (22m 4s):
+The longtime is exactly, as you would imagine, long, you can picture it as sort of a flat wind chime up against the wall.
+
+7 (22m 12s):
+The bells are the real star of the show, the long tubes.
+
+4 (22m 16s):
+And now we come to the part of object history where we have to mention world war II. Everything comes from world war II because in this time doorbell companies like a lot of American companies pivoted to manufacturing military equipment. And so the two biggest doorbell manufacturers NuTone and Rittenhouse had to learn more about electronics. And then out of the war in the fifties, they realized that you could make reasonably pleasant electric sounds without actually using those long cumbersome.
+
+7 (22m 48s):
+You'll be very familiar with this one. Let me do that over again. The demise of the door chime was in the 1950s when things were meant to be heard, but not seen and houses were being built with as little ornamentation as possible to save costs.
+
+4 (23m 13s):
+And so the doorbell kind of went the way of the clock, like how grandfather clocks used to be the centerpiece of a whole living room and then shrunk to wristwatches. And then as they got smaller and less grand, eventually it was like, okay, this device only does one thing. So what if we combined it with other features and stuff?
+
+7 (23m 30s):
+And they combine the door, chime with an Intercom and a radio and anything else they could think of to package it. And it was just, it was the predecessor to the smart doorbell, which we're seeing now
+
+4 (23m 44s):
+After the break, how the doorbell turned into the home security system and made the private sphere more protected and the public sphere more public
+
+BetterHelp (23m 59s):
+Support for the program today comes from better help. If you haven't heard this one before better help is customized online therapy that offers video phone and even live chat sessions with your therapist. So you don't have to see anyone on camera. If you don't want to, it's much more affordable than in-person therapy. And you can start communicating with your therapist and under 48 hours, why invest in everything else and not your mind. Maybe you've been watching a lot of Sopranos lately. I hear a lot of you have been, and you're like seeing Tony's relationship with Dr. Melfi, who, you know, helps him, even though he's a sociopath. And you're like, I need that. I don't know if Dr. Melfi is available, but a whole lot of folks have better help are. The podcast is sponsored by better helping today. Explain listeners get 10% off their first month at better help.com/explained that's B E T T E R H E L p.com/explained
+
+Hydro (24m 53s):
+support for the show today comes from hydro. And no, it's not what you think. If you grew up with hydro, meaning something else, this hydro is a rowing machine. It was named one of time. Magazine's best inventions of 2020. In fact, rowing on the hydro works 86% of your major muscle groups, 86%. That's compared to just 44% from cycling. Dang, I cycled, oh, well, you're going to look better than me. When you get one of these Hydro's in your home experience of full body endorphin high it's the hydro high learn more@hydro.com. That is H Y D R O w.com. And for a limited time, you can use the code Vox one 50 for $150 off the rower. That's going to work 80%, 86% of your major muscle groups, 6 86.
+
+4 (26m 7s):
+May I start recording? So, first of all, the obvious question, how did you find out about Marie van Brittan brown? There's like nothing out there,
+
+9 (26m 17s):
+You know, so I'm a bit of a nerd. First of all, and my background, I have an engineering degree. I have a law degree. I've been a patent lawyer for about 15 years. So it started there just learning about all kinds of black inventors and Marie van Brittan. Brown is one of those
+
+4 (26m 37s):
+Shawntavia Johnson is associate vice president for entrepreneurship and innovation at Clemson university. And she is going to tell us about this little inventor and entrepreneur. So what is
+
+9 (26m 48s):
+Marie van Brittan? Brown was a nurse. Her husband was really like an electrician or electronics technician, and they saw a problem. They wanted to solve. They lived in Queens. They lived right across in JFK airport and in the sixties at the time, this was not a great neighborhood. Marie van bitten bound in her husband worked weird schedules, and she felt concerned for her family because they were in a dangerous neighborhood. And in a story that's very similar to today. Black people who live in predominantly black neighborhoods that can be considered a little dangerous. Can't always rely on law enforcement to keep the community safe.
+
+9 (27m 31s):
+So she took matters into her own hands and invented the first home security system. There was a camera, there were television monitors, two-way microphones, and an alarm button. There was a radio controlled wireless system. This is basically like closed caption television in your house for a security alarm. In the 1960s, they get the patent in 1969. Mrs. Brown is listed as the primary inventor. So they got some great press. They get a feature in the New York times in 1969. There's a whole segment on the invention.
+
+9 (28m 11s):
+There's a picture of them in the newspaper, but what doesn't happen is what you hope happens when you get good press, lots of people reach out to you. Maybe you do get a licensing deal or something like that. None of that happens. So they never see a profit from what they created. And you can guess why is the 1960s? This is a black woman and a black man looking to enter an industry. But with patents, they typically last 20 years from the date, you file an application. So with Marie van Brittan brown, for example, that means her patent expired in 1986. And this is what I think is the real tragedy is the home security system industry takes off 1970s, 1980s.
+
+9 (28m 56s):
+It explodes using the technology that Maria van Brittan brown and her husband created.
+
+4 (29m 3s):
+Even today. We can see the legacy of Marie van Brittan brown in technologies like ring, which is a smart doorbell company owned by Amazon
+
+9 (29m 14s):
+Brain has a patent application where they cite back to this exact patent from a revenge Brittan brown and her husband. And so the largest companies on the planet have based at least some of their technology on this exact invention.
+
+4 (29m 32s):
+I don't even know how to open the gate. My friend, Tammy invited me over to check out the ring doorbell. Her landlord had recently installed. And even I was there specifically to check out Cammie's ring doorbell. I couldn't figure out how to get past the gate. So I ended up having to do the like texting that I'm here, thing
+
+10 (29m 51s):
+They have to text. How does one get to the doorbell
+
+4 (30m 3s):
+Ring? Basically bridges the divide between ringing and texting. It's essentially a doorbell that alerts your phone and it shows a video of whoever's outside and you don't need to be home to answer it and to talk and engage with whoever's outside. And by the way, I'm sorry if I'm mansplaining, how ring works. If you have one because you very well might have one ring has sold more than 1.4 million video doorbells in 2020. So this is it.
+
+11 (30m 31s):
+Is that the sound it makes, that was that that's the sound that there's emotion. Oh, it caught me fucking with the gate. No, it caught you like just now passing the camera and then can you see a video of me? Sure. Can, is that the sound? It makes caught me fucking with the gate? No, it caught you like just now passing
+
+4 (30m 55s):
+This doorbell caught me from pretty far away. Like Tammy's gate is probably a solid seven feet away from her door and Tammy's entryway is obscured by the stairs to the first floor. I just say this because from the street I could not see the camera. I didn't know I was being recorded. And by the way, I did not look cute in this footage.
+
+11 (31m 18s):
+It is just funny that like, everything looks sketchy with the fish islands. Yeah. It looks like you're trying to commit.
+
+12 (31m 26s):
+If everybody had a ring, we'd have, you know, a phenomenal neighborhood watch in every single neighborhood. And hopefully it would determine
+
+4 (31m 34s):
+Before I get too into this, can I ask you to introduce yourself?
+
+12 (31m 38s):
+I'm Josh Roth. I'm the chief technology officer here at ring. I've been here for about seven years.
+
+4 (31m 44s):
+I see a ring doorbell. You'll know it. Ring cameras say ring on them. And there's a visible lens. That is obviously a camera.
+
+12 (31m 52s):
+We didn't want to be outside out of sight. Out of mind, we wanted to be products, not just the doorbell, but the cameras that didn't hide, right? We weren't trying to be a spy camera. We were trying to help people protect themselves.
+
+4 (32m 3s):
+But what is not obvious to the casual caller is that ring owners have the option of saving the footage captured by their doorbell. And they also have the option of uploading it to a ring app called neighbors. I downloaded the neighbors app just to see what's up. And so now I get push alerts about stabbings and carjackings and fires that scare the hell out of me. And I also get occasional public safety updates about extreme weather and COVID stuff. But most of my fellow users known only by numeric pseudonyms, like neighbor 43 or neighbor 26. They mostly post videos of packages getting stolen with captions like this
+
+13 (32m 43s):
+Thief dummy. He came around nine 20, thanks to Amazon, not informing us. There was a package also hope it was worth stealing $10 charger, SMH.
+
+4 (32m 55s):
+These are real captions. We put them through a robot so you could hear them.
+
+14 (32m 59s):
+This guy took our package in broad daylight, opened it in plain view of the camera, saw it was a water bottle for a child and took it anyway, stealing package in the middle of the day, hopefully extra small, petite black dress fits him
+
+12 (33m 15s):
+Beyond package theft, which we've been really instrumental and is we've helped solve kidnappings. We've been used by law enforcement when customers share their videos with them for a variety of things
+
+4 (33m 29s):
+That law enforcement piece is very important and we're going to come back to it. But I think a subtle yet key distinction in this development of the doorbell is this ring. Doesn't just capture video. It also captures sound and it captures sound pretty well. Sure can. Sure can. Which actually caught me off guard. I mean, I went to Tammy's apartment in order to look at her ring camera and I was still a little weirded out when, after we spoke, she sent me all the footage that her ring had captured like this moment when I left at the end of our time together and her doorbell filmed me leaving even out past her gate And practically speaking, just think for a moment about the nature of the conversations that happen in the doorway and the coming and in the departing, the last words, the good night kisses, like Tammy's doorbell picked up a parting pep-talk from our mutual friend Kapeesh, just do like, you know,
+
+15 (34m 36s):
+I want to do something, go for it.
+
+4 (34m 40s):
+And of course I had to ask Kapeesh for his permission to play that clip of him for you. I constantly have to ask permission to record interviews at all, because there are states with one party consent and states with two party consent where both people have to agree to be recorded. There are legal limits on what you can audio record and disseminate, but I didn't actually think about this in a doorbell context until ACLU policy analyst, Jay Stanley pointed this out to me. Yes.
+
+16 (35m 8s):
+If I leave my voice memo function on my phone, I leave it running, recording, and I leave it in the room with you and a third person. And you don't know what's there. And I walk out, that's a felony in most states. It's not just the government. That's not allowed to bug people without a warrant.
+
+4 (35m 23s):
+So I wanted to ask the CTO of ring, how ring gets away with this because the fact that it has audio is what makes it so different from say CCTV legally. How does that work?
+
+12 (35m 33s):
+Yeah, so I mean, we, we adhere to all the different standards, you know, that we're required to whether it's states or countries, we provide controls for our customers to be able to disable or enable audio. You know, obviously we provide the tools so customers can, can choose to adhere to the law,
+
+4 (35m 48s):
+But there are also tools for them to not adhere to the
+
+12 (35m 51s):
+Law. I can't always say that people are going to do the right thing, you know, and I, and I think that, you know, let me give you sort of a bad example, but you know, you look, your car goes above 60 miles per hour. There's no speed limit in the United States. That is above 65. So why should it,
+
+4 (36m 7s):
+The speed limit actually goes up to 80 in a few states, but whatever, no matter what the limit is, people are going to break it. And the videos on the neighbors app arguably serve as a feedback loop for a lot of long held prejudices.
+
+17 (36m 22s):
+But if we seen in the use of these doorbell, cameras is new digital terrain in which anti-black biases can, can play out.
+
+4 (36m 33s):
+Our net is an associate professor of law at the university of Maryland. And he focuses on criminal procedure, race and technology.
+
+17 (36m 40s):
+When we think about crime or, you know, we talk about a certain incident for too many people. They, they envision a, a black person,
+
+4 (36m 49s):
+Professor Arnett lives in Baltimore
+
+17 (36m 51s):
+Here that there's a rebate program.
+
+18 (36m 53s):
+City council passed legislation, which will offer people up to $150 to put toward a ring or nest doorbell cameras.
+
+17 (37m 1s):
+Right? You can get your camera for free. As long as you sign that agreement to participate with local Baltimore police
+
+18 (37m 9s):
+Participants will then register their cameras with a city program called city watch community partnership. This program shows police where the cameras are and gives them the contact information to request video and images. If there is a crime in the area,
+
+4 (37m 24s):
+This March, 2020 report from WJZ, Baltimore actually shows ring footage of scary incidents, including a woman getting violently carjacked, right in the view of the fish islands, it's pretty disturbing imagery to see in a short local news report, WJZ set this report in a neighborhood of Baltimore called Patterson park, which actually had already been running its own community led effort to share doorbell footage.
+
+17 (37m 51s):
+Now Patterson park is extremely, extremely gentrified, right? People want to be in a city, but they also like scared of the neighborhood that they're gentrifying
+
+4 (38m 4s):
+Rebate programs. Like the one in Baltimore have happened in a number of municipalities. And they obviously benefit ring, even though ring will have, you know, many of them were facilitated by third parties, not by ring directly, even though ring did have various direct partnerships with law enforcement.
+
+12 (38m 22s):
+We have, you know, I don't want to say no, no benefit in working with law enforcement directly. That way, of course we do
+
+4 (38m 29s):
+Rings very capable and attentive. PR person was quick to follow up with me to tell me that ring ended device donations to law agencies in January of 2020. And they ended all remaining subsidy programs in April of 2020.
+
+12 (38m 42s):
+We want to be helpful, you know, part parts of society. And therefore we will comply with subpoena requests and search warrants and all the things that you have to do to be a legal entity.
+
+4 (38m 51s):
+And even though ACLU policy analysts, J Stanley is really not wild about rebate programs that spread private surveillance. He argues, it might just be the lesser of two evils as opposed to say a blanket government surveillance system.
+
+16 (39m 8s):
+So I do think that there is a potential good here, which is that, you know, if we're going to have more cameras in our lives, I think we are going to, and we are getting more cameras in our lives. It's good for them to be decentral
+
+4 (39m 21s):
+Camera's under individual private control could be a buffer against abuse. If you feel like you can trust your neighbors to comport themselves like Jay would, you know, if Jay had re
+
+16 (39m 32s):
+If I have a camera on my front yard and a police officer comes and says, we wanted to get some footage from yesterday afternoon at three o'clock. And I happened to know that there was a, a political March going by my house. I'd be like, ah, yeah, no, I don't think I'm going to share that with you.
+
+4 (39m 48s):
+Although side note, not everyone would feel as confident as J would standing up to the police. The notions of control and choice are a little murky here. Although Josh Roth of ring would beg to differ,
+
+12 (40m 3s):
+You know, look, it's a choice. No one is making anyone put a ring video doorbell on their front door. So at the end of the day, these are customer choice.
+
+4 (40m 10s):
+You don't have a choice if you are like captured by ring, like you have a trust to install it. But
+
+12 (40m 17s):
+I think you have a choice on what the action is that you're doing. I mean, I've seen videos that were sent to us over the years of gang initiation of people coming to a home and someone answering the doorbell and had to turn that person for robbing that house. And so, you know, the fact that the person walked away and didn't break that house, maybe it did change their life. Maybe they did go down a path and you know, for all I know, you know, now they, they work for ring and they're in a phenomenal employee and, and, and a productive member of society. And I hope that they are, I mean, nothing would make us happier than that.
+
+4 (40m 51s):
+If only rehabilitation and reform, whereas easy as literally pressing a button, this version of the doorbell is a projection of the private sphere into the public sphere. The Haven is no longer, only an inward facing utopia. It's now a network with eyes out on the street. And to step out of one's own domain is to suddenly step into the domain of everybody else.
+
+17 (41m 22s):
+Prime is connected to poverty. We know this, we know this, but instead of looking at how we can address poverty, we turn to, you know, surveillance and, you know, we have this belief that technology can address it, or technology can save us. So technology can keep us safe.
+
+4 (41m 43s):
+Although in all fairness to ring, a lot of people just like it as a doorbell,
+
+17 (41m 47s):
+I actually have a ring doorbell. You do? I do, yes.
+
+4 (41m 52s):
+Chaz net didn't opt into the subscription feature. So he can't save and upload footage.
+
+17 (41m 57s):
+Can I certainly didn't opt into, you know, allowing Baltimore city police to, to access and leverage the camera. I guess it wouldn't work for them anyway, because it's not recording anything. Or at least ring says, it's not recording it.
+
+4 (42m 11s):
+He just likes being able to answer the door when he's traveling and not at home. So to Shawntavia Johnson, the patent lawyer,
+
+9 (42m 17s):
+I have three ring doorbells at my house. I do. And many people I know, implement some type of home security technology for any number of different reasons.
+
+4 (42m 30s):
+How do you feel about your ring system? Has it changed your relationship to your home or your neighborhood or?
+
+9 (42m 37s):
+So this is an interesting question because the ring system actually recently this week caught a person breaking into our house, which is, I mean, there's no walls or anything. We're renovating it right now. We're literally in the process of renovating a 100 year old house in a neighborhood that is rapidly gentrifying with the only black homeowners on my block. So he broke in, he slept and he left and, you know, we didn't do anything about it because like, we're not trying to be the police, but we just want to make sure that our house is safe and that the things that are in it are safe. So if you take a step back and think about the big picture context, the why, right, and why Marie van Brittan brown felt it necessary to create this technology.
+
+9 (43m 27s):
+She wanted to feel safe in her own home.
+
+4 (43m 32s):
+And I mean, everyone wants to feel safe and everyone wants to feel free and they want the freedom to be safe from the freedom of others. And so these devices have made the doorway a portal to traverse a moat around each Haven and not the welcoming visitors centric experience that Robert Dobrin adores.
+
+4 (44m 11s):
+That's beautiful. Thank you. Robert told me something kind of obvious that I didn't realize, which is that the ding-dong sound is fully created by the visitor. Like when they ring, they determine the tempo of the sound,
+
+7 (44m 29s):
+The button. You hear the first note and when you, the button it recoils to hit the second note, there's a little delay between the two, the dwell between the two notes is controlled by the color.
+
+4 (44m 43s):
+This is so cool. I didn't realize that that's how it actually works. That's also so beautiful that it's called the dwell in between the notes. Is that a nomenclature like specific to doorbells?
+
+7 (44m 53s):
+It's no, it's not specific to doorbell, but dwell is just a word that just means the duration between two events. When somebody pushes your doorbell button and you hear a nice door chime, they hear it outside. It connects the color with the residents, the inside and the outside,
+
+4 (45m 14s):
+The private and the public, the home and the society, the alignment of the spheres, where we dwell next time on. Nice try.
+
+19 (45m 34s):
+Think about the fact that you could go into any neighborhood or any apartment building and not know which ones are also workplaces, right? The workplace is scattered and hidden behind closed doors.
+
+4 (45m 49s):
+One of the most intimate necessary and load activities of the private sphere is cleaning. So who does this work and how good do we have to be at it? When is it okay to depend on some kind of help? It's a story of community labor and love as told through the lens of the vacuum cleaner. Nice try as a collective effort from Meghan. Kinane our senior producer, Dan, a buds and Sarah Burke, our associate producers fact checking by Selena Solon. Lisa Pollack is our editorial consultant. Alex Higgins sound designed and engineered this episode theme song by Greg Pliska with additional scoring by Greg, Alex and me special.
+
+4 (46m 36s):
+Thanks to curb editor, sick. John Hong, our show runner is art Chung, our executive producers on the shock Corowa and Kelsey Keith. The news clip on the Baltimore rebate program is from WJC Baltimore special. Thanks to Richard Lawler, senior news editor for the verge for his help on this episode, special thanks as well to Emily. Anthis the author of the great indoors as well as to Alice Wilder and Jean Coco. This episode was written and performed by me, Avery. Truffleman nice. Try is a production of curbed and the Vox media podcast network. Find us wherever you listen.
+
+Dexter: New Blood (47m 13s):
+Michael C. Hall returns is America's favorite serial killer in Dexter, new blood on show time, years after disappearing, Dexter Morgan is living in a snowy New York town, a new identity and some very, very bad guys that threatened the awakening of this dark passenger. Jenny, keep dessert is on ice forever. It's a November to dismember with new episodes of Dexter, new blood and the new series, yellow jackets. Now streaming only on Showtime.
+
+ClickUp (47m 51s):
+What would you do with one extra day every week? Go ahead, close your eyes, picture it. People lose a ton of time. Every day hours even toggling between all of their work apps. Click up has the solution. They'll bring all of your essential tools into one place. Prioritize tasks, collaborate on docs, chat with your team track goals. Listen, click up says, they'll guarantee you save one day every week on average, and it's completely customizable and free forever. So try click up today at kickup.com/vox.

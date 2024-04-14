@@ -1,0 +1,251 @@
+1 (2s):
+There's this seemingly contradictory phenomena occurring in the United States right now. The economy appears to be heading in the right direction, right? This week we learned the economy grew 2.9% in the fourth quarter of 2022. Inflation is easing. We saw over 200,000 new positions for people open up in December alone. But at the same time, some of the richest companies in the history of our planet are laying people off. Microsoft, 10,000 people cut Google. 12,000 people cut Amazon. 18,000 people cut. These aren't jobs. These are people. Why are these behemoth businesses acting like we are in a recession when the economy is looking pretty?
+
+1 (48s):
+Okay, that is coming up on today. Explain as the podcast. Emily Stewart is our guest. Vox is where she writes about the economy. So she seemed like the right person to ask why tens of thousands of people are getting laid off by some of the wealthiest companies in the history of humanity when it seems like the economy is heading in the right direction. So he asked her,
+
+2 (1m 24s):
+Yes, there are a lot of high profile layoffs, but these are layoffs that make headlines and that are prominent on Twitter and they are not actually a giant part of, of the labor force. These are relatively, quite small compared to all of the workers in the United States of America.
+
+1 (1m 41s):
+So why are the richest companies laying people off if the economy's about to maybe turn the corner?
+
+2 (1m 47s):
+Well, I think you kind of need to break it down by sector, by company. And to be clear here, there isn't a clear answer on why each company is doing this. And each company has their own reasons, right? So I think if you can look at tech, there are a combination of reasons. First of all, technology grew a lot in the pandemic. And some of those companies feel like they've overhired. I think here one smaller company, but bigger name is Peloton, right? So early on in the pandemic, Peloton thinks they are going to really, really grow. Everybody's gonna work out from home forever.
+
+3 (2m 23s):
+For a software engineer, this is where your code can go farther.
+
+2 (2m 27s):
+They hire a bunch of people
+
+3 (2m 29s):
+For a mechanical engineer, this is a place for the thing they wouldn't let you try at the last place
+
+2 (2m 34s):
+They really believed this story turns out to be wrong.
+
+0 (2m 40s):
+Hey, are you all
+
+2 (2m 41s):
+Right? Turns out, basically people are going to buy one Peloton bike, not seven Peloton bikes. So that's a situation where Peloton maybe over hires.
+
+1 (2m 50s):
+I mean, I almost get it with Peloton cuz that seemed like a fad. But Google's been around for 25 years. They've got like a 1.3 trillion market cap. And this company for the first time in its history is having massive layoffs. What's up there?
+
+2 (3m 8s):
+So I think you guys had my colleague Peter Kafka Han to talk about this recently, right?
+
+4 (3m 14s):
+Facebook and Google and Amazon said, oh, we're, we're, we're growing like gangbusters. The pandemic frankly is good for us. It accelerates trends that we're well positioned to take advantage of. We're gonna spend money, we're gonna hire lots of people. Wall Street said, great, that all sounds good. And then as happens often Wall Street turned changed his mind and said, no, we don't like that.
+
+2 (3m 35s):
+And one of the issues there is that tech has just been this giant growth story for years and years. The Googles, the Metas, the Amazons, and at some point they can't keep growing like that. They've kind of become real regular companies like a, a finance company or any company that just kind of exists, a Walmart whatever. You also have to remember that for years, interest rates were near zero. So it was really easy to borrow money. It was really cheap to borrow money, to spend money that is no longer the case. Interest rates are going up. Some people I've talked to have done, you know, this is to a certain extent a reset of some of these companies looking at their headcounts and saying, do we need all of these people? Do we want all of these people to be here?
+
+2 (4m 17s):
+Is this really what's going to help us? And you know, there is also a question here of shareholder primacy, right? We live in a world where companies ultimately answer to their shareholders wanna make them money. And a way that they think that they can do that is by spending less money on workers.
+
+5 (4m 33s):
+When Salesforce lays off 8,000 people or 10% of its staff and the stock rockets higher, you have the blueprint for a tech turnaround.
+
+1 (4m 50s):
+So this might sort of just be about optics. Let's make it look like we're being a little more conservative with our budgets and maybe our stock prices will turn around.
+
+2 (5m 0s):
+I mean they might need to be a little bit more conservative. Some of these companies, I have had some rough earnings, you know, meta had some really bad earnings and it is a way to save money. Now is this a way to maybe grow your company in a way that you ultimately need and to five years from now, maybe not, but this is at least for some companies, think the the right thing to do now is what they will say.
+
+1 (5m 24s):
+One thing a lot of these tech companies have in common, the Googles, the Twitters, the Facebook is how much they rely on advertising for their bottom lines. And of course they also share that in common with media. And we're seeing media layoffs as well. Is that the through line here between media and tech layoffs?
+
+2 (5m 42s):
+That's at least part of it. Media is an ad dependent business and now a lot of advertisers are worried that a recession is on the horizon. So they are pairing back their spending including on advertising. So that hits a lot of places including in in, in media companies, including unfortunately our media company, which recently did a round of layoffs,
+
+6 (6m 4s):
+Vox Media announcing in a memo to staff that it will cut 7% of its workforce. That's according to multiple reports.
+
+1 (6m 11s):
+What percentage of the overall workforce do these recent layoffs amount to? Is it big, is it small?
+
+2 (6m 19s):
+It's really, really tiny. Hmm. Really small. A lot of this is getting a lot of outsized attention. Obviously it is bad for people to lose their jobs. It is sad, it is awful. Full stop. But this is really small for some perspective here. Meta laid off 11,000 people. Goldman Sachs in finance, they not 3,200. There are about 165 million people in the workforce.
+
+1 (6m 43s):
+So it's nothing, it's a drop in the bucket.
+
+2 (6m 45s):
+I mean, again, it's a big deal for the people who lost their jobs obviously. And it's also really scary if you do work in media, in tech and finance thinking, even if within, you know, a Facebook or a Google, maybe they laid off one in 10 workers, it, it's scary the idea that you could be one in 10. But in the broad, broad scheme of things, this really does not add up to much.
+
+1 (7m 6s):
+It. It sounds like what you're saying is we are hearing about these layoffs a lot more because they're at some of the biggest tech companies and media companies in the world. Tech and media get a lot of attention. Are we seeing layoffs in the broader workforce? Worth noting?
+
+2 (7m 23s):
+We are not seeing elevated levels of layoffs in the broader workforce. If you take a look at jobless claims week to week, all
+
+7 (7m 30s):
+Right, well let's start out with what's going on with initial jobless claims. They're
+
+2 (7m 35s):
+Pretty co in they're than the pandemic
+
+7 (7m 37s):
+86,186,000. That is a new cycle low.
+
+2 (7m 43s):
+We kind of don't think about a lot of workers who maybe don't have a platform on on Twitter, right? If somebody in in construction gets laid off or somebody in leisure and hospitality, they maybe don't have a blue check mark, right? Those people are not being laid off right now. But those people are doing pretty well compared to especially how they've done in in previous years.
+
+1 (8m 4s):
+This sounds like a real contrast to say the last time we had a serious economic downturn, not counting the pandemic, the great recession when construction work for example, was the hardest hit.
+
+2 (8m 16s):
+And also I in the pandemic, you know, who lost their jobs? I went to work from home. You went to work from home. Who lost their jobs? Everybody at restaurants, everybody at hotels, everybody who had these in-person jobs we call our jobs. There's a growing awareness from people in the higher paid, higher educated professions that they aren't kind of winning as much as they used to. And it's not really conscious, but I think that there is some level of awareness of that. You know, one person I spoke to for a story I did on this recently said, listen, like there are people who maybe are used to making, you know, like a white collar worker who is used to making 50% more than their cousin and suddenly they're making making 30% more.
+
+2 (8m 56s):
+And, and maybe that feels a little bit weird that it's like, wait, I got this college education and I moved off to the big city. Why is this not happening? Or you know, feeling like when you go to a restaurant everything's more expensive and not putting two and two together, that part of the reason maybe things are a little bit more expensive is because the person serving you is making a little bit more money.
+
+1 (9m 17s):
+Do you think this inversion and how the world works will last?
+
+2 (9m 22s):
+No, I think to the extent the economy remains good and things remain on a relatively solid trajectory, you can see a world that for at least a while, you know, blue collar workers do get to hold on to some of this power. Some businesses don't wanna lay people off. You know, a lot of businesses remember how many people they laid off in March and April of 2020 and how hard it was to hire people back. And a lot of economists will tell you they think there's some stickiness because businesses don't want to struggle to hire workers back at the same time. If there is a recession, it's really unlikely that it's going to be wildly different than the past several recessions.
+
+2 (10m 6s):
+And if there is a a really broad economic slowdown, it's going to hit the people it always hits, which are lower income and blue collar workers
+
+1 (10m 16s):
+And this relationship in the meantime between tech and media and how much media covers tech and thus how much attention the layoffs at Amazon and Microsoft and and Google and, and who knows the Washington Post might get. Do you think that will end up having some impact on people's perception of the economy right now? Or, or even how other companies might conduct their affairs, maybe conduct their layoffs?
+
+2 (10m 40s):
+I mean it absolutely has an effect. I had talked to someone last week who said they had seen a story that I'd written about the white collar recession not really being reflective of the broader economy and said he'd showed it to his boss as proof that we're not in a huge recession and he works in real estate, right? And his boss has been like, that's it, this is the end of times. So I think the economy has felt icky, for lack of a better word, for a while. And if enough people feel bad enough, if enough businesses say, well time to start laying people off because something bad's gonna happen. If enough consumers start saying, well gotta bend down the hatches, I can't spend money, then a recession can become a, a self-fulfilling prophecy.
+
+2 (11m 23s):
+So the outsized discourse around tech and media does matter. I think it's also important to say that, you know, hopefully next time there is a recession, there will be eventually we pay attention to the people who don't have the biggest platforms like those layoffs are are important as well. Just because you don't work at Google
+
+1 (11m 47s):
+A brief break so we can pay the bills and then I'll ask Emily about eggs. It's today explained.
+
+9 (12m 10s):
+Hey y'all, this is Josh Moocho, host of the Pitch, a podcast from Vox Media on the pitch, real entrepreneurs pitch real tech investors for real money. Are you gonna invest in this?
+
+10 (12m 22s):
+I'm in, I'm in for 50 k.
+
+9 (12m 25s):
+Founders have raised over $10 million on our show from some legendary early stage investors. Several of these startups are worth hundreds of millions of dollars today and on our new season we're doing something a little crazy. We're gonna let listeners invest in the startups on our show alongside the investors here. The next billion dollar idea way before anyone else. We're building a $10 billion company get that's kind of sexy, go make the money honey. Follow the pitch right now to hear our best season yet our comeback season. New episodes start dropping weekly on February 8th.
+
+11 (13m 11s):
+Hey, are you
+
+9 (13m 12s):
+All right?
+
+1 (13m 12s):
+Today explained, we're back still with Emily Stewart who told us in the first half of the show that yes there are major layoffs happening in tech and also in media, but that while they may be sucking all the air out of the room, they do not necessarily have implications for the wider economy. But Emily, you did use the R word a few times in the first half of the show. So let's talk about the wider economy. What's going on? Are things getting better? It feels like things are getting better. Are they actually getting better?
+
+2 (13m 41s):
+So inflation is getting better. It is slowing down. In December the consumer prices rose by 6.5% from a year earlier. That's slower than it was in November. It really is getting a little bit better. So
+
+12 (13m 54s):
+What we're saying now is for the sixth month in a row, prices have cooled. So that is good news
+
+2 (13m 59s):
+And generally lot seen gas prices, which are an important part of inflation. Also a thing that exists on giant signs in people's daily lives. Gas prices have come down as well.
+
+13 (14m 8s):
+How low will they go plummeting pump prices below $3 at this Atlanta area gas station Thursday.
+
+2 (14m 15s):
+And so there is kind of a growing sense that we might be in store for a soft landing, meaning the economy cools off without pushing us into a recession. With the enormous caveat that nobody here can predict the future. We do not know what was going to happen.
+
+1 (14m 32s):
+So generally things are getting better, but let's talk about eggs. Emily, what about the eggs? It seems like the eggs are getting worse.
+
+2 (14m 40s):
+So egg prices are getting worse, egg prices are higher. If you have gone to the grocery store recently, you've probably noticed
+
+14 (14m 48s):
+According to new data from the consumer price index, egg prices in December rose 60% from a year earlier.
+
+2 (14m 54s):
+Eggs have been part of the inflation story for a while. During the pandemic it became more expensive to feed chickens that lay eggs because they grains right And soy, the packaging became more expensive. There's also, you know, a movement to be not we flip here, but to be nicer to the chickens, right? It's a little bit more expensive if you don't put the chicken in a terrible cage. More recently the story on egg prices has been that the, the bird flew. Basically the chickens are sick and when the chickens at a farm get sick, they have to depopulate the farm, which I think we can infer what that means. Basically that means goodbye to all of the chickens.
+
+1 (15m 33s):
+Very sad.
+
+2 (15m 38s):
+And then it takes six months to repopulate the, the chicken farms. And so there are not, there are not enough eggs.
+
+1 (15m 45s):
+Okay, so the chicken thing's more of an exception, but, but what about jobs more broadly? There's been pretty steady job growth throughout the Biden administration. Are we still growing in that arena?
+
+2 (15m 56s):
+Yeah, so job growth has slowed down, but it's still strong. You know, wage growth has slowed down. I think this is when the Federal Reserve is keeping a close eye on here because they would like job growth maybe to, to slow down a little bit more. But we will be finding out on February 3rd then next jobs report exactly what's going on.
+
+1 (16m 17s):
+But overall this sounds like a positive picture. So if the picture is positive, why do things still feel kind of bad?
+
+2 (16m 26s):
+I think the headline here continues to be inflation makes everybody feel bad and weird and annoyed. Even if yes, inflation is slowing down and sure the price of gas is slowing down, like the restaurant down the corner that increase the price of your meal that you always order or whatever wine you order. Like those prices are not coming down, they're still more expensive, some prices are still going up. So nobody likes inflation. It's annoying, especially if your paycheck is not going up with it. I do think it's important to underline here also, economic data has really kind of been all over the place for a while. Consumer spending had remained strong for quite some time, despite inflation.
+
+2 (17m 9s):
+That's starting to soften a little bit. Retail sales fell in December, which is notable because that's obviously the holiday shopping season. People were eating out last, they were spending less money on eating out. They were buying less cars, they were buying less furniture. The Federal Reserve has also been making interest rates since March. So that's almost a year now. And that affects a ton of things that affects the housing market. So if you need to get a mortgage, it's gonna be more expensive. It affects credit card interest rates and how much it costs to borrow. So you know, the stock market obviously in 2022 was pretty rocky. The s and p 500 is up this year. So that is good for stock investors, but also the market's really keeping a close eye on what the Fed does.
+
+15 (17m 54s):
+The Dow Jones started the day up but saw a sharp drop off at 2:00 PM and the Federal Reserve made its announcement that we were all anticipating it is raising interest rates by 75 basis points, the
+
+1 (18m 6s):
+Numbers. And is the Fed gonna keep raising rates? Are they gonna quit it?
+
+2 (18m 10s):
+They're gonna keep at it at least for a while. You know, I think Wall Street would hope that they will at least slow down and eventually stop this year. A lot of economists, especially progressive economists, also would like to see that happen as well. For right now, the Fed says they're not going to stop. They might slow down a little bit. The Wall Street Journal also reported that there's a chance that they might pause maybe in the spring, but I don't think interest rate hikes are, are over.
+
+1 (18m 41s):
+How come? Why keep it up?
+
+2 (18m 43s):
+A lot of it is inflation is still happening and the Fed really wants to get that under control and their main tool to do that is interest rate hikes. They feel like inflation did get out of hand. If you think back to prior to March, 2022, there was a lot of theorizing that that inflation was going to be transitory, that it would go away on its own. And there are a lot of economists and lawmakers and policymakers who feel that, that the Fed was too slow on starting to raise interest rates and so now they're trying to catch up. So it seems like they're going to keep at it. You know, I think the, the thing that we don't talk about openly as the Fed increases interest rates is that the big trade off their sort of seeking here is, is softness in the job market.
+
+2 (19m 28s):
+And so what that means is a lot of the time they want people to not see their wages go up. And you know, even more bluntly, they want people to lose their jobs.
+
+1 (19m 38s):
+Do we know where this ends, Emily? Is there an end game here for the Fed for all this? Talk about a possible recession.
+
+2 (19m 46s):
+So you know what the Fed wants is a 2% inflation over the long term. So you know, if you think that we are at 6.5% right now, we are, we are way off. Hmm. That being said, you know I've talked to economists who say that 2% number is made up, right? Like no, it's not in the constitution that that inflation has to be 2%. There is a world where the Fed could say, hey, maybe we're okay with 3%, 4% for a while, especially if that means people will not lose their jobs. Will they do that? We don't know, but they could.
+
+1 (20m 22s):
+And the Fed is willing to risk a recession in theory to get that number down to get it from six to four or three or two. Yes. That hasn't changed.
+
+2 (20m 31s):
+No, I mean the Fed, you know, everybody here, I don't think the Fed wants recession. J Powell Fed chair does not want a recession obviously. But they really, really wanna get inflation under control and the way that they do it is by risking a recession. I mean, that being said, we could see a soft landing. We did see a soft landing in the 1990s. It's not impossible, but we really don't know. And I think it's also important to emphasize here, and this again is a consistent story. What happens next in the economy is not just whatever the Fed says, there is still a war in Ukraine, COVID still exists, all of that kind of stuff.
+
+2 (21m 14s):
+Who knows, right? Like the past three years have been wild and everything's been unprecedented. There could be something else to get, throw a wrench into things. So it isn't just the fed that that's going to decide this.
+
+1 (21m 24s):
+Where does the sleeve, the average American worker or someone around the world listening to this right now? I mean between worrying about your job, worrying about recession, worrying about inflation, worrying about eggs, or maybe even worrying less. What do you tell your friends when they ask you, Emily, what's the way to be?
+
+2 (21m 43s):
+So I'm like, not this most optimistic person, full stop about the economy. And I do not know what will happen next, but like I don't feel that terrible. Like if I think back to March, 2020 when it was like, is is this like the next great depression? Am I going to die of hunger or of of pandemic? Like did you
+
+1 (22m 6s):
+Think that? Did you think, am I gonna die of
+
+2 (22m 8s):
+Hunger? I don't know. I was pretty scared for a while. I was like pretty doomsday.
+
+1 (22m 13s):
+I was wondering if I was gonna die of not having toilet paper.
+
+2 (22m 16s):
+Okay, well that wasn't a problem in Flatbush. Inflation is coming down. The job market is strong. I think there's something to be said that people who don't usually win in the job market are winning a little bit now and that's good, right? Like people who have not been able to quit jobs, who have not been able to jump to higher paying jobs have, and that is positive. And yes, obviously the prospect of a potential layoff is scary, but the job market isn't awful. A tech worker, you know, who maybe got laid off, obviously that is upsetting that it's bad. They may not be able to be as choosy in finding their next job, but if you're a software engineer, the job market's still pretty good for you.
+
+2 (23m 3s):
+So things are not great that they haven't been super great for a while, but they're not nearly as terrible as a lot of the headlines would lead you to believe.
+
+1 (23m 17s):
+Emily Stewart Vox, she didn't pick the music so don't blame her miles. Brian Vox, he did pick the music as the producer of this episode. Tweet your thoughts to Miles underscore underscore Brian. That's Brian with a y. Matthew Collette edited Laura Bullard. Fact-checked Paul Robert Moundy mixed and mastered. Special thanks to Dave Cologne in New York City. Treat your workers not so well. You know, I'm Sean Ramos fur. It's today explained.
+
+16 (24m 36s):
+What if every morning your shower warmed up to the perfect temp and paused until you're ready to step in. What if you knew about a leaky pipe before it caused any damage? What if you never had to worry about getting caught watering the lawn in the rain with the moan Smart water network? These aren't what ifs. Instead they're simply what the next wave of water is capable of. Water designs our life. Who designs for water? Moen.

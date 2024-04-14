@@ -1,0 +1,254 @@
+0 (0s):
+Thanks for the quick action of my administration. Over the past few days, Americans can have confidence that the banking system is
+
+1 (8s):
+Safe. That was President Biden speaking this morning after the unexpected and somewhat spectacular collapse of Silicon Valley Bank. Late last week, the Biden administration moved on Sunday to ensure that all deposits held at that bank and at Signature Bank, which closed over the weekend, will be available today.
+
+0 (24s):
+All customers who had deposits in these banks can rest assured, rest assured they'll be protected and they'll have access to their money. As of today,
+
+1 (33s):
+This is unusual. Typically, the F D I C ensures only deposits of up to $250,000. While depositors should be okay, Biden offered not much sympathy to those who manage the bank.
+
+0 (46s):
+If the bank is taken over by F D I C, the people running the bank should not work there anymore.
+
+1 (52s):
+Coming up on today explained why Silicon Valley Bank imploded and what it means for the economy writ large. It's today explained AB Noel King, and if you were paying attention to the news at all this weekend, you probably saw a great deal of speculation, including some very informed speculation about what would happen this week and what all of this means, including from financial reporters who are trying to get their heads around everything. Our guest today was one of those reporters,
+
+3 (1m 27s):
+I'm Ben Bergman, I'm a senior correspondent at Business Insider.
+
+1 (1m 31s):
+Ben, what is, or what was Silicon Valley Bank?
+
+3 (1m 34s):
+Silicon Valley Bank has been around for 40 years and it's really become the go-to bank for the tech ecosystem. It's tough for a lot of tech entrepreneurs to get any sort of traditional banking because they're young, they don't have much banking history, but Silicon Valley would step in and they would provide funding for startups as well as debt financing. There was no equal in and there still isn't.
+
+1 (1m 59s):
+How did it become the number 16 bank in the US if it was sort of niche for startups? How did it get so big?
+
+3 (2m 6s):
+Well, it got big in Silicon Valley. As Silicon Valley boomed. Hmm. There were all these other bank bus and Silicon Valley Bank very much survived that. And you know, every tech event that you would go to, it was sponsored by Silicon Valley Bank. I was just at a party, you know, less than two weeks ago. And of course the DJ booth said Silicon Valley Bank. It was really everywhere. What's
+
+4 (2m 31s):
+The deal, baby? One second, you hit the party, switch to the next second y'all business.
+
+2 (2m 34s):
+I need to see all of your books.
+
+1 (2m 36s):
+Okay. So it was everywhere out where you are and the rest of the country, a little less well known I think. But why did things start to go south for this bank if it was so well established?
+
+3 (2m 46s):
+So there was a very ill-advised decision that looks very stupid in retrospect, and that's what former executives of the bank have, have told me that it was quote idiotic to make. But Silicon Valley Bank had what would be good for most banks. It had a flood of deposits because remember in 2021 and 2020, there was just a flood of money coming into startups. And startups couldn't raise money fast enough. They literally got more money than they wanted because they wouldn't even be trying to raise money. And venture firms would step forward and say, here you go. Here's a check for hundreds of millions of dollars. And so they would need a place to park all that money and they put it in Silicon Valley Bank.
+
+3 (3m 29s):
+So that's a good problem, right? But the problem is that there's this thing called net interest margin where banks have to make a certain amount of money on your deposits to be able to make profit margins to appease Wall Street. So they said, okay, let's put this in 10 year treasury bonds. They bought tens of billions worth of treasury bonds, and that's usually a pretty conservative investment. We're not talking about, you know, what happened during the financial crisis of, you know, toxic assets or synthetic assets. This is, this is pretty safe. But the problem is it's locked up for 10 years. So when interest rates went up very quickly, suddenly there was a problem because they couldn't access those for 10 years and they were worth much less.
+
+1 (4m 17s):
+What was the idiotic decision that you referenced
+
+3 (4m 20s):
+To put so much of the bank's balance sheets in these 10 year mortgage backed securities that couldn't be accessed for 10 years. So the money was there, but it was what they call it a duration problem. They, it was a mismatch because if people, if depositors were allowed to withdraw their money, then the money had to be there, not socked away for 10 years. And, and so the other problem that happened is that, you know, starting last year, venture funding dried up. Startups weren't getting this funding anymore from venture capitalists, so they were drawing down their accounts. And so that happened a lot more quickly than the bank expected. Why
+
+1 (4m 59s):
+Did the bank end up shutting down?
+
+3 (5m 1s):
+So this was the first and hopefully the last Twitter run on a bank. So after the financial crisis, there were all these restrictions put on banks about what they couldn't and could do. And this thing was supposed to be prevented. But starting Thursday or actually Wednesday, the bank announced that it was going to be selling stock and raising new cash because it had this problem with the tenure mortgage backed securities. And I think normally that would be greeted with some concerns, probably, you know, a significant drop in the stock price, but not a crisis because, you know, again, the funds were all there.
+
+3 (5m 49s):
+It was a pretty solid balance sheet. But what happened is a few very key venture investors like Peter Teal Founders Fund, they got out there and said, you know, we're very concerned about our money and we're going to withdraw it.
+
+6 (6m 6s):
+First call was get the money out. And some of the resistance was, well, you know, they'll survive this. Then they'll remember that we weren't there for them. And I said, you're not hearing me get the money out because it's not worth betting your company
+
+3 (6m 19s):
+On. And you know, I kept calling venture capital investors and startup founders on, on Thursday. And I said, well, well, you know, what are you doing? And they said, well, we don't think the bank is actually going to go under, but we also don't want to be the last one there, so we're gonna get out just in case. And so when everyone does that, you have what happened, which is a run on the bank.
+
+7 (6m 43s):
+I called the investor and I said, Hey, what was this email about? He was out of breath. Like he had just run a marathon. And he said, take your money out of s b b, go into your account, take your money out as soon as possible.
+
+1 (6m 57s):
+Okay. So ultimately, who is to blame here? Is it the bank for investing in these 10 year mortgage backed securities? Or is it the people who started the bank run on Twitter? Who's, who's getting the, the fire?
+
+3 (7m 7s):
+Well, I think it's both of those entities. I think it's also regulators. How could they not have seen this coming? How could they allow banks to put so much of their balance sheet in these securities that weren't accessible for 10 years and not make them mark to market on their balance sheet because they, they, they didn't have to account for this, which seems like a huge oversight also, you know, you could blame the rise in interest rates. It's a factor of all these things. It's a, it's a perfect storm that made this happen there.
+
+8 (7m 38s):
+Our recent developments, the concern of few banks that I'm monitoring very carefully, and when banks experience financial losses, it is and should be a matter of concern.
+
+1 (7m 52s):
+Well, let me go back to what you said about regulators. How did they not see this coming?
+
+3 (7m 57s):
+Well, I think that's what we're going to be asking, but you know, what happens is regulators always look at the last crisis. So they looked at what happened during the global financial crisis and they wanted smaller banks, and now all of a sudden everyone was wanting bigger banks. And you know, I think that 10 year security seemed pretty safe, but no one expected interest rates to rise this quickly. And also, you know, the Twitter wasn't really used like it was during the global financial crisis. So now they've seen how panic can spread so much more quickly.
+
+1 (8m 33s):
+Did regulators play a role here beyond not just seeing this coming?
+
+3 (8m 36s):
+Absolutely. I was just reading today the testimony from the c e o of Silicon Valley Bank, Greg Becker in 2015, because he lobbied for this leucine of regulations to make it so banks gave less scrutiny to smaller banks like Silicon Valley Bank and the other ones that we see in trouble. And he told Congress in 2015, we are not systemically important. And what the federal government decided yesterday with this huge emergency measure was that they were systemically important. So he was clearly wrong about that. And we've seen how it, you know, threatens to topple all these other banks.
+
+3 (9m 16s):
+And so what happened under President Trump is they loosened some of Doc Frank and they made it so that smaller banks would not receive the same level of scrutiny.
+
+1 (9m 26s):
+Ben, in the interest of full disclosure, Vox Media did some of its banking with svb. I don't know much more than that unfortunately, but I wonder which types of companies are being affected here.
+
+3 (9m 36s):
+You know, over half of venture backed companies are backed by Silicon Valley Bank. And so over the weekend there was a great deal of panic because companies like yours could not access their credit cards, they couldn't access their bank accounts, they were all frozen. And you had some companies like Roku that had 25% of their cash in Silicon Valley Bank and suddenly they couldn't access it. And you know, I think when people hear Silicon Valley, they hear VCs, they think, oh, these people, they're so reckless, why are we bailing them out? But the reality is that this was just cash. This was what, you know, companies and investors were doing to sock away their money and they thought it was completely safe.
+
+9 (10m 18s):
+There's always money in the banana stand.
+
+1 (10m 24s):
+What does this mean for people and for companies who had money in this bank?
+
+3 (10m 29s):
+Well, you know, over the weekend everyone was panicking because it looked like anything over the federally insured amount of $250,000 might disappear or they, they might not get that back. But then the government stepped in in a very aggressive way on Sunday night and said, all deposits are guaranteed we're going to make you whole, so everyone's going to get their money eventually. And on Monday, the the government also said that they're going to make it so people can access their accounts. Again,
+
+1 (10m 59s):
+Who is paying for companies to get their money if the money wasn't insured?
+
+3 (11m 3s):
+Well, president Biden has been very explicit that no taxpayer funds will be used because remember, the money is there on the balance sheet. It's, it's a good balance sheet. It's not like those banks we saw during the financial crisis with all these really bad assets on their balance sheet. So what's gonna gonna happen is the government is going to essentially backstop the money and say that that banks can get the a hundred percent value of those 10 year securities now. So they will be able to pay out the depositors. What, what's probably going to happen or has already happened is that a larger bank or entity has bought Silicon Valley Bank.
+
+3 (11m 44s):
+I don't think the government's gonna be running Silicon Valley Bank, but they couldn't get that done quickly enough over the weekend to announce anything.
+
+1 (11m 50s):
+Was it surprising that the federal government stepped in? You hear, oh, they're bailing out the tech guys, you know, you see people on Twitter and elsewhere being upset over this. Did the federal government have a choice? How shocking is this?
+
+3 (12m 3s):
+I don't think it's that shocking. And I don't think they had much of a choice because, you know, this was one of the largest banks in the country putting aside the fact that it was called Silicon Valley Bank, it was a big bank and you've already seen other banks like First Republic, you know, be in in similar trouble. So, so in the US you know, we don't want our, our banks just to fail. And when people say, you know, oh, they bailed out these rich investors, is is that, that's not really accurate because in this case it's, it's not really a bank bailout because none of the investors in the bank are getting bailed out that their investment is all worthless.
+
+3 (12m 46s):
+It's the people who put their money in these savings accounts. It's the depositors who are being made whole,
+
+0 (12m 53s):
+No losses will, and I'm, this is an important point. No losses will be born by the taxpayers. Let me repeat that. No losses will be born by the taxpayers. Instead the money will come from the fees that banks pay into the deposit insurance fund
+
+1 (13m 15s):
+Coming up on today explained there were, and to some degree still are some fears that SVBs closure could spark a contagion among other banks. And if you were sentient during the financial crisis of 2008 and 2009, you understand why Ben Bergman of insider takes us through the likelihood of such an occurrence. And Ben will answer the big question, did the federal government's move to shore up deposits at these failed banks? Put an end to fears of a broader economic collapse?
+
+10 (14m 0s):
+Have you guys heard of the pitch? It's a podcast you may have previously heard advertised on this show and you are actually currently hearing it advertised on this show right now. The Pitch is a podcast where real entrepreneurs pitch real tech investors for real money and it's back for a real new season. Each episode follows a hopeful entrepreneur through their business pitch before a panel of prospective investors. Founders have raised over 10 million on this show from some legendary early stage investors. Several of these startups are worth hundreds of millions of dollars today. Money, money, money,
+
+2 (14m 38s):
+Money.
+
+10 (14m 41s):
+This season you'll hear pitches on everything from a better catch up to a potential solution to one of the biggest problems of our time. That would be energy listeners could hear the next billion dollar idea way before anyone else and learn about the world of startup investing along the way. You can follow the pitch to hear new episodes every Wednesday
+
+11 (15m 6s):
+For years now, it's been very unlikely for a big mega box office hit to win best picture at the Oscars
+
+12 (15m 14s):
+As like CGI heavy movies sort of started to dominate the top 10. That's when you sort of started to see that like the public's taste and the Oscars taste just like really, really started to part ways. Like, I wish they were more aligned too, but I kind of want the public to maybe like, you know, go see the Fable Mans guys. Like it's not gonna hurt you. I dunno.
+
+11 (15m 33s):
+What's up with the Oscars and Blockbusters this week on Intuit Vultures Pop Culture podcast, new episodes Tuesdays and Fridays?
+
+13 (15m 47s):
+Don't look now, but there's something funny going on over there at the bank, George, I've never really seen one, but that's got all the air marks of being a run.
+
+1 (15m 55s):
+It's today explained. We're back with Ben Bergman of insider Ben. The events of the past 72 or so hours have some people referencing the 2008 financial crisis when we saw a kind of contagion among banks. Now another bank's signature bank in New York did close yesterday and then today HSBC announced it's going to buy Silicon Valley Bank UK for only one pound. What does this tell us? Is this the contagion that people have been so worried about?
+
+3 (16m 25s):
+So this is not the global financial crisis all over again because as I keep saying, these balance sheets are much more solid. I mean, a lot of people have said banking wasn't really a great business because the regulators had taken all the profits out of it. But at the same time, the fact that this has happened so quickly and you've had these smaller banks teetering on the edge and Silicon Valley Bank just be completely cleared out in less than 24 hours is clearly very concerning. But this is not Lehman Brothers.
+
+1 (16m 56s):
+I've seen people on Twitter upset that this is a bailout, but people on Twitter are not always the most informed group. What has the response been more broadly so far to the government's decision to intervene like this?
+
+3 (17m 10s):
+Yeah, so, so clearly a lot of people see the words Silicon Valley and that just creates negative reaction. And you saw in President Biden's comments Monday morning, he was very careful to say, no taxpayer money will be used,
+
+0 (17m 26s):
+No losses will be born by the
+
+3 (17m 28s):
+Taxpayers. And he said, the executives of this bank will be fired
+
+0 (17m 32s):
+If the bank is taken over by F D I C. The people running the bank should not work there
+
+3 (17m 38s):
+Anymore. So he was very clear that this is not, you know, the government coming to the aid of investors, that's
+
+0 (17m 44s):
+How capitalism works.
+
+3 (17m 45s):
+But I think this is gonna be very tough for the administration and for tech to message, because already there's a lot of ill will against tech. Elon Musk, ftx, you name it, it's seen as irresponsible. So people who don't really look into the nuances of this can see the government just coming in and and providing aid to rich people.
+
+1 (18m 5s):
+And yet the government clearly felt that it had to, which demands that we ask, does this move, does this intervention by the federal government fix the problem? W w does it mean we will not be talking about this tomorrow morning?
+
+3 (18m 17s):
+Well, we might still be talking about it, but I do think the extraordinary measures that the government made on Sunday night do fix the problem because they have made sure that depositors are made whole. I mean, you may see some of these other banks and I don't wanna name them, you know, go under, but there's the backstop there and the financial system will remain strong. And workers who are working at companies that are banked by Silicon Valley Bank, which is most of Silicon Valley, are gonna get their paychecks this week, which is important. How
+
+1 (18m 47s):
+Is it going to affect the startup industry in this country? If this was their bank, where else can they go?
+
+3 (18m 54s):
+There's not really an equal to
+
+14 (18m 56s):
+It, huh? If the government doesn't step in, I think that basically a whole generation of them will be wiped off the planet.
+
+3 (19m 3s):
+Lots of other banks like JP Morgan have stepped in and tried to fill the void already or Brex, but there's not an equal to Silicon Valley banks. So that's gonna be really interesting. And that's why a lot of venture investors have tried to save Silicon Valley banks. So somehow it can be preserved instead of just absorbed by a larger entity. But it, it's also, you know, tech was already in deep trouble, which is part of the reason this whole mess happened in the first place. And this does not help because aside from just losing the bank, you know, it kind of provided the back end. It oiled the machine of Silicon Valley providing bridge rounds and and everything else. And it had investments itself in a lot of companies directly.
+
+3 (19m 45s):
+Hmm. What's gonna happen to those? So it's already a tough time for tech. This makes it much worse.
+
+1 (19m 49s):
+Are there lessons that other banks should be taking from the collapse of svb?
+
+3 (19m 54s):
+Well, yes. D don't put a significant part of your balance sheet in these long dated securities. That's clearly a problem because what I've heard from former executives is they should have just gone to Wall Street and said, we're getting all the these deposits. That's a good problem to have, but we're not gonna be able to get as much interest on them as we want. Sorry, that's better than putting them in 10 year securities and bringing down the whole bank. And I think other banks are gonna be looking very closely at their balance sheet. Also, another thing I think banks will look at is their deposit base. Because a big problem with Silicon Valley Bank is it was banking all the same people. It was banking these high net worth individuals who all happened to be on Twitter and when they started telling each other, because they all know each other or they all see each other on Twitter to pull their money out, they did so very quickly
+
+15 (20m 45s):
+Something wrong,
+
+16 (20m 46s):
+The bank won't give someone their money. Well, I'm going to get nine and gimme mine
+
+3 (20m 54s):
+Too. So that's a concern and that's also a concern you see with First Republic Bank, which is in trouble as well because that's also high net worth individuals. A small number of people and most accounts are over that 250,000 F D I C insurance limit
+
+17 (21m 8s):
+First Republic down 75% over the past three days. This morning alone we saw it plunge by 65%. It get it, it got halted for volatility. That's something that was happening periodically during the session on Friday as well. This is one of the other banks that is perceived as having the same types of exposure. And
+
+1 (21m 27s):
+So this happened, as you've noted, in part because of interest rates going up. Does the Federal Reserve have to rethink what it has been doing with respect to rates? Does it take a beat now and say, Ooh,
+
+3 (21m 37s):
+That seems to be happening and, and that's certainly how markets are reacting, that the Fed is saying perhaps they're not gonna raise interest rates as quickly as they were planning to.
+
+18 (21m 47s):
+I think that in terms of what the Fed is going to do, this bank implosion, this potential contagion may reverse Jerome Powell's direction. It may lead to instead of a half a point increase at the March meeting, it may lead to no increased all. In fact, it's even conceivable that interest rates start dropping at the fear that we're going to be in deep trouble.
+
+3 (22m 14s):
+A lot of people have been critical of how quickly rates have gone up and they say, okay, look at what the Fed has done. And there's all sorts of knock-on effects of that.
+
+1 (22m 23s):
+I see a lot of predictions about what might collapse next and we'll rely on you for predictions. What do you think the big news is gonna be as we move ahead into the week?
+
+3 (22m 31s):
+Well, I, I think it's gonna be looking at these other banks and to see what happens to them. They've had huge drop in their stock price when markets open on Monday morning. So, you know, are they gonna be able to survive also, is a buyer gonna come forward or has there already been one that's not announced of Silicon Valley Bank? You know, what's gonna happen to all these startups that, you know, we're banking with them? How quickly will they be able to get their money and are they gonna be able to make payroll? And I think also, you know, this has left the venture community, which I cover really, because they usually project an image of cohesiveness and unity. But this has left a lot of bitter feelings from certain VCs who are upset at other VCs who feel like there's some who fomented this who made it much worse and were irresponsible by telling people to pull their money out of the bank.
+
+3 (23m 23s):
+But then there's others who say, well, the people who stood by and said, oh, everything is fine, you know, that looks pretty bad right now as well.
+
+1 (23m 35s):
+Ben Bergman of Insider, thank you so much for taking the time today, Ben.
+
+3 (23m 39s):
+Of course. Anytime
+
+1 (23m 46s):
+Today's show was produced by Aha Artsy and Victoria Chamberlain and edited by Matthew Collette and Amina Elad. It was fact checked by Laura Bullard and Amanda Lou Ellen and engineered by Paul Robert Mosey and Patrick Boyd. Surely that is everyone. No it's not. The rest of our team includes you on a Petro Smiles, Brian Helen Shaw, Jolie Myers Haddi, and my co-host Sean Ramas, firm who's at South by Southwest in Texas today, doing a really good live show. I've seen an early version that you can hear in the feed and on the radio next Monday. We use music by Breakmaster Cylinder and Noam Hassenfeld and we're distributed to public radio stations across the United States by W N Y C in New York today explained as part of the Vox Media podcast network.

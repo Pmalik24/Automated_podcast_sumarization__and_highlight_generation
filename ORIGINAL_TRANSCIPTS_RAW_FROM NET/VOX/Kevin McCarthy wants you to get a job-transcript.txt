@@ -1,0 +1,227 @@
+1 (2s):
+The recurring fight over whether to raise the debt ceiling is a uniquely American phenomenon. We've talked about this on the show before.
+
+2 (8s):
+Yeah. My first debt ceiling fight was, was 2011 and I was, I was an intern and still in college. And so I've been doing this my entire professional life and it seems like it will never end
+
+1 (19s):
+Recently a top Capitol Hill, another uniquely American phenomenon unfolded house speaker Kevin McCarthy proposed as part of the negotiations over the debt ceiling work requirements for Americans getting government assistance in the form of welfare programs and even Medicaid. It
+
+3 (34s):
+Is such a good campaign issue and it makes people's blood boil I think, for all of the reasons that we were just talking about cuz it appeals to all these things we wanna believe about America.
+
+1 (46s):
+McCarthy has pointed out that Americans voting for other Americans to pull themselves up by their bootstraps is nothing new. This
+
+4 (53s):
+Is something that President Biden and Senator voted for.
+
+1 (56s):
+He did.
+
+4 (56s):
+This is something that President Bill Clinton signed,
+
+1 (60s):
+He did welfare reform class of 96 decades ago. America decided if you want help, you need to work. How's that been working out for us? Coming up on today? Explained
+
+Intuit Vultures Pop Culture (1m 18s):
+Right now we rely a lot on Google to find out about pop culture. You think about how many entertainment publications spend hours of productive time knowing that people are gonna search for the post credit scene of a Marvel movie, knowing that people are desperate to find out who Taylor is dating today, right? Like and all of that stuff is search demand driven. But what happens once AI replaces search, how AI might change pop culture as we know it. This week on Intuit Vultures pop culture podcast cast.
+
+Decoder with Nilay Patel (1m 55s):
+Hi, I'm Nelia Patel, editor-in-chief of the Verge and host of decoder, A show about big ideas and other problems on it. I talk to leaders, innovators and policymakers at the frontiers of business and technology about what keeps them up at night. Oh my God, you just hit on a giant thing. The competition. I have the greatest of Admirations for Google and what they've done. I want people to know that we made them dance And what is going on, what is happening. So if you wanna know what's going on, check out decoder on Apple Podcast, Spotify, or wherever you get your podcasts.
+
+1 (2m 34s):
+It's today explained. I'm Noelle King, Dylan Scott, we call him the other. Dylan is the senior correspondent at Vox who's been looking into what the Republican party wants the
+
+8 (2m 43s):
+House Republicans want. Two things and they were included in the bill that the house passed in the last few weeks to kind of get these negotiations started. One, they want to enhance work requirements that already exist for two programs called tanf, which provides, or originally was intended to provide cash assistance to low income families. And snap, which is food stamps, basically cash assistance that helps people pay for food. What
+
+4 (3m 10s):
+Work requirements actually do help people get a job. Every, every data point shows that and it helps people move forward.
+
+8 (3m 17s):
+What they also want to do is add work requirements to Medicaid, which is the big health ins government health insurance program that covers people who live in or near poverty. There are about 90 million people enrolled in Medicaid, at least at the start of this year. What are the
+
+1 (3m 35s):
+Existing work requirements for SNAP or food stamps and tanif?
+
+8 (3m 39s):
+So both SNAP and TANIF largely cover low income families. Snap in particular is a, it's a big program. About 40 million Americans receive food assistance through that program with SNAP people. 18 to 49 are generally required to do some kind of work activity, you know, be working, looking for work, maybe going to school, that kind of thing. Or to, you know, they might be exempt because they're disabled or something like that. Now house republicans are proposing that people who are 50 to 55 also be required to perform some kind of work activity in order to receive SNAP benefits. And so that equals about a million people according to the Center for Budget and policy priorities, who would be newly subject to this expanded SNAP work requirement.
+
+8 (4m 22s):
+And then there's tanif, which came into being in the 1990s under the Clinton administration. This was welfare reform as people might remember. And so the, yeah, it's, it's kind of the next generation of the old cash assistance programs that existed before tanif. But you know, there was this major overhaul in the 1990s and TANIF like SNAP already has some work requirements. The change that house Republicans are proposing is, it's kind of a technical change that has to do with like the formula that the feds use to assess whether states are meeting their, what they are required to do when it comes to work risk requirements. But the result is that more people would be subject to a work requirements, there'd be fewer exemptions.
+
+8 (5m 3s):
+And again, according to C B P P, about 500,000 people are expected to fall in this category of people who would be newly subject to a work requirement under T N F based on what house Republicans are proposing.
+
+1 (5m 15s):
+And what about Medicaid? Have there been work requirements attached to that entitlement at all?
+
+8 (5m 20s):
+Yes. So, you know, the idea of Medicaid work requirements have been around for a long time and under the Trump administration there was actually sort of an experiment in how it would work.
+
+9 (5m 32s):
+The Trump administration will begin permitting states to impose work requirements on Medicaid recipients. It is a major reversal of decades of policy.
+
+8 (5m 41s):
+Three states at least actually made proposals and had them approved by the Trump administration. They were Arkansas, Kentucky, and Indiana. Hmm. Now, as you might imagine, like almost immediately there was litigation filed to try to block these policies from going into place. And in Indiana and Kentucky they never actually got off the ground. But in Arkansas they did. There was a, a brief period, only a matter of months where Arkansas actually had a work requirement in place. The results were pretty disastrous as best as we can tell. So for starters, about 17,000 people lost their health insurance benefits through Medicaid because they didn't, they either didn't meet the work requirement or they, you know, failed to maybe submit the paperwork at that.
+
+8 (6m 24s):
+Some kind of administrative hiccup led to them losing coverage.
+
+10 (6m 28s):
+I thought that everything was good about this. I thought it was just a one time deal that you reported and then that was it.
+
+11 (6m 38s):
+He was wrong. He was supposed to log those hours online every month. He became one of the 12,000 people that the state has booted from the Medicaid roles in the last three months.
+
+8 (6m 49s):
+But what researchers went back and looked at later was like, okay, so people lost their health insurance. But like part of the idea of work requirements in Republican's mind is like with a work requirement, people are gonna try to get a job, you know, maybe that leads to them getting another job and eventually making more money and potentially getting a job with health insurance. And you know, the goal here is to move more people off of government assistance. And so these researchers went back and looked at Arkansas and said, okay, like people lost coverage but did they, was there any change in their employment situation? And basically what they found was no, there was not any meaningful, you know, improvement in employment, especially among this population of people who were subject to the work requirement. And so it seemed like the end result in this, this brief experiment that we had with work requirements in Arkansas was that people lost coverage but it did not lead to them getting jobs.
+
+8 (7m 36s):
+It did not lead to them getting health coverage some other way. It probably just led to them becoming uninsured.
+
+1 (7m 42s):
+Let's say that I am the person that the, the Republican party is talking about. I am the person who currently does not hold a job. They want me to do what exactly
+
+8 (7m 50s):
+Under what house Republicans are proposing. People have to work or perform some kind of work related or community service activity in order to continue receiving Medicaid benefits. And so that's 80 hours a month works out to about 20 hours a week, which is sort of what's standard for these proposals and that's what exists already in SNAP in particular. And so states would presumably create, you know, paperwork that people would have to file to show that you know, you have met that requirement, you are working these numbers of hours, but if
+
+1 (8m 20s):
+The effectiveness of work requirements is unclear and a situation like Arkansas suggests it actually doesn't work, at least not as well as it's supposed to. Why do republicans feel so strongly about work requirements?
+
+8 (8m 33s):
+Well here's where I think it's maybe useful to bring in like the political context here in terms of the debt limit negotiations. You know republicans, they want to get something out of these debt limit negotiations.
+
+12 (8m 45s):
+My Republican colleagues would like to see a plan that actually starts to bend that curve of exponentially increasing spending. We want to claw back some of the covid funds that are un obligated. We want pro-growth policies like HR one on
+
+8 (8m 59s):
+Twitter. They set out a marker very early that they needed to get something in exchange for listing the lifting the dev limit even though it could lead to very serious economic consequences. And they put on, put it out very early that they work requirements for social programs was a priority for them along with, you know, spending cuts in general permitting reform. Couple other things I thought that language was telling, like it was very vague, like work requirements for social programs was the language I saw used, you know, early on from like really good congressional reporting outlets like punch ball news and you're
+
+13 (9m 35s):
+Talking about snap, which program are you talking about specifically? Look, we're talking about all the programs
+
+8 (9m 40s):
+But now we're in this, this haggling game between the White House and Senate Democrats and the Senate in general and house Republicans. And there's been some signals that like there's the potential for a trade here if we're gonna be sort of crass and cynical about it. The Biden White House has said we're not doing a policy that would result in people losing health coverage. And they themselves, like the administration has released projections that like as many as 20 million people could be at risk of losing health insurance under Medicaid work requirements. So it's gonna be really hard for them to then agree to Medicaid work requirements as part of a final debt limit deal with the house. But it's not that hard to imagine a situation where Medicaid work requirements get dropped by house Republicans cuz the Democrats have said this just isn't gonna happen for us.
+
+8 (10m 29s):
+But some kind of deal on Snap and TANF is reached and like, you know, for the people who would be subject to these work requirements, obviously the consequences are very real. But if you take a step back and look at it at a really high level, they are relatively marginal changes to work requirements that already exist as opposed to worth Medicaid. Like it would be an entirely new policy that beyond this brief experiment in Arkansas hasn't really existed before.
+
+14 (10m 56s):
+I'm not gonna accept any work requirements that's going to impact on medical health needs of people. I'm not gonna accept any work requirements that go much beyond what is already, well I, I voted years ago for the work requirements that exist, but it's possible there could be a few others but not anything of any consequence
+
+1 (11m 20s):
+Coming up from Capitol Hill to Elizabethan England. The history of work requirements
+
+6 (11m 39s):
+This week on the Verge cast, why is it so hard to find director's commentary on streaming services?
+
+15 (11m 45s):
+I've been shouting about this on social media for a number of years. Streamers very, very easily could add one audio track that includes a commentary.
+
+6 (11m 53s):
+Why would you make a whole movie about Blackberry?
+
+16 (11m 56s):
+It's a product that is universally known in a way and almost known as a joke. And I thought this would be a great way for me to Trojan Horse the way my friends and I make movies into a story that a general audience may be interested in seeing.
+
+6 (12m 9s):
+And how do you direct an entire feature length mystery film? All on computer screens?
+
+17 (12m 14s):
+Not one shot in the movie is screen recording, like everything is built custom pixel by pixel. Basically
+
+The Verge (12m 21s):
+This episode is all about making movies about tech and using tech to make movies. It's the director's episode of The Verge and you can hear it anywhere you find podcasts.
+
+On with Kara Swisher (12m 34s):
+Twitter Was once a global town square, a place where people broke news, shared real-time footage that countered autocratic narratives and mobilized Now thanks to Elon is just a 24 7 toxic circus of bad clowns. I'm Naza and that's Kara Swisher and we make the podcast on with Kara Swisher. This week we've got a great episode on the latest self-destructive things that Elon has done and how he's swinging his power around in all the wrong places From helping censor Twitter in Turkey on the eve of an election to the happy home he's building for Tucker Carlson. And Don't forget all his recent sub-tweeting of racist memes. That was nice too. Today we break down the madness of King Elon, how his power has changed, the power of Twitter and why it matters with two of the best beat reporters in the biz. Zoe Schiffer, managing editor at Platformer who has all the receipts. And Ryan Mack, a tech and accountability reporter from the New York Times. It's a great conversation and it's live now. Search for on with Kara Swisher wherever you get your podcasts.
+
+Marketplace (13m 33s):
+You are listening to today explained. My name is Chrissy Clark and I am the senior correspondent and host of the Marketplace Investigative podcast. The Uncertain Hour, we explore obscure policies, forgotten histories, and why America is like this. And so we've looked at lots of things including the long fraught and really misunderstood history of welfare. Is the call for work requirements to get entitlements like snap and Medicaid? Anything new? Not at all is the short answer.
+
+3 (14m 11s):
+All the way back in Elizabeth and England there was this idea of the deserving poor people who were too old or too young or too sick to work and those people were considered deserving of help. And then there were what was called the idle poor people who it was thought could work but refused to work. They were whipped in the streets and then sent to poor houses often where they were forced to work. And then there was also this group of folks that were called the able-bodied poor people who it was thought wanted to work but couldn't find a job and they were also required to do labor often in return for aid. So going all the way back to that time, we have these impulses to sort of try to sort people and figure out who deserves this help.
+
+3 (14m 57s):
+Are they working hard enough to get it or are they just being lazy?
+
+1 (15m 3s):
+Okay. And then we fast forward 11,000 years to the creation of the United States. When in the US do we first start proposing things like work requirements?
+
+3 (15m 15s):
+Yeah, so imagine a world where welfare cash assistance for poor families was completely uncontroversial. Hmm. Didn't even go very noticed and had no work requirements attached to it. And in fact the whole idea of the earliest versions of welfare, this is back in the early 19 hundreds, was to help mothers, often widowed mothers who didn't have a male breadwinner to stay in the house, not work so that they could raise their children. These were called mother's pensions
+
+20 (15m 48s):
+To provide for children who have lost their breadwinners. The state and federal governments provide monthly cash payments so that these children may grow up at home with their own families.
+
+3 (15m 58s):
+The program was pretty uncontroversial, different states and localities had these cash assistance programs for poor families. But that question about who was deserving and who was not was still lurking in it. The program was explicitly meant for mothers of worthy character that was often written into the, the way these programs were formed. And of course that's a really subjective term. Oh yeah. And it was up to local officials who were running these programs to decide what that meant. And very often, in fact, usually that meant white women. In 1931, only 3% of the people getting these mothers pensions were black.
+
+3 (16m 41s):
+And in the deep south where most black people lived, the mismatch was even worse. There were about 3000 white families who got this help and only 39 black families. When welfare really starts to get noticed and get all this public scrutiny and more calls for, we need work requirements to determine, you know, who are the loafers, who are the lazy people that are just on this program, even though they could work, that really starts to take hold in the late fifties and early sixties. And that is at a time when the welfare roles have become more inclusive and more black families are are joining them.
+
+3 (17m 23s):
+That's the moment when it starts to get a lot. This, this program starts to get a lot of scrutiny and especially in this town, Newburg New York, This is one of the first places that really experiments with work requirements. And it starts in the sixties with this rumor, oh, that there are signs in bus stations around the south saying move to Newburg New York so you can get on welfare and not have to work completely unsubstantiated. There is no evidence that there actually were any signs like this. But this rumor took hold in Newberg and this one politician, the city manager of Newberg, starts to just laser focus on blaming all of this on these black migrants on welfare.
+
+3 (18m 12s):
+And so he wages this war against welfare and puts some of the very first work requirements in place in the country that are meant to sort of weed out chisels as he calls them, people who are just loafing on the rolls.
+
+20 (18m 29s):
+We challenge the right of freeloaders to make more on relief than when working. We challenge the right of those on relief to loaf by state and federal edict. And we challenge the right of people to quit jobs at will and go on relief like spoiled children
+
+3 (18m 45s):
+Very quickly. Groups like the naacp, the local chapter in town, they see what's going on and they push back the federal government, state government, they start to look and say, actually this is illegal. We like you, you can't put work requirements into this program. That's not part of the policy. Eventually the city manager, Joseph Mitchell, who had championed this idea is run out of town. The work requirements are canceled, rolled back, but a seed was planted. And of course that comes to a head in the eighties and nineties when welfare reform takes hold and you hear rhetoric around welfare queens and welfare fraud and all of these people who are just dependent on the government and want a government check and not a paycheck.
+
+3 (19m 39s):
+The
+
+21 (19m 40s):
+Question I ask about any welfare reform proposal is, will it help people become self-sufficient and lead a full life or will it keep them down in a state of dependency?
+
+1 (19m 50s):
+The big thing that I remember, Chrissy, about welfare reform, those two words together is that it was Bill Clinton who signed it into law. It was a democrat. What did Clinton's welfare reform law do exactly?
+
+3 (20m 3s):
+So it basically took what this program ADC aid to dependent children or eventually it became a FDC aid to families with dependent children, what everybody calls welfare. It takes that program and turns it into what is now known as temporary assistance for needy families or tanif. The whole idea was, and you know what you heard Bill Clinton talking about all the time is
+
+22 (20m 27s):
+This bill will help people to go to work so they can stop drawing a welfare check and start drawing a paycheck.
+
+1 (20m 34s):
+What does work count as? Like how do they know that I'm working and what kind of job do I need to get? Like what are the specifics?
+
+3 (20m 40s):
+You're speaking my love language right now. Let's talk policy. So yeah, it, I th and it is, it's really confusing because I think there is this sense of like, oh yeah, of course you know, if you're poor you should get a job you should be working of, that's the best way out of poverty. But if you look at like the details, sort of where the rubber meets the road of like, okay, we, we've said we wanna require people to work in order to get welfare. What does that actually mean? How do we actually turn that into policy? Basically what it does is it requires a person to be doing a certain number of hours, usually between 30 and 35 hours of this list of 12 federally approved work activities.
+
+3 (21m 30s):
+And so, so a paying job could count as a work activity. But then there are all of these other activities. One is job search, there's also going to job readiness classes, sort of these motivational classes where you learn how to dress and how to interview for a job. There is some like vocational training, but only short term vocational training that counts as work. That is the main metric that any state welfare program they have to show to the federal government each month. These are the number of people that are on our welfare roles who are able-bodied and we've deemed they can work. And so they're subject to these work requirements and out of them how many of them are actually doing the right number of hours.
+
+3 (22m 17s):
+And so what has happened, the whole thing has kind of become this compliance machine where there is so much red tape and paperwork involved in monitoring and documenting whether people are involved in these work activities and proving that they were there at the right time. That is what most of the energy is spent on. And a lot of the people that I spoke to who have gone through these programs, they felt actually completely counterproductive to their goal, which is, yes, I want a job, but I've actually had a bunch of jobs. They were super low paying and they got me to this point that I'm at right now, which is that I didn't have a financial safety net and had to turn to welfare to help me because something bad happened or you know, my car broke down or I'm fleeing domestic violence.
+
+3 (23m 10s):
+I wanna work, but instead I'm being told I have to do these 30 hours of work activities that are not helping me train to get a better job that's actually gonna allow me to become self-sufficient and not need to turn to welfare in the first place.
+
+1 (23m 27s):
+You know, Chrissy, I have always gotten the impression that this rhetoric about working, working, if you want an entitlement works because it sounds like it's gonna work. Yeah. You motivate people, you give them a reason to get up in the morning, you give them some discipline in their lives. It, it sounds reasonable. Does it actually work? Does it improve people's lives and does it make it more likely that they get off welfare in the end?
+
+3 (23m 52s):
+Yeah, no, of course. I think it appeals to our sense, you know, the good old American work ethic. Yeah. That sort of the American dream that like we, you know, if you work hard you can get to where you wanna go and that sounds so good And we, we wanna believe that, and it is certainly true that there are some people who have had success with after they've gone through these welfare to work programs. But when you look back at what's happened since the nineties when work requirements were put into welfare programs, there is very little evidence that any of it has had much broad success on moving the needle. So there was a comprehensive survey that Rand did in the early two thousands where they looked at dozens of other studies of state welfare reform initiatives that had mandated work activities, work requirements, and they found that it could modestly increase employment and earnings in the short term.
+
+3 (24m 51s):
+But then when they, we would, they would go back and check in with those families a few years later. The impacts were much smaller if not gone away altogether. And the average earnings of program participants generally stayed very low and was not enough to move most of them above the poverty line As that story in Newberg showed. And the same thing happened in the eighties and nineties. There are easy reasons that a politician might turn to work requirements and that's also not to say, you know, I'm sure there are some folks who genuinely believe like this is the best way to get people out of poverty. But I think if you look at the evidence, if you look at the research and often people point to caseloads, they say, Hey look, if you look in the nineties and compare it to now the caseloads have dropped, that must mean the program is working, that people are not turning to welfare cuz they don't need to cuz they're not in poverty anymore.
+
+3 (25m 46s):
+But if you actually look at the statistics now, out of every hundred families that are in poverty, only 21 of those families turn to welfare anymore. So it's not that there aren't people in poverty, it's just that they are, they've kind of given up on the system I think often because they feel like the system has given up on them.
+
+1 (26m 10s):
+Krissy Clark is host of the Uncertain Hour from Marketplace. It is a rigorously reported and beautifully produced podcast. Chrissy, thank you so much.
+
+3 (26m 18s):
+Thank you Noel.
+
+1 (26m 25s):
+Today's show was made by Amanda Louellen, Amina Elad, Matthew Collette, Laura Bullard, Michael Rayfield, and myself Noel King. It's today explained.

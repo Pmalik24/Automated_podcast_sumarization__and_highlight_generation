@@ -1,0 +1,293 @@
+0 (1s):
+The head on today, explained Gun violence surge during the pandemic. Even now that we're inching our way out of the pandemic, the shootings haven't abated. And as if you didn't already have enough to worry about there's the proliferation of something called the auto sear, it takes your everyday handgun and turns it into a machine gun
+
+2 (22s):
+And you're ready to go. No more mechanical resistance. You now have a fully automatic machine. There was a sustained rate of fire of 2000 rounds per minute,
+
+0 (34s):
+And it's disturbingly easy to get your hands on one.
+
+4 (38s):
+And so they've really kind of been, you know, an equal opportunity employer to anyone who just needs maximum firepower to commit their acts of violence,
+
+0 (47s):
+The rise of the auto seer and what to do about it coming up on today explained,
+
+5 (60s):
+Hey there, before we get into today's episode, let's talk about Ben and Jerry's not their ice cream, but their activism, Ben and Jerry's has a new podcast it's called into the mix and it features guests talking about how they use their creativity to drive real change. Host Ashley C. Ford sits down with musician, Patty Smith, comic book writer, Andrew Aydin, new Orleans queen of bounce music, big Frieda, and others to talk about how they work, to realize a better world into the mix. You can check out the podcast now or after you listened to this show.
+
+0 (1m 39s):
+It's today. I explained I'm Sean Ramez from, and this is Alon Stevens.
+
+4 (1m 44s):
+I'm an investigative reporter for the trace. And I covered pretty much all things gun, but I specialize in arms. Trafficking
+
+0 (1m 53s):
+Trace is a news organization that only reports on guns and gun violence. And over the past couple of years, Alon has had his eye on a niche yet increasingly popular firearm, accessory that turns guns like the wildly popular Glock handgun into a rapid firing fully automatic weapon.
+
+4 (2m 13s):
+They're pretty rudimentary and design. When you see them, they look like the size of about like a thimble or a small Lego block. They're pretty innocuous and appearance. If you don't know what you're looking for, but what these devices do essentially is they override a mechanism, the semiautomatic controls and your kind of standard firearm and allows it to fire fully, automatically as a machine gun and a once installed. You know, you can put this thing on and off the gun and you get an automatic weapon and just a couple of seconds. So
+
+0 (2m 46s):
+This thing's called a switch.
+
+6 (2m 48s):
+I put the switches on the bleeds and he like quick
+
+7 (2m 51s):
+Kill sweet.
+
+8 (2m 54s):
+Only
+
+4 (2m 58s):
+They go by a couple of different names, the streets, you know, switches chips, but you know, the technical term is, is called an auto steer. And actually they've been around since the 1970s and some fringe kind of small gun modding communities. And, and they kind of stayed that way until about four or five years ago. And then suddenly they just kind of blew up in popularity, A couple of things that kind of happen. So first of all, the internet is like the great equalizer, the information, and to know how the instructions have been disseminated online.
+
+9 (3m 35s):
+There's three parts to make a Glock fully automatic. They different end cap that has a hole in it so that your selector can be installed. This is the selector switch. And then this here is a different disconnector. We made these parts here,
+
+4 (3m 51s):
+But also it's kind of been this perfect storm, right at home manufacturing technology has just become cheaper and more widely available than it's ever been
+
+10 (3m 60s):
+Videos talking about an update to the auto auto-steer and also the cam files that are now available for the auto sear.
+
+4 (4m 8s):
+So we're talking, you know, CNC machines, but we're also talking 3d printers.
+
+11 (4m 13s):
+What is up YouTube? So today I'm going to be showing you guys how to 3d print the Glock auto-steer because I'm noxious monster. You guys have joined the discord server, wondering how to do it
+
+4 (4m 24s):
+With this information out here, you know, the CAD files surfacing out here. It just became a lot easier for people who say, listen, I want to get, you know, an illegal machine gunner. I want to modify my gun to fire fully automatic.
+
+9 (4m 37s):
+Yeah. Fully automatic mode. You keep your finger depressed at all times when the slide comes in and the round goes into battery, right at that split second, that disconnector is already pushed forward as if you're pulling the trigger and it will drop this piece down, allowing the pen to fire.
+
+1 (4m 57s):
+Okay.
+
+4 (4m 57s):
+That's created and really kind of a smugglers' paradise for these devices.
+
+9 (5m 3s):
+And he talked 45 here with a Glock 17. And thanks to say silencer, it has a fun switch on it. Yes. Semi and full.
+
+0 (5m 24s):
+You hear about mass shootings constantly are auto Sears being used in some of these bigger shootings.
+
+4 (5m 31s):
+Yeah. You're seeing these things pop up in a variety of different crimes.
+
+12 (5m 35s):
+The destruction left behind for multiple rounds being fired Is evidence and shootings that are plaguing north Minneapolis and uptown.
+
+4 (5m 45s):
+Not only in mass shootings though, we've seen them in shootings of police officers who were just going out and executing search warrants. You see them and carjackings, we've seen them in the hands of extremists.
+
+16 (6m 2s):
+It was very dangerous and scary. And those automatic weapons could potentially take a,
+
+4 (6m 7s):
+And so they've really kind of been, you know, an equal opportunity employer to anyone who just needs maximum firepower to commit their acts of violence.
+
+0 (6m 16s):
+Before we dig into like just the history of machine guns in this country, can you just help all the people out there who don't really have a lot of experience with firearms, understand the difference between, say a machine gun and an AR 15, or like an AK 47 or something like that.
+
+4 (6m 37s):
+So, yeah. So when you say AR 15, AK 47, we're talking about like gun type, let's back it up here and let's talk about gun function. Cause that's really what, we're what we're kind of trying to discuss here. So the majority of firearms in this country are semiautomatic. Meaning you pull the trigger once and it fires a single round. Now what we're talking about with these automatic conversion devices or an automatic weapon is they're talking about a firearm that when you pull the trigger, it fires multiple rounds. And typically, you know, it fires multiple rounds at a high rate of fire. So we're talking 600 rounds per minute, all the way up to, you know, 1200 rounds per minute. That's 20 rounds, a second with a single pull of a trigger. And by legal definition in this country, that is what is considered a machine gun.
+
+4 (7m 21s):
+And so when we say a machine gun, really, it could be any type of weapon that has this fully automatic capability put on it. So, you know, that could be an AR 15 all the way down to, you know, a Glock handgun, if it's fire and fully auto in the eyes of the law, it's considered a machine gun. So the federal government for the last 90 years has waged a pretty successful campaign on limiting the flow of automatic weapons inside the U S. So we go all the way back to the 1930s,
+
+7 (7m 57s):
+Oh, wait, we're going for the record three banks in two hours.
+
+4 (8m 2s):
+I think the public enemy era of crime, People running around with Tommy guns and stuff like that. The federal government said, listen, we have to do something about this. So they instituted the national firearms act.
+
+18 (8m 22s):
+Here's how it worked. Anyone purchasing a fully automatic weapon would have to pay a $200 tax that might not sound like a lot, but adjusted for inflation. That's
+
+19 (8m 32s):
+Approximately $3,500,
+
+4 (8m 33s):
+Which at the time was, you know, very cost prohibited. And then all the way into 1980s, the federal government then kind of further bolstered their stance on automatic weapons,
+
+20 (8m 43s):
+Manufacturing in the U S for civilian use was outlawed.
+
+4 (8m 47s):
+So what this essentially did was it really kind of created a very limited flow of the automatic weapons can legally be had within the United States. So if you want to get a legal, automatic weapon, you have to register it. You have to pay a tax stamp. But on top of that, they're just exceedingly rare. So they command very expensive prices. So for people who are trying to get automatic weapons outside the purview of the law, they are forced to come up with creative ways and the most common way for them to do that is an automatic conversion device.
+
+2 (9m 23s):
+And you're ready to go No more mechanical resistance. You now have a fully automatic machine there where the sustained rate of fire of 2000 rounds per minute.
+
+4 (9m 35s):
+And out of these automatic conversion devices, the auto is overwhelmingly the most popular. And so people have gone to that as kind of their new means to get a legal machine guns.
+
+21 (9m 48s):
+Yeah.
+
+0 (9m 58s):
+Okay. So it sounds like there's two things going on here. There's a path to legally having a machine gun in this country, but it is sort of onerous and expensive. And then there's a path to having an illegal machine gun in this country. And it's a little shady, but pretty cheap.
+
+4 (10m 17s):
+Yeah. But I wouldn't say that it's just a little shady. It's like really shady. I mean, you know, if you get caught with just one of these, whether it's installed or not on a gun, you know, it's like 10 year federal prison sentence, right.
+
+0 (10m 29s):
+10 years.
+
+4 (10m 30s):
+Yeah. So, you know, it's a serious crime
+
+0 (10m 32s):
+Just if you have one, not even if you used
+
+4 (10m 33s):
+It yeah. Just for having it. Okay. And then you add on any additional crimes, right. If you get caught using this. So, you know, this is modern arms trafficking as we speak. And so people essentially are taking these devices. That again, they don't look like they're that scary, but you know, under the federal government, these are machine guns and they're mailing them off and on envelopes and stuff like that. And they're being sold for pretty cheap as well.
+
+0 (10m 57s):
+Tell me more about that. What does this black market look like?
+
+4 (11m 1s):
+You have a couple of different avenues, but you have people that are making them at home, you know, in their own machine shops, you have people that are 3d printing these things. And then you also have, you know, the international community that has seized on this as well. There's a company actually that we were looking into in our investigation in China that had sold essentially hundreds of, of auto Sears over a 15 month period to us customers before they had been detected by the federal government. And they were selling these things as low as $20 an item,
+
+0 (11m 37s):
+Some random company in China is selling auto Sears to turn weapons into machine guns for 20 bucks online.
+
+4 (11m 45s):
+Exactly. Yeah. And, but they had sold hundreds of these things before the federal government had figured out what was going on. And then they had quickly had to, out to Chinese anti-smuggling authorities to have them try to shut down these companies and production factories based in shins in
+
+0 (12m 1s):
+How are people finding like random Chinese companies selling auto Sears?
+
+4 (12m 6s):
+Well, it's actually interesting because they look so benign that they were able to openly advertise and sell these devices freely on the web as blocks switches.
+
+22 (12m 17s):
+We were actually getting comments from viewers surprised at how easy they were to find. And actually by one,
+
+23 (12m 24s):
+Yeah, that's one of the biggest problems that law enforcement has, how easy they are accessible on the internet. But yeah, we found websites. The ATF tells us social media sites are selling.
+
+4 (12m 34s):
+And during the course of my investigation, we were able to find plenty of websites that had these. They would have pictures of these things. They would sometimes remove maybe a letter or two, right. It would say something like, you know, lock sitch or something like that. And they would use these types of coatings, but it would be obviously a, you know, a Glock switch and they would take cash app and PayPal and various forms of payment
+
+0 (13m 1s):
+And like USP S we'll deliver your, your, your auto sear to you.
+
+4 (13m 5s):
+Yeah. Yeah, exactly. So, you know, HSI has had to work with USP S you know, postal inspector authorities has had to work with border patrol, and they've literally seized, you know, pallets and shipments of these things in places like lax and JFK airports, but, you know, locally also, there's a whole new market of gun modders guys who install it and sell the fully kind of put together machine gun out on the streets and they command some pretty good prices per item.
+
+24 (13m 35s):
+Omar,
+
+25 (13m 38s):
+How many switches do you estimate you've sold over the years
+
+24 (13m 41s):
+Or a
+
+25 (13m 42s):
+Few thousand?
+
+4 (13m 44s):
+We spoke to one guy who would sell, modified automatic Glocks for anywhere between 300 to $3,000 a weapon
+
+24 (13m 53s):
+<inaudible> on the market like PAs, PAs, and you can spend the same amount. It gets you a switch. They will not have to worry about nothing.
+
+4 (14m 1s):
+And actually he ended up getting out of the game because he had lost a close friend to a guy with one of these automatically converted Glocks.
+
+24 (14m 10s):
+He was actually one of my runners and he got killed by one. It was my God waking the sides where you T doing this. Then the same thing happened to you. This is pretty much then got out of hand,
+
+0 (14m 24s):
+Give us an idea of how much are auto Sears being used in crimes involving firearms.
+
+4 (14m 29s):
+We're seeing these actually kind of rise exponentially. So I'll just give you some stats here. So, you know, when I talked to the ATF, they said that in 2020, they had seized 300 converted, automatic weapons by 2021, that number had rose to 1500. I actually even more so like to point to Homeland security investigations because their data actually is a little bit more holistic because they have been kind of tackling this issue and more of a, kind of a task force approach, right? So they've been working with, you know, a whole body of federal entities. And they said that since 2019, they had seized over 4,300 of these devices and had opened up over 600 investigations.
+
+4 (15m 17s):
+I want to remind people that this is at the federal level. One of the things that I, when I talked to multiple federal sources about this story, they had all reminded me that the federal government and the us attorney's office has only a limited amount of resources, right? A lot of the other machine gun cases, they tell me that they're kicking down to local and state ports and those local and state courts usually don't have as strong machine gun laws, five states currently in the U S don't have any machine gun laws on the books. So, you know, they say that really, when we look at the federal cases, we're only seeing a very small window of actual auto-steer use.
+
+4 (15m 58s):
+So it really is kind of the tip of the iceberg on what's going on out here.
+
+0 (16m 13s):
+The rest of the iceberg is coming up in a minute with Alon Stevens from the trace on today, explained
+
+Earnest (16m 26s):
+Support for the show. Today comes from earnest. Earnest wants to help you with your student loans. It's kind of reminds me of that movie. Ernest goes to school, but I think this earnest is spelled a little differently. It's E a R N E S T like, you know, earn that money. Earnest is a low interest loan company that provides Fanjul services to students looking to figure out private loans, co-signed loans or debt refinance with earnest. They say it only takes two minutes to see what your new rate could be, and there's no credit impact. And right now, Ernest is offering our listeners a $100 cash bonus refinance your student debt at earnest.com/explained, not available in all states, sorry to those states where this is not available. Once again, you get a $100 cash bonus. When you visit earnest.com/explained to refinance your student loan visit earnest.com/explained also for more details, It's not available in all states terms and conditions apply. Earn a student loan refinancing made by earnest operations, LLC, NMLS 1 0 2, 4 9 1 7, California financing law license number 6 0 5 4 7 8 8 5 3 5 mission street, San Francisco, California, 9 4 1 0 5. Visit earnest.com/licenses for a full list of licenses
+
+ZipRecruiter (17m 56s):
+Support for this show. Today comes from ZipRecruiter, who wants to remind you that it's a lot easier to get something done when you've got a great team around you and I can relate. I'm thinking like Noel king and the Al Sati and Matthew Collette, and a theme Shapiro and Laura Bullard and miles Bryan and Victoria Chamberlain and Heidi Milwaukee and Halima Shah. And who knows the mysterious Breakmaster cylinder, Liz Kelly Nelson. I could go on for hours. It takes a whole lot of people to do something right. And the hardest thing you have to do here, if you want to find the right people is just remember a very special URL. Here it is. ziprecruiter.com/t E T E. You say, how am I gonna remember that to they explained that's where you go to try ZipRecruiter for free. Once again, that is ziprecruiter.com/t E ZipRecruiter. They say, it's the smartest way to hire? Who am I to argue?
+
+26 (19m 9s):
+Did I explained Ramez from here with Alon Stevens, from the trace, talking about his reporting on auto Sears, that can turn your everyday handguns into machine guns, all the more terrifying, because it's easy to do.
+
+0 (19m 21s):
+And a lot of people are doing it even though it's illegal.
+
+4 (19m 25s):
+Well, I, I kind of only you're like back up there because when we talk about guns, one of the things that like we need to talk about is that guns as a commodity are very difficult to enforce at the local level. You know, when you look at the flow of firearms and how they move, they move not only from state to state, they move from out of the country. When we look at drugs, the local police don't do much when it comes to drug enforcement, it's very much kind of left to the DEA because that's how that illegal commodity moves across the country. And when we look at the federal government agency, that's tasked with doing this for gun crime, like the bureau of alcohol, tobacco, firearms, and explosives, they just kind of don't have that.
+
+4 (20m 7s):
+But I will say this one universal pretty much everyone in the law enforcement community is saying that this machine gun problem is probably not going to go back in the jar. And so they're going to have to really rethink and reshape how they move forward. And they kind of want to signal that to policy makers as well. That like we're really in this new era of gun trafficking. And this has to be considered
+
+0 (20m 32s):
+President Biden just a few weeks ago, came out and spoke about ghost guns and the inherent dangers. There
+
+27 (20m 40s):
+Folks, a felon, a terrorist, a domestic abuser go from a gun kit to a as little as 30 minutes,
+
+0 (20m 50s):
+But I'm not sure if he mentioned Otto Sears, where does this fall in his list of priorities on gun control?
+
+4 (20m 56s):
+So, first of all, it takes some trickle time. You know, it takes some time before the highest and power begins to kind of recognize this as a problem. You know, I have been reporting on ghost guns since back in 2019 and have been following that very closely. And like you said, we're just now seeing a response really from the top government officials about doing something. I will say this though, just recently after this reporting 41 democratic Congress members did write a letter, asking the ATF to kind of articulate a plan on what they're going to do about these machine gun devices.
+
+28 (21m 34s):
+We are writing to ask you for your urgent attention to the growing gun violence throughout the country, including the increased use of illegal machine gun conversion devices known as auto Sears or switches.
+
+4 (21m 47s):
+So there's definitely questions being asked about what's going on in the space,
+
+28 (21m 51s):
+These devices, which can allow weapons to fire at a rate of up to 1200 bullets per minute, make shootings more deadly, make our law enforcement officer's jobs more dangerous and increase the risk that innocent bystanders could be injured or killed when such a volume of bullets is unleash.
+
+4 (22m 8s):
+When it comes to something like the auto auto-steer, it's much more difficult, right? The auto-steer itself is already patently illegal to own whether it's installed or not. So I think it would have to raise some new questions. And I quite frankly, I don't know if the federal government has even had those conversations right now at that level on this topic.
+
+0 (22m 30s):
+So, because this is something that's already illegal, you don't see a lot of action at the federal level. Where does that leave? Local law enforcement though, militarized going up against civilians with machine guns?
+
+4 (22m 45s):
+Well, you know, it leaves them in kind of a precarious environment. Cause you know, the federal government is concerned that local law enforcement may not even be able to recognize these things until it's too late. And so the first route, I guess, federal law enforcement decided to take right now is just simply this awareness one
+
+23 (23m 3s):
+It's officer Jeffries murder. The ATF stepped up training local law enforcement in some cases as easy as showing officers want to look.
+
+29 (23m 11s):
+And every time we put on that training there's officers that tell us, oh, we came across those and didn't know what they were.
+
+0 (23m 18s):
+What about the manufacturers of these firearms themselves? Could they do something to their firearms to make them, I don't know, less susceptible to this modification that turns a Glock into a machine gun. Are they getting like let off the hook air for having guns that can be manipulated this way in the first place?
+
+4 (23m 37s):
+I mean, manufacturers due to a variety of laws and also due to a very powerful, you know, set of, of lobbying groups have almost always been absolved of their responsibilities. That's just the story of the American gun. You know, you hardly ever see lawsuits against gun companies and that's due to a lot of the gun laws and, and due to the political situation, you rarely see the ATF do anything really particularly strong and the regulatory side of things because of that political situation. So to, to expect them to kind of try to push responsibility onto gun companies that have historically shown no interest in, even stepping in that arena, I think is, is, is overly optimistic in this space.
+
+0 (24m 29s):
+So where does that leave us? Then we've got these cheap, extremely effective modifications that are increasingly easy to find and people are buying them. And the people who are buying them tend to be extremists, criminals, people who are willing to risk a ten-year prison sentence to modify a firearm and the ATF isn't doing a whole lot about it.
+
+4 (24m 56s):
+It leaves us yeah. In a pretty bad situation. We have a level of technology that has essentially eroded 90 years of gun control policy almost overnight. And it has now essentially come to bear onto a federal agency that has been politically eroded over the last 30 years. And so it really is kind of the scenario that is kind of endemic to America's issues with gun violence. Overall, we have a law enforcement apparatus that doesn't really understand gun violence.
+
+4 (25m 37s):
+We have a lot of special interest groups in corporate control that have influenced and you know, meanwhile Americans have a thirst for high fire power and will find interesting and unique and technologically creative ways to access that. And that's what's happening right now.
+
+0 (26m 2s):
+Alon Steven's is a reporter at the trace. You can find his reporting on the auto sere@thetrace.org. Some of his reporting was done in collaboration with vice, including some of the audio you heard today on the program. Shout outs to vice our show today was produced by Hadi <inaudible> edited by Matthew Colette engineered by Paul mousey and fact checked by Laura Bullard and Richard SEMA. I'm Sean Rama's from it's today explained.

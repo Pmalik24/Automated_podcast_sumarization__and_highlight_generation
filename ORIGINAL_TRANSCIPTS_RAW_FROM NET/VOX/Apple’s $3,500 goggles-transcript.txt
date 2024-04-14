@@ -1,0 +1,206 @@
+0 (0s):
+Apple made a big announcement yesterday. They're getting into the ski goggle business. Okay. Not really.
+
+2 (9s):
+Vision Pro is a new kind of computer that augments reality by seamlessly blending the real world with the digital world.
+
+0 (17s):
+They're getting into the Metaverse augmented virtual reality business.
+
+2 (22s):
+So in the same way that Mac introduced us to personal computing and iPhone introduced us to mobile computing, apple Vision Pro will introduce us to spatial computing. The
+
+0 (34s):
+Apple people think this could be the next big thing, but the internet seems to think it's all really funny. It is an eminently memeable device. So it's an augmented reality headset, which means that its job is essentially to sit on your face and have you mix digital things With the real world coming up on today, explain whether Apple's next big venture into wearable tech could change our world. It's summer, blockbuster season, and if you're tired of movies with mediocre special effects, guess what? So are the artists who make them.
+
+3 (1m 9s):
+And by overworking these, these employees, you know, who are already so few in numbers, basically it's a race to the bottom and the, the films decline in quality. The fans revolt, they, they earn less money. And you know, the population of qualified workers is that much closer to complete burnout.
+
+0 (1m 26s):
+We go behind the green screen this week on Intuit Vultures pop culture podcast you're listening to today explained. David Pierce is an editor at Large at the Verge. He was at Apple's big party in Cupertino, California on Monday. We asked him to help us understand Apple's new goggles. So one of the things that Tim Cook said, which is a line I really liked, is
+
+2 (1m 56s):
+It's the first Apple product you look through and not out. Huh?
+
+0 (2m 0s):
+So instead of being a screen, it's essentially projecting stuff onto the real world.
+
+2 (2m 5s):
+With Vision Pro, you're no longer limited by a display. You're surroundings become an infinite canvas. Use your apps anywhere and make them any size you want.
+
+0 (2m 17s):
+So that's the idea. It costs $3,500, which is bananas. $3,500. What? Yeah, apple is not kidding when they call this a pro thing. And I think based on everything we've heard, apple doesn't actually expect to sell very many of these, even though Apple talks about it as the most
+
+4 (2m 35s):
+Advanced personal electronics device
+
+0 (2m 38s):
+Ever, which means nothing. This is the beginning of a long road for the whole industry, but also for Apple, it's not
+
+5 (2m 44s):
+Often we get the chance to define an entirely new category to establish the principles that will influence the design for years to come.
+
+0 (2m 53s):
+It looks like a pair of ski goggles. Like, like exactly like a pair of ski goggles in a very funny way, but for like 10 times the price. Yeah, I mean there are some pretty fancy ski goggles out there, but yeah, the idea is this is supposed to be the next great consumer gadget. Hmm. We went from computers, we went to phones, we've had, you know, wearables and tablets and all that stuff, but we're still very much kind of in the phone era and the big bet from Apple is that this is the beginning of the next thing in a really, really real way. It's easy to be skeptical David and skeptical I am. But let's give Apple a fair shake here and just talk about the reasoning behind this device. Let's start with how long they've been thinking about this thing. This
+
+2 (3m 33s):
+Is a day that's been years in the making one that I've really been looking forward to.
+
+0 (3m 38s):
+Sure. So this has actually been in the works at Apple for almost eight years, but the story of AR goes way back and you, you can see these things in movies. The Ready Player one is one of the things that everybody uses. The idea that you put on a headset and you're transported somewhere completely different these
+
+6 (3m 53s):
+Days, reality is a bummer. Everyone's looking for a way to escape and that's why Holiday, that's why he was such a hero to us.
+
+0 (4m 0s):
+The whole idea of of the Metaverse is from a science fiction book, from I think the eighties. This idea has been around for a long time that you should be able to put glasses on your face and be transported somewhere else or have things come onto you. Like the Predator Heads Up display is like that. Terminator is like that. This idea has existed forever. But Apple specifically when it launched the Apple Watch in 2015 really turned towards this as the next big thing. And it's been through a lot of iteration since then. The technology has changed a lot, the world has changed a lot, but this is almost a decade of work, which even for Apple, a company that tends to spend a long time on things is an unusually long development process.
+
+0 (4m 45s):
+There's always some controversy with a product like this, right? There's the very famous story of the iPhone where essentially there were two totally separate groups building totally separate products and they were viciously fighting against what it should be. Where one side wanted a touchscreen, one sided wanted a click wheel like the iPod. There's a world in which the iPhone had a click wheel like the iPod, which would've been bonkers.
+
+1 (5m 7s):
+No.
+
+0 (5m 7s):
+The difference here is that there are a lot of very important people within Apple who seem totally unconvinced that the idea of putting a computer on your face is a good idea, including some of the people who build chips, some of the people who make software. One of the big questions is, is it way too early? Apple's thing typically is to come into a market a little late when there's some stuff out there and then Apple is the first one to really get it right. That's kind of what it did with phones. You know, blackberries existed, we had like trios and weird stuff and then Apple came in and was like, this is how this is actually supposed to work
+
+7 (5m 40s):
+Today. Apple is going to reinvent the phone.
+
+0 (5m 44s):
+The augmented virtual reality world is nothing like that. Most people have never tried one of these headsets. Pretty much all of the headsets that are out there are bad. And Apple's big question has been A, why are we doing this now? And B, why are we doing this at all? And that was one of the really interesting things about WWE d c is Apple had to get up and not only make the case for this particular $3,500 device, but also the whole industry all at once. Why would you want to strap a pair of ski goggles to your face and wear them for hours at a time? Is not a question anyone ever has successfully answered. And Apple had to try and do that. And there are a lot of people within Apple who don't think there are good answers yet.
+
+0 (6m 26s):
+I've seen people saying that this could be an iPhone moment, but I don't understand why people are saying that because people already had phones when the iPhone came out and Apple went and made one that was better by leaps and bounds. People generally speaking don't have nor really want for a VR headset. And Meta has already proven that. The funny thing about the iPhone moment idea is that there really was no iPhone moment. Like people don't remember this, but when Apple first announced the iPhone, it was too expensive.
+
+8 (6m 57s):
+$500 fully subsidized with a plan. I said, that is the most expensive phone in the world and it doesn't appeal to business customers because it doesn't have a keyboard, which makes it not a very good email machine.
+
+0 (7m 9s):
+It didn't do very much and it wasn't all that exciting to a lot of people. It felt very cool to a certain set of people who were like, foundational technology here is very cool. Multi-touch was cool. The fact that you could like pinch to Zoom, you couldn't do that before. Like it felt cool and new and different, but most people didn't buy an iPhone for a couple of years. It took until the app store came out a year later and it got cheaper because they started working with carriers. And then over the course of like four or five years, people started to buy iPhones. And I think what's funny is in the best case scenario for Apple here, it'll go just like that. And then over the course of the next few years it'll get cheaper, it'll get better, people will figure out new stuff to do with it. But I think the thing that Apple really tried to do at WWDC is explain to the world why these things need to exist.
+
+0 (7m 55s):
+And I really don't think it did a very good job of that. I, everyone I talked to came out of it being like, nothing in this is terribly convincing. I don't know why I'm gonna strap this thing to my face for hours at a time. What did they say to try to convince the crowd that this was something that they might one day need? So the case boils down to three things really. One is productivity. The idea of being able to have a bunch of virtual screens on my desk. I can like throw a web browser up in front of my face. I can read stuff. I can have all of my different apps kind of layered up together in a way that is bigger and better and more productive than using a computer. Hmm, better, happier, more productive.
+
+0 (8m 36s):
+It's kind of a spiritual successor to a Mac in a certain way, right? If you read it like that. The other is communication. They spend a lot of time talking about FaceTime and the idea that you can have kind of real life looking avatars made of yourself, your headset scans your face to make an avatar of you. If you and I were to FaceTime, I would see you as a sort of floating tile in the air and you would see me as my life-like Avatar. Perfect. Such an improvement on just seeing your face like it is normally. Yeah. And what could possibly go wrong with life-like avatars? That's never been a bad idea that anyone has gotten horribly wrong in history. This is fine. What are they smoking out there, David?
+
+0 (9m 16s):
+So the problem is, in that particular way, apple is totally stuck, right? Because if I have a pair of ski goggles on my face, you're, you're either gonna see like a real super close up of my eyes in a way that's gonna be totally horrifying or nothing. There's a third thing, I'm sorry. The third thing is basically as a camera,
+
+9 (9m 35s):
+It lets you capture and relive your memories in 3D with spatial audio. It's magical and impossible to fully appreciate on a two-dimensional screen.
+
+0 (9m 45s):
+This to me was by far the most messed up dystopian part of the whole thing because some of the demos they used were like a video that you shot of your kid blowing out candles on a birthday cake. And the thing that they forget is that that would require me sitting at the table with my child wearing a headset while they blow out their candles. Like, that's bleak dude. That's not a world I wanna live in. It's so goofy looking. Yeah, it is. And again, this is where I think it's useful to believe that it's super early, right? Because the thing Apple wants to build, very much wants to build is something that looks like a pair of RayBan sunglasses and when they look like a pair of glasses, that's when they'll be really truly mainstream.
+
+0 (10m 27s):
+So I think what Apple is trying to do here is sort of cast a 10 year vision inside of a very like prototype product. But in this first instance like, please dear God, do not wear this during your child's birthday party. It's just, it just that just sucks. No one wants that in their life. It's not good. David's gonna help us wrap our heads around why Big Tech is so obsessed with headgear when we're back. I'm Sean Ramas Shwarma and this is Today Explained
+
+2 (11m 14s):
+Vision Pro. Feels familiar yet it's entirely new
+
+0 (11m 19s):
+Today Explained. We are back with David Pierce from The Verge. David, you were just telling me that like the dream here is to basically give people the Ray Ban Wayfair, but with tech. But it occurs to me that there was a big company in Silicon Valley that already tried to do that. So let's just go back for a minute and talk about how Long Tech has been trying to deliver us some sort of glasses that give us some reality with some other stuff. So I'd like to remind you of the glass holes. If you go back about a decade, Google came out with this product called Google Glass, which was essentially a pair of lens list glasses.
+
+0 (11m 59s):
+They just, they just had the frames with a little sort of rectangular thing in the upper right corner above your right eye that showed information. Oh Seth,
+
+10 (12m 8s):
+They're amazing. You know, I have to spend so much time in my life looking down at my phone and now thanks to Google Glass, the phone is up here and I could use it without being rude or distracting.
+
+11 (12m 17s):
+Yeah, that's, that's, that's pretty cool.
+
+0 (12m 19s):
+And it was very much the same idea. Augmented reality. Google talked a lot about having turn by turn directions on there, which is one of the things you always hear. Okay,
+
+12 (12m 27s):
+Glass directions, all view liquor now it comes up says All View Liquor. Now if I'm looking at this right now, I'm seeing right here this little screen and it's almost like picture and picture.
+
+0 (12m 40s):
+The tech in there was very cool. It was very early. Again, this is more than a decade ago. A lot has changed, but then people started wearing these things in public and they were a camera and they were recording people who didn't wanna be recorded and you just looked like a tool wearing them. And so it became this like new but promising technology mixed with like total cultural disaster. Did you
+
+13 (13m 1s):
+Just take a picture of
+
+11 (13m 1s):
+Me? Yes. Are you recording me?
+
+13 (13m 4s):
+Of course I am. Stop recording me. This is our point of view. Do you see how that can be considered invasive? I, I can see that except that you have cameras pointed at
+
+0 (13m 12s):
+Me. The name Glass Hole became very popular and people like got into fist fights at San Francisco bars with people just because they were wearing Google Glass and it just destroyed it. And Google gave up essentially on this whole idea of augmented reality because that went so badly. But Google failing wasn't the end of this idea. True. Microsoft also came out with a thing called the Hollow Lens, which it always saw a little more narrowly. It was kind of a tethered device that you would use for training. One of the things all everybody shows in these demos is like you're in an architect's office and you can see a three-dimensional model of the house that you're building. And that's another one of those things where it's like you can kind of see why that would be cool. And Microsoft did that with a very heavy sort of enterprisey emphasis, but that didn't really work either.
+
+0 (13m 56s):
+Hollow Lens is basically dead, then Meta starts doing the whole Oculus thing and buys all in on VR and then Rebrands to be all about the Metaverse.
+
+11 (14m 5s):
+The Metaverse
+
+0 (14m 7s):
+Meta's vision of the Metaverse is that it is this fully virtual place that you go,
+
+11 (14m 13s):
+Imagine you put on your glasses or headset in your, instantly in your home space. And as parts of your physical home recreated virtually, it has things that are only possible virtually and
+
+0 (14m 24s):
+It has, and that's a disaster. So it's just been this run of huge failures of this idea over and over and over again. Apple feels very differently and they went out of their way over and over to say the point of Apple's headset. The Vision Pro is not to transport you somewhere else, it's to keep you anchored in the real world, but give you other stuff. Another
+
+14 (14m 45s):
+Foundational design goal for Vision Pro was that you're never isolated from the people around you. You can see them and they can see you
+
+0 (14m 54s):
+And there's some wiggly language in that. There's some stuff that Apple's doing that is very much just vr. But the biggest thing that's different is this idea of virtual reality versus augmented reality, right? And it goes back to that thing Tim Cook said about the first Apple product you look through and not at all of the stuff that Apple showed, or at least almost all of the stuff that Apple showed involved the real world in some way. So you should be able to project an enormous virtual television onto your wall and watch TV as if you had a hundred inch tv. You should be able to have 10 virtual monitors on your desk instead of having a real monitor. All of that stuff though involves the real world.
+
+0 (15m 34s):
+It's a weird case, but it is a very different one in terms of like how people will actually experience it. So how does Apple feel like it can succeed where all of its competitors Google, Microsoft Meta have more or less failed? It is true that Apple is better at this than everybody. It just is. You think about the AirPods, which are in an objective way, really stupid looking. They're just like a little toothbrush that you hang from your ears. But Apple has this amazing marketing engine. It's very good at like getting things into the hands of culturally cool people. Athletes start wearing them, musicians start wearing them.
+
+15 (16m 10s):
+Apple
+
+0 (16m 12s):
+Call me. And Apple is just good at making things culturally relevant and cool in a way that really no other company has ever been able to match. Mack,
+
+15 (16m 22s):
+Why don't you say something positive about pc? Okay,
+
+16 (16m 25s):
+Easy pc, you are a wizard with numbers and you dress like a gentleman
+
+15 (16m 29s):
+Pc. Well Mac I I guess you are a little better at creative stuff. Thank you. Even though it's completely juvenile and a waste of time.
+
+0 (16m 37s):
+My favorite example is always those old iPod commercials with the the silhouette people. And they just had the white cable coming from their headphones down to their iPod like Apple made a white cable into like a cultural status icon. But that's very impressive. And Apple's big bet here is that it can do the same thing, right? That if it can make a slightly better headset, it can be the company that makes this, if not extremely cool, then at least acceptable and we can start to move toward. Cool. I guess the big question for Apple as as it was for, for Meta and I guess Microsoft, but maybe not so much. Google is like, do people wanna sit around at home with a screen strapped a couple inches from their eyeballs?
+
+0 (17m 19s):
+You remember a bunch of years ago when everybody was trying to tell you that 3D TVs were the future and you were gonna sit on your couch and wear glasses to watch your television? I do you remember how that super, super didn't happen? I do, and it didn't happen because that sucks. Like I don't wanna sit down on my couch and go through the cushions to find my glasses to put them on. I don't want to worry about sitting perfectly centered on my couch in order for this to work. I don't wanna have to give glasses to every single person sitting on the couch with me. It's just too much work. And the challenge Apple has here, and I think the thing that for me it has very much not solved is how to make wearing a headset not a gigantic amount of work.
+
+0 (18m 1s):
+It has a battery that only lasts two hours. What you can wear it like plugged into a wall and then it'll last forever. But that's very much not the long term vision. So you get a little battery pack that's connected to the headset by a cable. And so now you're in a place where you can't even watch a movie in the thing without having to charge your headset. And then you're in this position of like if, if I'm sitting on the couch and you come in the room and you wanna watch the movie with me that I'm watching, which is I would remind you like a very normal human behavior, what do we do? And, and so one of the things that Apple has done to try and solve this is the, the screen on the thing actually has this sort of pass through element.
+
+0 (18m 42s):
+So if you walk in the room and I'm sitting there using my headset, you'll be able to see my eyes projected on the outside of the headset, which is either going to be like the first sign of the true dystopia that we're living in or useful and cool and it's one of those and there's no in between, but just in general, like how do I wear this headset and be a person in the world is a really complicated question that I don't think Apple is even close to solving. Okay, I want to do two scenarios. I want to do what if Apple fails miserably and what if they succeed? Okay. And because it sounds like you're far less cynical than I am, let's start with the bad and then we'll do the good and maybe we can end there.
+
+0 (19m 21s):
+Sure. So tell me if they fail miserably, if unlike the AirPods and the watch and the pad and the phone and the pod, apple stumbles hard and and no one wants this thing, what does that mean for the company? What does that mean for us? It would be a disaster for Apple as a company for sure. This is the biggest swing the company has taken in a really long time. They have talked a lot about this being the future. Tim Cook, apple CEO has spent a lot of time talking about how cool he thinks augmented reality is, how important this is gonna be. The last time Apple failed this aggressively was with a device called the Newton. And it cost Apple CEO its job, it cost Apple an enormous amount of money.
+
+0 (20m 5s):
+It almost killed the company. I don't think that's gonna happen again. Like Apple's doing fine, as long as the iPhone exists, Apple's gonna be all right. But this would be the kind of business and reputational hit that Apple has not taken in a very, very, very, very long time. Sounds like you're saying there's a scenario in which like Tim Cook might lose his job if this fails. Oh, I absolutely think that's possible. This is his legacy device. Everything else that Apple has done, you can trace back to either Steve Jobs or Johnny Ive, who are really the two kind of product gurus over the history of Apple. They're both gone. This is the first thing that is Tim Cook's device. And so in a very real way, he will go down as a success or a failure based on this, this device.
+
+2 (20m 48s):
+I believe that augmented reality is a profound technology blending digital content with the real world can unlock experiences like nothing we've ever seen.
+
+0 (20m 59s):
+Okay. So if Tim Cook gets his way and this is the future, what does it mean for the world? What does it mean for Apple in the best possible, most optimistic case, this is bigger than the iPhone. This will change the world more than smartphones. Change the world if it hits that big. Because what it does is it, it makes every single second of our lives both digital and real world like you and I would be talking and I would have a headset that would be showing me the waveform of my speech. It would be correcting my grammar as I go to tell me all the dumb stuff that I did. It would have like your LinkedIn profile.
+
+0 (21m 39s):
+Hmm. Telling me all about you. So creepy, so creepy. I know people want this, but it's very creepy. Yeah. So, and, and this is the thing, it's a really funny sort of Rorschach test of how you feel about technology where you're like, do I want it present with me all the time or do I find that totally horrifying? How long do we have to wait to figure out if it's gonna be the, the first scenario or the second, the win or the loss? I would say we're probably five years from getting any kind of good answers. I think the, the comparison that I've heard that I like a lot is to self-driving cars and self-driving cars are this technology that went from essentially non-existent to very good, very quickly.
+
+0 (22m 30s):
+Like self-driving cars do a lot of really impressive stuff now, but the gap between very good and safe enough to trust your life on when you commute to work in the morning turned out to be like a 20 year problem. And so we were supposed to have robo taxis five years ago and instead that's gonna be like 10 years from now because that last bit where you go from cool technology to thing I am willing to bring into my life is a huge, huge gap. And I think we're gonna see that too. So we're gonna start to see real inklings of how good or bad this stuff could be and if people want to use it. So it's gonna be a while before we get even a, a vague sense of if this thing is going to work in some sort of mainstream real way.
+
+0 (23m 22s):
+David Pierce is an editor at Large at The Verge. Read him@theverge.com. Amanda Lou Ellen and Hottie Ma Wadi produced our show today. Happy birthday Amanda. Happy belated Hottie. Our show was edited by Amina Aldi. It was mixed by Patrick Boyd and fact checked by Laura Bullard. This is today explained.

@@ -1,0 +1,209 @@
+0 (1s):
+It's today explained I'm Noel king. It's an older tool of communication.
+
+1 (6s):
+The way Republicans and Democrats are shoving each other around, down here in Washington. And they'll all wind up on the spot by November, the white house requests for new controls on grain for whiskey makers is considered a political QUT.
+
+0 (18s):
+Once upon a time, it United the world,
+
+2 (21s):
+Germany, the enemy who drove all the other into war as been finally calm
+
+0 (34s):
+Today, it's used a lot less than it was in the past. It's a backup. Sometimes it's just plain fringe, but when Russia made it virtually impossible for both Ukrainians and Russians, to get news about the war, it found a new purpose
+
+3 (48s):
+World news from the BBC. Several cities across Ukraine came under assault overnight
+
+0 (54s):
+On today's show the life and afterlife of shortwave radio. Professor David stupples teaches electronic and radio engineering at city London university professor. We were struck by the fact that the BBC has decided to resume shortwave broadcasts in Russia and Ukraine. What did you think when you heard that news?
+
+5 (1m 25s):
+Well, I just didn't like it because the BBC would normally put its broadcasts or some of its broadcast out online as, as you are. And that can be blocked out by Russia or turned off by Russia, but blocking off an HF transmission, which is in the short wave would, would be more or less impossible. The short way of transmission is basically a transmission that would go anywhere around the world, depending on what frequency it is, because what happens is that the radio wave bounces off a part of the atmosphere, of course, the eye on the sphere.
+
+5 (2m 7s):
+And it would just skip its way around the world. So it's a worldwide cost and anyone can hear it. Whereas the medium wave, which is a lower band, it will suffer from loss of power over long distances. The short wave band from a BBC's point of view, to be able to get to all those people in Russia. And in fact, anywhere around the world, it's a good transmission, medium.
+
+0 (2m 33s):
+How is the information transmitted? Exactly.
+
+5 (2m 36s):
+It's name is a carrier wave, so it carries the audio or music or whatever. And then at the other end, the, the receiver will take off the modulating far from the carrier. And you'll be able to hear it
+
+0 (2m 54s):
+As a short wave leaves, its point of origin. What does look like going out into the world?
+
+5 (3m 2s):
+Well, I wish I could see it, but it's an electromagnetic wave. So it is a radio wave. It leaves an antenna, an aerial antenna, and it's transmitted into the ether. It is everywhere. It's all in the atmosphere. It isn't just a beam it's everywhere. So if you're you're sitting round in, in, in Russia with your radio shortwave radio, with a antenna, sticking up, you be able to pick up this, this communications
+
+0 (3m 42s):
+That is fascinating and, and makes me wonder something else. So it is the year of our Lord, 2022, and most things are being done on the internet. And so I'm thinking of people in Ukraine and Russia and wondering whether this will be accessible to them. Do they, will people need to have special radios to receive that short wave signal.
+
+5 (4m 2s):
+Many people have HF radios and they will have them a multi-band. So they'll have medium wave high-frequency, which is the short wave and then the VHF. So these will be able to pick up radio stations. So in any of those bands, if people could remember what frequencies they were being transmitted on, they could certainly receive it and effect if they're being broadcast on your receiving it, nobody would know you're listening to the BBC.
+
+0 (4m 29s):
+Is it the case that people in Ukraine and Russia have radios just because of the way life has gone in Ukraine and Russia, that they were less, that they are less connected to the internet? Like what, why the assumption that people will have these in their homes?
+
+5 (4m 45s):
+Well, I think if people are living cities, it will be very easy to get onto the internet. I have internet radios as well, but I also have other types of radio as you might. Well imagine I do. And a lot of people in Russia, because they may not be connected to the internet, the ones in, in the, in the remote districts, they would probably have these radio sets as well.
+
+0 (5m 8s):
+And if someone in Ukraine or Russia is tuning into that short wave radio broadcast, what will it sound like? Will it be clear
+
+5 (5m 15s):
+Just like you and I talking now
+
+0 (5m 17s):
+Really clear enough, I would say
+
+6 (5m 22s):
+Welcome to NewsHour from the BBC world service. I'm James Kimora, Sammy on day five of Russia's invasion
+
+5 (5m 28s):
+Of if it's not being interfered with, by the state, he's
+
+6 (5m 30s):
+Taken up arms to defend his country.
+
+7 (5m 33s):
+First, there are gunshots and then there are screams off victims. And then you understand that, okay, this is real
+
+6 (5m 40s):
+The UN,
+
+5 (5m 41s):
+But normally the BBC broadcasts on very high quality placed
+
+3 (5m 45s):
+We're ashamed. I know we thought we'd been the situation. We were normal people. We had jobs, schools, normal families.
+
+0 (5m 53s):
+Let me take you back in time and ask you who invented this remarkable thing, wave radio, who is responsible for it?
+
+5 (6m 0s):
+The real practical side of this was done by Marconi in the turn of the century, not the century, the last century and where he transmitted a, a signal from the UK to newfound London. And that was the first of the long range radio transmissions. And from that came very, very quickly radios that we use with Morse code in a very short space of time from Marconis. If you'd like first practical demonstration of this, we then had a good radios.
+
+0 (6m 38s):
+The Marconi you're referring to is Guglielmo Marconi. The Italian I named my dog after him, Guglielmo king is his name,
+
+5 (6m 47s):
+What a fine name. You should give a dog And you should put a little land Tanner on his head
+
+0 (6m 54s):
+As a, as a radio professional. It seemed the only, it seemed the only appropriate name for my very loud dog. I want to go back to the early days who would have owned them, who would have been listening to them? Was it like televisions in the beginning were only a select few, had them,
+
+5 (7m 10s):
+The transmission of the were mainly state-owned. So therefore they, they would broadcast news and, and foreign affairs.
+
+8 (7m 19s):
+Yes, Moscow. We need to get my body to the north American service of radio Moscow.
+
+9 (7m 26s):
+The first part has to do with a Titanic struggle for supremacy between the east and west
+
+5 (7m 33s):
+Companies would own them like shipping companies. And also in the early days of aviation, they would have had them as well. So these radios were the transmission side, but privately owned. But then the home radios, people were starting to buy from the mid 1920s and onwards. And they became, if you like, like the dining room table, everybody had to have one,
+
+0 (8m 1s):
+Is it fair to say that the shortwave broadcasts decades ago were a lot like the internet in the way that people around the world could all be listening to the same thing and accessing the same information
+
+5 (8m 14s):
+It was, and still is in major parts of the world. The only way that people will listen, get receive news information, government broadcasts, or music or discussion programs, radio is properly the primary source still, although the internet is becoming as popular.
+
+0 (8m 34s):
+What to your mind is the significance of the BBC restarting shortwave broadcasts in this region? What does this tell us?
+
+5 (8m 41s):
+Well, it tells us that the, that Russia in this particular case was blocking off the, the transmissions through the internet. And it can do that because it controls the internet. Once it's in Russia. Now in Ukraine, what the, the Russians did, there was take out the radio broadcasts from the state, as you saw it on television. They, they hit the towers with, with missiles and destroyed that
+
+10 (9m 13s):
+Russian forces of attack, the TV tower and Ukraine's Capitol. The Kiva independence says TV channels have stopped broadcasting. This comes hours after Russia warrant. It would attack facilities in Keith.
+
+5 (9m 24s):
+They would have certainly destroyed a lot of the internet in, in Ukraine as well. So the only way that we can get news and, and briefings and, and instructions to the people is via radio. And that is, is, is omnipresent. And that's the reason that we will never ever leave radio because it is in fact, an only present source. And once the electromagnetic wave is in the ether of the atmosphere, it is going to, if it's got enough power, it will get to your antenna and you'll be able to listen to it.
+
+11 (10m 12s):
+We will not walk in fear one another. We will not be driven by fear into an age of unreason. If we dig deep in our history and our document, and remember that we are not descended from fearful man, not from men who feared the right to speak to associate and to defend the causes that were for the moment unpopular. Cassius was right the fault there. Buddhist is not in our stars, but in ourselves, goodnight and good luck.
+
+12 (10m 48s):
+This episode is brought to you by HP. When you're working apart from your team, feeling connected can be a challenge. Presenting HP presence, a more thoughtful human collaboration technology with enhanced audio and video features. You can experience more genuine collaboration and feel more connected. Be in the room from any room with HP presence, learn more@hp.com forward slash presence.
+
+13 (11m 18s):
+The cut in her shoes is not just another interview podcast. It's a show that begins where other podcasts about success and with a look at what happens next. It's a show about how the structures that can inspire our own ambition can also be the same ones that get in the way of progress. My name is Lindsay peoples Wagner, the cuts editor-in-chief. And on each episode, I'm speaking with someone that the cut is watching admiring or just fascinated by together. We explored not only how they forged their own path, but also how they're bringing others along with them. Now that they've made it check out and follow the cut wherever you listen to podcasts.
+
+0 (12m 11s):
+Professor David stupples in London. So you weren't in the Royal air force in the 1970s as a radio man. What was your job? Exactly.
+
+5 (12m 19s):
+I dealt with electronic warfare, which is using radio to fight with
+
+0 (12m 24s):
+How does one use radio to fight with? I'm not sure if you're talking about propaganda or something a bit different.
+
+5 (12m 29s):
+Well, both actually I can jam radars. I can jam missile systems. I can jam satellite communication systems jammed the navigation systems. German is such a way that they can't be used, but if you wanted to spy on the nation, then you would do this through, through radio.
+
+0 (12m 50s):
+How would that work
+
+5 (12m 51s):
+Or sick? I would just listen to all of our broadcasts
+
+0 (12m 54s):
+And, and there was no way for the Soviet union to block you from doing that Because of short wave.
+
+5 (13m 1s):
+Once, once the radio Wavell electromagnetic wave gets in the ether, it goes everywhere.
+
+0 (13m 7s):
+How were spies using shortwave during the time of the cold war
+
+5 (13m 13s):
+That comes back to our communications? Because there was no internet. How would you communicate with agents or spires as you would call them? But let, let, let let's be kind and call them agents because you can't go up and knock on their door and say, we've got a message for you. What you would then have is these. And it comes back to your shortwave radios, again, a shortwave radio transmitting information worldwide to agents. Now, if I'm transmitting to my agent, it somewhere in, in the Soviet union or somewhere in east Germany, what I would then do is transmit the information in code.
+
+5 (13m 55s):
+So after a start-up piece of music, which actually tells the agent that we're on the air, We'll then send down a set of numbers, which actually said, this message is for agent, whatever agent number it is receiving this
+
+16 (14m 18s):
+3, 9, 7 1 5 3, knowing that
+
+5 (14m 25s):
+That's followed by coded messages in numbers. And these numbers would then be translated by the, the agent using a, a one-time part, which is an encryption method. And they would get a message. The message might be short and say, there is a message in your Dropbox, or it may be long by giving the, the agent some instruction, but it's more than likely it's telling him there's a message in the Dropbox. So what they would do is have a special, have a place in, in the, behind a tree. Oh, if you looked at some of your spires that have been working in the United States, they, they use Dropbox's by to pick up messages and also send information back.
+
+5 (15m 18s):
+And the Russians were very, during the second world war were using this method to communicate with Russian spies that were in the U S because of the method of communication where the agent was load located was not known. And they could never find that out by law, by the communications. Cause it was a one-way communication to the agent. The transmitter was in somewhere, it would transmit worldwide. So therefore the agent will be able to listen to the, the message. The authorities would never know where the agent was
+
+0 (15m 59s):
+From what I've read about life in the Soviet union, behind the iron curtain. One of the big problems was misinformation, right? The Soviet union, not being honest with its people about what was going on. They were receiving a lot of propaganda. A lot of propaganda coming from the top was the BBC doing that too? How did that work?
+
+5 (16m 19s):
+That's precisely what the BBC world service was doing, but let's put the blame somewhere else as well because the voice of America did the same thing.
+
+17 (16m 29s):
+Wherever you may be listening to this broadcast, remember this, the people or the United States extend the hand of friendship to you across the sea.
+
+5 (16m 42s):
+It depends on whether you w what you call propaganda, but the, they would certainly try to tell the truth to the, the Soviet union, the Soviet people at that time, of course, the Soviet union was new Navy, all of the Eastern block countries. And so therefore they would broadcast in Russian German, Polish check and Slovakian that, and several of the Arab languages that are used within the, the Soviet union as well. So they would broadcast in all of those languages and they would then give news and current affairs programs.
+
+5 (17m 22s):
+And I believe, try to tell the truth, but I'm sure that there was a degree of propaganda on both sides.
+
+0 (17m 28s):
+So the BBC world service broadcasting now in short wave is going to be sending straight news into Russia and Ukraine. Can you talk about the importance of the BBC taking this decision to begin shortwave broadcasts again, in, in Russia and Ukraine?
+
+5 (17m 44s):
+I think it's an admirable decision. We know in Russia and properly and other parts of the world as well, that they control the media, but they will also control the internet. And if they found that stations were broadcasting to their nation, that that were giving information to their population about people that they didn't want the people to have, then they could certainly use the internet to block that with radio. They can't do that. They, they could jam the radio. In other words, put up a whole bunch of noise out there so that you, you, so you couldn't hear this on your radio, but that's difficult to do all of the time because the human ear and the human brain is very good at picking out a speech from, from what is, is, is noise.
+
+5 (18m 37s):
+People will be able to listen to that. And since you can't stop waves, traveling on the electromagnetic on ether, it's impossible to stop them. You can't put a brick wall up, they get whatever happens. Censorship then becomes exceedingly difficult. If we want to get information to the Russian people, that and to the Ukrainian people for, from the point of view of, of trying to bolster their, their confidence, then we would do that, do this through radio. It's the show means of getting it through.
+
+0 (19m 13s):
+It sounds like reports of the death of radio are greatly exaggerated. And we're learning that. Now,
+
+5 (19m 19s):
+If I want to communicate to people in other parts of the world, especially in times of conflict as we have now, then I would do that through the wave, which cannot be stopped.
+
+0 (19m 49s):
+Professor David stupples in London. Today's show was produced by Victoria Chamberlain edited by Matthew Collette engineered by a theme Shapiro. And fact-checked by Laura Bullard. I'm Noel king it's today explained

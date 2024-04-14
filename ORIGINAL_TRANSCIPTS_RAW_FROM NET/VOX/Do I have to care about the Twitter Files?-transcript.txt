@@ -1,0 +1,224 @@
+0 (0s):
+As 2022 staggers toward a close, Elon Musk of all people has given us a glimpse into an issue that has the potential to consume Washington in 2023.
+
+1 (11s):
+We have a duty to do the work, to get the truth out there, to get the facts out there.
+
+0 (15s):
+Earlier this month, Musk started leaking the slack messages and emails of Twitter employees and former employees to a handful of journalists. The journalists labeled them the Twitter files and suggested that the leak messages proved Twitter. Primus had unfairly banned Republican voices from the platform, blocked mentions of Hunter Biden's alleged misdeeds, and through former president Donald Trump off of Twitter without cause. Republicans are now calling for investigations.
+
+1 (42s):
+We need to haul these people before Congress to testify under oath, and anyone who committed a crime should be prosecuted.
+
+0 (51s):
+And in 2023, Republicans will control the house. So not an empty threat. Coming up on today explained what's in the Twitter files.
+
+2 (59s):
+Support for this podcast comes from Equifax. You might know Equifax for their credit monitoring and ID theft protection products. Well now Equifax is working with a lending tree so people can find great offers, like better rates on credit cards, loans, and insurance. You now get access to great offers on the web, all in one convenient place. equifax.com/offers. Browse offers on credit cards, loans, and insurance at your own pace. So how does it work? Go to equifax.com/offers and shop today. It's quick and easy, plus you don't have to create an account. Try it today at equifax.com/offers. Terms and conditions may apply.
+
+2 (1m 40s):
+Offers not available in all states. Shopping for the holidays on Instacart means you can get some gifts delivered in as little as 60 minutes. You can get way, way more than groceries delivered through Instacart. Shop over 900 retailers, including Best Buy, Kroger, Sephora, Safeway, bed Bath and Beyond, Dick's Sporting Goods and more. Plus, when you pay with Klarna, you can spread your payments over time. Card it now pay overtime with Klarna. New Instacart customers get $25 off orders of $100 or more. When paying with Klarna with Code Klarna 25 terms apply. Visit instacart.com for more details.
+
+0 (2m 24s):
+It's today explained I no will. King Sheen Gafa is a senior Vox correspondent who covers social media sheen. What are the Twitter files?
+
+3 (2m 34s):
+So the Twitter files are a bunch of internal communications from Twitter about big decision points for the company, such as the decision to suspend former president Donald Trump. And it's like emails, private Slack messages, screenshots of Twitter's internal content moderation systems, a p trove of those kinds of documents.
+
+0 (2m 54s):
+Elon Musk is the owner of Twitter, I get that, but how did he get people's internal communications, especially those that predated him buying Twitter.
+
+3 (3m 3s):
+Elon Musk, you know, as a new owner of Twitter, which he has now taken as a private company, is basically all in his control. When he bought the company, he got the keys to all of, you know, his employees dms, their direct messages, emails, any kind of correspondence. There's not a whole lot safeguarding a new owner from getting access to that when they buy a company.
+
+0 (3m 25s):
+I feel like this is a warning from maybe 60 to 70% of the people currently listening to this episode, myself included, maybe Who did Elon Musk give these emails in Slack communications and other files too?
+
+3 (3m 38s):
+So the two highest profile journalists who Elon Musk picked are Matt Taibbi and Barry Weiss. Both are former correspondence or columnists from major media institutions. Matt Taibbi worked for Rolling Stone. He made a name for himself as someone covering, you know, the the mortgage crisis sort of before other people. He branded Goldman Sachs, a vampire squid in a famous article, but now he's sort of disavowed mainstream media press and he writes his own independent newsletter and he, like Musk, has been a vocal critic of, you know, woke culture.
+
+5 (4m 10s):
+Now if you go into a newsroom in North America, it's dead silent. Nobody says a thing. Everybody's afraid of one another. If you say the wrong thing, if you tweet the wrong thing, you could end up having your newsroom make a movement against you and try to get you removed from the company.
+
+3 (4m 26s):
+Barry Weiss, similar story. She's a former New York Times opinion columnist who quit to start her own CK and independent publication now. And she's also been someone who's been very critical about kind of a hive mind mainstream media culture that doesn't allow enough contrarian points of view.
+
+6 (4m 43s):
+What's going on is the transformation of these sense making institutions of American life. It's the news media, it's the publishing house, it it's the Hollywood studios, it's our universities, and they are narrowing in a radical way what's acceptable to say and what isn't.
+
+3 (4m 58s):
+Those are the people who Elon handpicked to sift through these messages. It is not something that he's giving access to a wide range of journalists, or he's not doing a wiki light leak style dump of this online. He's, he's being very deliberate here about who he picks.
+
+0 (5m 12s):
+Alright, so Elon Musk gives the communications to Barry Weiss and Matt Taibbi and then they tweet about what they've gotten in their threads. They point to how certain decisions were made within Twitter. Let's go into what decisions we're talking about.
+
+3 (5m 26s):
+Yeah, so the most high profile decision is around the suspension of Donald Trump, which was a landmark case.
+
+7 (5m 32s):
+If this is not a clear reason to suspend him again as an unhinged ruler, attempting to subvert the most powerful democracy in the world, I'm not sure what would be.
+
+3 (5m 42s):
+What we saw leaked out was just all the buildup among Twitter staff about how they're gonna handle Donald Trump, who you know, was increasingly making statements that seemed to kind of potentially cause problems for the elections, right? First he was sort of insinuating stuff about there could be fraud in this election and there was a lot of talk about mail-in voter fraud and so Twitter didn't suspend him at that time or other politicians saying that, but they just sort of noted it internally. In some cases they gave put up warning labels, then we see them deliberating once, you know, violence actually starts and Donald Trump starts talking about, you know, the protestors and you know, people are widely basically viewing him as inciting this riot that's happening.
+
+3 (6m 26s):
+And at that time we see a lot of deliberation about, okay, should we just pull the plug?
+
+8 (6m 30s):
+Team scale is asking if we would consider Trump's tweet for gov. If we consider American Patriots to refer to the rioters, they have a point
+
+9 (6m 39s):
+Scale has said they understand our position, but will continue to push their gov assessment with leadership. They see it that he is the leader of a violent extremist group who is glorifying the group and its recent actions.
+
+3 (6m 50s):
+At some point in the buildup to this, they actually like revise their policy around suspending high profile accounts. So what we see is just sort of, you know, a lot of people trying to figure out how to deal with what they knew was gonna be a thorny political situation. But I think what no one knew was gonna escalate that quickly into actual violence, which is ultimately why Twitter ended up making the call in favor suspending the account. But it was not without, it was not without dissent and there was a lot of talk internally that we see about that. Then we also have a series of decisions, internal decision making around the release of the Hunter Biden laptop story, which was a big story and it builds up to the 2022 elections.
+
+3 (7m 32s):
+The
+
+10 (7m 32s):
+New York Post published an article yesterday based on files and emails from a laptop. The post says, belong to Hunter Biden. The report alleges the former vice president used his position to advance his son's business interest in Ukraine and that both Bidens were not truthful about that relationship.
+
+3 (7m 50s):
+So what we saw was the debate at the time by Twitter employees who work on things like content policy and content moderation and they're saying, what should we do with this story? It's unclear if this story is even true. It could be like a piece of viral misinformation that impacts the elections. Does this violate our policy or not? We saw, see a lot of internal debate like that.
+
+8 (8m 11s):
+I'm struggling to understand the policy basis from marking this unsafe, and I think the best explainability argument for this externally would be that we're waiting to understand if the story is the result of hacked materials. We'll face hard questions on this if we don't have some kind of solid reasoning for marking the link unsafe.
+
+11 (8m 29s):
+The policy basis is hacked materials though as discussed, this is an emerging situation where the facts remain unclear. Given the severe risk here and the lessons of 2016 were airing on the side of including a warning and preventing this content from being amplified.
+
+9 (8m 45s):
+We simply need more information.
+
+3 (8m 47s):
+It seems like, based on some of the screenshots that it was sort of unclear if this story really did violate Twitter's rules or not and they had to, to essentially make a judgment. And you know, I think the, this kind of thing as Taibbi and you know and Al are framing it, they see it as this is evidence that, because essentially the claim they're making is that because these staff who are making these decisions about what to do with the story, because they may be liberal in their political beliefs are because many tech employees are liberal that they think these people were making a biased decision. But what the files actually show us is just sort of a lot of internal debate, right? A lot of should we or shouldn't we? And ultimately they end up blocking the story.
+
+6 (9m 27s):
+Big tech conspired with big media and the Democratic party to suppress any investigation of the very legitimate national security concerns posed by the Biden family
+
+3 (9m 37s):
+Business. In the one of the second installments, I believe of the Twitter files, we saw Barry Weiss put out a thread showing how several prominent right wing accounts and and some Contrarians or Twitter accounts had their profiles kind of quietly or privately down ranked meaning like less people saw the these accounts posts in their feed without being totally banned. And that's something that conservatives have long worried about and some people call shadow banning, which means when social media companies deliberately and secretly hide someone's posts from the rest of the public
+
+12 (10m 11s):
+Part two of the Twitter files confirming what conservatives knew all along they were being censored.
+
+3 (10m 18s):
+Twitter has argued in the past that like they don't shadow ban that, but that they do demote sort of your tweets if what you're saying breaks some of their rules. But their argument would be, I mean I'm speaking to past Twitter management, would be that in these cases that you could still see these per this person's tweets if you look them up so that it wasn't complete shadow banning. I think honestly that's a matter of semantics and you could debate your definition of what it means to be shadow bann. But what the Twitter file showed is that some of these known to be controversial accounts, like right wing commentator, Dan Bonino, the libs of TikTok account that they had their tweets essentially lowered in Twitter's algorithms, right?
+
+3 (10m 59s):
+And their tweets weren't being surfaced as highly as other peoples at certain points.
+
+13 (11m 3s):
+All you media clowns and goons and nuts, who told me I was the crazy conspiracy theorist tell me we live in a free country when an opinion guy like me cannot speak on these platforms or is restricted from doing so.
+
+3 (11m 17s):
+What we were missing in the Twitter files, and I really wanted to see was more context around why, because there are valid reasons why Twitter may want to down rig someone's tweets. Elon himself has said that he will use this tactic for people who spread spam or say things he that are not pleasant. So, you know, it was interesting to get a peak at these accounts, but without knowing fully all the accounts who were ever down ranked why they were down ranked. We don't know if this is really full on shadow banning or it's just sort of everyday business that Twitter was doing in order to make its platform, you know, usable and pleasant for other people. Alright,
+
+0 (11m 55s):
+Let's talk about the reception that the Twitter files got, right? So they emerge out into the world in the form of tweet threads from a select few journalists, and then I saw a lot of outrage. What did you see? Are people thrilled that this information has been released to the public or are they furious?
+
+3 (12m 13s):
+I think what we see ends up being a kind of roar shock test for your political beliefs. I think virtually no democratic politician has spoken out against the Twitter files or been enraged, but we see a lot of fury from the right because they see this as evidence that liberal left-wing tech companies are out to get them, even though it's more nuanced than that, even though there isn't clear proof that that, you know, Joe Biden was forcing Twitter to take down Trump, this is enough. There's like enough smoke there that we see conservatives sort of claiming there's fire.
+
+0 (12m 45s):
+Do you think we've seen evidence over the past couple of days that Elon Musk is actually politically veering to the right?
+
+3 (12m 52s):
+Absolutely. I mean, we've seen him say my preferred gender pronouns are prosecute slash fauci. So you know, he has made what many people are viewing as sort of dog whistles to Qan on tweeting an image of a white rabbit, which is a popular QAN slogan. Unclear if he was aware of that, but it's not his first time. He's also tweeted an image of a Peppi the Frog meme, which is a common, you know, meme of the far right. He has himself. He's told people that he thinks they should vote Republican. He later said that's just because he wants people to balance power between Democrats or Republicans. But ultimately we have seen in recent months and years really Elon Musk shift to the right, and I think we're seeing that on hyper speed right now.
+
+3 (13m 36s):
+As he's jumping into all this controversy with Twitter,
+
+0 (13m 39s):
+Do you think that Elon Musk really believes there was something egregiously bad going on at Twitter?
+
+3 (13m 44s):
+Look, I, I'm not Elon Musk had, but I don't, I don't think he thinks this is a nothing burger because he has consistently touched on these same themes that are in the Twitter files. Elon has always said that he thinks that, you know, big tech is censoring too many viewpoints and that they should allow more freedom of speech that they lean, he's criticized big tech for being too liberal. He thinks they need to come to the middle more. So this is sort of in line with his stated ideology. These findings are in line with what Elon Musk has accused Twitter of all along. So I don't think he thinks this is a nothing burger, but I do think that this does serve as a convenient distraction from all the drama that Twitter is in right now. The company could be going bankrupt by Elon Musk own admission in the eminent future.
+
+3 (14m 29s):
+Advertisers are pulling out left and right. He's scrambling to figure out a subscription model that works to get people to pay for Twitter, but so far that's gone off to a rocky start. So all of this talk about the Twitter files gives a different set of headlines for people to focus on, other than Elon Musk is struggling to run Twitter.
+
+0 (14m 50s):
+Coming up, how Republicans plan to use the Twitter files.
+
+15 (14m 59s):
+Latin and Brazilian pop has had a tremendous year in 2022 to celebrate Switched on Pop the podcast about the making and meaning of popular music will be breaking down our favorite hits from the region. We'll be talking live with Kelly ucis about her viral song Tele Padilla. We'll be analyzing how bad Bunny's album became completely ubiquitous, and we'll be looking at how Anita found a new international audience. I'm Charlie Harding, the co-host switched on, pop subscribe to Switched On Pop, and listened to the sounds of Latin and Brazilian pop with us all December long. Brought to you by Total by Verizon
+
+16 (15m 34s):
+Support for this episode comes from the Hustle Daily Show on the HubSpot Podcast Network. If you're anything like us, sometimes you just want someone to round up the business tech and trends, news stories you actually need to know before you're done with your first cup of coffee. The Hustle Daily Show is that someone this show sifts through some of the most pertinent business media stories of the day to save you from scouring multiple news sources and gives you back that valuable time. Nothing like an irreverent, offbeat, informative take on what's going on in all things business. Join the Hustle Daily Crew every day wherever you listen to podcasts. Head to hubspot.com/podcast network to start listening today.
+
+17 (16m 14s):
+There's a much larger story here than just the Twitter file.
+
+0 (16m 17s):
+It's today explained. I'm Noel King. Even as Elon Musk is leaking slack messages and emails to a handful of reporters, it seems he's banning others reporters for the New York Times, the Washington Post and CNN among others found their accounts suspended or banned last night. Andrew Procop is a senior politics correspondent at Vox, and we asked Andrew to tell us what the Twitter files might mean on Capitol Hill next year. Andrew, one installment of the files focused on Twitter's decision to temporarily block from the site a New York Post story about Hunter Biden's emails. Now, Twitter's decision was in part driven by a letter from intelligence officials who said they thought the story might be disinformation. Don't put it up on Twitter.
+
+0 (16m 57s):
+They tell Twitter. Twitter says, okay, it all makes sense, but now probable potential how speaker Kevin McCarthy says he plans to subpoena those intelligence officials. Why does that matter?
+
+18 (17m 9s):
+When the Hunter Biden laptop story was first published, there was a lot of speculation that this was a Russian hack, similar to the leaks of John Podesta's hacked emails and the DNC's hacked emails in 2016 that never had any actual evidence behind it. But the theory spread, especially among liberals, because the story of how this Hunter Biden material got out, which was basically that he abandoned his laptop at a computer repair store where the repairman was legally blind and wasn't even sure it was Hunter dropping it off seemed kind of wacky.
+
+18 (17m 51s):
+So these former intelligence officials signed the letter saying, Hey, this has all the hallmarks of Russian disinformation, but now two years later, no evidence has emerged to debunk the initial story of how the laptop was dropped off at the repair store or to prove that this was hacked. So it looks like they were wrong. Now, the theory among some conservatives is that maybe they weren't just wrong, maybe they were lying. Maybe this was a deliberate ploy to try to save Biden in the election by getting these, these supposedly damning emails and documents discrediting them so the media wouldn't talk about them.
+
+18 (18m 32s):
+And you know, I don't think there's any evidence to support that either, though. I think it's probably more likely that the officials were just kind of given their own opinion and that they happened to be wrong about this, that it wasn't a conspiracy. I would note that the Twitter file releases generally have not backed up the most conspiratorial theories from the right about what, how Twitter was making its decisions. You can argue that they show that Twitter executives were in a bit of a liberal bubble, but no evidence has emerged that, you know, before the election they were saying, oh, we gotta help Biden win. We gotta stop. Trump had sabotaged, Trump had stopped him from winning.
+
+0 (19m 13s):
+And Kevin McCarthy now making this threat. It matters in a different way because of the outcome of the midterms.
+
+18 (19m 19s):
+Well, republicans control the House now, which means they have a majority on house committees, which gives them subpoena power. They did not have that in the previous two years of the Biden administration. So they will have the ability to subpoena companies, the intelligence officials themselves, former executives, and try to pursue testimony and to try to obtain documents as well. The most famous Republican investigation for the House in recent times was the Benghazi investigation. In Obama's second term,
+
+19 (19m 53s):
+Is the US involved with any procuring of weapons, transfer of weapons, buying, selling anyhow, transferring weapons to Turkey out of Libya
+
+20 (20m 4s):
+To Turkey? I I, I will have to take that question for the record. That's, nobody's ever raised that with me, and
+
+18 (20m 10s):
+That was frequently dismissed as, oh, it didn't really find anything of note. But what it did have was some unintended consequences because in looking around at various emails they obtained through subpoena, they realized that Hillary Clinton did not have an official State Department email address, which made its way to the fbi, which then began investigating her for the email scandal. And some argue that that is why Donald Trump won the presidential election in 2016 because of the Hillary Clinton email scandal driving her numbers down by just enough.
+
+0 (20m 41s):
+If Jim Jordan and Republicans investigate and if they uncover something, where could this be headed? What might we see in 2023?
+
+18 (20m 51s):
+We're certainly going to see hearings where they probably yell at some people try to make them look bad, but I think the more interesting thing is they're not going to achieve anything by making intelligence officials or Twitter executives look bad. What they're going to really want to find is wrongdoing or misconduct by Joe Biden, the Biden administration or the Biden presidential campaign
+
+0 (21m 16s):
+Representative Jim Jordan of Ohio tweeted Essentially, we were right, Republicans were right about the shadow bans. So this is a long running allegation that Republicans tweets would sometimes get flagged and banned on Twitter because they were Republicans tweets. What is the significance of a guy like Jim Jordan saying we were right all along?
+
+18 (21m 36s):
+Well, Jordan is the house judiciary committee chair in waiting. So he is going to have the power to pursue this stuff further. We
+
+1 (21m 44s):
+Have a duty to do the work to get the truth out there, to get the facts out there. That's step one in stopping this kind of baloney from happening in the future. We can't have a justice department that's political. We can't have a justice department that's working hand in hand with the biggest social media platforms.
+
+18 (21m 60s):
+Now, I don't think that the Twitter files have actually shown that he is right that these, these accounts were flagged or banned because they were Republicans. The Twitter files reports showed that some accounts were indeed de boosted or were blocked from trending, or were even banned entirely. But it did not really get into, except for the case of Donald Trump discussions into why those accounts were deboss blocked or banned. So in any case, Jordan is going to get the chance to hunt around for more evidence for his theory with his subpoena power.
+
+0 (22m 39s):
+A third high profile Republican who's commented is Senator Josh Hawley of Missouri. So he released a statement criticizing Twitter for cracking down on Republicans, especially on Donald Trump, but not on Democrats. Holly is one of those guys who's got a very loud voice, but it's never quite clear what his effect is. Where, if anywhere, do you see Holly fitting in here? Holly
+
+18 (22m 60s):
+Is somewhat interesting because he has been a loud skeptic of big tech in the Republican party and just a, a voice in the discussions calling on perhaps more to be done to limit the influence of big tech breakup companies and so on.
+
+21 (23m 17s):
+What we have is an unprecedented concentration of power by these corporate monopolies working in league with the left, I call 'em the woke capitalists. You know, they're only interested in capitalism insofar as they can control it and use it to impose their viewpoints.
+
+18 (23m 32s):
+But he will be sitting in a Senate with a Democratic majority, so he wouldn't actually have the ability to craft any legislation unless of course he could win over Democratic support for it.
+
+0 (23m 43s):
+I wanna talk about where you think this might be headed. So on December 11th, Elon Musk tweeted out something that offended a lot of people. He tweeted, my pronouns are prosecute slash fauci. A Twitter user responds to him and says, will this be explained in a new Twitter files part? And Elon responds, yes. What do you glean from this? Where is this going?
+
+18 (24m 5s):
+These Twitter files have not really said very much about the Biden administration doing anything improper at all. It's all about the former executives at Twitter. What is interesting about this is that this involves the Biden administration as well. There was a time period in 2021 where the Biden administration, both publicly and privately became really aggressive towards social media companies in trying to get them to ban misinformation spreaders about vaccines specifically and covid generally. They called for specific accounts to be banned, pointing to a report, but that an activist group had issued about a dozen accounts that were supposedly spreading most of this misinformation on Facebook.
+
+18 (24m 49s):
+And so this is a very clear case of the federal government using its power to ask social media companies to ban or block speech of people who have not violated any law. And so there's already a lawsuit about this in federal court brought by the Attorney General of Missouri against the Biden administration. They've been trying to obtain documents to get a better understanding of what happened behind the scenes, what the administration was telling these social media companies, and how exactly they were asking to get these accounts taken down. This might be the issue of Biden administration misconduct that Republicans were looking for.
+
+0 (25m 44s):
+Today's show was produced by Amanda Lou Ellen and Victoria Chamberlain. It was edited by Matthew Collette and fact checked by Laura Bullard. It was engineered by Paul Robert Mosey. I'm Noelle King. It's today explained.

@@ -1,0 +1,224 @@
+0 (1s):
+Coming up on today, explained we're going to hear from knock knock who's there. No go away. Coming up on today. Explained <inaudible> in-house epidemiologist on the newest into BA five it's surging there. Little to no restrictions. We are officially in the do it yourself phase of this pandemic in the United States. Oh. And PAX low-bid might make you feel better, but watch out for that rebound more on that too. I had on the show,
+
+2 (60s):
+What does that people have? Internet I'm Marquez, Brownlee, AK MKBHD. And I just want to quickly tell you about my podcast way farm. So I've been making tech review videos on YouTube for over a decade. And through the years I've gotten my hands on some pretty cool jaw-dropping tech on wave form. Along with my co-host Andrew manga, Ellie, we take a more, in-depth look at some of the most recent bleeding edge tech out today. We covered the crazy stuff that you don't see every day, like camera, robot, arms, and rollable TVs.
+
+3 (1m 24s):
+But we also covered everyday tech, like spark phones, laptops, and like the influx of EVs that seem to come out what feels like every other week, all that.
+
+2 (1m 33s):
+So if you want to stay up to date with the latest tech and internet news, you can find us on Spotify, apple podcasts, or anywhere you listen, see you there
+
+0 (1m 48s):
+Did. I explained Rama's from here with Karen landman MD Vox, Karen, it feels like we're once again, at one of those points in the United States, at least where everyone, you know, has COVID or know someone who has COVID what is up with the latest COVID?
+
+4 (2m 3s):
+Yeah, so we are seeing a different pattern over the last month or so with the latest sub variant of Omicron, that's hit the scene. That's the BA five.
+
+5 (2m 13s):
+Now the dominant strain in the us, according to the CDC, it's not only more vaccine resistant, but it's also more highly transmissible than other versions of Corona virus.
+
+4 (2m 25s):
+Now we've been dealing with Omicron variants since the holidays last year. You remember with the very first wave of Omicron that really ruined holidays for a lot of folks
+
+0 (2m 33s):
+And tried to destroy my wedding, but this
+
+4 (2m 35s):
+Is the first Omicron variant that has happened concurrently with a rise in hospitalizations of people with COVID. So it's caught the attention of a lot of folks. How
+
+6 (2m 47s):
+Are you at this moment, Dr. Fowchee about the BA five variant? Well,
+
+1 (2m 51s):
+It's something we absolutely need to take. Seriously.
+
+4 (2m 53s):
+Those data are not as straightforward to interpret as they used to be in part because there's a lot of immunity and there's also, you know, a new treatment on the scene that has been a real boon for keeping folks from being hospitalized and dying, especially super high risk folks, but has also raised a lot of questions for a lot of people,
+
+7 (3m 14s):
+But symptoms, they might actually return for some after taking the antiviral pills, the FDA now evaluating reports of a viral load rebound.
+
+0 (3m 23s):
+So for those of us who don't keep up with the latest news on COVID and have maybe lost the plot, what is the origin story of this BA five variant
+
+4 (3m 34s):
+Alma Cron started with a really fast out of the gate.
+
+9 (3m 38s):
+Okay. Zoma Cron cases sweep the country. The us surgeon general is warning. We have not reached the peak yet.
+
+4 (3m 44s):
+Lots of cases, lots of really sick people turning up in hospitals and lots of deaths that was over, you know, December and January of 20 21, 22. And then since then, we've kind of settled into almost what seems to be a steady state of transmission. You know, the proportion of hospitalized folks with COVID was pretty steady for February, March, April, much of may and deaths remained pretty stable and relatively low at about 300 a day. Now I don't want to minimize that that is meaningful, but the fact that it wasn't really shifting upward or downward over the matter of months is meaningful as well.
+
+4 (4m 24s):
+You know, it, it indicates that whatever is changing or happening in transmission. It's not, it's not resulting in lots and lots of morbidity and mortality and bad outcomes. And people now over that same period, we had lots of new variants. There were three other OMA variants that followed that first one that really didn't seem to change a lot of the outcomes for COVID in, in Americans. But when BI five came on the scene in early may, we started to see the proportion of folks hospitalized who had COVID tick up a little bit.
+
+8 (5m 1s):
+The number of Americans dying of COVID is once again, climbing up 10% in just the last week, nearly 350 deaths reported every day.
+
+0 (5m 13s):
+Anecdotally speaking, a lot of the people I know getting this new OMA ground variant seem to be having a tougher go of it than the previous BOMA Cron that we came to know and appreciate the so-called chill coven did this new variant make chill. COVID a lot less chill.
+
+4 (5m 32s):
+I have not heard from ISER docs who are taking care of people with COVID in the hospital or an outpatient settings, nor from any of the science that I've seen, that there's a different spectrum of symptoms with the new BA five variant. I have seen some data saying that it may be capable of killing respiratory cells a little faster than previous variants and a hint from just one paper. So this is a paper from a laboratory study. So not definitive proof of anything it does to humans, but some hint that it may lead to a higher number of viruses inside cells, it infects, but this is not proof of anything.
+
+4 (6m 23s):
+So I just, I want to be cautious about how we talk about what might be different in the lab between BA five and other variants and what that actually translates to and what it causes for people. But I have not heard a difference in symptoms or severity just as a, as a consequence of changes to the variant itself. What I will say is that the further out any person is from their last boost, whether that is due to an infection or due to a vaccination or a booster shot, the more likely they are to have a more severe set of symptoms.
+
+0 (7m 2s):
+Just to say that the older boosters are still effective against this newer Omicron variant.
+
+4 (7m 8s):
+I mean the short answer is yes, but it's actually a complicated question in several ways. Let's talk real quick about those neutralizing antibodies. Again, those are the circulating antibodies that you get after an infection or after vaccination that are kind of imprinted on whatever it was you got in the vaccine or whatever variant you were infected with.
+
+11 (7m 37s):
+We
+
+4 (7m 37s):
+See that even though in the lab, they're less effective against the BA five variant than they are against previous variants, either of Omicron or, you know, even like for example, Delta variant,
+
+11 (7m 52s):
+They
+
+4 (7m 52s):
+Still are effective to a degree in protecting people from severe disease, but they might not be effective against is protecting people from becoming infected to begin with. So, you know, you might still turn up with an infection, have a positive test, have some symptoms, but you're still very, very unlikely. You know, if you have that level of neutralizing antibodies to end up in the hospital or die from your infection,
+
+11 (8m 20s):
+Medium is good enough. Oh, <inaudible>
+
+0 (8m 31s):
+Now I know that the FDA and CDC are interested in getting some boosters that specifically target Omicron
+
+13 (8m 38s):
+Madonna saying the picture of what the fall boosters look like might be starting to shape up. They have new data this morning at looking at a combo booster that protects against both Omicron and the original strain of the virus.
+
+0 (8m 50s):
+But these boosters aren't expected until fall at the earliest. And, and by then we will surely have new variants, right? Is that really gonna help?
+
+4 (8m 58s):
+If you look at how quickly waves of variants rise and fall, both in the United States and elsewhere, I mean, we're going to be well done with BA five, by the time these vaccines, these boosters become available, you know, in the fall and onto the next one. And who's even to say whether that next one is going to be a, an Omicron variant. I mean, there's nothing to suggest that right now. So I don't want to sound like I have information. Other people don't all the variants of concern are of interest worldwide that I'm aware of right now are Omicron variants. But I think the lesson that we've learned over the last two and a half years is that, you know, there are new variants brewing right now in people all over the world and preparing to deal with the variant that is currently in circulation is a losing game on its face.
+
+4 (9m 51s):
+We're just not going to be able to play catch up in that way. And so focusing on a broader strategies for minimizing spread while we're in kind of a question mark phase, while we don't know what a new Varian is going to do, and, you know, focusing vaccine efforts on, on products that are going to be more effective at protecting people from the end points, they really care about, you know, even if that includes infection. And certainly when that includes long, COVID not just hospitalization and death. So we want to try to focus vaccine protection, less on variants and more on sort of a longer term product that would protect against all future iterations of this virus.
+
+0 (10m 39s):
+And I think at this point in the United States, a question, a lot of people have, because we do have so much looks like herd immunity. A question people have is, can I get this new COVID? How protected am I from my previous COVID we did an episode back in June called how often can you get COVID? And we spoke to the people studying the question, and it seemed like the answer was, we don't really know, but you do have some immunity for awhile, but it's all about your risk tolerance, et cetera, et cetera, does this new variant change things for vaccinated people?
+
+4 (11m 10s):
+It does because w what we see from Omicron infections is that they, they, you know, when you get infected with an Omicron variant, it means that if you later get infected with like a, I dunno, if, if you run across a Delta Verint, your, your Omicron infection kind of boosted you, it's protective against that. But if you then get infected with another Omicron Barrett instead of an earlier Virat, you're not that well-protected so Alma Cron doesn't really boost for its own variance, as well as it does for other variants, which is a little weird, that's
+
+0 (11m 46s):
+Interesting
+
+4 (11m 47s):
+Research will help define this a little bit more going forward. It may be that the immunity that it provides lasts less, it may be that it, it really depends on a very specific feature of whatever the Omicron variant that it encounters is. So we may find that it's better at protecting against some Omar convenance than others, but that's, I think what's raising some experts, concern that we may have even less long lasting immunity from infection related boosts than we did from previous infections. So an infection with an Omicron variant now may only give you a few months of protection, whereas infection with Delta last year, it might've given you, I don't know, six, eight months of protection.
+
+4 (12m 30s):
+The answer to that question is I think gonna determine the shape of the pandemic going forward.
+
+0 (12m 36s):
+And we don't know it yet.
+
+4 (12m 38s):
+We don't
+
+0 (12m 39s):
+Classic pandemic,
+
+4 (12m 40s):
+Right? That's kind of how it do where, where there is room for confusion and inconsistencies pandemics gonna come through
+
+0 (13m 2s):
+More with boxes, Karen landman, and a minute on today explained
+
+MOXY (13m 14s):
+Support for the program. And it comes from Moxy. Moxy wants to make it easy to stay up on local politics, to stay engaged, to just even remember who your representatives are because what are we getting depending on where you live? There's a lot of them. I live in DC, so I have much fewer. Anyway, Moxie is an easy way to get news updates on local legislation, important legislation to you voting information. It's all in one, sleek and easy to use platform. I haven't seen it, but they say it's sleek. Y'all they pull news from hundreds of outlets, like MPR, which we love CSPAN, which we love. American residents can easily access important election information, track legislation. As it winds its way from voting to enactment, all sorts of tools get Moxy for free for 30 days. Use the promo code Moxie box that's M O X Y V O X. That's a lot of Scrabble points right there to get Moxie premium for 90 days, search Moxie, M O X Y in the app stores, or visit the website at M O X Y dot L I V E.
+
+Into It: A Vulture Podcast with Sam Sanders on Apple Podcasts (14m 20s):
+And let me tell you two fruits of life. There are no bad Bruno Mars songs, and there are no bad Katy Perry songs. They don't exist. These Are extreme opinion. And that is what I do. There Are phenomenal Katy Perry songs, but also say they're terrible. It's the worst Katy Perry song. You're wrong. It's good. Hi, I'm Sam Sanders and I'm hosting a new culture podcast. It's called Intuit from vulture in New York magazine each week on the show. We'll get into the pop culture that we just can't stop thinking about like the Chainsmokers song that became a pro-choice Anthem on Tik TOK, or why comedy specials got so serious, or, yeah, honestly, I don't even know how to explain this one. And his poop also time travel. What about his saliva Into it? The weekly culture podcast from vulture launching July 28th, subscribe, wherever you get your podcasts.
+
+4 (15m 22s):
+That's kind of how it do
+
+0 (15m 25s):
+Today. Explained we're back with Dr. Karen landman from Vox. And we wanted to talk about this one thing that was supposed to be a game changer in the penny pack slogan.
+
+4 (15m 35s):
+This is not meant to nip your symptoms in the bud and get you back to the party. This is meant to keep older and other high risk, especially on vaccinated, but also vaccinated high risk folks out of the hospital and alive,
+
+0 (15m 50s):
+But here too, there've been some complications.
+
+4 (15m 53s):
+We got to talk about endpoint. If your endpoint is preventing severe disease and deaths and high-risk folks it's still doing great. There's no indication that it has fallen off in any way, even with BA five on the scene. But what it is doing is proving to be kind of incomplete treatment for controlling symptoms. You probably heard that Anthony Fowchee himself had what's called a rebound symptoms after taking PAX Lovat.
+
+18 (16m 27s):
+And then on the fourth day, just to be absolutely certain, I tested myself again and I reverted back to positive by the antigen test. So it was sort of what people are referring to as a PAX limit rebound.
+
+4 (16m 41s):
+And so we started this five day course of tax loaded, which means, I think it's three pills twice a day for five days. And then a couple of days after that he tested positive and actually developed worse symptoms than his first set of symptoms.
+
+18 (16m 54s):
+And then over the next day or so, I started to feel really poorly, much worse than in the first go around,
+
+4 (16m 60s):
+But he basically just took a second course of tax loaded and did fine as do most people who have these rebound symptoms, but he didn't go to the hospital and obviously had no, you know, severe outcome from the infection as due to my knowledge, all people who have had rebound symptoms after a Paxil COVID course, part of fine tuning, a new drug is figuring out how it works in the real world. And Pfizer's trial only maybe one or 2% of people had rebound symptoms after five days of PEX loaded for an early COVID infection. But it seems just from the anecdotal reports and seeing and hearing, it seems like in the real world, there's probably a higher proportion of people who are experiencing that.
+
+4 (17m 42s):
+But I do think that it probably is going to need some fine tuning and how it's dosed and what we expect from it going forward.
+
+0 (17m 52s):
+But wait, Karen, are you saying that packs a little bit, essentially for some people gives them an additional bout of COVID.
+
+4 (17m 58s):
+It's not that the PAX Lovit is giving them an additional ballot of COVID the original COVID that they had is giving them persistent symptoms that the PAX Lovin was not enough to completely turn back. There's some question about why that is, you know, people are worried. Does that mean that if I take these five days of COVID and my symptoms come back, is it a super COVID? Is that COVID sort of stronger than it was before, because it overcame those for five days or is something else going on? And I think some early data I've seen some single patient studies that suggest that's not what's going on. That it's, it's really just that the viral infection requires a higher dose for a longer time, or even just the same dose for a longer time in order to get into all the cells where the COVID might have gotten into.
+
+4 (18m 49s):
+So I think it's probably just a matter of the science of pharmacokinetics and how drugs get into your body cells and take action and how they get eliminated by your body. You know, drugs act differently in different people because our metabolism of drugs is different. And so I think we'll probably end up seeing the dosage that's recommended of this drug change. As we learn more about how many people are experiencing this and who might need a little bit more of the drug in order to completely treat the viral infection with COVID.
+
+0 (19m 23s):
+But it sounds clear that packs a little bit has done more good than bad, and it's not going anywhere.
+
+4 (19m 28s):
+I think it's done a lot more good than bad. I mean, when you think about what quote bad Paxil COVID, might've done. Okay. It has some side effects. They're generally pretty minor. I hear most about the metallic taste in people's mouth for people, but otherwise it's generally pretty well tolerated,
+
+0 (19m 45s):
+Metallic taste. I haven't heard about
+
+4 (19m 46s):
+That. I have heard that people about an hour or so after taking it, it tastes like they're sucking on a penny. It's just kind of a gross metallic taste in their mouth. It's probably a function of one of the component, drugs of Paxil COVID and it's just kind of an annoying and sort of gross side effect, but, you know, compared to being hospitalized, I think it's highly tolerable. I think probably the biggest concern of harm with Paxil COVID is that it gives people confidence that they're treated, and they may therefore go back to mixing with other people in a way that if they do relapse, if they do rebound on their COVID infection after taking PAX livid, without realizing it, they could transmit COVID to other people without realizing it.
+
+4 (20m 31s):
+I think we really cannot expect perfection from medicines here. I think we need to manage our expectations and understand what it is we're actually trying to accomplish with these medications. I know we'd all really love to make COVID go away and not be a concern at all. And we all wish we had a magic pill that would do that. And maybe one day we will, but I think it's a lot more likely that we're going to make smaller, incremental progress in reducing the viruses disruption of people's health. And people's livelihoods by finding medications like PAX livid that do a lot to reduce hospitalizations and deaths.
+
+4 (21m 12s):
+Even if they have some problems with finding the right dosage, even if it takes some time for us to find the exact right dosage and fine tune things early on,
+
+0 (21m 22s):
+Could things get worse? Karen, it felt like we were trending better for a minute there, but now maybe not so much,
+
+4 (21m 29s):
+Really hard to say. And since we can't say definitively that it's going to get better from here, I think we have to be prepared for worse. You know, Omicron is genetically really different from the variance that came before. When you look at the genetic tree, all of these other variants kind of cluster on one side, and then Omicron is just sticking way out. Like it's like somebody grew a third arm. It's just not right. There are a lot of mutations that caused Omicron to emerge. And you know, those mutations we think happen largely when you have people who are very immunocompromised and infected for a very long time with COVID and as the virus replicates in their system, it just accumulates more and more and more variants, and then eventually spreads to other people.
+
+4 (22m 17s):
+This is sort of how the model for how we think these new variants emerge. And there's no reason to think that's not currently happening and that we might not see a completely different variant emerge within months or years. It's a little hard to say right now with confidence that we're not going to see things get worse with this particular pathogen ever. However, it's also important to keep in mind that not all mutations that happen to a virus benefit the virus. Sometimes those mutations benefit us, but we've all learned not to make any promises about what will happen will with, with viral evolution. Just because we've been surprised so many times in the past.
+
+4 (22m 59s):
+So we gotta be prepared for anything.
+
+0 (23m 4s):
+We gotta be prepared for anything. And yet it feels like what we sense more and more from the public in terms of this pandemic is apathy. And it's not just apathy from the public anymore. It's apathy from governments to do anything. And then when people are actually scared, you have the government saying, oh yeah, we'll get you something about that. Current variant in the fall, which only leads to greater apathy. I mean, how confident should we feel that public health will have the response it needs to, if this does get worse,
+
+4 (23m 39s):
+You know, to my mind, the things that are gonna save us, us individually, the people listening, the people in their families, the people they care about their neighbors, their communities, what's going to save us from this is not going to be a magic pill. I mean, it may be some fine tunings in vaccines, but what will save us is awareness that things are changing And a willingness to do what we need to do to respond to that.
+
+4 (24m 23s):
+And, you know, I realized that apathy, it's pretty normal to start feeling like, you know, when things are terrible for a long time, that, that the terribleness is just the long-term way. Things are going to be, so why bother? But the reality is that this is coming in waves. And right now we're seeing a wave that w we don't know how severe it is. But I think if we think of our response to this less as a, either we care, or we don't care and more as a, we care all the time, but we just fine tune our behavior. And that's okay. There can be times where we walk around in a mall without masks, and it's pretty safe.
+
+4 (25m 3s):
+And also there may be people for whom it's okay to have different behaviors in other people. I think if we communicate to folks that they don't have to have an N 95 on at all times for the foreseeable future, it might be a little easier for them to hear the alarm when it is sounded
+
+0 (25m 27s):
+Dr. Karen landman she's Vox is in-house epidemiologist. You can read her work@box.com. Our show today was produced by Tori Dominguez with a big assist from miles Bryan. It was edited by Matthew collect and fact checked by Laura Bullard, Paul mousey engineered I'm Sean Ramos from it's today explained

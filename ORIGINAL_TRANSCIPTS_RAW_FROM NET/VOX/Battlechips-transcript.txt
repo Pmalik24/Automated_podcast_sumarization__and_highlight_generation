@@ -1,0 +1,242 @@
+0 (1s):
+Remember a few years back when the US had a trade war with China and it was harder and more expensive to get everything from washing machines to solar panels to soybeans. Well, that war never ended. And this week a new front opened up. China started restricting the export of two rare earth materials called gallium and germanium. Now these metals that China has are materials used in semiconductor chips. Last fall, the US said it would stop selling advanced semiconductor chips to China and it would stop selling the technology to make those chips. These chips are in everything, including artificial intelligence.
+
+1 (39s):
+We're gonna cut off this entire ecosystem and kill China's ability to create advanced technology.
+
+0 (44s):
+Coming up on today, explained a war over chips. The little thing that's in everything.
+
+3 (1m 0s):
+Most Britney Spears fans are just happy she's finally free from that conservatorship. But some Britney fans don't think she's really free yet. They aren't even sure they're seeing the real Britney.
+
+4 (1m 11s):
+There's a big part of the movement that has been really, really laser focused on what they see as abnormalities or, or oddities or glitches. In some of her posts, there's theories that she's been replaced with AI or a body double or a
+
+3 (1m 26s):
+Clone. Wow. The Britney Spears Conspiracy Theory and what it says about fandom. This week on Intuit Vultures Pop Culture podcast,
+
+0 (1m 46s):
+It's today explained I'm Noel King. For most of us, this week's blockade on germanium and gallium went unnoticed. There are no gallium shortages at the Trader Joe's, but Alex W Palmer saw this coming. Alex is a contributing writer at the New York Times Magazine and he recently wrote a piece called An Act of War Inside America's Silicon Blockade Against China
+
+1 (2m 10s):
+Blocking Germanium. And Gallium is China's latest salvo in what has become a technological war fought on the battlefield of chips. So last October 7th, the US took what was to that point, the most extreme and drastic step, which was curbing through a variety of means, chips, chip components, basically anything along the supply chain that China could use to make advanced Semiconductors, that could power ai, that could power future weapon systems, could power surveillance. The US unilaterally cut those off from China.
+
+5 (2m 48s):
+With regard to China, there are certain extremely sophisticated Semiconductors that we have built that are useful for nuclear and or other weapon systems. Those we are not selling, whether we're not exporting to China or anyone else.
+
+1 (3m 2s):
+And for a few months, it seemed like China was not really going to respond, at least not forcefully. you know, immediately after these October 7th measures, you saw some statements from China about this being sort of technological hegemony and how the US should abuse its position. A case was taken to the W T O,
+
+6 (3m 19s):
+The so-called request for consultations is the first step in a long procedure at the global trade body.
+
+1 (3m 24s):
+But it seemed for a while, like the S'S idea of the case that China just had a weak hand when it comes to chips and that this was what the US was trying to leverage its dominance in the semiconductor supply chain that China just didn't have a lot of options. But what China has done is dominated the rare earth's industry, which includes germanium and gallium, that all these sort of unique, sometimes hard to find, but actually sometimes not that rare, ironically, but also very expensive and polluting to produce this whole industry. China has really made a concerted effort to dominate.
+
+0 (4m 4s):
+So China's export controls on gallium and germanium are a response to the United States instituting a blockade on China. The American blockade was aimed at preventing China from doing or getting what exactly
+
+1 (4m 19s):
+By the logic of the Biden administration. This is purely a national security imperative that these advanced chips are used to power AI models that help China modernize its military and help create the surveillance state, the databases and surveillance centers in Xian province in the west. Those are all run on American chips, which of course is a pretty startling thing 'cause that was, at least for the administration, one of the impetuses behind the October 7th measures was saying, you know, we don't want these tools to be used against us. We don't want these tools that we have created. That took, you know, decades of research, tens of billions of dollars for American companies to create for these to be then used for human rights abuses or, you know, worst case scenario, someday teaching a missile how to shoot Americans on a battlefield.
+
+1 (5m 5s):
+That is what the Biden administration was trying to prevent with these measures. It's saying that the US China relationship has fundamentally changed that for decades, we had sort of been okay with China advancing technologically as long as the US stayed ahead. And what the US had decided, the Biden demonstration had decided is that that's no longer enough. So this, you could see this in a speech that Jake Sullivan had given last September just before the restrictions came out. And he was saying that the US had had a policy, sort of an unspoken policy of remaining two generations ahead of China on advanced technology or ahead of any adversary on advanced technology.
+
+7 (5m 41s):
+We seem to take for granted that our technological advantages were somehow permanent and invincible. We did not fully grasp that those advantages must be prized, preserved and renewed.
+
+1 (5m 54s):
+It's a little bit of a wonky process. It goes deep into the weeds of sort of technical minutia and bureaucratic jargon. you know, there's different restrictions depending on what the end use of the chip is, depending on how, who the end user is, depending on where it's produced, you know, if it's using a certain kind of American technology or knowledge, it's really multi-layered. And the point was one, to be surgical about it because they're only trying to cut off really the most advanced chips. you know, the ones that power AI that help create something like chat. G P T.
+
+8 (6m 25s):
+The technology known as a chatbot is only one of the recent breakthroughs in artificial intelligence machines that can teach themselves superhuman skills.
+
+1 (6m 36s):
+But really this is only affecting about like the top one or 2% of the market. It's really the extreme cutting edge. But the Biden administration feels that because chips are so fundamental, what Sullivan called a force multiplying technology. And because we don't know where they're going yet, right? This is still sort of a, a nascent field. Who knows where AI is going to go, where super computing is going to go, where quantum computing is going to go. That the ramifications are so potentially so extreme that the US needs to make sure it has not just a couple generations lead, but the largest lead possible. Not just cut China off at the knees from this future of advanced technology, but actually force them to regress.
+
+0 (7m 18s):
+What is a semiconductor chip? What are these things?
+
+1 (7m 21s):
+Yeah, this is, this is one of the things that's so fascinating about it is these are technological miracles,
+
+9 (7m 27s):
+Semiconductors the little heroes of big innovation.
+
+10 (7m 36s):
+Hey Mr, what's that thing in your hand? Well, son, this little device is called a semiconductor. That sounds boring. Who caress about that? Well, this tiny little chip is far from boring. Say you like playing games on your iPhone, don't you? Well, I sure do, but I could play Minecraft just about all day. Well, without Semiconductors there wouldn't be any Minecraft for you to play. There wouldn't even be an iPhone. In fact, there wouldn't even be an internet without all these tiny little microchips. Do you mean those little things can do all that? I don't believe you. The internet comes from the sky, not from some dumb piece of plastic.
+
+10 (8m 15s):
+It's called silicone sun.
+
+1 (8m 19s):
+At their most basic level, they're quite simple. They're just tiny pieces of silicon and then carved with transistors. So transistors just a little switch, it can go on and off. If it's on there are electrons flowing. If it's off, there's not electrons flowing. This is what creates the ones and zeros of binary language for computing. When these were first created in late 1950s, there were carving these transistors by hand. you know, there were just a couple on a chip, you could see it with your eyes. And you know, in just the span of what, six decades now there are in the newest iPhone, the largest chip in that phone has maybe 20 billion transistors, which are the size of a virus, which is just incredible.
+
+1 (8m 59s):
+you know, these are scales at which humans can't even see, but somehow we've made machines that can spit these off the assembly line to the order of billions of these a year, which is just absolutely incredible. And that's what has allowed modern life to sort of keep moving forward. Where
+
+0 (9m 13s):
+Do the materials to make these chips
+
+1 (9m 15s):
+Come from? So they come from all over the world.
+
+10 (9m 18s):
+So Mr. Where do these super captors come from anyway? Semiconductors Sun. They're called Semiconductors and they're made in countries all over the world. Let me show you better. Hold on tight now look down there, son. Where are we? What is that? I'm scared. This is a place called the Netherlands. Wow. Now you see all those people down there. They're just doing one part of the process that makes Semiconductors neato. Mr. Now hold on tight. There are a lot more countries that we need to visit and it's about a 26 hour flight to Taiwan.
+
+10 (9m 60s):
+Oh, okay.
+
+1 (10m 4s):
+We are obviously in an age where globalization has gotten a bad name. The future
+
+11 (10m 9s):
+Does not belong to globalists.
+
+10 (10m 11s):
+I'm not gonna be a globalist.
+
+12 (10m 12s):
+Yeah, you're either a nationalist or you're a globalist. The globalist can all go to how I have come to Texas.
+
+1 (10m 21s):
+But the semiconductor industry defeats it's been able to achieve are really thanks to globalization. This has been a whole of world effort with intense specialization across regions and even across companies. So you have, Taiwan plays an important role.
+
+13 (10m 39s):
+T SS M C. It's one of the largest semiconductor manufacturers in the world.
+
+1 (10m 43s):
+Netherlands plays a crucial role.
+
+14 (10m 45s):
+T S M C cannot make its chips without a $150 million machine from a Dutch company called a ss. M l
+
+1 (10m 53s):
+Japan plays an important role, a certain step.
+
+15 (10m 55s):
+Action gas is a key material for fabricating semiconductor circus and Japanese suppliers account for more than 70% of the global market.
+
+1 (11m 4s):
+The US really though, is the linchpin. For
+
+16 (11m 6s):
+Years, intel technicians have been making PCs smarter. Now they face their greatest challenge ever.
+
+10 (11m 12s):
+Hey, no one messes with my brain.
+
+1 (11m 13s):
+This is the place where chips were invented and that holds really choke points across several key steps of the supply chain.
+
+5 (11m 21s):
+As all of a sudden, everybody started to learn the phrase supply chain. A year ago, no one knew what hell anybody was talking about when he said supply chain, but now they all know. And we lost access to these, these Semiconductors,
+
+1 (11m 36s):
+All three of the main companies that do the most advanced software, those are all American companies, or they are, you know, based in the us which gives the US government leverage over them. Everybody else designs the chips, gets them ready to go, and then you send 'em to Taiwan. And Taiwan is one who actually makes those chips. They can just do things that no one else can do because so much of making chips has been the accumulation of knowledge, sort of implicit process knowledge across decades. You can't sort of put these things on a blueprint and just turn them on and make them work. It takes really knowing the machine and working with it constantly. These materials come from everywhere, which is what's what gives the Biden administration power, because it is a series of choke points. If you just squeeze on those little spaces, it gives you enormous leverage.
+
+1 (12m 19s):
+And that's what the Biden administration is trying to do. And that's what now China is trying to respond with is saying, Hey, we have our own choke points. We can squeeze 'em too. See what happens.
+
+10 (12m 26s):
+And this is where rare earth comes in. Do you know what rare earth is Sun? No, I mean I just learned what a semiconductor is. Rare earth's like germanium and gallium are integral to the creation of Semiconductors. So Semiconductors are made of earth like dirt. No, no, no, no. Try to keep up here some. This is an important lesson in supply chain economics. You see, when these places mine their own materials, that
+
+0 (12m 51s):
+Means, okay, so gallium and germanium, these things that China says, it will no longer export to the us. They're part of the equation. They go into the semiconductor chips,
+
+1 (12m 60s):
+They do. So they're important in the manufacturing process. And China, you know, as part of a, a broader strategy across the last several decades to dominate rare earths really has a dominant positioning in germanium and gallium. It's something like 60 and 90% respectively are, are made or brought to finished use by China and then shipped abroad to countries like Japan, the Netherlands, Germany, the us, which then use them in the semiconductor supply chain. This move by China to curb gallium and germanium. This is sort of a warning shot. This is them showing the us showing other Western countries that eventually joined onto the restrictions that if you keep pushing on this, we have our own tools and we can hurt you as well.
+
+0 (13m 52s):
+In a moment, Alex W Palmer will return to tell us why for the time being there is no way out of the war for semiconductor chips.
+
+Rocket Money (14m 31s):
+Support for the show today comes from Rocket Money. What's better than money? Rocket Money. My words not theirs. Between apps, streaming services and digital publications, the price of your subscriptions can add up fast. It's easy to lose track of where your money is going. You might be spending more than you realize. In fact, according to a 2022 survey, the average monthly cost of subscriptions was over a hundred dollars more than what consumers thought they were paying. Enter Rocket Money, a solution for keeping your subscriptions in. Check. Rocket Money is a personal finance app that finds and cancels your unwanted subscription, monitors your spending, and helps you lower your bills all in one place. Stop throwing your money away. You can cancel unwanted subscriptions and manage your expenses the easy way by going to rocket money.com/explained. That's rocket money.com/explained.
+
+18 (15m 32s):
+I know you're okay, you're okay. Wolves and dogs are pretty closely related. They actually share 99.9% of their genetics
+
+19 (15m 43s):
+Yo sniffles.
+
+18 (15m 45s):
+But even when they're just a few months old, even when they're raised by human scientists, wolves are pretty different from dogs.
+
+19 (15m 52s):
+They start biting you in the ears when you find down, if you don't sit up fast enough and you hear this wonderful noise, these little, and then they chomp you in the air and you're like, oh.
+
+18 (16m 4s):
+And when they grow up, these differences get even bigger. Dogs are our friends. Wolves are hunters.
+
+19 (16m 12s):
+If I had a sore shoulder, I wouldn't go in with the adult wolves, even if I had raised them because it could trigger their hunting behavior.
+
+18 (16m 20s):
+This week on unexplainable, how did we get the nice friendly dogs we know and love today from wolves? Follow unexplainable wherever you listen for new episodes every Wednesday today, today
+
+19 (16m 37s):
+Explaining
+
+0 (16m 40s):
+When we left off Alex, W, Palmer contributing writer, New York Times magazine was explaining how two medals, gallium and germanium represent a new front in a war over technology. That the US and China are fighting. Each country is trying to prevent the other from making semiconductor chips. But why do we need to fight this war? Alex? Why can't we just each make our own stuff?
+
+1 (17m 2s):
+It was to some extent in the way that the, the industry has been structured up to now because it was such a globalized industry. So the US had something to bring, you know, the expertise, the, the technology and China had something to bring, which was a huge market, huge demand. So to this point, it has been a sort of symbiotic relationship, both as you know, the whole supply chain across the globe and the US and China. you know, Semiconductors are one piece of this larger story of the, the changing perceptions of the US and China relationship. That engagement, economic engagement especially had been seen as sort of a win-win situation. And now both sides, but seems like starting with the Biden administration on chips are reevaluated that and wondering, can we be dependent on this other country?
+
+1 (17m 47s):
+Can we trust them? And certainly the answer seems to to be no right now. And now the question is as we start to try to cut these dependencies, whether that's actually gonna work.
+
+0 (17m 57s):
+So I hear you saying that the US move to cut China off is both an economic move and a national security move.
+
+1 (18m 5s):
+Yes, the Biden administration wants to say that this is just a, you know, sort of blocking military modernization and it will have that effect, but it will inevitably also have spillover effects into the wider economy. And I don't doubt that the justifications are national security and human rights, but because chips are such a fundamental technology, it is inevitably an economic move as well, right? Because AI is not just used for the military chat. G P T is not a military weapon, but it was powered by chips that China is now prevented from having, according to October 7th. Imagine if tomorrow Sadi Arabia cut off all oil exports to the US and said, look, oil is used in fighter jets, it's used in bombers, it's used in tanks.
+
+1 (18m 49s):
+This is purely a military move. you know, we're just trying to stop America from using its military in irresponsible ways. Okay, that's true. But oil is so fundamental that it also goes into almost every other part of the economy as well. So by cutting it off just for military uses, you're also cutting it off for everybody else as well. And it's the same with chips, right? That an advanced chip can be used to train ai, AI to shoot a hypersonic missile better, but it can also be used to try to identify cancer more quickly or develop new drugs or you know, develop new crops. Those are all things that AI can also be used for. And this is the piece of it that I think China is most upset about and that the Biden administration is trying to sort of massage and keep, keep the spotlight on.
+
+1 (19m 32s):
+No, this is about weapons, it's about human rights. It's not intended to benefit American companies. Alright,
+
+0 (19m 37s):
+So China says in response to this, we're gonna block certain materials from entering into the us. Any other response? It, it seems rather muted. It seems like China could have gone bigger.
+
+1 (19m 49s):
+Yeah, it was a pretty muted response. And this seemed to be at first sort of a vindication of the Biden administration's logic on this. That, look, China just does not have a strong hand. China is extremely dependent on the US for chips that they really don't have any leverage here. But you also then had, you know, China showing, showing the US that it had pain points too, that there were places it could squeeze. So for instance, you had an American company Micron.
+
+20 (20m 18s):
+Micron is essential to the world's most inspiring innovations,
+
+1 (20m 23s):
+Which makes Semiconductors technology that was put under national security investigation and then not surprisingly found soon after by the Chinese government to be sort of untrustworthy. And so Chinese companies, especially tied to the government, cannot or should not use that company. That's gonna be a huge blow to microns revenue.
+
+21 (20m 41s):
+It was only two months ago that China's cybersecurity regulator said that they were going to review Micron. And now they've said that they're restricting network and infrastructure related memory chips made by Micron micron
+
+1 (20m 52s):
+Memory. You also had other pieces of the supply chain where China was sort of showing where it had some leverage. And now as you'd said, you know, going to effect August 1st. The most extreme so far has been the export controls on germanium and gallium because the world is dependent on China for these materials. And if they really want to, if they really wanna squeeze, they can send prices soaring. They can, you know, send companies scrambling to find other, other places to produce these minerals. And so far there aren't any. But what's difficult about this entire dance for the US and for China is that for these two minerals, the more China squeezes, the more it hurts itself too. Because it also needs the revenue, you know, from selling these, these items abroad to continue powering its own industry.
+
+1 (21m 37s):
+And this is the same with the US of, okay, yeah, you can squeeze China, but does that end up hurting us more? And because it is again, such a globalized industry, yeah, you have a lot of leverage over everybody else, but every time you hurt them, you're also hurting yourself to some extent. And so that's what everyone's really trying to fine tune right now is, okay, how can we exert maximum pain on them? Or, you know, the biggest possible warning shot without hurting ourselves. And that's gonna be tough because the industry is incredibly interdependent and everybody is scrambling now to sort of French shore and you know, find alternative sources for everything. But it takes billions and billions and billions of dollars and decades of research to get to the real cutting edge of this stuff. And you can't just do that overnight.
+
+1 (22m 18s):
+So
+
+0 (22m 18s):
+All of this is happening because the US and China are so linked. That's how the global economy works. Is any of this raising a conversation within the American government about whether or not it would be wise for the US to decouple from China?
+
+1 (22m 33s):
+Definitely, and I think decoupling was a hotter term a few months ago. Now it's moved on to sort of de-risking whether China sees any difference in that, in that, you know, change of language remains to be seen. I think partly what the Biden administration is trying to do with these measures is to silence some of the more extreme critics who want something with like decoupling, which would be even more difficult, obviously incredibly painful for American consumers and and for the global economy. But there is a feeling among some that that's, that might be inevitable, that that might be necessary.
+
+1 (23m 13s):
+And what the Biden administration's trying to do is say like, no, look, we can be more surgical about this. We can be precise, we can show exactly, you know what we can depend on China for and what we can't. And chips are one of the things where we can't, so we can take action to cut off that vulnerability.
+
+10 (23m 48s):
+Well, son, I hope you understand now that these little Semiconductors may look boring. They sure do, but are an important part of what makes up the world around us. I do. Mr. Without Semiconductors we wouldn't have computers. That's right. Or phones. Or cars or planes or, or washing machines. Or microwaves or, or, okay. Okay. Okay. Son, you're right. They power all of these and more and who knows what the future holds for Semiconductors. They just might create the technological wonders that could solve the world's most complex problems, or do must all.
+
+0 (24m 40s):
+Today's episode was produced by Vermont Bureau Chief John Ehrens, who you also heard doing some many voices. It was edited by Amina Elsi, Michael Rayfield is our engineer, and Laura Bullard is our fact checker. The rest of the team includes Fiona Petro Sima, Shaw Haddi, Wadi Miles Bryan, Amanda Luen, and Abhai Artsy. My co-host is Sean Ramas firm and our executive producer is Miranda Kennedy. We're distributed to public radio stations across these United States by W N Y C in New York. But of course we are also a podcast. Please leave us a review on Apple Podcasts or Spotify, especially if you have something nice to say. Email all of your complaints to Sean Ramas firm2@gmail.com.
+
+0 (25m 20s):
+We're part of the Vox Media podcast network and I'm Noel King and it's today explained.

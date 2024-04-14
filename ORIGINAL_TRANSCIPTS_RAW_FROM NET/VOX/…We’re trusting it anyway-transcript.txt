@@ -1,0 +1,308 @@
+0 (1s):
+What's big and scary and has 72% of American voters in agreement artificial intelligence, Vox Segal. Samuel recently wrote about a u gov poll of 1001 Americans. 42% of the respondents aligned themselves with Donald Trump. 47% aligned themselves with Joe Biden, but 72% of them said they would prefer we slow down the development of AI while only 8% of them said speed it up. And there's good news for the 8%. More and more tech companies and entertainment conglomerates and especially militaries wanna figure out how they can advance AI even integrating it into their decision making.
+
+0 (45s):
+But it turns out getting AI to do what you want the way you want it is a lot harder than it seems. Our friends at Unexplainable are gonna help us cope. On today explained
+
+2 (1m 0s):
+Support for the show comes from Gold Peak Real Brew Tea. There's a time of day about an hour before sunset where the rays feel warm and the breeze feels cool, but the that hour of golden bliss is always gone. Too soon. You might rekindle that feeling with a bottle of Gold Peak made with high quality tea leaves, its smooth tastes transports you to golden hour at any hour. Gold peak tea. It's got to be gold.
+
+4 (1m 37s):
+Wait, are you gaming on a Chromebook? Yeah,
+
+5 (1m 41s):
+It's got a high res 120 hertz display plus this killer R G B keyboard. And I can access thousands of games anytime, anywhere.
+
+4 (1m 48s):
+Stop playing what? Get outta here, huh? Yeah. I want you to stop playing and get outta here so I can game on that Chromebook.
+
+5 (1m 56s):
+Got it.
+
+6 (1m 59s):
+Discover the ultimate Cloud gaming machine, a new kind of Chromebook
+
+0 (2m 12s):
+Ramas firm here to hand things off to Noam Hassenfeld from Unexplainable who wants to tell you a story.
+
+7 (2m 18s):
+It's the story of a little boat, specifically a boat in this retro looking online video game. It's called Coast Runners, and it's a pretty straightforward racing game. There are these power ups that give you points if your boat hits them. There are obstacles to dodge. There are these kind of lagoons where your boat can get all turned around. And a couple of years ago, the research company open AI wanted to see if they could get an AI to teach itself how to get a high score on the game without being explicitly told how
+
+8 (2m 50s):
+We are supposed to train a boat to complete a course from start to finish.
+
+7 (2m 55s):
+This is Dio Amede used to be a researcher at OpenAI. Now he's the c e o of another AI company called Anthropic.
+
+8 (3m 2s):
+I remember studying it, running, just telling it to teach itself, and I figured that it would learn to complete the course.
+
+7 (3m 9s):
+Dario had the AI run tons of simulated races over and over, but when he came back to check on it, the boat hadn't even come close to the end of the track.
+
+8 (3m 19s):
+What it does instead, this thing that's been looping is it finds this isolated lagoon and it goes backwards in the course.
+
+7 (3m 27s):
+The boat wasn't just going backwards in this lagoon, it was on fire covered in pixelated flames, crashing into docks and other boats and just spinning around in circles. But somehow the AI's score was going up.
+
+8 (3m 45s):
+Turns out that by spinning around in this isolated lagoon in exactly the right way, it can get more points than it could possibly ever have gotten by completing the race in the most straightforward way.
+
+7 (3m 56s):
+When he looked into it, Dario realized that the game didn't award points for finishing first. For some reason, it gave them out for picking up power ups.
+
+8 (4m 5s):
+Every time you get one, you increase your score, and they're kind of laid out mostly linearly along the course,
+
+7 (4m 10s):
+But this one lagoon was just full of these power ups and the power ups would regenerate after a couple seconds. So the AI learned to time its movement to get these power ups over and over by spinning around and exploiting this weird game design.
+
+8 (4m 27s):
+There's nothing wrong with this in the sense that we asked it to find a solution to a mathematical problem. How do you get the most points? And this is how it did it, but you know, if this was a passenger ferry or something, you wouldn't want it spinning around, setting itself on fire, crashing into everything.
+
+7 (4m 44s):
+This boat game might seem like a small glitchy example, but it illustrates one of the most concerning aspects of ai like this game. Our world isn't perfectly designed. So if scientists don't account for every small detail in our society when they train in ai, it can solve problems in unexpected ways, sometimes even harmful ways. So given the risks here that AI can solve problems in ways its designers don't intend, it's easy to wonder why anyone would want to use AI to make decisions in the first place. It's because of all this promise. Here's just a couple examples. Last year, an AI built by Google predicted almost all known protein structures.
+
+7 (5m 27s):
+It was a problem that had frustrated scientists for decades, and this development has already started accelerating drug discovery. AI has helped astronomers detect undiscovered stars. It's allowed scientists to make progress on decoding animal communication. And like we talked about last week, it was able to beat humans at go. Arguably the most complicated game ever made.
+
+9 (5m 49s):
+The powerful and compelling thing about ai, you know when it's playing go is sometimes it will tell you a brilliant go move that you would never have thought of, of that no go master would ever have thought of that does advance your goal of winning the game.
+
+7 (6m 2s):
+This is Kelsey Piper. She's a reporter for Vox, who we heard from last episode, and she says, this kind of innovation is really useful, at least in the context of a game. But
+
+9 (6m 12s):
+When you're operating in a very complicated context like the world, then those brilliant moves that advance your goals might do it by having a bunch of side effects or inviting a bunch of risks that you don't know, don't understand and aren't evaluating.
+
+7 (6m 27s):
+Essentially, there's always that risk of the boat on fire, and we've already seen this kind of thing happen outside of video game. Just take the example of Amazon.
+
+9 (6m 39s):
+So Amazon tried to use an AI hiring algorithm, looked at candidates and then recommended which ones would proceed to the interview process.
+
+7 (6m 46s):
+Amazon fed this hiring AI 10 years worth of submitted resumes, and they told it to find patterns that were associated with stronger candidates.
+
+9 (6m 55s):
+And an analysis came out finding that the AI was biased. It had learned, you know, that Amazon generally preferred to hire men, so it was happily more likely to recommend Amazon men.
+
+7 (7m 4s):
+Amazon never actually used this AI in the real world. They only tested it, but a report by Reuters found exactly which patterns the AI might have internalized
+
+10 (7m 14s):
+The technology thought, oh, Amazon doesn't like any resume that has the word women's in it. An all women's university captain of a women's chess club, captain of a women's soccer team.
+
+7 (7m 25s):
+Essentially, when they were training their ai, Amazon hadn't accounted for their own flaws in how they'd been measuring success internally. Kind of like how OpenAI hadn't accounted for the way the boat game gave out points based on power ups, not based on who finished first,
+
+9 (7m 41s):
+And of course when Amazon realized that they took the AI out of their process,
+
+7 (7m 46s):
+But it seems like they might be getting back in the AI hiring game. According to an internal document obtained by former Vox reporter Jason Del Rey, Amazon's been working on a new AI system for recruitment. At the same time, they've been extending buyout offers to hundreds of human recruiters. And these flaws aren't unique to hiring ais. The way ais are trained has led to all kinds of problems. Take what happened with Uber in 2018 when they didn't include Jaywalkers in the training data for their self-driving cars, and then a car killed a pedestrian.
+
+11 (8m 18s):
+Tempe, Arizona police say 49 year old Elaine Herzberg was walking a bicycle across a busy thoroughfare frequented by pedestrians Sunday night. She was not in a crosswalk.
+
+7 (8m 29s):
+And a similar thing happened a few years ago with a self-training AI Google used in its photos app.
+
+12 (8m 34s):
+The company's automatic image recognition feature in its photo application identified two black persons as gorillas and in fact even tagged them as so
+
+7 (8m 44s):
+According to some former Google employees, this may have happened because Google had a biased dataset. They may just not have included enough black people.
+
+9 (8m 53s):
+The worrying thing is if you're using ais to make decisions and the data they have reflects our own biased processes, like a biased justice system that sends some people to prison for crimes where it lets other people off with a slap on the wrist or a biased hiring process, then the AI is gonna learn the same thing.
+
+7 (9m 12s):
+But despite these risks, more companies are using AI to guide them in making important decisions.
+
+9 (9m 18s):
+This is changing very fast, like there are a lot more companies doing this now than there were even a year ago, and there will be a lot more in a couple more years.
+
+7 (9m 28s):
+Companies see a lot of benefits here. First on a simple level, AI is cheap. Systems like chat G P T are currently being heavily subsidized by investors, but at least for now, AI is way cheaper than hiring real people.
+
+9 (9m 42s):
+If you want to look over thousands of job applicants AI is cheaper than having human screen. Those thousands of job applicants, if you wanna make salary decisions, those get done by algorithm because it's easier to fire who the algorithm spits out than to have human judgment and human analysis in the picture.
+
+7 (9m 59s):
+And even if companies know that AI decision making can lead to boat on fire situations, Kelsey says they might be okay with that risk. It's
+
+9 (10m 7s):
+So much cheaper that that's like a good business trade off. And so we hand off more and more decision making to AI systems for financial reasons.
+
+7 (10m 17s):
+The second reason behind this push to use AI to make decisions is because it could offer a competitive advantage.
+
+9 (10m 24s):
+Companies that are employing AI in a very winner take all capitalist market, they might outperform the companies that are still relying on expensive human labor. And the companies that aren't are much more expensive. So fewer people want to work with them and they're a smaller share of the economy. And you might have huge like economic B myths that are making decisions almost entirely with AI systems. Kelsey
+
+7 (10m 47s):
+Says, competitive pressure is even leading the military to look into using AI to make decisions.
+
+9 (10m 53s):
+I think there is a lot of fear that the first country to successfully integrate AI into its decision making will have a major battlefield advantage over anyone still relying on slow humans. And that's the driver of a lot in the military, right? If we don't do it, somebody else will, and maybe it will be a huge advantage.
+
+7 (11m 11s):
+This kind of thing may have already happened in actual battlefields. In 2021, a UN panel determined that an autonomous Turkish drone may have killed Libyan soldiers without a human controlling it or even ordering it to fire. And lots of other countries, including the US, are actively researching AI controlled weapons.
+
+9 (11m 31s):
+You don't wanna be the people you know still fighting on horses when someone else has invented fighting with guns, and you don't wanna be the people who don't have AI when the other side has ai. So I think there's this very powerful pressure not just to figure this out, but to have it ready to go.
+
+7 (11m 47s):
+And finally, the third reason behind the push toward AI decision making is because of the promise we talked about. At the top, AI can provide novel solutions for problems humans might not be able to solve on their own. Just look at the Department of Defense. They're hoping to build AI systems that quote function more as colleagues than as tools, and they're studying how to use AI to help soldiers make extremely difficult battlefield decisions. Specifically when it comes to medical triage,
+
+13 (12m 14s):
+I'm gonna talk about how we can build AI-based systems that we would be willing to bet our lives with and not be foolish to do. So
+
+7 (12m 22s):
+AI has already shown an ability to beat humans in war game scenarios like with the board game diplomacy and researchers think this ability could be used to advise militaries on bigger decisions like strategic planning. Cybersecurity expert, Matt DeVos talked about this on a recent episode of On the Media. I
+
+14 (12m 39s):
+Think it'll probably get really good at threat assessment. I think analysts might also use it to help them through their thinking, right? They might come up with an assessment and say, tell me how I'm wrong. So I think there'll be a lot of unique ways in which the technology is used in the intelligence community,
+
+7 (12m 55s):
+But this whole time that boat on fire possibility is just lurking. One of the things that makes AI so promising, the novelty of its solutions, it's also the thing that makes it so hard to predict. Kelsey imagines a situation where AI recommendations are initially successful, which leads humans to start relying on them uncritically, even when the recommendations seem counterintuitive. Humans might just assume the AI sees something they don't, so they follow the recommendation anyway. We've already seen something like this happen in a game context with AlphaGo like we talked about last week. So the next step is just imagining it happening in the world.
+
+7 (13m 37s):
+And we know that AI can have fundamental flaws, things like bias training data or strange loopholes. Engineers haven't noticed. But powerful actors relying on AI for decision making might not notice these faults until it's too late.
+
+9 (13m 51s):
+And this is before we get into the AI like being deliberately adversarial.
+
+7 (13m 56s):
+This isn't the Terminator scenario with AI becoming super intelligent and wanting to kill us. The problem is more about humans and our temptation to rely on AI uncritically.
+
+9 (14m 7s):
+This isn't the AI trying to trick you. It's just the AI exploring options that no one would've thought of that get us into weird territory that no one has been in before. And since they're so untransparent, we can't even ask the ai, Hey, what are the risks of doing this?
+
+7 (14m 26s):
+So if it's hard to make sure that AI operates in the way its users intend, and more institutions feel like the benefits of using AI to make decisions might outweigh the risks. What do we do?
+
+9 (14m 37s):
+There's a lot that we don't know, but I think we should be changing the policy and regulatory incentives so that we don't have to learn from a horrible disaster and so that we like understand the problem better and can start making progress on solving it.
+
+0 (15m 2s):
+How to start solving a problem that you don't understand in a minute. On today explained
+
+DraftKings (15m 18s):
+Support for this episode comes from DraftKings. The start of the N F L season is a magical time. Everyone's team is tied for first place. Your first round rookie isn't a bust and you haven't sent a single text calling for the head coach to get fired. This time of year is full of hope, and with DraftKings, it's loaded with even more excitement than usual. right now, new users can get $200 in bonus Betts instantly when they bet five bucks on football. Download now use code explained to sign up. New customers can take home $200 in bonus Betts instantly just for betting five bucks. That's code explained only on Draftking Sportsbook, an official sports betting partner of the nfl. The crown is yours. Gambling problem. Call 1-800-GAMBLER or visit www.one 800 gambler.net in New York. Call 8 7 7 8 Hope n y or text Hope n y 4 6 7 3 6 9 in Connecticut. Help is available for problem gambling, call 8 8 8 7 8 9 7 7 7 7 or visit cpg.org. Please play responsibly on behalf of Booth Hill, casino and Resort Kansas, 21 plus age varies by jurisdiction, Floyd in Ontario. See sportsbook.draftkings.com/football terms for eligibility terms and responsible gaming resources. Bonus Betts expire seven days after issuance, eligibility and deposit restrictions. Apply.
+
+Factor (16m 42s):
+Support for today's show comes from Factor. Factor is a weekly meal kit service. All of its meal kits are chef prepared and dietician approved. They're delivered fresh, meaning not frozen, and they come straight to your door as you'd expect. It's 2023. They have more than 30 dishes to choose from and they have 45 add-ons, some of their specialties, bacon and cheddar egg bites, apple cinnamon pancakes, a lot of breakfast. They also offer a handful of meal types to support your lifestyle. Protein plus calorie, smart, vegetarian and vegan with Factor, you get a good meal quality ingredients, no time in the kitchen, no restaurant delivery fees, no going out to a restaurant. You can go to factor meals.com/explained 50 and use the code explained 50 to get 50% off. That's code explained 50 at factor meals.com/explained 50 to get 50% off.
+
+17 (17m 42s):
+I'm on the boat,
+
+1 (17m 44s):
+I'm on
+
+17 (17m 44s):
+The boat, everybody look at
+
+1 (17m 46s):
+Me
+
+0 (17m 47s):
+Today, explained his back, and we're deep into part two of The Black Box series from Unexplainable hosted by Noam Hassenfeld. And right now we've got a whole lot of unknowns.
+
+7 (17m 59s):
+Unknowns on unknowns, on unknowns. So what do we do? I would
+
+18 (18m 4s):
+Say at this point it's sort of unclear.
+
+7 (18m 7s):
+Sigal Samuel writes about AI and ethics for Vox, and she's about as confused as the rest of us here, but she says there's a few different things we can work on. The first one is interpretability. Just trying to understand how these ais work. But like we talked about last week, interpreting modern AI systems is a huge challenge.
+
+18 (18m 27s):
+Part of how they're so powerful and they're able to give us info that we can't just drum up easily ourselves is that they're so complex. So there might be something almost inherent about lack of interpretability being an important feature of AI systems that are gonna be much more powerful than my human brain.
+
+7 (18m 46s):
+So interpretability may not be an easy way forward, but some researchers have put forward another idea monitoring AIS by using more ais at the very least, just to alert users if AI seem to be behaving kind of erratically, but
+
+18 (18m 60s):
+It's a little bit circular because then you have to ask, well, how would we be sure that our helper AI is not tricking us in the same way that we're worried our original AI is doing?
+
+7 (19m 11s):
+So if these kind of tech-centric solutions aren't the way forward, the best path could be political, just trying to reduce the power and ubiquity of certain kinds of ai. A great model for this is the eu, which recently put forward some promising AI regulation.
+
+18 (19m 26s):
+The European Union is now trying to put forward these regulations that would basically require companies that are offering AI products in like especially high risk areas to prove that these products are safe.
+
+7 (19m 43s):
+This could mean doing assessments for bias, requiring humans to be involved in the process of creating and monitoring these systems, or even just trying to reasonably demonstrate that the AI won't cause harm. We've
+
+18 (19m 54s):
+Unwittingly bought this premise that they can just bring anything to market when we would never do that. For other similarly impactful technologies like think about medication, you know how to get your F D A approval, you've gotta jump through these hoops. Why not with ai?
+
+7 (20m 10s):
+Why not with ai? Well, there's a couple reasons. Regulation might be pretty hard here. First, AI is different from something like a medication that the F D A would approve. The F D A has clear agreed upon hoops to jump through clinical testing. That's how they assess the dangers of a medicine before it goes out into the world. But with ai, researchers often don't know what it can do until it's been made public. And if even the experts are often in the dark, it may not be possible to prove to regulators that AI is safe. The second problem here is that even aside from ai, big tech regulation doesn't exactly have the greatest track record of really holding companies accountable, which might explain why some of the biggest AI companies like OpenAI have actually been publicly calling for more regulation.
+
+18 (20m 56s):
+The cynical read is that this is very much a repeat of what we saw with a company like Facebook. Now Meta where people like Mark Zuckerberg we're going to Washington DC and saying, oh yes, we're all in favor of regulation. We'll help you. We wanna regulate too.
+
+7 (21m 11s):
+When they heard this, a lot of politicians said they thought Zuckerberg's proposed changes were vague and essentially self-serving, that he just wanted to be seen supporting the rules, rules, which he never really thought would hold them accountable,
+
+18 (21m 25s):
+Allowing them to regulate in certain ways, but where really they maintain control of their data sets. They're not being super transparent and having external auditors. So really they're getting to continue to drive the ship and make profits while creating the semblance that society or politicians are really driving the ship
+
+7 (21m 45s):
+Regulation with real teeth seems like such a huge challenge that one major AI researcher even wrote an op-ed in Time Magazine calling for an indefinite ban on AI research, just shutting it all down. But Sigal isn't sure. That's such a good idea. I
+
+18 (22m 1s):
+Mean, I think we would lose all the potential benefits it stands to bring. So drug discovery, you know, cures for certain diseases, potentially huge economic growth that if it's managed wisely big if could help alleviate some kinds of poverty. I mean, at least potentially it could do a lot of good, and so you don't necessarily wanna throw that baby out with the bath water.
+
+7 (22m 26s):
+At the very least, Siegal does want to turn down the faucet.
+
+18 (22m 29s):
+I think the problem is we are rushing at breakneck speed towards more and more advanced forms of ai when the ais that we already currently have, we don't even know how they're working.
+
+7 (22m 41s):
+When chat G P T launched, it was the fastest publicly deployed technology in history. Twitter took two years to reach a million users. Instagram took two and a half months chat. G P T took five days, and there are so many things researchers learned chat G P T could do only after it was released to the public. There's
+
+18 (23m 1s):
+So much we still don't understand about them. So what I would argue for is just slowing down,
+
+7 (23m 7s):
+Slowing down. AI could happen in a whole bunch of different ways.
+
+18 (23m 10s):
+So you could say, you know, we're gonna stop working on making AI more powerful for the next few years, right? We're just not gonna try to develop AI that's got even more capabilities than it already has.
+
+7 (23m 23s):
+AI isn't just software. It runs on huge powerful computers. It requires lots of human labor. It costs tons of money to make and operate even if those costs are currently being subsidized by investors. So the government could make it harder to get the types of computer chips necessary for huge processing power, or it could give more resources to researchers in academia who don't have the same profit incentive as researchers in industry. You could
+
+18 (23m 51s):
+Also say, all right, we understand researchers are gonna keep doing the development and and trying to make these systems more powerful, but we're gonna really halt or slow down deployment and like release to commercial actors or whoever
+
+7 (24m 3s):
+Slowing down the development of a transformative technology like this. It's a pretty big ask, especially when there's so much money to be made. It would mean major cooperation, major regulation, major complicated discussions with stakeholders that definitely don't all agree, but Segal isn't hopeless.
+
+18 (24m 21s):
+I'm actually reasonably optimistic. I'm very worried about the direction AI is going in. I think it's going way too fast, but I also try to look at things with a bit of a historical perspective.
+
+7 (24m 38s):
+Sigal says that even though tech progress can seem inevitable, there is precedent for real global cooperation.
+
+18 (24m 45s):
+We know historically there are a lot of technological innovations that we could be doing that we're not because societally it just seems like a bad idea. Human cloning or like certain kinds of genetic experiments like humanity has shown that we are capable of putting a stop or at least a slowdown on things that we think are dangerous.
+
+7 (25m 5s):
+But even if guardrails are possible, our society hasn't always been good about building them when we should.
+
+18 (25m 12s):
+The fear is that sometimes society is not prepared to design those guardrails until there's been some huge catastrophe like Hiroshima, Nagasaki, just horrific things that happen and then we pause and we say, Hmm, okay, maybe we need to go to the drawing board. Right? That's what I don't want to have happen with ai. We've seen this story play out before tech companies or technologists essentially run mass experiments on society. We're not prepared. Huge harms happen, and then afterwards we start to catch up and we say, oh, we shouldn't let that catastrophe happen again. I want us to get out in front of the catastrophe. Hopefully that will be by slowing down the whole AI race.
+
+18 (25m 56s):
+If people are not willing to slow down, at least let's get in front by trying to think really hard about what the possible harms are and how we can use regulation to really prevent harm as much as we possibly can.
+
+0 (26m 17s):
+That was Segal Samuel from Vox. Before that you were hearing from Noam Hassenfeld, also a Vox and Unexplainable from the Vox Media Podcast Network. These past two shows we brought you were shorter versions of their two-part series called The Black. Box. Go find the full versions in the Unexplainable Feed regular programming. On today. explained resumes tomorrow. Happy Labor Day.

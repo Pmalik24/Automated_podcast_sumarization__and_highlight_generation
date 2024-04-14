@@ -1,0 +1,398 @@
+1 (2s):
+Computer drive me to work.
+
+2 (5s):
+Okay. Sean, driving you to DuPont circle in Washington, DC
+
+1 (9s):
+Computer, you know, I've never asked you this before, but are you any good at driving statistically? Speaking
+
+2 (18s):
+Of course, Sean, I make far fewer mistakes than humans do on balance. You people are terrible at driving
+
+1 (24s):
+You people. Wow. But you know, computer, I hear you've been in a bunch of accidents recently.
+
+2 (32s):
+Well, nobody's perfect, Sean.
+
+1 (34s):
+You know, we should do a show about this.
+
+2 (37s):
+If you must
+
+1 (38s):
+Ahead on today, explained the data's in on automated vehicles on driver assisted vehicles and they are crashing, but they're still nowhere near as deadly, as regular cars driven by regular people
+
+Google (54s):
+To who are you speaking for over 20 years, Google has been helping protect Americans from cybersecurity threats, from turning two step verification on by default for 150 million people, which adds an additional layer of account security with a single tap to protecting new sites and human rights organizations with project shield. Google is building advanced technologies that raise the bar for the entire industry and help make the whole internet safer for everyone. Learn more@safety.google,
+
+1 (1m 29s):
+Noel king. A thing I know about you is you consume a lot of journalism, so much journalism. What is your favorite
+
+3 (1m 34s):
+Journalism? The financial times what's
+
+1 (1m 35s):
+Yours. I love public radio.
+
+3 (1m 37s):
+I'm such a
+
+1 (1m 38s):
+Drunk. Anyway. We both pay for those things. Don't we, we
+
+3 (1m 41s):
+Do couple dollars
+
+1 (1m 42s):
+A month, but we don't ask people to pay for this show.
+
+3 (1m 46s):
+Not until now.
+
+1 (1m 47s):
+We
+
+2 (1m 47s):
+Are gonna ask
+
+1 (1m 48s):
+Right now. Yeah, not like give us $6 a month or 25 a year or whatever. Just whatever you wanna chip in to support this journalism, because that helps keep it free for everyone. And
+
+3 (2m 2s):
+The way to do it is by going to vox.com/give.
+
+1 (2m 6s):
+Thank you.
+
+3 (2m 7s):
+Thank you. Thank you. Thank you.
+
+5 (2m 13s):
+Some news, just out on Tesla, the us national highway traffic safety administration has opened a probe of Tesla's autopilot function
+
+1 (2m 21s):
+Today explained Ramos firm here with Andrew J. Hawkins transportation editor at the verge, which lately means he spends a lot of time thinking about automated cars.
+
+6 (2m 32s):
+Yeah, so we're about 15 years or so into a very broad global experiment into autonomous driving. There's numerous companies that are testing vehicles on the road, all across the world. And interestingly enough, we just got a batch of kind of interesting data from the government about how often these vehicles are involved in crashes.
+
+1 (2m 55s):
+This was data from June of 2021 to may of 2022. What's it say?
+
+6 (3m 2s):
+So they split the data into two sections. There's a section on autonomous vehicles. And then there's a section on driver assist features,
+
+7 (3m 10s):
+Driver assist technology or devices in cars to help the driver avoid a crash.
+
+6 (3m 15s):
+So sort of sum it up autonomous vehicles aren't involved in that many crashes because there just aren't that many vehicles on the road. Okay. But the driver assist vehicles are involved in a lot more crashes than the autonomous ones.
+
+1 (3m 29s):
+Like how much is a lot.
+
+6 (3m 30s):
+There were 370 crashes involving vehicles that had advanced driver assist technology. But then for the autonomous vehicles, they recorded around about 130 or so.
+
+1 (3m 43s):
+Got it. Help me out with the taxonomy here a bit. Andrew, are the Teslas driving themselves yet? Or are people still driving them? I'm I'm hearing mixed things from the people
+
+6 (3m 53s):
+You're not wrong to be confused about this. I think Tesla's trying to actively confuse people about, oh, what its vehicles are capable of. And that's because of the way that they sort of market themselves.
+
+8 (4m 4s):
+If, if you buy a car that does not have the hardware necessary for full self driving, it's like buying a horse. And the only car that has the hardware necessary for self full self-driving is a Tesla.
+
+6 (4m 13s):
+What they're actually capable of is what's called level two, autonomous driving
+
+1 (4m 18s):
+Level two. How many levels are there?
+
+6 (4m 20s):
+There are five levels, whoa,
+
+9 (4m 24s):
+Level zero.
+
+6 (4m 26s):
+So zero is no automated features at all.
+
+9 (4m 28s):
+Level. One,
+
+6 (4m 30s):
+One is the bare minimum. So something like cruise control, for example,
+
+9 (4m 34s):
+Level two,
+
+6 (4m 35s):
+Level two is more advanced cruise control. It's things like adaptive cruise control, automatic emergency braking, blind spot detection, lane centering advanced features that you find like in lots of cars on the road today,
+
+1 (4m 49s):
+I rent a lot of cars and they don't tell you what your car's level two features are. And sometimes it can get very confusing when the car starts doing stuff that you don't know it can do. It's like a
+
+6 (4m 59s):
+Surprise. Yeah. It's like a little surprise for you while you're driving a 2000 pound metal box at 60, 60 miles per hour.
+
+1 (5m 7s):
+It's kind of crazy. You'd think there'd be a disclaimer. That was like, yeah, your car's gonna break by itself. FYI.
+
+6 (5m 12s):
+Yeah. Right.
+
+9 (5m 13s):
+Level three.
+
+6 (5m 14s):
+Then you got level three, which is, there are some autonomous features like the car can technically drive itself perhaps on the highway for example. But the driver still needs to stay paying attention to the functions of the driving needs to keep their eyes on the road. But for all intents and purposes, the car is technically driving itself.
+
+1 (5m 32s):
+This is when I hear about like a buddy got into an Uber recently and the guy didn't have his hands on the wheel and he kind of freaked out.
+
+6 (5m 39s):
+Yeah. Level three is considered to be pretty dangerous. It's very blurry. There's not like a clear line between when the car is driving itself and when the human needs to be driving
+
+9 (5m 47s):
+It level four.
+
+6 (5m 49s):
+And then you got level four, there are level four vehicles on the road today. Google has some in Arizona. For example, these are cars that can operate with no human behind the wheel, but they are constrained either geographically. Like they're only allowed to drive within a certain geographic area or they can't drive at night or they can't drive during certain weather conditions. And then you've got level five level
+
+1 (6m 12s):
+Five,
+
+6 (6m 13s):
+Level five is basically like science fiction. And this is a car that can drive anywhere under any conditions. Night, day, all types of weather, all types of road conditions, no matter where it wants to go. These vehicles do not exist today in the world. And a lot of people seem to think that they might never exist. That it's a completely fantastical notion. A lot of the problem that we have with Tesla, because they are abusing the language that we use to describe automated driving technology for the purpose of selling a lot of cars and it's working for them, but it tends to muddy the water a little bit and lead to normal people, sort of being confused about what's autonomous and what's not
+
+1 (6m 56s):
+Right because Tesla's sort of hanging out in the level two to three area, as far as I know, depending on like the laws on the given road that you're driving on. Is that right?
+
+6 (7m 8s):
+That's correct. Yeah. Elon Musk goes out on stage frequently and says Tesla's will be fully driverless. They will be level five,
+
+8 (7m 16s):
+About three years from now. We're confident we can make a very compelling $25,000 electric vehicle. That's also fully autonomous
+
+6 (7m 24s):
+He's, you know, fully embracing the sort of more outlandish and fantastical ways of describing this technology. And he has a lot of people who are buying into it. But
+
+1 (7m 34s):
+The truth is that that Tesla is, is level two, just like the, the Volkswagen that you might rent at the airport that is also basically doing lane correction and, and telling you when to break or breaking for you or something like that.
+
+6 (7m 48s):
+Yeah, that that's correct. It might be a very good level, two technology, but that doesn't make it any more advanced or capable that it actually is. The driver still needs to be fully aware and fully paying attention to what's going on.
+
+1 (8m 2s):
+And, and I think this maybe brings us back to these two reports from the government, where did they come from? And what exactly did they say about these features as they relate to the levels
+
+6 (8m 11s):
+Last year, the national highway traffic safety administration put out the standing general order to the entire auto industry that they need to start reporting crashes that take place in two sectors of the, of the industry, there's the autonomous sector and there's the advanced driver versus sector. So you've got companies on the one side autonomous vehicles and they also want the crashes with the driver assist functions.
+
+1 (8m 33s):
+It sounds like really bad publicity for Tesla. Is it actually doing any damage to the popularity of these vehicles?
+
+6 (8m 39s):
+No, not at all. These Teslas, still a, a remarkably popular brand. They basically sell every vehicle that they make. You know, and Elon Musk has sort of weaponized the criticism against him and used it as a, a way to bolster his fan base. The people who buy his cars not only are just his customers, but also his supporters.
+
+10 (9m 3s):
+You're Elon Musk. What an honor to meet you. I, I, I'm such a fan.
+
+6 (9m 10s):
+They are sort of, kind of immune to a lot of this criticism. You can't really say anything bad about Elon Musk, that he doesn't then just turn around and turn into some sort of, you know, asset for himself.
+
+1 (9m 21s):
+I know Elon likes to weaponize any criticism against him, but there is a lot of it up there. A lot of people are rooting for him, but way more seem to be rooting against him at times, especially when you see data like this, come out, that there have been hundreds of incidents with these, you know, automated driving vehicles
+
+11 (9m 39s):
+Tonight, Tesla confirming this car was in autopilot mode when it crashed in Northern California, killing the driver,
+
+1 (9m 46s):
+People go see, there you go. We can't trust the robots to drive their cars. Is that, you know, fear or resistance to self-driving cars rational.
+
+6 (9m 57s):
+It's definitely something that the autonomous vehicle companies are thinking a lot about because there have been numerous studies and polls that have come out in the intervening years to show that most people don't trust autonomous vehicles. They wouldn't use them. They don't see any use for the technology. And a lot of it has to do with Elon Musk in the way that, you know, his cars tend to crash when they are operating in autopilot mode. But then you've also had the Uber crash.
+
+12 (10m 23s):
+A woman has died after being struck by a self-driving Uber car in Tempe, Arizona. The car was in autonomous mode with a human operator behind the wheel when it hit the woman.
+
+1 (10m 34s):
+I remember this from before the pandemic, maybe 2018, which
+
+6 (10m 38s):
+Is still to date the first and only person that was killed by an actual self-driving car
+
+1 (10m 44s):
+Level three.
+
+6 (10m 45s):
+It is gonna be a problem. And I think you're seeing a lot of the actual autonomous vehicle companies trying to distance themselves as much as they can from Tesla. They're not using terms like self-driving anymore. Since he has started to use that as like a brand name for his technology. Hmm. They wanna use things like autonomous or driverless. It is a problem. And there is a big communication problem. And a lot of it has to do with how we talk about this technology.
+
+1 (11m 7s):
+But that being said, it's a drop in the bucket compared to the amount of accidents we see from cars driven by human beings.
+
+6 (11m 16s):
+Most certainly There is 100% a crisis going on today in vehicle safety, the cars themselves are safer than they've ever been. Thanks to a lot of this advanced driver assist technology, but also because of the way that they're built, but at the same time that doesn't make them any less dangerous to the people that are outside the vehicle. And I think we've seen that the size of cars have gotten much bigger over the last decade. People are trending towards SUVs, large SUVs, and large pickup trucks. And they're not buying sedans and hatchbacks and crossovers as much anymore. And those vehicles are extremely dangerous to drive. They might be really safe for the person behind the wheel, but for everybody else sits outside, it's much less safe for them.
+
+6 (12m 1s):
+So the crash is taking place with Tesla, the ones that took place with the autonomous vehicles, it is absolutely just a drop in the bucket, but it helps us understand as this technology improves and its innovation progresses and more and more of these vehicles start to adopt these technologies. Are they going to be safer? Are we going to see a potential drop in the number of crashes and deaths that take place because of this technology? That's why we need these numbers so that we can better understand whether this is really all worth it. Whether all the billions of dollars that we've spent on developing autonomous vehicles is worth it in the end, because it really does all come down to saving lives.
+
+1 (12m 42s):
+Andrew J. Hawkins he's on a whole other level at the verge in a minute, we head to the most dangerous road for pedestrians in these United States. And it's got nothing to do with robots. It's today explained
+
+ClickUp (13m 5s):
+Today's episode is sponsored by click up. What would you do if you had one extra day, a week, you wanna help us produce an episode of today explained, no, you could do some laundry. You could volunteer. You could get some sleep. The people at click up say that extra day might be out there waiting for you to grab it. Click up is a productivity platform whose goal is to save you a whole day of work. Every week, click up is designed to replace all the different productivity tools that live in different ecosystems. It can house all of your tasks, projects, docs, goals, and spreadsheets. Woo. So you don't have to keep hopping from platform to platform. It's set up to work just as well for a team of one. As a team of 1000 click up is packed with features and customization options. So you can work the way you work best use the code explained to get 15% off click ups, massive unlimited plan for a year, meaning you can start saving time for under $5 a month. Sign up today@clickup.com and use the code explained this offer ends soon.
+
+13 (14m 14s):
+Let me tell you two fruits of life. There are no bad songs and there are no bad Katie Perry songs. They don't exist.
+
+14 (14m 21s):
+These are extreme opinions.
+
+13 (14m 22s):
+And that is what I do.
+
+14 (14m 23s):
+I'll say there are phenomenal Katie Perry songs, but also say there are terrible Katie. What's
+
+13 (14m 27s):
+The worst. Katie Perry song. You're wrong. It's good. Hey, I'm Sam Sanders and I'm hosting a new culture podcast. It's called Intuit from vulture in New York magazine each week on the show. We'll get into the pop culture that we just can't stop thinking about like the Chainsmoker song that became a pro-choice Anthem on TikTok or why comedy specials got so serious or yeah, honestly, I don't even know how to explain this one.
+
+15 (14m 59s):
+Does his poop also time travel? What about his saliva
+
+13 (15m 5s):
+Into it? The weekly culture podcast from vulture launching July 28th, subscribe, wherever you get your podcast,
+
+4 (15m 20s):
+You get a fast guy. I wanna take anywhere
+
+1 (15m 25s):
+Back at it again with today explained I'm still here. Andrew's gone. Now we got Marin Kogan, senior correspondent at Vox who just this week published a piece on car crashes involving pedestrians in the United States.
+
+16 (15m 38s):
+There is a pedestrian fatality crisis happening in this country that I think because so many of us are used to driving or used to traffic, we get sort of inured to how bad it's gotten. But the, the data indicates that we are in the midst of a crisis. So in 2020, there were almost 39,000 people killed in car crashes. Overall,
+
+17 (16m 2s):
+It's not good news at the pest conference here, they broke down some of those numbers and say that they are going in the wrong direction. We are seeing upward trends in some cases that we haven't seen in 20 years,
+
+16 (16m 15s):
+But the numbers were especially alarming for pedestrian deaths. 6,700 people were killed walking in their communities. And then in 2021, it got even worse. There were about 7,500 pedestrians killed by drivers. And that was the most in 40 years.
+
+1 (16m 34s):
+Wow.
+
+16 (16m 34s):
+Pedestrian deaths have been on the rise for the last decade, but the numbers of deaths really started increasing sharply during the pandemic, according to the governor's highway safety association, overall crash deaths increased 5% over the last decade, but they climbed 46% for pedestrians. The deaths have increasing for the last decade. We can talk a little bit about why that is, but those numbers really sort of exploded during the pandemic.
+
+1 (17m 2s):
+Well, let's do the last decade and then the pandemic. So what's been happened in the past 10 years.
+
+16 (17m 7s):
+The biggest problem is that America has continued to structure our life around cars and not people. If you look at most of the communities where people live, they're built for drivers and not pedestrians outside of a number of rare small towns and cities where things are different. So I think what would be really interesting is for people who are listening to look in their community and keep an eye out for something called a Strode,
+
+1 (17m 31s):
+A Strode,
+
+16 (17m 33s):
+A Strode as street road hybrid,
+
+1 (17m 36s):
+Oh,
+
+16 (17m 41s):
+There's this guy, Chuck Marone. He was a traffic engineer and he describes roads and streets as two different things. So if you think of a road, a road is meant to get people from point a to point B as quickly as possible, right? So it's meant to move people from one place to another. So a road that's built for cars should be high speed. It should be efficient. It should be clear and easy for drivers to get from one place to another. A street is something different, right? A street is a place. If you think of like a nice quaint downtown, you think of a street where people are able to go out to eat, they're able to play.
+
+16 (18m 21s):
+They're able to shop. It's a place where you want to have the traffic be very slow so that it's safe for people on foot to get around. And so that the traffic coming through is forced to slow down and, and sort of commune a little bit with the businesses and the people and the life in the community. What we have in America is a bunch of St. Strode, STDs are multi-lane. They have lots of traffic coming through. So they're always gridlocked. There's a lot of stop and go traffic. So cars are neither moving efficiently or safely because the other thing is that they often have a lot of commercial development on either side of them and a lot of people walking around to get to those commercial developments.
+
+16 (19m 2s):
+So what happens is you create all of these opportunities for pedestrians and cars to come into conflict with one another. And we see these in every community in America, STRs are very, very deadly for drivers and passengers and cars, but especially for people who are interacting with them outside of cars.
+
+1 (19m 27s):
+And this probably brings us to pedestrian deaths going up in the pandemic.
+
+16 (19m 32s):
+It does. I think one of the big things that happened during the pandemic is that the usual traffic patterns were disrupted. So there's a lot of congestion on these St Strode, right? A lot of stop and go traffic. We think of congestion as normally a bad thing, but it's actually a really good traffic calming measure. It's really hard to drive super fast and kill someone if there's a car directly in front of you, right. That slows traffic down. So what happened in the pandemic is all of these usual traffic patterns were disrupted. It opened up the roads and allowed people to drive a lot faster on those roads. And at the same time you had a lot of people getting out, walking and biking, right? Like I became runner during the pandemic.
+
+16 (20m 12s):
+I started biking a lot during the pandemic. So you have this sort of perfect storm for pedestrian risk.
+
+1 (20m 18s):
+And this is what you write about in your most recent piece, titled the deadliest road in America, which is about this one stretch of road. That's super deadly for pedestrians. Tell me about it.
+
+16 (20m 28s):
+It is a stretch of us 19, which runs north from Pennsylvania all the way down to Florida. This is one part in Pasco county, Florida.
+
+18 (20m 39s):
+Us 19 has gained a reputation over the years and a nickname death valley.
+
+19 (20m 44s):
+I refer to it as murder highway
+
+16 (20m 46s):
+Study was done last year, they took all of the government's data that they've collected on pedestrian fatalities and tried to identify a thousand meter stretches of road where six or more people had been killed over a 16 year period. When they identified all the hotspots, seven of them were on this single road in this single county.
+
+1 (21m 10s):
+Wow.
+
+16 (21m 11s):
+I mean, they were shocked by that result. And they looked at the numbers and they were like, you know, 137 people have died in these hotspots. That's like a commercial airline going down. And you know, that would be national news.
+
+1 (21m 24s):
+Did you visit this road or is it too scary to visit?
+
+16 (21m 27s):
+I visited the road. I drove the road. I walked the road. I interviewed people who have lost, loved ones on the road. Yikes. Yeah, it was, I will say it was much more pleasant to drive the road than to walk. I sort of was really hating my decision to walk the road when I did.
+
+1 (21m 44s):
+And what is it about this particular road that makes it so deadly?
+
+16 (21m 49s):
+It's so many lanes, there are three lanes going in either direction on either side. And then there are also multiple turn lanes on either side. So if you get to an intersection, there are nine lanes and a pedestrian has to cross this incredibly huge expanse. The other problem is that the crosswalks at the lights are super far apart. So let's say you're standing on one side of the road and you just wanna go to the Publix across the street. You can either walk a mile to get to a safe crosswalk and back, or you can make a run for it. Now at the same time, there are all these lanes and it's very wide flat and open. The speed limit is as high as 55 miles an hour, which means a lot of people are going 60 to 70 miles an hour.
+
+16 (22m 34s):
+So everyone is in a way sort of acting rationally. The, the drivers are driving fast because the road is giving them cues that say, you can drive fast. The pedestrians are running across the street, cuz they're saying it makes no sense for me to walk all the way to a crosswalk. So you've created this really dangerous condition where people are running across the street and you know, drivers are going too fast to be able to stop and see them.
+
+1 (23m 2s):
+Does this one stretch of us 19, tell us about car infrastructure in America or is it sort of a, a Florida thing?
+
+16 (23m 11s):
+Well, it's both a Florida thing and a story of America. I think in, in the way that so many Florida things are, I talked to one traffic engineer and he said, you know, you can think of Florida as you know, on the leading edge of so many different trends and because there's so much growth and so much development, we see a lot of things before the rest of the country does. But you know, in reality there are STRs like us 19 all over the country.
+
+1 (23m 36s):
+So for all the people who just don't wanna accept this American normality of, of traffic fatality, like what can they do?
+
+16 (23m 46s):
+One thing is improving public transit, making it easier for people to take public transit because public transit is safer investing in bike lanes and allowing people to travel by bike because people on bikes are less likely to kill people than people in cars. You know, other countries use traffic cameras to great effect. Car manufacturers could do more. They could add speed governors to cars. They could force cars to slow down and, you know, employ a number of street design features like traffic circles, curb extensions, speed hums to help calm traffic and encourage drivers to slow down.
+
+1 (24m 23s):
+One last thing I wanna ask you about, and it's something I actually heard about from you in a conversation on the V conversations program with the journalist Jesse singer, you two talked about the word accident as in car accident.
+
+16 (24m 37s):
+When we say it was an accident, we're not saying it was random. We're saying it wasn't my fault. It wasn't their fault. And in doing that, we're almost always focusing on the wrong thing and setting up the same accident to happen again, because fault and blame and even absolution has nothing to do with the problem of accidental death and injury. Accidental death is a matter of dangerous conditions. So if you're talking about bad people and good people, who's wrong and who's right, you're barking up the wrong tree.
+
+1 (25m 4s):
+So what should we call 'em? Instead
+
+16 (25m 6s):
+Crashes,
+
+1 (25m 7s):
+Crashes,
+
+16 (25m 8s):
+Crashes. Interestingly, when cars were first sort of driving on streets and someone would say hit and kill a child, they didn't call them car accidents. They called them car murders. Oh. And they called them child car murders and mobs would surround the vehicles and try to pull the driver that drivers would have to be rescued by law enforcement because people were so outraged. Huh. And then the car industry in introduced a term called jaywalking to shift the blame onto people who were walking and make it seem like it was their fault. And so psychologically there's something very tempting about being like, well, it was just cuz that person was being an idiot and not because like we have these dangerous conditions,
+
+1 (25m 55s):
+So let's dispense of accident and also jaywalking. I'll just be like, I'm walking this isn't jaywalking. It's just walking.
+
+16 (26m 1s):
+You're just walking.
+
+1 (26m 2s):
+I love it. Be careful. Marin Kogan Vox earlier you heard from Andrew J. Hawkins verge. Our show today was made by John Aarons with help from Matthew Colette, Laura Bullard and Paul mosey. This is today explained.

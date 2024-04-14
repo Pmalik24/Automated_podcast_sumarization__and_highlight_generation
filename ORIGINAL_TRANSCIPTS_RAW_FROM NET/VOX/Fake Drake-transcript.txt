@@ -1,0 +1,305 @@
+2 (3s):
+When Drake first started getting attention back in 2009, I was skeptical. The guy was on Degrassi, now he's a rapper. But then Drake got undeniably
+
+1 (14s):
+Goody. I thought it made me rich, wasn't paying me enough. I needed something quicker. So now,
+
+2 (19s):
+But after a while, it felt like Drake stopped caring. Like maybe he was just using a bunch of templates to write his songs.
+
+1 (25s):
+Okay. Alright, that's fine.
+
+2 (28s):
+And now maybe Machines. The biggest Drake song in the country, as far as anyone can tell, wasn't written or performed by Drake. How that happened coming up on today explained Shaq,
+
+4 (1m 1s):
+The Coca-Cola company, Keurig, Dr. Pepper and PepsiCo are bringing consumers more choices with less sugar than ever before. In fact, nearly 60% of beverages sold contain zero sugar. Visit balance us.org to learn more.
+
+5 (1m 17s):
+Here's a pop quiz. What's a better factor to determine upward mobility? A elementary school test scores b, A two-parent household, or C commute time.
+
+6 (1m 28s):
+We know that social mobility depends on literal mobility.
+
+0 (1m 34s):
+Transportation.
+
+5 (1m 35s):
+Secretary Pete Buttigieg on the weeds referencing a 2015 Harvard study. I'm John Glen Hill, host of the Weeds, a podcast all about the policies that shape our lives. Find it wherever you get your podcasts.
+
+1 (1m 50s):
+This is an artificial intelligence version of Drake. And listening to today,
+
+2 (2m 1s):
+Eli Patel is the editor-in-Chief of the Verge and the host of the Decoder podcast. And
+
+9 (2m 7s):
+I was a very bad copyright lawyer before I became a journalist, which
+
+2 (2m 10s):
+Weirdly makes you the perfect person to talk about the intersection of AI and the most popular Canadian r and b goof nugget in the world. Drake,
+
+9 (2m 20s):
+That's a great title for Drake. Tell us
+
+2 (2m 23s):
+Where this song came from.
+
+9 (2m 24s):
+I don't know. That's actually a very fishy part of the whole story. So a couple weekends ago, a track blows up on TikTok called Heart on My Sleeve. It is perfectly engineered to go viral. It is an ai, Drake X the weekend collaboration. These two artists are not collabed in forever. So it's, it meets like audience demand. The person doing the track is wearing a bedsheet and glasses. They call themselves ghost writer. It has some songwriting to it. The person claims that they've been an industry ghost writer, an actual songwriter for the industry.
+
+9 (3m 8s):
+So it is well crafted. Importantly, it is absolutely not clear what role AI has played in making the song except for synthesizing Drake's voice. So we don't know if AI made the beat. We don't know if AI wrote the lyrics. We don't know if AI mix and mastered the thing. We just know that at some point in the process they synthesized Drake's voice probably against somebody actually rapping actual lyrics. And that I think is where people have gotten particularly confused. It is not as though someone typed Make me a Drake and the weekend song into chat g b t in this thing was returned.
+
+9 (3m 54s):
+It is a complicated songwriting process. And the last step is having an AI resing a song for you. Basically, there's been a a huge community of people making AI music using artist's voices for quite a long time. My favorite is a cover of, Hey there Delilah using Kanye West's voice. It is adorable.
+
+10 (4m 24s):
+Hey there, Delilah, like in New York City, I'm a thousand miles away because you look so pretty. Yes, you too.
+
+2 (4m 33s):
+Who wanted that to exist?
+
+9 (4m 36s):
+No one. And then it does, you're like, oh, Kanye should just stop whatever he's doing and just cover mid two thousands Guitar rock. That would be great for him. Mid is
+
+2 (4m 46s):
+The operative word there.
+
+9 (4m 48s):
+Yeah, exactly. But these songs have existed for a long time and they haven't gotten viral in this way. So this one going viral and the way it went viral and getting the attention it immediately got and being sort of crypto adjacent, right? The, the person had links in their bio to a service that was run by crypto people. All of it smells weird, but then the conversation it provoked is very important. So this is where copyright lawyer philosophy, Eli comes out. Ah, and I apologize. I pre apologize for it. Nice
+
+2 (5m 22s):
+To meet you, sir.
+
+9 (5m 23s):
+The collision between computers and music is the story of our culture entirely. Whatever happens to the music industry because of computers happens to everything else five years later. Hmm. You can just see it over time, right? The iPod came out, the music industry was overturned many years later. You could download movies, music moved to streaming. The whole industry is overturned many years later. We're all streaming our TV and the streaming services aren't full bore competition. And the thing that is repeated over and over again is that it becomes easier to make music. It becomes easier to copy the music. It becomes easier to distribute the music. And there's not any scarcity left, right?
+
+9 (6m 4s):
+So when you had CDs, they were scarcity. You had to go and manufacture some amount of CDs for some amount of money before you could put them in stores and have people buy them. And so there's natural scarcity to songs and music. You move to digital now, your cost of duplication is zero. The industry gets upended and you can't stop kids from doing it. You get to streaming the cost of distribution false to zero. You're not even bundling things into a 99 cent song. You're saying it's an all you can eat buffet. And we'll do some complicated math on the backend. The last piece of scarcity has been the artist themself. Taylor Swift is a scarce resource economically, there is more demand for Taylor Swift than she can ever make supply.
+
+9 (6m 48s):
+And now this AI has come along and it's like, oh, we have an infinite supply of Taylor Swift. We have an infinite supply of Drake. Mm. And that fully upends the economics of the industry, again, potentially in an existential way.
+
+2 (7m 4s):
+So how are the stakeholders here responding to this song?
+
+9 (7m 11s):
+Another extremely fishy part of this whole thing is he hasn't said anything about it.
+
+2 (7m 15s):
+Oh, Drake, he just knows. He knows how social media works. He knows that he could just stay out of it and it'll, it'll feed the beast. It'll,
+
+9 (7m 21s):
+It'll come to some resolution. But he said something about another AI track a couple days before this hit. So
+
+13 (7m 27s):
+Drake has reacted to an AI version of his voice wrapping an Ice Spice song. He posted a screenshot of the post to his Instagram stories and wrote, this is the final straw ai.
+
+2 (7m 36s):
+How is Drake's label responding?
+
+9 (7m 39s):
+Yeah, so Drake's label is Universal Music Group. And I would say its responses have been equally weird. So first Universal just released a statement about generative ai. And in that statement, the label said, look, you're on the side of the artist, or you're on the side of the technology. Everyone is gonna have to choose. And then very importantly, there's a line that said, use of our songs to train these generative AI tools is a violation of our copyrights and other agreements. So this is universal, laying out its position and saying, if you take Drake's catalog and you copy it into one of these programs to train it, to make Drake's voice, you have now infringed our copyrights.
+
+9 (8m 22s):
+Huh?
+
+2 (8m 23s):
+But they don't know for sure that's what happened here.
+
+9 (8m 25s):
+They don't know for sure. That's what, for all we know, this is some kid who does a great Drake impression.
+
+2 (8m 30s):
+So does that make this song legal or in some murky gray area?
+
+9 (8m 36s):
+It is absolutely in a totally murky gray area. Universal Music Group was able to go and issue takedowns to YouTube and TikTok and other services. But what they were able to claim in order to get the song taken down was a sample of another song that they own.
+
+2 (8m 51s):
+What's that?
+
+9 (8m 52s):
+There's a very famous artist called Metro Boomin. When he produces a track, he has a what's called a producer tag at the top of the track. It's if young metro don't trust you, I'm gonna shoot you The Rapper Future says it, young
+
+3 (9m 4s):
+Metro Don't trust you. I'm gonna shoot you
+
+9 (9m 7s):
+The AI Drake song Hard on My Sleeve, has that tag at the haha
+
+3 (9m 10s):
+Young Metro Don't Trust You. I'm
+
+9 (9m 13s):
+So universal, is able to say, Hey, that's ours. For sure. That's ours. What copyright law regulates is making copies, right? This is an ancient law. Copyright law is in the Constitution, right? This is as old as it gets. And it is built up very much around old ideas of how you distribute information, which is you have to make copies of it. And as we've gotten more and more into the digital age, we've gotten farther and farther from a one-to-one relationship between a song and a copy of the song, a book, and a physical copy of a book. Hmm. And everyone wants to skip ahead to, does Drake own his voice? Every copyright lawyer is all the way back down here at Where's the copy? Hmm.
+
+9 (9m 53s):
+And so the copy here is the copy of the metro booming tag. It's the sample. You've made a copy of it. The copy is you've copied all of Drake's songs into your computer to train an ai. The copy is not Oh, his voice because his voice is not copyrightable in that way. And I, there's a big disconnect here in the law because no one who ever wrote United States copyright law thought that we would get to a place where you could just take someone's voice.
+
+2 (10m 19s):
+How does this evolve? Is this the beginning of a very big problem for groups like Universal Music for artists like Drake and Taylor Swift on the weekend?
+
+9 (10m 30s):
+I think this is the beginning of a historic split between the creative communities and the tech platforms. And what I mean by the creative communities is not just the record labels, but Hollywood publishers like our own authors. If you can just take all of our work and copy it under your computer and then say, it's totally free for me to train an AI to generate more of work that seems like you and trade on your likeness, trade on your trademarks, trade on your style. The law isn't there yet. I think there's a lot of questions to be answered. But if you just went and asked a normal person, does that seem fair to you?
+
+9 (11m 11s):
+Does that seem appropriate that there's no compensation anywhere in that chain of events? Most people instinctively are gonna say, yeah, that doesn't smell right. And I think that's the, that's the split because the tech platform is Microsoft, Google OpenAI, they're all claiming that this copying of training data is fair use, which is a very complicated part of copyright law. That is one intended to be adjudicated on a case by case basis. So every lawsuit is not supposed to create precedent, it's just supposed to be case by case. And then also, once it hits the courts, every fair use lawsuit is like a throw in darts at a board. You have no idea what's gonna happen. And often the courts get it wrong. Hmm.
+
+9 (11m 51s):
+So the tech platforms are very confidently saying, this is fair use. And everyone who knows about fair use is saying That's not how that works. And then the creative communities are saying, who cares? Pay us. You can see that this is all just gonna run right into each other.
+
+2 (12m 9s):
+What about all like the non Drake level artists out there, nii, of which there are many and they're far more important perhaps because they don't already have piles and piles of money. How does this development in this technology affect them?
+
+9 (12m 24s):
+I think historically what we've found, when technology disrupts the high end of the market, it's because the people who don't have access to those tools or don't have all that money, are suddenly able to do what the high end of the market is able to do. So that class of, of artists that you're talking about, right? They don't have access to all the money that Drake has. They don't have access to all the infinite songwriters that are on every pop hit. Now what they do have access to is, oh, I can write some bars and then I can make it sound like Drake wrapped them. And then maybe I can use that to get some attention to myself. Maybe one day I can have access to more instruments that sound differently than the ones that I'm using right now.
+
+9 (13m 5s):
+And you, you just see how the bottom end of the market is just more excited about the tools because they, they just have less to lose.
+
+2 (13m 17s):
+We're gonna hear from a musician who is thrilled to be incorporating AI into her work in a minute on today's
+
+0 (13m 25s):
+Play.
+
+14 (13m 34s):
+Hey folks, I'm Heather Cox Richardson.
+
+15 (13m 37s):
+And I'm Joanne Freeman.
+
+14 (13m 38s):
+We're the hosts of now and then a podcast from Cafe and the Vox Media podcast network that looks to the American past to make sense of our current political and cultural climate.
+
+15 (13m 49s):
+Recently we've traced the tangled history of the New York County District Attorney's office, the American cultural fascination with UFOs and our national love hate relationship with the banking industry.
+
+14 (14m 0s):
+Tune in each Wednesday as we make sense of the headlines and the long road to this crucial moment for democracy.
+
+15 (14m 7s):
+Listen for free wherever you get your podcasts.
+
+9 (14m 13s):
+Hi, I'm Neila Patel, editor and Chief of the Verge and host of Decoder, a podcast about big ideas and other problems. Recently I spoke with Chris Vest, the CEO of Subs about competing with Twitter with its new notes feature. And apparently going head-to-head with Elon Musk is not half as difficult as answering questions about content moderation. You are to figure out should we allow overt racism on notes. You have to figure that out.
+
+16 (14m 37s):
+No, I'm not gonna engage in speculation, you know, specific, would you allow this or that content question? You
+
+9 (14m 44s):
+Know, this is a very bad response to this question, right? You're, you're aware that you've, you've blundered into this. You should just say no. And I'm, I'm wondering what's keeping you from just saying No,
+
+16 (14m 54s):
+I have a blanket. I don't think it's useful to get into, like, would you allow this or that thing on
+
+9 (15m 1s):
+That whole episode of Decoder is up now. It's really interesting. You can get it in Apple Podcast, Spotify or wherever you listen to podcasts.
+
+2 (15m 28s):
+Holly Herndon is an artist based in Berlin. She makes music mostly with her computer and she generously made that version of our theme song you just heard.
+
+14 (15m 37s):
+So I've been making music since I was a child, but when I went to college, I decided to start using the laptop as my primary instrument. And that was a little bit weird at first cuz a lot of people didn't consider a laptop an actual instrument. But I realized that it was this very personal instrument that knows more about me than any other instrument before. So I tried to kind of harness some of the, the newness that this tool slash instrument could enable in music making. I was trying to find a way to make laptop performance interesting. Cuz a lot of people would say, oh, you know, if you're playing your laptop on a stage, I can't tell if you're checking your email or not. Like how do I tell if you're actually playing an instrument?
+
+14 (16m 20s):
+And so I started singing, using my voice as a kind of data stream. But what would come out the other end often didn't sound like a human voice. It would sound like whatever digital processing I had kind of put on my voice. I always say that's my biggest attribute is that I'm a mediocre vocalist. So that it, it forced me to create all of these really unique digital tools to make my voice really unique and interesting. So that's kind of how that all started.
+
+2 (16m 51s):
+And this is how Holly got into making music with ai.
+
+14 (16m 55s):
+I'm still doing a ton of digital signal processing, but when I learned about machine learning that you could kind of create the model, create a model of a sound, for example, my voice, then I realized, wow, okay, then I could ask this voice to kind of perform things that my physical human voice couldn't normally do. So I'll al also play you an example of her singing in Spanish <unk> Byz. It can sing, you know, really complicated musical passages in multiple languages that I don't have the vocal training to accomplish.
+
+17 (17m 39s):
+Thank
+
+14 (17m 40s):
+You. I can't speak Spanish by the way. So wait,
+
+2 (17m 43s):
+Sorry. You have an AI voice. Tell me more about that.
+
+14 (17m 46s):
+I do. Yeah, so, so I've been working or experimenting with AI since around 2016.
+
+2 (17m 51s):
+Wow. So like way, way longer than Drake in the weekend. Way
+
+14 (17m 54s):
+Longer than Drake in the weekend. Yeah, I mean I've been, I, yeah, I kinda, I gave a TED talk in 2022 about this kind of like vocal impersonation or as I like to call it identity play. Could someone else go on tour as me with my permission? Could I be in a thousand different bands in multiple languages and what would that even sound like? But yeah, when I started experimenting with AI around 2016, I realized pretty early on that your model is your data. So it really makes a big difference what you train your AI on. And I really only felt comfortable training my AI on my own voice because that was the IP that I had access to.
+
+14 (18m 35s):
+Hmm. Or on, you know, people who I could get consent from. So I put together a, a small choir, small ensemble, and we collectively trained an AI together and we performed with the ai.
+
+2 (18m 48s):
+Wow.
+
+14 (18m 58s):
+Yeah. And so I have a newer version now called Holly Plus,
+
+2 (19m 2s):
+Like Disney plus.
+
+14 (19m 6s):
+I don't know what Disney Plus is, but I imagine that's a streaming service. Yeah. Okay. No, not like Disney plus like a digital version of me. Holly Plus is essentially an AI model of my voice. They're actually multiple models. Some of them are really natural sounding with my, you know, that can enunciate language and others are kind of more just a kind of textural audio. Hmm. I also did a cover of Dolly Parton's Jolene that we made a video for. You can find on YouTube where my AI voice is singing one of the greatest songs of all times.
+
+2 (19m 41s):
+Wow. Wait, I wanna pull it up right now. Is that okay?
+
+14 (19m 44s):
+Yeah. I mean I Holly
+
+2 (19m 45s):
+Is it Holly plus like plus sign or Holly plus like p l u s
+
+14 (19m 49s):
+Plus sign.
+
+2 (19m 50s):
+I got it. I'm gonna play it. Wow. Cool. Video right out the gate. What is going on?
+
+14 (19m 59s):
+This is my friend's team Rafu, they created the video using a lot of machine learning, you know, models trained on East Tennessee imagery where I grew up cuz we were kind of creating a kind of fake past for myself. Dolly Parton is a huge, I don't know what say her, her figure looms large there. She's a,
+
+2 (20m 19s):
+She's a national treasure, but even more so in Tennessee.
+
+14 (20m 22s):
+Exactly. Yeah. Like if I got all A's on my report card, I would get to go to Dollywood kind of thing.
+
+2 (20m 40s):
+This sounds great. So this isn't you singing, this is AI that's been trained on your voice.
+
+14 (20m 46s):
+Exactly. So that's the kind of really cool thing about, this is the term that I came up with with my partner for this is called spawning, teaching the AI sonic properties of one sound to create a new sound. Huh. So this is what allows Holly Plus to create like a really wide range of vocals that I did not sing based on a set of prerecorded phrases that I did sing. So it's kind of teaching the, the sonic logic of a sound
+
+2 (21m 29s):
+As I always do with any YouTube video I'm watching, I scroll down to read what people are saying about it. Oh no. And it's just near universal love. People are saying stuff like, I'm super excited about this surprise drop, remarkable, unique, and fresh take on a classic. But then there's this one I found, oh no, that's maybe the most interesting. It says, your voice is incredible. And then someone replied, it's not a real voice, it's all ai. And then the original person replied, no it's not. And then, and then the other guy replied, yes, it look it fu.
+
+2 (22m 13s):
+I don't know what that means, but there's a debate. People don't know if it's real or not. I think this gets at something I wonder about when I hear there's a new AI Drake song. It's like the question becomes to me like, does it matter? Do you like it or do you not like it?
+
+14 (22m 30s):
+Yeah, I mean I think for a lot of people it doesn't matter. It kind of brings into question like what's the role of the artist? You know, what aspects of art creation are okay to outsource or can become kind of a mechanical process? And this is a question that's not necessarily new. I mean, Warhol's been asking this, you know, decades ago, and so it's kind of a continuation of that question. I think the big point here is about consent. If people are going to be performing with your voice or your likeness, it would be really great if there's a system for the artist or the voice that's being used to be able to consent or to be able to tell if certain works have been approved by that artist, or if certain works are kind of more part of fandom, so that you can differentiate the kind of artist's voice from the automatically generated voices.
+
+2 (23m 23s):
+Let, let's bring this back to Drake in the weekend then. It sounds like if this is all about consent, you would not approve of some internet artist, whoever, whoever it might have been taking Drake's catalog, feeding it through some AI and coming up with some fresh Drake tracks. If that is indeed what happened here?
+
+14 (23m 44s):
+You know, in an ideal world, Drake and the Weekend would have their own models that they could make accessible to the public, and then you could see which works Drake and the weekend maybe approved or which works. Were kind of just like freely works in the wild, but ideally the artist whose voices are being used would have some kind of say in it. I do think it's one of those kind of things. It's like it's going to be really difficult to control. So I'm, I'm not really in favor of a kind of punitive IP debate around this. I think that it will be more interesting if people are more permissive with their ip that can actually unlock really fun and cool stuff.
+
+14 (24m 26s):
+Like what if the Weekend and Drake actually really loved the song and then decided to then add a verse to it and then that could go on their official Spotify playlist or whatever. Like what if there was some sort of interaction there and then they could interact with their fans who could perform as them in certain ways. I think it can unlock really weird and interesting collaborations. Of course, the devil's in the details,
+
+2 (24m 58s):
+That was Holly Herndon. Her AI Alter Ego is Holly Plus, kind of like Disney plus. Find them both@hollyherndon.com. Earlier in this show, you heard from Ni Eli Patel, find him@theverge.com. He's also got a podcast called Decoder. If you're into tech podcasts, you'll be into decoder. Our show today was produced by Amanda Lou Ellen. It was edited by Amina aad. It was fact checked by Avi Shai Artsy and mixed by Paul Robert Moundy. The rest of the team it today explained is comprised of Hal Maha Hai, ma, Wadi Miles, Bryan Victoria, chamberlains Petros, and Laura Bullard. Happy birthday Laura. Extra help from Jolie Myers and Patrick Boyd and Michael Rayfield.
+
+2 (25m 40s):
+We use music by Breakmaster Cylinder and Noam Hassenfeld. Matthew Collette, our managing editor, Noel King, hosts a show with me. I'm Sean Ramas for today. Explained is distributed by W n yc. We are part of the Vox Media podcast network.
+
+19 (26m 32s):
+We all need the right tools for success. A painter needs their perfect brushes, and a climber needs to be able to rely on their harness. And for your work, you need to stay connected with Slack teams can help you work better. Slack is a productivity platform that connects all your team members together instantly. It's built to help your team with a host of features like huddles for quick check-ins and clips for recording and sharing video. Slack also makes it easy to search and find the right information you need. You can even integrate the apps you use in your normal workflow, like your calendar or product management tools so you stay focused on the work that matters and get more done. Learn more at slack.com/productivity.

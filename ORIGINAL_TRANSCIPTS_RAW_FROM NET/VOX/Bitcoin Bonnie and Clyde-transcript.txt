@@ -1,0 +1,233 @@
+0 (2s):
+Warning today's show is about the Bonnie and Clyde of Bitcoin. Bonnie has a bit of a potty mouth listener. Discretion is advised.
+
+1 (15s):
+My name is Devlin Barrett. I cover the FBI and justice department for the Washington post. So on February 8th of a pretty amazing arrest happened of a couple in New York in their thirties, arrested on charges of trying to launder $4.5 billion worth of Bitcoin.
+
+2 (35s):
+Today, the department of justice has dealt a major blow to cyber criminals, looking to exploit crypto
+
+1 (41s):
+Of currency. We've just department says that's the largest seizure they've ever done.
+
+2 (45s):
+The department of justice has seized over $3.6 billion worth of that stolen cryptocurrency
+
+3 (53s):
+Largest ever like, like bigger than an Al Capone comparatively, relatively bigger than a Bernie Madoff. Anything like that,
+
+1 (1m 1s):
+Madoff wasn't chump change, but this is just an astronomical amount of money in the form of Bitcoin.
+
+3 (1m 8s):
+Funny though, because Al Capone, Bernie Madoff became household names. I don't know if you could find an American who could Dave, the two people who got arrested for this $4.5 billion scheme here who are
+
+1 (1m 23s):
+34 year old man named Ilya Lichtenstein. He is essentially a tech entrepreneur. He he's had, you know, a fairly observable career in the world of tech and startups. We help the little scrappy startups compete with the big incumbents and his wife named Heather Morgan. Heather Morgan is 31, started some of her own businesses in that space. I am
+
+4 (1m 48s):
+Cereal software entrepreneur and investor a copywriter for more than a decade of former.
+
+1 (1m 56s):
+But I think what it was sort of more eye-popping about his wife's background is that she also is some sort of aspiring rapper
+
+5 (2m 4s):
+On your life who just suck things about them. <em></em>
+
+1 (2m 15s):
+It's an amazing couple of characters to be at the center of the biggest seizure and us justice department history.
+
+3 (2m 26s):
+What's her Noam, the plume, you know, what's her rapper pseudonym. I
+
+1 (2m 31s):
+Believe she goes by rattle con Rasul
+
+3 (2m 34s):
+Up.
+
+1 (2m 36s):
+She refers to herself as the crocodile of wall street, motherfucking
+
+5 (2m 41s):
+Wall street over on my fingers and boots on my feet.
+
+1 (2m 45s):
+What does that mean? I, boy, you know, I guess, I guess the Wolf was already taken, had been a rich
+
+6 (2m 53s):
+And I have been a poor man and I chose rich every fucking time.
+
+1 (2m 58s):
+His public profile seems to be a little more straightforward. He has both us and Russian citizenship. He describes himself as basically an angel investor. Her sort of more official work is a little different. She started a company that she calls sales folk, which describes itself as a cold email marketing company.
+
+7 (3m 19s):
+If you want to be successful in today's world, whether you're in sales or not, you need to know how to build relationships online, as well as offline through the power of email outreach.
+
+1 (3m 31s):
+She postures the company as advising clients on how to make more successful cold emails to people. I think most of us would call that spamming. One of the things that's interesting about them is they have a very extensive online life. It's a little strange to see that according to the feds, these folks were involved in trying to launder just a massive amount of Bitcoin and being, you know, allegedly some of the biggest criminals that just department's ever caught.
+
+3 (3m 58s):
+How did this, this angel investor tech entrepreneur and his rapper wife, spam email marketer ended up seizing $4.5 billion of Bitcoin. How does that happen? Exactly
+
+1 (4m 13s):
+So far, the government has not accused them of the actual theft, but it's a very interesting criminal complaint that was filed against them because it seems to suggest that from the moment this Bitcoin was stolen from a cryptocurrency exchange called Bitfinex in 2016, this money was essentially under the control of Lichtenstein and Morgan, pretty much from the moment it was taken. So they don't
+
+3 (4m 40s):
+Know if they took it, but they certainly
+
+1 (4m 43s):
+Received it. The government is very confident. They can prove that these to try to launder the money. Okay. I think what they're not saying is if they think they can prove that these two actually stole it, huh? It's the kind of theft that really could only happen in the modern world, which means they basically went into Bitfinex and they were able to hack their way into creating 2000 separate unauthorized transactions. Meaning they basically took a lot of bites out of other people's accounts. They were able to manipulate other people's accounts and send Bitcoin wherever they wanted it to go.
+
+1 (5m 23s):
+And through those 2000 different transactions, the hackers, whoever the hackers may be, the hackers were able to take off close to 120,000 Bitcoin. One of the amazing parts of this whole story, right, is that at the time in 2016, when this is done, 120,000 Bitcoin was worth roughly $71 million. But because Bitcoin and cryptocurrency in general has been exploding in value in the year since that 71 million of Bitcoin is now worth about 4.5 billion and
+
+3 (5m 59s):
+The government just grabbed 3.6 billion,
+
+2 (6m 2s):
+The prosecutors and investigators from the justice department, IRS criminal investigation, Homeland security investigations, and the FBI followed the stolen money on it's complex journey through a labyrinth of virtual currency, exchanges and wallets based here and abroad.
+
+1 (6m 21s):
+And that's a huge sum of money in itself. There'll be some really interesting decisions that you have to make in terms of the government has said, they will give that out to the people from whom it was taken, but that's a process that has to go through the court system. So people are going to have to come forward and say, well, this was taken from me and I want my Bitcoin back.
+
+3 (6m 41s):
+So do we know how Illia and his wife razzle con get their hands on the money?
+
+1 (6m 48s):
+Some of this stuff has to be, you know, sort of aired out in court. What the government alleges is that they have controlled the accounts that hold this money for years, they may have had some role in the actual theft and hacking of it, but the government isn't accusing them of that. I think from the government's point of view from prosecutor's point of view from the IRS has point of view and the FBI's point of view, they just look at it as well. We have enough evidence to prove that they tried to launder this money. They controlled it and they tried to launder it. And we can prove that there will likely be an indictment, a formal indictment that comes out of this investigation. And I'll be interesting to see if the DOJ adds additional charges in that indictment.
+
+3 (7m 28s):
+I mean, what do you do with that kind of money when you're, when you're holding it and laundering it potentially
+
+1 (7m 33s):
+Allegedly the government charges that part of what this couple were doing was they were trying to cover up the actual original source of the money being stolen by just moving it, hopping it from account to account, to account. And the government has an alleged that they actually spent much of it at all. You know, the charging document that's filed now basically says they bought a $500 Walmart gift card. They spent some money on PlayStation and they spent some money on hotels.com and Uber. So with,
+
+3 (8m 4s):
+Sorry, with $4.5 billion, they lived like a, maybe like an upper middle-class American.
+
+1 (8m 11s):
+Exactly.
+
+3 (8m 12s):
+That's the whole point of Bitcoin, right? Is that there's this ledger, that's tracking everything and it's constantly changing. And it's really
+
+1 (8m 18s):
+One of the real ironies. I think of this case, someone stole so much money that it was that it was almost unusable. It may be a little like stealing the Mona Lisa, like the first time he tried to sell it, everyone's going to know what you're up to. It may be in some ways, an spendable money.
+
+9 (8m 53s):
+Have you ever wondered whether New York city bagels are really better because of the water or why the mafia got it, start in Sicily's lemon groves, or if those CBD infused seltzers actually do what they promise gastropub
+
+10 (9m 5s):
+As a podcast, exploring food through the lens of science and history, each episode journeys into the weird and wonderful as we uncover everything you never knew about your favorite food. I'm Cynthia Graber and I'm Nicola. Twilley
+
+9 (9m 19s):
+There. You're obsessed with food or someone who wants to learn more about what's on your plate. We'd love for you to join us,
+
+10 (9m 25s):
+Listen and follow gastropod on apple or wherever you listen to podcasts
+
+Shopify (9m 31s):
+Support for the shelter. They comes from Shopify. If you're someone who sells things online, you need a commerce platform that makes it easy to sell the things. And Shopify is one of them. In fact, it is the go-to choice for millions of different businesses. According to Shopify, they've got this all in one commerce platform. That includes everything you need to start run, and even grow your business. Whether you're selling organic dog treats formal clothing for collectible dolls, go to shopify.com/explain all lowercase for a free 14 day trial and get full access to Shopify. As entire suite of features grow your business with Shopify today, go to shopify.com/explained. Now that is shopify.com/explained all lower case,
+
+11 (10m 34s):
+No armed robbery.
+
+12 (10m 38s):
+It ain't like anything
+
+11 (10m 42s):
+New. You have a Robin faker
+
+3 (10m 45s):
+Devlin. It sounds like this crime was ultimately historic and huge, but kind of dumb. Like someone did something here that was literally traceable. They left like a trail, a very literal trail online is that fair.
+
+1 (11m 2s):
+Dumb may be a little harsh only because I think everyone's learning how Bitcoin really works, how cryptocurrency really works. It's a learning curve for everyone. And it's a learning curve for criminals. It's a learning curve for law enforcement. And you know, that's true of any new technology that comes, comes around. But I think what you see in this case in particular is it shows you that this is a learning curve that involves potentially billions and billions of dollars,
+
+3 (11m 31s):
+But the government wasn't really ultimately caught flat footed here. How did they trace
+
+1 (11m 36s):
+This crime? They don't say exactly how they got onto this couple, but there's a really interesting hint dropped in the court papers. When the government seized a dark web marketplace in 2017, that was called alphabet. This
+
+3 (11m 52s):
+Is the largest
+
+13 (11m 53s):
+Dark market web place take down in world history. Most of this activity was in illegal drugs, pouring fuel on the fire of a national drug epidemic.
+
+1 (12m 4s):
+Alphabet was basically a place where going to the government, people use cryptocurrency to buy drugs, guns, and fake IDs, essentially. And it was, it was a place that sort of build itself as you can spend crypto here. And it won't be traceable. Like the rest of crypto is taking down alphabet. They were able to see some of the transactions that this couple were making as they tried to move and launder and hide and use the money stolen from Bitfinex. And just to be clear, they don't outright say, you know, the takedown of alphabet led to these arrests, but if you put the dots together, they seem to all point to that.
+
+3 (12m 44s):
+So they're willing to sort of show their hand a little bit.
+
+1 (12m 47s):
+Yeah. And that's part of the cat and mouse game of cops and robbers, to be honest, every case requires the government usually to, to say a little bit about how they cracked it. This is a really interesting moment. I think, in the law enforcement and criminal contest around cryptocurrency and Bitcoin, because a lot of criminals I think are going to look at this case and think, oh, this, this could be bad for us down the road because the government has clearly figured out how to do something here because for a long time law enforcement fear that it couldn't follow these kinds of transactions. And I think this case proves that they can have,
+
+3 (13m 27s):
+Is it different as far as we know than the way the DOJ or FBI typically investigates financial crime
+
+1 (13m 35s):
+Pre crypto. And frankly, pre-internet a lot of financial crime investigations started because someone picked up the phone and called the FBI, someone, a human being said something to an investigator that like, you should really look at this or that. And sometimes it was the victim of a crime. Like if it's a fraud, sometimes it was someone who worked alongside someone who was committing fraud here. There's a really interesting dynamic that I think points to how future crimes involving crypto are going to be solved, which is the investigators. And prosecutors ran a kind of software called clustering software, pulls out similar transactions and says, these transactions seem to be related to each other.
+
+1 (14m 19s):
+You might look at these as possibly involving money laundering or some other crime. And so early in this investigation, what happened was the government went to a judge seeking approval for searches of this couple's accounts. And they basically said, look, the, the clustering software we use suggests that the users of these accounts are the people who are moving the money that was stolen back in 2016. And the judge, you know, spent a lot of time chewing on that and basically said that this computer is a confidential source in another form. And that's, that's really something new and different. Hmm. The government has used different types of software to help them solve different types of crimes before.
+
+1 (15m 3s):
+But I think this is really a big moment in terms of how software is used as a tip essentially to point to possible financial crimes.
+
+3 (15m 14s):
+And then this case, the tip leads to this tech investor, rapper spammer in New York city. What happens when it leads to, you know, some dingy warehouse in Moscow,
+
+1 (15m 28s):
+That's a big problem with cyber crime in general, what FBI agents and others say all the time is, is how frustrating it is that a lot of their evidence trails lead to places where they can't make arrests, where local authorities won't help them. It's a particular problem in a different way regarding crypto, because a lot of crypto is used by people who do ransomware. And part of the reason the justice department is spending so much more time and energy learning how to trace cryptocurrency transactions is that ransomware is out of control in some parts of the economy. And, you know, if they can harness this technology, it would, it might go a long way to reducing the problem of ransomware.
+
+1 (16m 16s):
+That the challenge is frankly, that a lot of the folks who are doing that live in places that do not cooperate with us law enforcement,
+
+3 (16m 24s):
+Right? In which case they'll sort of be powerless.
+
+1 (16m 29s):
+It's up to a point, you know, the what, what us officials always like to say is we have a long memory and long arms meaning you, you know, ransomware, criminal may think you have gotten away with it. And you may think we don't know who you are, but we do know who you are. And if you ever take a vacation to Thailand, just use a random example, but it actually happens fairly often. We're going to have you arrested and then we're going to have you extradited and then you're going to be in a us prison. So that's the hope that law enforcement brings to these types of investigations, but you know, not everyone vacations in Thailand and smart criminals, no, you shouldn't probably travel to places that have extradition treaties with the United States.
+
+3 (17m 10s):
+You know, I heard once that after nine 11, the government dedicated so much of its law enforcement and intelligence agencies to terrorism, that it became a really good time to commit a financial crime. Is there some kind of shift going on within the law enforcement apparatus in the United States right now with, with crypto where so much attention's moving to crypto, that it's becoming a really good time to commit a different kind of,
+
+1 (17m 36s):
+I would say two things. One, it is true that there is a significant concern among current and former federal law enforcement officials that the post nine 11 era had a debilitating effect on the FBI and the DOJ and their ability to investigate and prosecute white collar crime. What's interesting about the sort of the crypto era we may be in sort of the first generation of cryptocurrency crime. And I think in that era, the FBI and justice department have two challenges. One they're not necessarily as good as they used to be at, at pursuing financial crimes. And two, they have to pursue it in this digital landscape that they, that they are still learning.
+
+1 (18m 18s):
+It's a big score. And any criminal would look at that and be like, well, that's the biggest score that you could ever get and not be able to spend
+
+3 (18m 27s):
+A $500. Walmart gift card may
+
+1 (18m 29s):
+Await you. And that was, and that's evidence against them, right? Like you could argue that even that Walmart $500 gift card was a bad idea, brutal, just
+
+3 (18m 39s):
+A brutal, brutal
+
+1 (18m 40s):
+Payoff, tough out there, tough out there
+
+3 (18m 44s):
+Movie ever. Cause once I get the buddy, they go to Walmart and buys.
+
+1 (18m 49s):
+I'm curious as a reporter, I'm sort of waiting to figure out like, did they get that Walmart card because they actually needed or wanted to spend something? Or were they sort of testing the system? If it's a test, it failed, right? But either way it was $500, all of your trade craft and all of your cleverness and all of the tricks you use to get away with something, all look brilliant until the moment the handcuffs come on you. And then it all looks really dumb because it didn't work. And because they saw you. So if you're, if you're a spy, who's leaving something under a rock. If the FBI is already sitting there behind a Bush with a camera, you look pretty dumb.
+
+1 (19m 30s):
+But if they're not sitting there behind a Bush with a camera, you're a genius.
+
+5 (19m 35s):
+The first subject better win come real far, but don't know where I'm headed. Motherfucking pocket, Ella wall street over on my fingers and boots on my feet always be a goat, not a goddamn email me. Fuck your message. At the beep. Beep beep
+
+3 (19m 54s):
+You can read Devlin Barrett's reporting on the Bonnie and Clyde of Bitcoin over at the Washington post I'm Sean Ramez from our episode was produced by Victoria Chamberlain edited by Matthew Colette's engineered by Paul mousey and fact by Laura Bullard, we used music by
+
+5 (20m 12s):
+And my little finger. However, as we'll hear to hear a point to throw a singer playing on their worst, the first steps you better come real far, but don't know where I'm headed. Motherfucking pocket, all of wall street vendors and boots on my feet always be a goat, not a goddamn sheet. Email me, fuck your message. At the beep. Beep.

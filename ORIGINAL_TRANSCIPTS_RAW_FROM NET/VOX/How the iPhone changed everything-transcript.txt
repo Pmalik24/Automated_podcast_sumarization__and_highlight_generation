@@ -1,0 +1,350 @@
+0 (1s):
+We used to do our bookkeeping on paper. Now we use Excel. We used to design print layouts with scissors and glue. Now we use InDesign. We used to have to learn code, to build web experiences. Now there's what flow. What flow helps businesses create professional custom websites without having to write code and empower designers and marketers to create and launch completely custom websites without engineers. They do that by combining the power of HTML, CSS, and JavaScript, and a fully visual interface done and done go to webflow.com to learn more today. Web flow, the modern way to build for the web.
+
+2 (43s):
+I remember like a decade or so ago when everyone you knew was getting a smartphone, but you had that one friend who just wanted to hold out as long as humanly possible. I was that friend. I would ask my brother to look stuff up for me. I would ask my buddy to look stuff up for me. I started asking the person that I started dating to look stuff up for me. What? Time's the movie? How do we get there? What's the most populous city in the Western hemisphere. Can you ask your phone? Can you ask your phone, ask your phone eventually. No matter what question I asked the answer was the same. Get an iPhone today on the show. We're going to talk about how that muddy little telephone and the company that made it changed the world.
+
+2 (1m 28s):
+Actually, we're not going to talk about it. Land of the giants is it's a show. We like a lot. We've shared their stuff with you before and now they've got a new season on the apple revolution. Here is episode one, subscribe or follow or whatever apple calls it to hear the rest.
+
+3 (1m 48s):
+January, 2007, the world's biggest tech companies. We're off to a massive convention in Las Vegas to schmooze and drink and show off stuff they wanted to sell. But one giant company was not at the consumer electronic show. Apple Apple's absences, CES wasn't unusual. What was unusual was that Steve jobs, apple CEO was holding his own show at the same time, 400 miles away.
+
+1 (2m 12s):
+He set an unspecified special event at one of the convention centers in San Francisco.
+
+3 (2m 21s):
+Walt Mossberg was the wall street journal tech reviewer, and he had more influence on tech than any other journalist. If you had a new computer or gadget or software, you wanted the world to know about, you brought it to Mossberg first and you prayed. He liked it. Steve jobs had cultivated a relationship with Mossberg for years. He called them up routinely off the record to shoot the shit. Now jobs wanted Mossberg at his event
+
+1 (2m 44s):
+And like others, I was invited. And I said to Katie cotton has had PR woman who called to invite me. What's it about? She said, I can't tell you, but it's big
+
+3 (2m 58s):
+Mossberg. No, he was going to CES instead.
+
+1 (3m 2s):
+Then he got another call this time it was jobs. And he says to me be there. I said, I don't have to be there. I mean, I have all these other appointments. There are other companies other than apple. And you know, and he said, I understand that, but you will kill yourself if you're not at this. And I said, well, what is the product he said, I can't tell you. But he said, I'm telling you, I'm giving you my personal word. That it's the most important products since the Mac. And you will be extremely unhappy with yourself. If you don't come,
+
+3 (3m 38s):
+That was a hard sell from one of the world's best salesman. And it worked. Mosper got on a plane to go see the Steve jobs show.
+
+4 (3m 47s):
+Every once in a while, a revolutionary product comes along. That changes everything.
+
+3 (3m 54s):
+Jobs was onstage and his standard uniform jeans, new balance, black turtleneck. He told the crowd, he'd be introducing three revolutionary new product.
+
+4 (4m 3s):
+The first one is a widescreen iPod with touch controls. The second is a revolutionary mold and the third is a breakthrough internet communications device.
+
+3 (4m 25s):
+People who paid attention to apple knew that apple was going to make a phone someday. So there were huge expectations. It would be groundbreaking, but the phone itself, that was a total mystery,
+
+4 (4m 35s):
+An iPod, a phone and an internet communicator, an iPod, a phone,
+
+1 (4m 47s):
+The way that he started, kind of teasing you into thinking it might be multiple devices
+
+4 (4m 55s):
+Getting it. This is one device <inaudible> calling it iPhone.
+
+1 (5m 11s):
+I thought it would change phones forever. That was incredible. I thought it was going to be an enormous hit
+
+3 (5m 18s):
+And it was the iPhone changed phones forever, but it also changed personal computing. It changed business. It changed apple and it changed us. Welcome to land of the giants, the apple revolution. I'm Peter Kafka. I cover technology for Vox and Recode. We spent a lot of time in previous seasons talking about powerful tech companies, Google, Amazon, Netflix. But this is the first time we're talking about a powerful tech company that makes tech products for a living products. You touch products. You hold in your hand or wear on your body. Apple started out as an innovative niche, personal computer company. Now it's the world's most important consumer electronics company.
+
+3 (6m 0s):
+Even if you don't use its products, you live in a world. Apple has completely reshaped. It's created entirely new industries, wiped out giant competitors, and it's changed the way all of us live and all of that's because of a single product, the iPhone. Okay. Quick survey. What kind of phone do you have if you're in America and you're listening to this podcast, you've got an iPhone. What's that? You got something else. You've got an Android. Okay. That's possible. And truth. And because my editors want me to spell this out. I only account for about half the smartphone market in the U S but even, so that still means you're using a phone that looks and behaves just like an iPhone because after the iPhone came out, there was no going back.
+
+3 (6m 44s):
+It became the template. Next question. Do you remember what phone you had before you got an iPhone and more important? Do you remember what life was like before the iPhone? You probably don't. It was a while ago and a lot has changed. So we asked some tech journalists, the verges, Neil Patel, and the wall street journals, Joanna stern to help us remember the before times
+
+6 (7m 7s):
+And late 2006, you would buy a phone based almost entirely upon what it looked like, because all it could really do was make phone calls.
+
+7 (7m 16s):
+You either used a regular cell phone, which was a flip phone type thing, which you would really just use to make calls. And you could do like light texting us.
+
+6 (7m 27s):
+But the thing most people cared about was what does it look like? And that's where you got a phone, like the Motorola razor,
+
+7 (7m 35s):
+Everyone wanted the razor phone. And that was around that time. And that was like a status symbol. And then you had like another class of devices, which are really the Blackberry or pocket PC, which was like, get I can't curse on this podcast. Right? Yeah. Go for it. Yeah. It was get shit done. Phones
+
+5 (7m 54s):
+Connect to everything you love in life.
+
+7 (7m 56s):
+Blackberry type on this keyboard send email. You could also text, you could also do phone calls.
+
+3 (8m 3s):
+So phones were something you used to make. Phone calls, maybe texts people. If he worked on wall street or you want it to seem important, maybe you used it for email too. And if you wanted to take decent digital photos or listen to music, then you needed a few other devices.
+
+6 (8m 18s):
+I think about the stack of things. I carried around my pockets. In 2006, you had your wallet, your keys, you had your cell phone, and then you almost always also had an iPod. And the iPad was a far superior device to any cell phone. People prefer to using them to their phones. And it just seemed obvious. I think to everyone at every layer, whether you were a Titan of industry, whether you're just a person carrying on two devices, that these two things should be the same thing.
+
+3 (8m 43s):
+Steve jobs was one of the people that realized that the iPod and the phone were going to merge. So apple needed to be the one that figured out how to merge them before someone else did one big problem for apple. It had never made a phone. It been making computers since 1976. And I pause for the last few years, but cell phones were a whole different beast, but one big advantage for apple. It had never made a phone before, which means it didn't have ideas set in stone about what phones should be. The company wasn't trying to make small updates to existing phones that sucked. And it wasn't trying to jam its own PC software into phones. Former apple executive Tony Fidel helped build the iPod. And then the iPhone. Why is it apple that built the iPhone?
+
+3 (9m 25s):
+Not Microsoft, not Sony, not, not Blackberry. For that matter.
+
+8 (9m 32s):
+These large companies try to take their properties like windows. They all try to take their property that they know and move their customers. And this big operating system down to this smaller device and say, it's like that, but in your pocket, you have all the capabilities, but it's in your pocket and they want to keep all the same anachronisms and do use a stylist instead of a mouse now, instead of using your finger.
+
+3 (9m 57s):
+So you think this is so ideological thing, not a capability thing.
+
+8 (10m 0s):
+That's what I've seen as the fundamental failure with most of these companies who try to get into new spaces is they try to use old techniques to get into new spaces where they can't do that. They have to rethink it from the bottom up.
+
+3 (10m 14s):
+So apple knew it wanted to build a phone and that it would be starting from scratch. It rounds up a team to build something new, an apple, which is famously secretive at all. Times got even more clamped down this time around Nitten Gundotra was on the original iPhone engineering team. And part of his job was to recruit other apple employees under the project.
+
+9 (10m 33s):
+I would go into somebody's office, somebody who we identified as we should really have this person on the team. And I would walk in and say, Hey, I can't tell you what we're working on. I can't mention anything about, you know, the, the product itself. I can't give you any details about what you're going to do. All I can say is that you're going to work your ass off. Do you want to come and do it? You know, and most of the time the answer was, yes,
+
+3 (10m 57s):
+Mark Hamblin worked on the original iPhone product team, focused on the touch screen.
+
+10 (11m 1s):
+They put all of us working on the, on the touch screen stuff in one office area, which was quite new. And I got a nice window office overlooking the interior courtyard of the infinite loop campus. And then like three days later, they come in and they frost my windows. And so my nice view out in the courtyard was then blocked. And so no one could see into my office.
+
+3 (11m 22s):
+The extra dose of secrecy was assigned that the iPhone was a very big deal to apple. Another sign, Steve jobs was very, very hands-on. Francisco <inaudible> was hired to work on the iPhone software, but not right away.
+
+11 (11m 36s):
+When I first joined, it happened to be that, you know, Steve was on vacation and he needs to like personally prove everyone, like the day they start. And so they were just like, well, Steve's on vacation. So you're on vacations.
+
+3 (11m 52s):
+And once job signed off on you, the scope and ambition of the project became pretty clear. There was a,
+
+9 (11m 57s):
+A lot of discussion about, you know, this is the most important product that apple is going to shift. It was on his mind that this was a very important product to get, right? And so the pressure was ratcheted up because of that
+
+3 (12m 10s):
+Jobs had been a famously harsh critic of his employees work in his early days and 30 years after starting apple, he remained intense Francisco. Tomasky remembers that Steve jobs would check in on the team's progress every couple of weeks.
+
+11 (12m 24s):
+I guess it was quickly discovered that the interactions were fairly demoralizing for the engineers. And so the Institute is kind of like a protection layer, where there was one person who was designated to go take the quote, unquote feedback and abuse or whatever. And then like massage that into like, well, Steve didn't like this and he thinks we should do this differently.
+
+3 (12m 44s):
+The iPhone became a two year sprint to build something apple had never made. And that no one else had either a sprint that ended with Steve jobs on stage promising three devices,
+
+4 (12m 55s):
+Widescreen iPod with touch controls, a revolutionary mobile phone and a breakthrough internet communications device
+
+3 (13m 3s):
+For the team that built it. That onstage demo was more stressful than any other moment.
+
+9 (13m 9s):
+I mean, it was just, I mean, I've never been so nervous, you know, not even on my wedding day was I was I as nervous as that,
+
+11 (13m 15s):
+If safari crashes we're in deep shit,
+
+9 (13m 20s):
+Buddy had a, had a flask that he was passing around.
+
+11 (13m 24s):
+It seems like it would be a pleasant memory, but it's not. It's an high anxiety.
+
+3 (13m 30s):
+Everyone else who gathered to watch the unveiling, they had a different experience. The iPhone blew them away. Media treated it like a major international news event. I got front page right up in the New York times. And it really was amazing. People had imagined combining a music player with a phone for years, but this was so much more a computer merged with a phone, a music player and a camera and a display. You could manipulate with your fingers at display that lets you call up just about anything on the internet, a triumph,
+
+9 (14m 1s):
+But just because you have the best technology in the world, doesn't mean that it's going to be widely adopted. There are so many other aspects to shipping something that's commercially successful.
+
+3 (14m 12s):
+Apple diehards lined up. They literally lined up overnight to buy the iPhone. When I went on sale months later, a certain kind of tech dude loved it. If you had one, you could show it off at a party, but for regular people, the iPhone wasn't a must have. And the summer of 2007, it was expensive. Starting price was 500 bucks. This was back when most people had phones subsidized by the phone carriers. Speaking of carriers, the iPhone only ran on at and T's network because at and T was the only network willing to let Steve jobs do whatever he wanted, but at&t's network couldn't handle. The iPhone calls dropped all the time. The iPhone didn't feel essential. That first iPhone was
+
+7 (14m 51s):
+Like a wow factor.
+
+3 (14m 53s):
+Joanna stern. Again,
+
+7 (14m 55s):
+Like it did a lot of things that you were like, holy crap, it's going to do that. But we weren't quite sure what it was going to do for us yet.
+
+3 (15m 4s):
+So it took the iPhone awhile before it became the iPhone. But eventually by the fourth generation in 2010, everything had come together. The internet speeds got much faster and you could get the iPhone and other networks. The camera got better. It added our front facing camera, enter the selfie era batteries and chips improved. And the phone got sleeker.
+
+7 (15m 26s):
+It's a confluence of those technologies. And certainly apple being the one that put them together in that package to kick off what was the smartphone revolution.
+
+3 (15m 34s):
+But the biggest change, the iPhone was something no one gave much thought to in 2007 because no one really knew it was missing an app store. The thing that truly transformed the iPhone, because it opened up the phone to the world's developers who made apps that changed what the iPhone could do for you. It's with let the iPhone make good on the promise. Steve jobs has laid out when he first showed it off. Here's the verges Nilay Patel chicken and egg, but what is more important? The iPhone or the apps that the iPhone enables the apps because Steve jobs
+
+6 (16m 10s):
+Introducing the iPhone as a phone, an iPod, a breakthrough internet communicator, it's the breakthrough internet communicator that has changed the landscape of the entire world. If you don't have the application ecosystem to support the actual breakthrough, you just have a wide screen iPod with touch controls.
+
+3 (16m 25s):
+When we come back, the app store revolution begins. The iPhone debuted in 2007 without an app store. A year later, Steve jobs added one reluctantly at first, the app store was flooded with novelties digital versions of pet rocks. There were apps that let your I-phones big gun noises or act like a virtual Zippo lighter. Here's an actual headline from wired that year I iPhone fart app rakes in $10,000 a day.
+
+13 (17m 8s):
+I remember at one of the top apps, most popular apps was flashlight. And at the time, you know, just the, the concept that it would be an app that turns your phone into a flashlight, seemed very novel and useful
+
+3 (17m 19s):
+For Chris Barton though, the app store, wasn't the way to make a quick buck. It was a way to jumpstart a real business that actually solved a problem. Barton co-founded Shizam. This is an app that was like having a personal music nerd in your pocket. Let's say you walk into target and you love the song it's being piped in while you're buying your 12 pack of socks, you hold your phone up and like magic Shizam tells you what's playing she's M existed before the iPhone and the app store, but it was a pain in the ass to use. You had to call a number and hold up your phone and then Shizam would record a bit of the song and analyze it. And then a little later it would text you the name of the song then came the app store, which instantly led Shizam do two things. It let Barton and his company build an app that could access the I-phones powerful software and sensors.
+
+3 (18m 1s):
+So it could do all that looking up and analyzing right away. And just as important, it let anyone with an iPhone find and download. Shizam easily with a couple of clicks.
+
+13 (18m 9s):
+Before that, you know, we, we had been looking at sort of very small numbers of users, tens of thousands, hundreds of thousands of users, and then with the hockey stick growth curve of smartphones and the app stores. And we quickly went into the next years of seeing millions of users in tens of millions of users.
+
+3 (18m 27s):
+This was a radical change in the way that software worked on phones. Before the app store phones came with a smattering of crappy apps, they were pre-installed on the home screen and called it the deck. And you got what you got. You didn't get a say in the matter of the phone companies and the phone carriers did deals behind the scenes. And so he'd buy a phone preloaded with apps you didn't choose and would never use it. It was really hard to get any new software onto your phone. The app store made this super easy and Shizam found a huge audience via the iPhone. It eventually stalled out and sold to apple for less than its investors had hoped, but Shizam still got a shot. And eventually developers caught up to the possibilities that the iPhone in combination with the app store could open up and they made apps that changed the way we interact with each other and change the world apps that built new industries.
+
+13 (19m 16s):
+The app store solved for so many companies, is that for it largely changed user's behavior. And it basically said, okay, Hey everyone, you have these phones. And now you in just a couple clicks, you can start doing a whole bunch of other things. And so it was game changing
+
+3 (19m 34s):
+Before apps. If you want it to get a ride somewhere, you had to call a cab company and you didn't really know when that cab would arrive and who would be driving you or what it was going to cost. Uber changed all that. And the person driving the car would use their phone to find you. You hired them temporarily with Uber and apple acting as middlemen. That equation turned Uber into a $76 billion company that remade transportation and for better or worse kicked off the gig economy. None of that happens in a world where the iPhone doesn't exist. Instagram, Snapchat, tick-tock, they're all designed to let users make and share and consume photos and videos directly from our phones, anytime from any place. And now they're multi-billion dollar businesses that have changed the way we socialize and think and vote.
+
+3 (20m 18s):
+The app store is the way all this gets to your phone. It's a store where you pick the software for your phone. This is one of those changes. So massive. You couldn't really tell how big it was going to be, but it was also changed. That happened very, very fast. In 2007, there was no app store in 2009, if you needed to do something well, there's even an app.
+
+14 (20m 40s):
+Yep. There's an app for just about anything only on the iPhone.
+
+3 (20m 46s):
+And now we don't even think about it. Apps and your phone are the same thing. The two of them together unlock a whole new world. The story of the app store also tells us something about apple that while it used to be a computer company, those days are long gone. Apple is now an iPhone company that also sells computers. And a few other things, half of its revenue comes from the iPhone and just 10% from max and most of the other non max stuff, apple sells really is iPhone stuff to the app store, which generates billions of dollars a year for apple. That's an offshoot of the iPhone AirPods. They're meant to work with the iPhone. You literally can't use an apple watch without an iPhone. You throw all that together.
+
+3 (21m 26s):
+And 80% of Apple's revenue comes from the phone. So the iPhone has changed apple and business and tech. But the thing that has changed most in the iPhone era is us
+
+15 (21m 41s):
+With the new iPhone. You can watch, listen, ignore your friends, stock your ex, download porno on a crowded bus. Even check your email while getting hit by a train all with the new iPhone.
+
+3 (21m 52s):
+That's a 2010 episode of Futurama. It's about devices planted directly into your eyes. Get it. I phone, it came out a couple of years after the iPhone debut. So most of us aren't injecting devices into our bodies quite yet. But Adam alter who teaches marketing psychology at NYU and studies, how phones affect our behavior says we're basing
+
+16 (22m 11s):
+Seventy-five to 80% of people say they can reach their phones without moving their feet. 24 hours a day. That's a functional implant. As far as I'm concerned,
+
+3 (22m 20s):
+How much time are we spending on our phones a lot, obviously we're not sure about the total amount. A couple of years ago, marketing company, Zenith estimated we're spending three and a half hours a day on our phones, mobile internet. And that seems super low to me because my iPhone tells me I'm spending 10 hours a day. And no matter how much time we spend with our implant slash phones, it's time, we're not spending doing something else.
+
+16 (22m 43s):
+It gets taking the place of to a large extent recreation that doesn't involve screens. So if you look at how we spend our discretionary time, that's the time that most of us allocate significantly to our phones,
+
+3 (22m 56s):
+Freaking out about tech and screens and how much time we're spending on them is not a new thing. People were doing this about TV. As soon as TV showed up, I spent many, many hours watching bad TV in my basement growing up. And now my kids are spending many, many hours on their screens, but they're watching better stuff. And they're playing cooler games. That's, that's an improvement, right? Maybe, maybe all the unease we feel about the way phones have inserted themselves into our lives. It's just an echo of panics we've had in the past, but it feels different to me. And it seems different to people who study this stuff for a living. A lot of researchers are spending a lot of time trying to figure out just how precisely phones are changing the way we think and feel psychologists at the university of Arizona and Wayne state university.
+
+3 (23m 39s):
+For instance, think there's evidence of an evolutionary mismatch between phones and how we've learned to behave over years. I think the phone encourages us to overshare people. We don't really know and simultaneously harms our close relationships because we're not talking to the people right in front of us. We're talking to randos far away on our phone. Swiss academics have argued persuasively that phone's making much more likely to stay up at night, which reduces your quality of sleep, which makes you more likely to be depressed. Other academics think there's a good chance that relying on your phone's GPS reduces your overall sense of direction. And teenagers are growing a horns on the base of their skulls because they spend so much time hunched over phones.
+
+3 (24m 20s):
+Okay? That last one is not true, but it's your sounded true, which is why that story popped up in very serious news outlets like the Washington post and the BBC a couple of years ago before they had to walk it back. But we are very receptive to these kinds of phone horror stories. We spend so much time attached to these things and we don't feel great about it. And also we know that apple employees themselves are worried about what happens when you live in all screen life. Steve jobs, for instance, famously limited screen time for his own kids.
+
+16 (24m 49s):
+I found this totally fascinating because it reminded me a little bit of that idea that you should never get high on your own supply. You can tell everyone you want them to use your product, but you make sure that you don't use too much of it at home.
+
+3 (25m 1s):
+And now that Tony Fidel who helped create the iPhone no longer works at apple, he's willing to admit that he's ambivalent about the world changing thing. He made
+
+8 (25m 9s):
+Absolutely honest. I think about this week, you know, is this, you know, nuclear power or is this the nuclear bomb
+
+3 (25m 16s):
+And a 2018 essay for wired Fidel argue that apple needed to at least give its users more information about their phone use the same way food labels are supposed to help you make decisions about what you put in your body,
+
+8 (25m 27s):
+But don't blame the refrigerator for what you put in it, right? The iPhone is a refrigerator. If you want to put unhealthy things in your refrigerator. So you eat those every day and open that refrigerator every day. That's your fault.
+
+3 (25m 42s):
+This metaphor makes some sense to me. If you're unhappy using your iPhone, maybe it's Facebook's fault because Facebook makes it addictive app that makes you unhappy and undermines democracy. Or maybe it's your fault for using Facebook too much. The refrigerator is just stirring the ice cream. It seems like apple likes this argument. Two months after Fidel Rhoda's wired story, apple introduced screen time. It's a feature that tells you how much time you spend on your phone. That is a food label. And now apple was requiring labels for apps too, but we've had actual food labels for years. We're not getting any thinner. And I don't think telling you you're using your phone too much is what's going to make you put it down. So what would make you put your phone down?
+
+3 (26m 24s):
+What if you get rid of your iPhone completely, could you unbreak your brain and return to the life you live pre iPhone? We found someone who is trying to do this. Well, actually my producer, Zach Mac did. So right now, I'm going to bring him in to tell us about this experiment, Zach, Hey Peter, what's up. So Zach, when we were working on this show, we were trying to figure out how to illustrate what life would be like without an iPhone. And then you went out and found someone who's actually doing this every day.
+
+17 (26m 50s):
+Yes. I found a woman named Lucy Adams.
+
+18 (26m 52s):
+My name's Lucy, I'm 27. I'm a documentary filmmaker. And I live in Brooklyn and I have a flip phone.
+
+17 (27m 2s):
+So about nine months ago, she got rid of her iPhone. Why? Because she felt like her phone and all the apps were making her unhappy. She quit social media a few years ago and she still felt like that just wasn't.
+
+18 (27m 14s):
+I would just find myself opening my phone and not even having anything interesting to look at, just spending a lot of time on it. And I was like, I'm not even doing anything that needs to be done on a phone. Maybe I'll just try it out and sort of like reset my brain addiction to my phone. But now that I have a flip phone, I really can't imagine going back to the iPhone life. Oh wait,
+
+3 (27m 41s):
+Why doesn't you just take the addicting interesting apps that make her unhappy and just take them off her phone. Isn't that her real complaint? She said
+
+17 (27m 48s):
+It was a slippery slope and she didn't think she could restrain herself over time. It's like the same reason you don't stock your fridge with beer. If you're an alcoholic.
+
+3 (27m 55s):
+Yeah, no, that's a bad move from what I understand. Yes.
+
+17 (27m 58s):
+I want to make this clear. She isn't, she's an anti-technology. She participates in day-to-day society. She uses a computer. She uses the internet at home, all that.
+
+18 (28m 8s):
+I told someone, I had a flip on the other day and they were like, so you must also be vegan, but non not vegan.
+
+17 (28m 15s):
+I'm a vegetarian myself. So I know what it's like to make a lifestyle choice. That requires a little extra work, but I gotta be honest. Ditching my iPhone seems impossible. There's a constant navigation of logistics. Hey, I'm in a new part of town. Where am I going to eat? I don't know. Should I look at Yelp? Okay. It's late and I'm drunk and I need to get an Uber home. Like there's so much managing of logistics and spontaneity in this city. And it just seems, it seems like particularly difficult to navigate without a smart,
+
+18 (28m 44s):
+You don't have the most immediate and easiest tool available. It doesn't mean that you can't get directions or can't call someone and ask for directions. But it's just the reward isn't as immediate. And sometimes it's annoying, but so far it hasn't been that bad. Even when I've gotten lost, have just sort of been like, what's that bad about being lost,
+
+3 (29m 11s):
+Getting lost sucks. Yeah. Sometimes you get to reconnect with the world. You haven't been observing, but most of the time getting lost just means you're stressed or late or both.
+
+17 (29m 21s):
+I think she sees it a little differently in that she's willing to put up with a little bit of inconvenience in order to, you know, reclaim her life and her peace of mind. She says, she's sleeping better. That she feels less anxious. She isn't doom scrolling till all hours of the night. But then again, she has to put up with all this extra stuff. Now, when she's on the go, she can't pay for something using Venmo. She can't stream music or podcasts. She can't participate in group texts with her friends. She can't show digital proof of vaccination. She's got some hacks to help her get through her day. And part of that is relying on the people around her.
+
+18 (29m 57s):
+Like I've been out with friends and wanted to get a Uber home and just have to ask someone else to get it for me and then pay them back, which is, you know, not a big deal, but you are relying on other people and having to sort of ask them for favors, which depending on the person, you know, might not be that fun.
+
+17 (30m 17s):
+She's at a restaurant. You can't do the QR code thing.
+
+3 (30m 19s):
+So someone else has to yeah. Wait. So Zach, it sounds like getting off the iPhone is not just a Lucy Adams project. It sounds like Lucy, Adam's friends and bystanders have to help her get off the iPhone as well.
+
+17 (30m 31s):
+She does have some other workarounds though. Like when she's at home, she has an iPad because sometimes she needs to do something on Venmo or call a Lyft herself. But the iPad stays at home.
+
+18 (30m 42s):
+It's inconvenient sometimes. But like, honestly, I don't think about it that much. A guy, I don't feel like all the time, like, oh, there's another thing needed a smartphone for you. Just adjust to it pretty quickly. I just think that having a flip phone has helped me just be a lot more intentional about my time.
+
+17 (31m 4s):
+And do you feel like it's worth it? You would recommend this
+
+18 (31m 7s):
+100% recommend.
+
+3 (31m 9s):
+So I don't think she's doing what she thinks she's doing. She's not giving up the iPhone really at all. She's using other people's I-phones even when she's at home, not using an iPhone, she's using an iPad, which is really just a big iPhone. I don't think she's left the iPhone behind at all.
+
+17 (31m 25s):
+Well, she's not on it. 10 hours a day, like you are saying, she's largely taken a step back from the phone, but yet she still lives in a society where we are reliant on smartphones.
+
+3 (31m 38s):
+So that's what I think is most striking about what Lucy Adams is trying to do here. The starting point assumes that you have to have an iPhone it's 14 years since the iPhone has been introduced. And now it's fully baked into society. It's not a mandate, kind of, it's a charged word. I'm going to use it anyway, but it's pretty close.
+
+17 (31m 56s):
+Yeah, this is, this is our life. Now it feels almost impossible to go back. Even if you try,
+
+3 (32m 2s):
+None of us voted on this, we didn't explicitly consent to this. When you bought your first iPhone, you thought you're buying a phone. Not that you were stepping into a portal where you can't go back, but now we're here. We live in an iPhone world. Apple's world. Next up how a computer company becomes all powerful by ditching computers,
+
+19 (32m 27s):
+Changes it from a computer company of a consumer company. This is a dramatic, dramatic shift. I mean it helps sell a lot more computers, but look Apple's path was to become a consumer company.
+
+3 (32m 38s):
+Land of the giants. The apple revolution is a production of Recode by box and the Vox media podcast network. Awesome people work on this show. Zach Mac is the show senior producer. Our producer is Matt Fasika. Jolie Myers is our editor. Serena Solon is our fact checker. Brandon McFarland compose the show's theme and engineered this episode. Sam Altman is Recode's editor in chief. Our Chung is our show runner in the shop. Kirwan is our executive producer. I'm Peter Kafka. If you liked this episode, leave us a rating and review on apple podcasts or anywhere else. You want to leave us a review and tell a friend and subscribed to hear our next episode when it drops, but disclosure box media creates content for and does business with apple.
+
+3 (33m 20s):
+None of the people creatively involved this season, Atlanta, the giants are involved with those projects, By the way, it's cell Palo.
+
+0 (33m 56s):
+This episode was sponsored by Webflow building really cool web experiences used to be something only coders could do. And now, while it's not what full gives designers, creatives, and visionaries, the power of code without having to write it, what foes no code platform makes it easy to build and launch dynamic custom websites in a completely visual canvas. It's a new era of no code powered by you. Go to webflow.com to learn more today. Web flow, the modern way said built for the web.

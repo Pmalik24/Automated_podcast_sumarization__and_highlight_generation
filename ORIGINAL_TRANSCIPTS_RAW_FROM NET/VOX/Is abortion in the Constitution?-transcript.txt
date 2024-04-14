@@ -1,0 +1,224 @@
+0 (0s):
+We're still coming to terms with that Supreme court leak from last week in the United States, the country is still trying to wrap its head around what the end of Roe V Wade might mean. And that's why we asked you to call in and leave a message with your questions about justice. Alito was leaked opinion.
+
+1 (17s):
+Hello, my name is Levi. I am from the state of Utah.
+
+0 (21s):
+A good many messages were left. I listened to all of them
+
+1 (25s):
+On today. Explain I'd like to have on numerated rights, explored more
+
+0 (30s):
+Numerated writes the ones we have that aren't explicitly spelled out in the constitution
+
+1 (36s):
+Because in justice Alitos opinion, he talked about tradition and heritage of the constitution
+
+0 (42s):
+Under numerated rights, like the right to an abortion.
+
+1 (46s):
+So I think exploring the tradition and heritage side of the consultation versus a numerated rights could be interesting. Alrighty, thank you.
+
+0 (56s):
+Thank you. Levi support for the program today comes from the podcast. Are you sleeping from the sleep experts over at mattress firm and the sales experts over at box creative. They are our colleagues. They handle our ads. Now they're in the business of making podcasts and this one asks the question. Yay. Yeah, a lot of people have a lot of trouble getting the sleep they need, but what if the person in the way of you and your good sleep is
+
+2 (1m 28s):
+Someone you love
+
+0 (1m 30s):
+Listen to? Are you sleeping wherever you get your podcasts? All right, everyone. Welcome to con law 1 0 1 it today. Explain I'm your TA Sean. Rama's from a reminder that office hours are canceled this week in light of the new Kendrick Lamar album. Maybe next week, professor Kenji Yoshino is getting settled. As you know, he's the chief justice Earl Warren professor of constitutional law at New York university school of law. And today's lecture is all about those rights. You don't see explicitly listed out in the constitution, the unincorporated rights, what the, Hey are they professor?
+
+4 (2m 13s):
+This is a head-scratcher for many people who come into law school, which is the idea that there are some rights in the constitution that are nowhere in the text of the constitution. So the reason that's puzzling, right, is that we think that the whole kind of project of writing down a constitution is to make sure that things are written down. So why on earth would there be a lot of rights that are just floating without any textual reference that nonetheless of the stature of a constitutional right? It may shock people that the right to vote, the right to marry and the right to travel across state lines are all on enumerated rights.
+
+4 (2m 56s):
+None of those rights are textually in the constitution.
+
+0 (3m 1s):
+So you hear a lot of arguments these days. Like, you know, there's no right to an abortion in the constitution professor you're telling us there's technically no right to go from New York to New Jersey in the constitution either.
+
+4 (3m 13s):
+Exactly. But nonetheless, the Supreme court has repeatedly said that right does exist the right to travel. Say New York said we are not allowed to travel period to Connecticut. That would create an uproar that would go to the courts and it would be struck down in a hot second. So that kind of thing about on enumerated rights is that they exist. There's this grand bargain of the original constitution in 1789. But the notion is a lot of people said, we're not going to ratify this unless there's a bill of rights. So the bill of rights gets ratified a couple of years later, but even the bill of rights feels really incomplete to a lot of people.
+
+4 (3m 54s):
+And so they shove in this ninth amendment that says simply because we've written down certain rights doesn't mean that this is an exhaustive list and the ninth amendment takes any doubt away from what people believe. Because the framers really clearly stated that the enumeration in the constitution of particular rights was not meant to be exhaustive. It was simply meant to be exemplary. Hmm. So I love this paradox and I always talked to my con law students about this, which is that there is a textual reference to on a numerated rights.
+
+5 (4m 32s):
+The enumeration in the constitution of certain rights shall not be construed to deny or disparage others retained by the people.
+
+4 (4m 39s):
+In other words, there's an enumerated provision in the constitution that talks about under numerated rights and guaranteed.
+
+0 (4m 46s):
+They preserve the right of the thing. They didn't preserve the right for
+
+4 (4m 49s):
+Exactly. And that was really deliberate and smart.
+
+0 (4m 53s):
+All right, let's skip ahead to 1973 and talk about on a numerated rights as they relate to the decision in Roe V. Wade,
+
+4 (5m 1s):
+If you don't mind me rolling back to 1965, our story really begins there because that's when the court began to think about the so-called right to privacy. So in 1965, we have a case called Griswold versus Connecticut.
+
+6 (5m 19s):
+Okay. And as long as the validity of the Connecticut anti contraceptive statute
+
+4 (5m 23s):
+And what the court said was there, isn't a right to privacy anywhere in the constitution. So it's right to privacy is an under numerated, right? And also there was no particular right to use contraception either. However, if we look at the enumerated rights in the constitution, so the first amendment about the right to assembly the third amendment about the right, not to have the government quarter troops in your home during peace time, implicit in all of those rights is some notion of privacy. Whether that's a space place, conception of privacy, like you can't invade my home or even a decisional conception of privacy, like you can invade my mind, right. And forced me to incriminate myself against my will.
+
+4 (6m 5s):
+This is the so-called penumbra analysis where the court says with the right to privacy, isn't enumerated, but it's implicit in so many of the other enumerated rights. Like the ones that I just mentioned, that we're going to preserve it as having a constitutional value and the right to privacy includes the right to use contraception.
+
+6 (6m 23s):
+Certainly the ninth amendment meant to reserve some rights to the fateful on if there's any ride that you would think would be reserved for the faithful on which the government should not in fit with what they described.
+
+4 (6m 34s):
+So when we get to 1973, Roe vs. Wade is not a bulk from the blue, right? Because the right to contraception has already been protected under the right to privacy
+
+7 (6m 44s):
+Under the rights of persons to life, Liberty, and the pursuit of happiness. I think in, as far as Liberty is meaningful, that Liberty to these women would mean Liberty from being forced to continue the unwanted pregnancy.
+
+0 (7m 1s):
+I don't mean to put you on the spot professor, but what does the 14th amendment explicitly say? How good is your memory on this kind of stuff?
+
+4 (7m 9s):
+It's pretty good. I hope so. The 14th amendment, which was one of the reconstruction amendments passed after the civil war says no state shall deny to any person within its jurisdiction, the equal protection of the laws nor deprived them of life, Liberty, or property without due process of law. So there are other provisions, but in pertinent part, that Liberty piece of it is the portion that says you can't deny anyone of life, Liberty, or property without due process of law. So how do we get from this very abstract Liberty to sort of cash it out to more kind of retail level, specific rights like the right to contraception or the right to abortion, right? So that's why I think most of us prefer to think of these as unincorporated rights there, at least on a numerated at that level of specificity.
+
+4 (7m 56s):
+And some would say, they're not enumerated in the constitution at all,
+
+0 (7m 59s):
+Numerated in the sense that the word abortion doesn't appear in the constitution.
+
+4 (8m 4s):
+Exactly. So you could say, oh, well the word liberties in the constitution, the word abortion subsumed within that. But that's too much of a leap for me. At least I would prefer to call them on a numerated rights.
+
+0 (8m 14s):
+Now everyone knows what follows is decades of backlash, but let's hone in on Alitos draft opinion striking down Roe V. Wade what's his beef with abortion as an unincorporated, right?
+
+4 (8m 27s):
+So Alito is not saying there are no, there's no such thing as an enumerated rights in the constitution. If it's not written down, you don't have it, which is sometimes what you hear. People who are less well versed right. In constitutional law. So he's not saying that what he's saying is that this particular, right, the right to have an abortion is not one of the unincorporated rights that deserves protection. So that drives us Sean to the million dollar question, right? Which is how on earth do we distinguish between the numerator rights that are in and the unincorporated rights that are out. And this is what this entire debate that has been opened up by this leaked draft opinion is about because Alitos methodology goes back to a 1997 case called Washington versus Glucksberg and in Washington versus Glucksberg, the Supreme court says that the way in which we find on a numerated rights and recognize them is to make sure that they are inherent, quoting quote, deeply rooted in this nation's history and traditions and implicit, and the concept of ordered Liberty.
+
+9 (9m 33s):
+We've also insisted that the fundamental right at issue in a particular due process case be framed rather precisely.
+
+4 (9m 39s):
+So the notion is we will guarantee an on a numerator, right? If, and only if we can find a long historical provenance for that. Right.
+
+0 (9m 51s):
+And I guess by long historical provenance, we're talking more than what, the 50 years, since Roe V. Wade.
+
+4 (9m 59s):
+Exactly. It's not specified, but it sounds like, you know, centuries and centuries, right? Because you know, Alita is going all the way back to the common law in England, right? Much less the founding of this country.
+
+0 (10m 11s):
+Why is justice Alito going back to common law, England in whatever it might be, the 16th, 17th century.
+
+4 (10m 18s):
+I think that just suggests to us. So what he thinks of when he thinks about this nation's history and traditions, is that a span of time. And the scale of time that we're thinking about should be measured in centuries and millennia rather than years and decades,
+
+10 (10m 36s):
+We should make a good, that would stand the test of time. So that hundreds and hundreds of years from now they'll look back and say, no need to update this one, no toll. They nailed it back in 1235.
+
+0 (10m 46s):
+I don't know. You know, I can like order a whole restaurant to my house on my telephone for my closet. Now, I don't think there's a lot of common law that really dictates how that should work. Does, does it feel a little, I don't know, antiquated.
+
+4 (11m 3s):
+Yes, it absolutely does. And your, you know, audible and to me visible exasperations here is something that I really want to sort of honor, right? Because I think that that is what many people are feeling when they read this opinion. And we know that there's a better way. And 2015 and the America fell opinion, and many people are focused on a burger foul because it legalize our right to same-sex marriage and made that the law of the land. But our Virga fell is important for another reason as well, which is that this 1997 case that I mentioned Washington versus Glucksberg that told us to look at, you know, the nation's history and traditions in order to discern, which on enumerated rights were recognized, gets seriously undermined by this or burger foul case.
+
+4 (11m 50s):
+So the Obergefell case, which is justice Kennedy writing for a of the court says, look, you know, history is a starting point, but it's not the ending point of this analysis. Are we really supposed to assume that tradition always gets it right? The hope of <inaudible> is to say, yeah, history is relevant, right? But we're not going to go back and look at, you know, antiquity, right. Or the common law in order to figure out what rights we have in a 21st century society
+
+0 (12m 21s):
+Professor, would you say that this idea that under numerated rights to an abortion does not have, you know, deep roots in American history of tradition is, is, is that the central idea of a Leidos draft opinion?
+
+4 (12m 34s):
+Yes.
+
+0 (12m 35s):
+And this idea could be applied to many other decisions. The Supreme court has made in the past decades.
+
+4 (12m 42s):
+Yes. 110%. Yes. Same-sex marriage, interracial marriage, you know, contraception, any of those rights are now fully in play. If you're going to say that an unincorporated right to be recognized has to be deeply rooted in this nation's history and traditions.
+
+0 (13m 2s):
+All right, gang, why don't, why don't we take a few minutes, stretch your legs more with professor Kenji Yoshino here today explained in a few, As you may have heard earlier support for the shutter day comes from, are you sleeping from mattress firm and box creative? And I gave you a bit of a preview of an upcoming episode in which there's a sleep dilemma being caused for one person by the person that person loves.
+
+0 (13m 43s):
+It's a real person on person issue that episode a little bit more about it. Now, Jessica calls in with a problem, her husband, snores and thrashes, not a great combination in the bedroom and she can't get the sleep she needs as a result, but she's also hesitant to follow through on a so-called sleep to force. I didn't even know about sleep divorces, but that makes sense. I understand what it is. Join host Kate Berlanti as she asks sleep psychologist, Dr. Shelby Harris for advice, check out, are you sleeping and subscribe wherever you listen to your podcasts, are you sleeping?
+
+0 (14m 26s):
+You can listen to this show right now. All right. Today I explained we are going to jump back into it with constitutional law professor Kenji Yoshino professor, before we left off, you said 110%. Yes. This Alito reading of Roe V. Wade, we got in the leaks draft opinion last week suggests that there are other a numerated rights. That could be next.
+
+4 (14m 58s):
+That's exactly right.
+
+0 (14m 60s):
+What else is on the chopping block?
+
+4 (15m 2s):
+So the right to same-sex marriage, which was decided in 2015 and the Obergefell case, because applying a Lido standard, the right to same-sex marriage is not deeply rooted in the nation's history and traditions. I would also look in the LGBT context at same-sex sexual intimacy and Lawrence, which is seen as the brown vs board of the gay rights movement and the race context, at least the Liberty, right to interracial marriage portion of loving versus Virginia in 1967 could also be imperiled. And then finally, just to round this out, moving over to gender and reproductive rights as well, Griswold versus Connecticut in 1965, protected the right to contraception as an unincorporated.
+
+4 (15m 49s):
+Right. And that could go by the wayside as well. And so this is not beyond the pale. I'm not saying that all of these rights are going to fall,
+
+0 (15m 59s):
+Right. And Alito acknowledges this himself in the draft. Right. He says, don't worry. We're not coming for all your other unintimidated rights. But you're saying there's still the possibility if they sort of open up this can of worms. Is that right?
+
+4 (16m 16s):
+Yes. And can I just say at the outset that I really don't like Supreme court opinions that say like, oh, this is just a ticket good for one day, nothing to see here, because the whole point of laying out a principle as a court of law is that it applies to other cases. So I didn't like it when they did it in Bush versus score of saying like, this is just a precedent that's limited to its facts. I didn't even like it when they used it to uphold affirmative action. The last time saying this, a holding, maybe narrowly conscribed to the facts in this case, which are unusual. Right. I don't think you'd get to say that. I think that's for subsequent courts to interpret. I don't think you get to say, well, here's this principle that I'm articulating, but it's not going to extend very far.
+
+4 (16m 58s):
+That's especially true. When you get a situation like this, where they're laying out a test and they're saying to be an unincorporated, right. That's recognized by this court, you have to be deeply rooted in the nation's history and traditions. So all four of those cases, I'm not saying they're all on the chopping block necessarily, but they're all freshly imperiled and we should not buy for a second. If it indeed becomes published as a law of the land, that this is not going to have implications for all those other contexts as well.
+
+0 (17m 26s):
+And the Supreme court of the United States has a very specific name for this phenomenon of respecting its precedents. You hear it in confirmation hearings, you read it in opinions. It's called If this opens up this opportunity to overturn presidents on whims, is, is it a direct violation of this sacred starry decisis?
+
+4 (17m 51s):
+So the evenhanded part of me wants to say, like on a numerated rights, it's not like you're totally four on a new marriage rights or against on enumerated rights. There's a middle ground that we're trying to figure out how to manage. We started decisis. It's not like we can say every single thing that the court has uttered is precedent forever. There have to be standards and which you can overrule precedents.
+
+0 (18m 15s):
+There are some famously, very bad decisions that everyone agrees. We're very bad.
+
+4 (18m 21s):
+Exactly. So, you know, for example, a Lido makes a lot of hay out of saying, well, look, you know, we had to overturn Dred Scott as a precedent with a constitutional amendment. That was the opinion that said black individuals could not be citizens. Also Plessy versus Ferguson. That's the 1896 case that was overturned by brown vs board of education. So plus they upheld the doctrine of separate but equal as being consistent with the constitution. The question was started. Decisis is not, you know, do you always retain precedent or do you just ignore precedent and rule whatever you want. It's always going to be somewhere in between, but this Casey decision that doubled down on row in 1992, Casey laid out a very careful set of factors to weigh and thinking about whether or not precedent should be followed.
+
+4 (19m 9s):
+And it laid out essentially four elements. And the first of those was whether or not the rule of the prior decision had proven to be simply unworkable, like lower courts couldn't make sense of it. Second, the question was whether or not there had been reliance trust on the precedent and there, the court said a whole generation has come to rely on RO and order their social and economic lives around it. Right? So we can't sweep the rug out from under all those individuals who have grown up thinking that they have this basic right to their bodily, autonomy and integrity. And then the third and the fourth, or has there been a change in doctrine or has there been a change?
+
+4 (19m 50s):
+In fact, in other words, have subsequent cases chipped away at their original decision and forth. Have there been facts that have come to light since the original decision that make us see the case totally differently
+
+0 (20m 1s):
+As part of the problem here that we've been too reliant on the Supreme court to usher in progress in the United States, instead of legislating it, the right to contraception, the right to interracial marriage, the right to same-sex sexual activity or same-sex marriage, all of it from the Supreme court and not Congress.
+
+4 (20m 19s):
+I think there's an even deeper problem here. Right? Which is that those groups that would most avail themselves of those rights, whether that's the LGBT community, whether that's women, whether that's racial minorities, we're not part of the framing of the constitution. So we have, you know, what I often call status based exclusions from we, the people that existed at our founding and for many centuries thereafter. And so if you are, I would not have been participants, right. And the framing of the constitution, not just because, you know, all those people are dead, but because they wouldn't have included the social groups to which we belong, then how legitimate is a document that purports to bind all of us.
+
+4 (20m 59s):
+You know, people almost laugh when someone says like, oh, there should be a constitutional amendment about that because it almost seems like they're, they've entered the domain of utopian politics because it seems so implausible that the constitution would be amended. It's only been amended 27 times over the course of our nation's history. And 10 of those, obviously we're in that big installment of the bill of rights two years after the framing of the constitution. So that's not very many times. And that means that the document is unable to update itself so that if you take a historically bound understanding of the document as originalism often does, or these stingy, you know, understandings of under numerated rights as expanded by Alito do, then the people who are gonna get the short end of the stick are going to be that component of today's we, the people, you know, who were unrepresented at the time of the founding, right?
+
+4 (21m 51s):
+So it just seems a little bit too convenient to say, you know, lots of on a numerate arts, but not your on enumerated rights and lots of starry decisis, but not this particular form of stare decisis. And it seems completely driven by a particular result to think about the constitution as a document that only protects certain kinds of people and those certain kinds of people where the people who are around when we, the people write in 1789 or during the reconstruction were there rather than the much more diverse heterogeneous society that we are in 2022
+
+0 (22m 29s):
+Professor, what does it say about the state of our democracy in the United States? If a decision like this drops in the coming weeks, five unelected conservative justices, several of whom were nominated by presidents who lost the popular vote, overturning 50 years of reproductive rights tradition in this country overturning a right. Most Americans believe they should have.
+
+4 (22m 59s):
+One of the kind of core tenants of constitutional law is what's known as a counter majority. Attarian difficulty. You have sort of five lawyers on a committee in Washington, DC, deciding the fate of all of us who live in the United States. You know, why is it those individuals get to hand down these decisions that bind all of us? One of the justifications for the counter majority Tarion difficulty is that you have this majority at the top of society, the Supreme court handing down opinions that protect minorities at the bottom of society. I think one of the things that you're pointing out here is that this is not that this is a very tiny minority at the top of society, protecting the interests of other individuals who have historically been in power.
+
+4 (23m 49s):
+And so it's not actually a minority at the top of society protecting the underdog. This is a minority at the top of the society, protecting a very sediment at status quo. All of us sadly are going to need to prepare ourselves for a court that is going to be ruling very much against minorities against a kind of pluralization of what it means to be part of we, the people. And so in that sense, this court is more conservative than any court we've had since the early 20th century.
+
+14 (24m 25s):
+This land is your land. This land is my land from California to the New York guy land on the Redwood bar is to the Gulf stream waters. This land was made for you and me. I went to walking that ribbon up high way, and I saw me that ends
+
+0 (24m 53s):
+Professor Kenji Yoshino constitutional law at New York university school of law. Victoria Chamberlain did the assignment. Matthew Collette, Laura Bullard, and Paul mousey checked her work. I'm Sean Ramez from class dismissed. This episode of today explained, has been brought to you by one particular episode of, are you sleeping? That asks the fundamental question. What will you do for those you love? Will you tolerate, will you expel?
+
+0 (25m 37s):
+Will you sleep divorce? Let's ask a doctor. That's what they do. And are you sleeping? You can find it wherever you listen. Now that this episode's ending, maybe that episode can begin for you. It's up to you. You have autonomy here. Good luck. Bye-bye.

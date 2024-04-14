@@ -1,0 +1,248 @@
+0 (1s):
+It's all fun and games until somebody gets hurt goes the old saying. And so when the door panel flew off of Boeing 7 37 max nine Mid-flight last month,
+
+1 (10s):
+I'm excited to announce that we found the door plug. Thank you Bob. Bob contacted us
+
+0 (17s):
+And miraculously no one died or was seriously injured. Even the National Transportation Safety Board had a little fun.
+
+1 (25s):
+So thank you very much Bob. Bless you.
+
+0 (28s):
+And and then this week the head of the FAA told a congressional hearing investigating that incident the following,
+
+2 (34s):
+The current system is not working 'cause it's not delivering safe aircraft.
+
+0 (37s):
+And it was a bit of a record scratch moment because Boeing is not delivering safe aircraft. And if you hadn't been paying much attention to Boeing, perhaps you were only now realizing its problems are legion, they're not just door related. And maybe you're wondering what is being done about this. So are we answers for you ahead on today? Explain
+
+Unexplainable podcast (56s):
+When one airplane door opens Unexplainable producer Byrd Pinkerton was probably drinking a diet Coke when she heard this. The World Health Organization has classified the artificial sweetener. Aspartame is possibly carcinogenic to humans. And when she heard this But the agency's food safety group said the evidence wasn't convincing, Turns out there's a lot of conflicting research about aspartame in cancer and that's no accident. So this week on Unexplainable Bird tries to sort out the good sugar-free science from the bad. Listen to unexplainable new episodes every Wednesday.
+
+0 (1m 43s):
+Getting evicted can often be a life-changing event. And some of us are more vulnerable than others.
+
+6 (1m 48s):
+Black women just typically have less money available to pay their rent. Less money to go around period really affects the chances of building longer term financial safety nets like an emergency fund for job losses.
+
+0 (2m 3s):
+What do the disproportionately high eviction rates for black women tell us about housing stability and how we can make it better. That's this week on the weeds. New episodes every Wednesday.
+
+8 (2m 20s):
+Ladies and gentlemen, this is your captain speaking. Welcome aboard today explained. We hope you enjoy your flight. Please prepare for takeoff.
+
+9 (2m 32s):
+I am Ian Duncan and I'm a transportation reporter at The Washington Post.
+
+0 (2m 37s):
+Okay, so last month the door of an Alaska Airlines plane blows off.
+
+10 (2m 43s):
+There's a hole in the plane and it's flying.
+
+0 (2m 50s):
+Makes a lot of news. It
+
+11 (2m 51s):
+Was just so scary when it happened 'cause you just hear that loud noise and then the plane filled with wind and the masks dropped and it was just something you don't wanna be experiencing on flight.
+
+0 (3m 2s):
+What do we now know happened there?
+
+9 (3m 5s):
+So the National Transportation Safety Board is investigating this and they came out with a preliminary report this week that filled in a lot of the details. It seems basically that there are four bolts that are supposed to hold this door in place. It's not a real door, it's a plug that covers up a spot where you can have a door, but it wasn't a door on this plane. So it's supposed to just be bolted closed. They have studied the door, there's no evidence that those bolts were there.
+
+12 (3m 34s):
+We found that both guide tracks on the plug were fractured. We have not yet recovered the four bolts that restrain it from its vertical movement.
+
+9 (3m 46s):
+They have gone back and looked at the manufacturing records for this plane and they found that the door was opened in a Boeing factory to fix some damaged rivets near this door. And then when it was closed up, they have a photo where the bolts have just not been put back in place.
+
+12 (4m 4s):
+And, we have not yet determined if they existed there. That will be determined when we take the plug to our lab in Washington DC.
+
+9 (4m 12s):
+And so it's very much, seems like what happened here is that these bolts were taken out for this repair and then just stopped put back in and all seemed to be fine until the door flew out midair.
+
+0 (4m 25s):
+Okay, you said rather casually there was no evidence the bolts that needed to be there were there. You're the transportation reporter. Is this going on a lot? How often are people not putting the bolts back on the plane?
+
+9 (4m 38s):
+I dunno that we have a definitive answer for that. It's obviously a pretty egregious error in the manufacturing process. So immediately Alaska said, well, we're gonna ground our fleet of these planes. We
+
+13 (4m 54s):
+Will return these aircraft to service only when all findings have been fully resolved and meet the stringent standards of Boeing. The FAA and Alaska Airlines, they
+
+9 (5m 4s):
+Have 65 of them, they're pretty much brand new, the Boeing 7 3 7 max nine. And then the following day the FAA comes in and says, yeah, everybody needs to ground these planes until we can figure out what's going on.
+
+14 (5m 18s):
+The Federal Aviation Administration order impacts 171 Boeing 7 37 max nine airplanes operated by US Airlines or in US territory. The federal agency says it is requiring immediate inspections of certain planes before they can return to flight.
+
+9 (5m 36s):
+The evidence almost immediately points to a problem with the manufacturing
+
+1 (5m 42s):
+Right. now we are focused on the evidence. The evidence tells a story. The components on this door plug tell a story. We have to follow the evidence and see where it takes us.
+
+9 (5m 55s):
+And so that just raised a lot of questions about what was going on in Boeing's factory, what kind of quality control issues did they have that contributed to a potential safety lapse like this. If
+
+15 (6m 6s):
+You can't trust the manufacturer to tighten those bolts, can you trust 'em to tighten all the other bolts in the air?
+
+9 (6m 13s):
+And so the FAA announced that it would launch an investigation into Boeing's manufacturing and it is also carrying out an audit, which is gonna look more broadly at what's happening with Boeing's manufacturing and quality control. And so the, this sort of two things going on at the same time. You've got the NTSB trying to determine the, the specific facts of this one incident and you have the FAA now trying to crawl all over Boeing's manufacturing to figure out how something like this could have been allowed to happen.
+
+0 (6m 48s):
+Can you tell me about what else all this investigation kind of dug up.
+
+9 (6m 53s):
+United and Alaska started doing these inspections of their fleets. They haven't disclosed a ton about what they found. They've kind of described these things as loose fittings, loose bolts that can be kind of a tiny amount of kind of looseness, almost like tiny, tiny gaps. But given how sensitive these aircraft are, everything has to be perfectly to spec. You know, you can have a quality issue that might not become a safety problem, but the way that the regulations work, everything needs to be absolutely perfect. And so that is what in terms of at least on grounding the rest of these planes, that was where the focus was.
+
+0 (7m 38s):
+What is Boeing plan to do short of making sure the bolts are, are screwed in? And I'm not being facetious, I'm just, are they taking a deep look at every plane? Are they checking every part of every Boeing 7 37 max nine? Like how far are they going here?
+
+9 (7m 53s):
+They are taking some actions internally. I mean they've said that when it comes to these door plugs and these bolts that they have revamped their protocols to make sure that they're tracking what is going on. Exactly. Boeing I think is trying to take ownership of this situation. I think the company realizes how serious this was. No, nobody was seriously hurt on this Alaska flight. But the circumstances I think could quite easily have been very different.
+
+16 (8m 20s):
+I didn't know what happened to whoever was supposed to be in the seat next to that hole in the airplane. I got kids, I got grandkids, and so do you, this stuff matters. Everything matters.
+
+9 (8m 36s):
+The FAA has also told them, we are gonna limit how many maxes you can produce each month. And that's just an effort to kind of slow things down, take the temperature off, trying to, you know, just build these planes and get them out to customers and say, you need to take all the time to understand exactly what you need to do do to ensure that every plane that comes off the line is in absolutely tip top shape.
+
+0 (9m 0s):
+Correct me if I'm wrong, but these incidents, even though they're scary, no one has died. Typically, if there's some big tragedy a company will undergo, you know, the CEO gets kicked out, somebody else comes in. Is there any sense that this is serious enough for Boeing that somebody's head is on the chopping block?
+
+9 (9m 17s):
+It doesn't seem like it. At least immediately. I mean, so what happened nearly five years ago at this point is that there were two crashes involving a slightly different model of the max, the max A in those cases and 346 people did die. and that that was a huge catastrophe and it led to all this soul searching inside Boeing. In that case, the CEO was replaced. The Congress came in and changed some of the law about how Boeing is overseen. There is definitely a lot of concern on Capitol Hill about what Boeing has done in those years to really change the way it does business and whether the FAA has all the tools that it needs to kind of oversee things.
+
+9 (10m 6s):
+So I think there's gonna be more fallout from this to come, but it doesn't look like immediately, you know, we're gonna see the CEO quit or major kind of highly visible changes like that.
+
+0 (10m 20s):
+Companies protect themselves and that makes a lot of sense. But the regulator, the body that's in charge of making sure all of this goes well is above board is the FAA. What has the FAA been saying, if anything, about Boeing and what Boeing needs to do?
+
+9 (10m 36s):
+Grounding the fleet was quite a dramatic move and, and a lot of people thought that that was gonna be, you know, a couple of days pretty much. and that they would figure out how to do these inspections and get them back up. And actually that stretched on for several weeks and, and the FAA said, we want to gather data, we want to understand exactly what is going on here. and that was a sign that they are really trying to hold Boeing to account. And so the administrator of the FAA was testifying before a house committee this week and he acknowledged that they haven't done enough and tried to lay out some of the steps that the agency is gonna take to strengthen its oversight of Boeing's manufacturing.
+
+2 (11m 19s):
+It really created two issues for us. One, what's wrong with this airplane, but two, what's going on with the production at Boeing? And there have been issues in the past and they don't seem to be getting resolved. So we feel like we need to have a heightened level of oversight to really get after that. So it was certainly triggered by the, the Max nine. They're
+
+9 (11m 39s):
+Saying that they're gonna send more inspectors into Boeing's factory to really kind of try and get into the nuts and bolts. That's a terrible pun, but to get really into the details of what is going on because I think they have acknowledged that their oversight clearly also wasn't sufficient if, if you're having a plane that can go out with such a kind of glaring problem.
+
+0 (12m 10s):
+Ian Duncan of The, Washington Post coming up. This is not Boeing's first rodeo, it's today explained. I'm Noel King when that door panel flew off. Alaska Airlines Flight 1282 and into a Portland backyard. Thank you Bob. You can imagine chaos rippling through several places. Alaska Airlines, certainly Boeing, of course the NTSB for sure.
+
+0 (12m 50s):
+And the Federal Aviation Administration, her friends call her the FAA.
+
+17 (12m 55s):
+The FAA is the regulator and they've got to make sure that the planes flying passengers are safe. They're the cops on the beat.
+
+0 (13m 5s):
+And they busted Boeing before. That's Andrew tangle. He wrote in the Wall Street Journal about how after 2 7 37 max crashes in 2018 and 2019, the FAA had so little trust in Boeing, it insisted on doing its own safety checks on the aircraft. The FAA also inspected the company that made Boeing's door plugs, which hmm, the Max nine was finally cleared for flight in 2020 and four years later. The question for the FAA is she doing it all again? Which is what we called Andrew tangle to ask what options do the cops on the beat have
+
+17 (13m 43s):
+Cops on the beat have to make sure that Boeing is building aircraft that meet the designs that the FAA has certified or blessed and said, yes, this is a safe aircraft to put passengers on and they've gotta make sure Boeing's got a quality system and a production system that can repeatedly produce quality aircraft that meet federal safety standards. And what we're seeing the early stages of Right now is we're seeing a tough response by the FAA stiffer posture.
+
+17 (14m 22s):
+You know, the administrator of the FAA is essentially saying, we're gonna send in the federal troops to Boeing's factories and make sure that they're building safe aircraft.
+
+0 (14m 36s):
+And so they're actually doing that. They're sending in the troops. What does that look like? What does that entail?
+
+17 (14m 42s):
+The FAA administrator Mike Whitaker before the house said to lawmakers that what he's planning for Boeing is essentially a much more hands-on way of overseeing Boeing's manufacturing
+
+2 (14m 57s):
+Going forward, we will have more boots on the ground, closely scrutinizing and monitoring production and manufacturing activities.
+
+17 (15m 3s):
+That means inspectors on the floor doing more direct inspections of how the aircraft are being assembled, how quality's being checked, not just reviewing paperwork and reviewing audits of Boeing's quality system. They're gonna be looking at the physical aircraft themselves and trying to really dig into the Boeing manufacturing process. They're still trying to figure out like what they need to do. The FAA generally speaking, has been trying to not be punitive when it comes to safety issues and they try to avoid enforcement actions. But when there's obviously, you know, a major violation like this, they are going to come down with an enforcement violation that'll result in civil penalties potentially and other corrective actions.
+
+17 (15m 51s):
+It's the fas responsibility to use that information they're gathering to make sure that their oversight is tight enough so that they can safely say that, you know, the airplanes are safe to put people on.
+
+2 (16m 7s):
+We're looking at the production system from nose to tail wing tip to wing tip to really understand where, where there might be false in the system and how do we address those.
+
+17 (16m 15s):
+And meanwhile, they're gonna be waiting for this report to come out that's been in the works called for by Congress to examine. Boeing's safety culture
+
+0 (16m 26s):
+Is Boeing known as a company that has a problem with safety culture.
+
+17 (16m 30s):
+The safety culture has come into question and they've done a lot to try to improve how they address safety and engineering. I mean let's rewind to five years ago when two planes crashed. Few
+
+19 (16m 50s):
+Details this morning about the deadly Ethiopian Airlines crash that killed nearly 160 people, including eight Americans. The
+
+18 (16m 57s):
+Jet was a new Boeing 7 37 max eight. It's the same type of plane operated by Indonesia's Lion Air that crashed shortly after takeoff last October, killing all 189 on board.
+
+17 (17m 10s):
+There's been this sort of continuing debate about whether or not there was something that's rooted in the merger with McDonald Douglas that led the engineering company to be overly focused on financial performance that led to a cultural decline within Boeing. Boeing
+
+20 (17m 33s):
+Has a responsibility to produce safe planes. They're a great company with a great history that has lost its way with chasing profit and value engineering and getting rid of engineers and getting rid of talent over the time to extract profit and delivering it to shareholders, stock buybacks and executives.
+
+17 (17m 52s):
+You know, there are people inside and outside of Boeing that differ on that point. But in the aftermath of the crashes in 2018 and 2019, which killed, you know, 3 46 people, there were questions about staying on schedule, making sure that there was no simulator training that was required for this new plane when it was being developed because new simulator training meant that airlines would have to pay more money and that would make the plane less attractive. Boeing had a financial disincentive for simulator training with its biggest customer, Southwest Airlines that would get a million dollar rebate for any plane that requires simulator training.
+
+17 (18m 35s):
+So there were these issues related to cost and schedule that emerged.
+
+20 (18m 40s):
+We now know that the Chief Boeing test pilot bragged about Jedi mine tricking the FAA into accepting less pilot training in 2017. And other Boeing employees said the airplane is designed by clowns, who in turn were supervised by monkeys. Well,
+
+21 (18m 55s):
+I think the heart of the problem is clearly there's a rush to produce airplanes. I mean obviously there's a great demand for airplanes and inside the factories there's a phrase they call schedules king. So even though the company speaks about the quality of of their planes and the importance of that, what the employees are hearing on the factory floor is get your jobs done. You know, finish your work, get done as fast as possible, you know, move to the next plane.
+
+17 (19m 20s):
+So since then, what Boeing has done is they have reorganized their engineering department so that the engineers aren't answering to the business people who drive the schedule of the program and have to be accountable for the costs associated with the program to try to remove the business pressure from the engineers. They stood up a separate safety organization appointed a chief safety officer, all these things. They talk a lot about safety.
+
+16 (19m 48s):
+We fly safe planes. We don't put airplanes in the air that we don't have a hundred percent confidence in.
+
+17 (19m 53s):
+But we're gonna find out, I think, to what extent these changes have stuck. Are they real? Where are there still problems? Have these broad focuses on safety and culture made their way from the executive suite and the boardroom to the factory floor near Seattle.
+
+0 (20m 16s):
+Did the FAA order Boeing to do anything after those crashes in 2018 and 29? Did they demand changes?
+
+17 (20m 22s):
+Yes, and the FAA and Boeing were both under a lot of scrutiny for those crashes. Congress demanded a lot of changes for how the A works and how the FAA regulates Boeing. You
+
+22 (20m 36s):
+Should take, you know, offense to the fact that people say it's a great company not being run correctly. So for the 346 people who trusted Boeing without a second thought, we need to get this right, these families are counting on us.
+
+17 (20m 52s):
+And in the wake of the crashes, the FAA was given more oversight power of Boeing. They got to, for example, have more control over the people at Boeing who work for the FAA to, you know, select who works for them and on their behalf. And they were given more protections to make sure that they don't come under pressure from their own bosses within the agency, but also they were given more power to provide protection for the Boeing employees who represent the FAA inside Boeing with quote unquote delegated authority. Hmm. Steve Dixon, who is the administrator after the crashes said, and like to say that he reset the relationship with Boeing.
+
+17 (21m 39s):
+One
+
+20 (21m 39s):
+Of the first things I did as FAA administrator was to make it clear that we are the regulator. and that included resetting our relationship with Boeing.
+
+17 (21m 50s):
+The FAA became much more assertive. Boeing made a lot of efforts to be more transparent and to be more responsive to the FAA. And we've seen this new relationship sort of play out in ways that have not been convenient for Boeing. They have engineers inside the company who work for the FAA or answer to the FAA, and they've been finding more problems and they're empowered to raise their hand and slow the process down. And they have protection from the FAA, they have protection from Congress.
+
+0 (22m 30s):
+This has now been going on, this kind of back and forth between the FAA and Boeing has been going on for a number of years. The FAA says in this case, it is taking this all very, very, very seriously. Is the FAA likely to be able to regulate us all out of this problem with these Boeing planes?
+
+17 (22m 48s):
+You know, I keep hearing that it's not the FA a's job to make the safe quality aircraft. It's Boeing's job ultimately. Hmm. Boeing is in charge of quality. They're in charge of the inspections. They have their own quality departments. It's not the FA a's job. The FAA has basically got a light, a hot enough fire under Boeing with the powers that it has to get Boeing to work properly. So it's gonna be hard for any government agency to regulate the right culture inside of a private company.
+
+17 (23m 33s):
+It's gonna be hard for them to regulate Boeing back into quality. But we're gonna see Houthis plays out because there's a significant amount of public pressure on the FAA to make sure that Boeing is producing the aircraft that it's been known for, for so much of its history.
+
+0 (24m 2s):
+That was Andrew tangle of the Wall Street Journal. Today's show was produced by Victoria Chamberlin and Isha Artsy. We were edited by AM El Sadi fact checked by Laura Bullard and mixed by David Herman. I'm Noel King. It's today explained.

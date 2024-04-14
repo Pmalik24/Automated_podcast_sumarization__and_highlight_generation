@@ -1,0 +1,263 @@
+1 (1s):
+This is a very big deal.
+
+2 (3s):
+It is.
+
+1 (4s):
+The Department of Justice just filed a lawsuit calling for the breakup of Google, one of the biggest companies on the planet. It did. It doesn't get any bigger than this.
+
+2 (13s):
+Arguably, we may all think Google is a search engine. Google does not think that. Google thinks it's an ad business. And in fact, more than 80% of parent company alphabet's revenue comes from Google Ads more than 209 billion in 2021. A challenge for the Department of Justice in this lawsuit, it claims that Google is abusing many of us with anti-competitive behavior, but the source material seems a little dry.
+
+1 (40s):
+A publisher ad server, that is such a clunky word, right? What does that even mean? It's really hard to get excited about this thing at the heart of the case.
+
+2 (47s):
+And yet ke ha of the Wall Street Journal will tell us if Google loses and is forced to break up, its a business we may be getting online to a very different internet that's coming up on today, explained it's today explained. Abna Will King Ke ha is a reporter with the Wall Street Journal. She covers the intersection of media and tech, which can be a very confusing intersection. And so I asked Keech to explain how Google's ad business works. Let's say that I'm on the website of her paper, the Wall Street Journal, and I'm seeing ads for shoe stores because fact, I Google shoes quite often.
+
+1 (1m 28s):
+So this is really a story about the pipes that make the internet work. It's about stuff that the average person doesn't see. The story really begins with something called a publisher ad server, which is something that sits on the website of the Wall Street Journal or that services that website and that server says, oh, here's Noel. She's Googled shoes before she might be worth, you know, this much money to, to an advertiser. So puts out an opportunity for advertisers to bid to fill that spot.
+
+3 (2m 1s):
+All right, everybody, here we go. Here we go. But I'm not domino. All right everybody, here we go. About to start the bidding for Noel's eyeball. She lives in Washington dc. She works in audio. She Googles shoes a lot. Can
+
+1 (2m 14s):
+I get one? So that's the ad server sending information out into to the marketplace. It then connects to something called an advertising exchange, which is like a in marketplace, it's like the stock exchange, in fact, in the Department of Justice's suit, someone compared it to the, the New York Stock Exchange, right? There are auctions happening there between buyers and sellers in the blink of an eye. And then that connects to these other tools, sometimes called buy side tools, but basically tools that advertisers use to put their ads in, actually load their ads and then put a bunch of parameters into like what kind of people are we looking to sell our ads to?
+
+4 (2m 52s):
+Podcasters really like my shoes, so I wanna find more people in audio to sell to.
+
+5 (2m 57s):
+My store is located in DC
+
+2 (2m 59s):
+So I wanna reach people
+
+1 (3m 0s):
+In that area. How much are we willing to pay?
+
+6 (3m 3s):
+I can probably only swing 500 bucks for ads this
+
+1 (3m 7s):
+Month. And that determines what the advertisers are gonna bid in that marketplace.
+
+7 (3m 12s):
+One penny. One penny, one penny. One penny. One point miles in impression. One penny. One penny.
+
+1 (3m 17s):
+So basically there's three pieces you really need to understand the ad server, the advertising exchange in the middle, and let's just call them the, the buy side tools that are the, the tools that the advertisers use.
+
+2 (3m 30s):
+And ultimately the company that's willing to bid the highest on my eyeballs is the bid that wins. So
+
+1 (3m 37s):
+Basically, yes, although there are different kinds of auctions, hmm, but as the market has evolved to be more sort of direct head-to-head competition in recent years, first price auction, the kind of old fashioned one we all think of is mostly how it works.
+
+2 (3m 55s):
+What is Google's place in this ecosystem?
+
+1 (3m 57s):
+So Google makes tools for each of these things and in each of those markets it makes the dominant tool. And, and there are other companies that make some of these things and that compete with Google, but not very well is the issue here. So the really big one is that in the publisher ad server market, Google has 90% market share. Wow. 90% market share. That means almost any major website that you go to will be using Google's systems. That's the real biggie. And that is where so much of the legal weight of this case is resting. Then you have in ad exchanges there in the middle, it has more than 50% market share. Google's tool for this is called adex.
+
+1 (4m 38s):
+There are other ad exchanges, but Google's is dominant. And then you have these buy side tools and it's a little complicated here cuz you have some buy side tools for big advertisers, right? Like Proctor and Gamble, they have these huge staffs and have agencies. And then you have a different kind for small advertisers like the pizza parlor around the corner. Those are gonna use an easy self-serve option called Google Ads. That is a sort of a different type of tool than this very manipulable, bigger buy side tool that the agencies use. You know, in, in the small, in the world of smaller ads, Google super dominant. And then in the world of bigger advertisers, the suit said it had around 40% market share. It's tools called DV 360 and it's still hefty chunk of the market.
+
+1 (5m 22s):
+So when you put all these pieces together, especially the 90% in the publisher ad server side, there's a lot of dominance.
+
+2 (5m 28s):
+How is it that Google makes the dominant tools in all three areas? Is Google just better at what it does than everyone else?
+
+1 (5m 36s):
+Well, Google would certainly say so, you know, a lot of people in the industry also agree, like the tools are good, they work well together. But the main argument in the suit is that Google has used its captive advertiser demand, which is really those small advertisers coming in through the self-serve option, like the pizza parlor times 2 million, that is hooked in directly to the publisher ad server in a way that at least for many, many years was direct. So you couldn't really get access to that unless you were using Google's publisher ad server and you couldn't get like access to bids through their exchange unless you were using Google's ad server.
+
+1 (6m 20s):
+So it's the way that Google has made rules for the way that its tools work to push out competition. That is the issue here.
+
+8 (6m 27s):
+The complaint filed today alleges that Google engaged in a pattern of acquisitions to obtain market dominance. And once it had obtained that dominance, a series of exclusionary acts to expand and to entrench its monopoly power
+
+2 (6m 44s):
+In the DOJ lawsuit. What examples, if any, do they cite of how Google has wielded its power?
+
+1 (6m 50s):
+Oh wow, there are so many.
+
+8 (6m 51s):
+Here are just five examples first.
+
+1 (6m 54s):
+So this exclusivity, right? Like setting rules that you have to use the Google ad server to get the full benefit of the exchange and vice versa.
+
+8 (7m 4s):
+A Google manager made it clear that our goal should be all or nothing, use Google's ad exchange or don't get access to our advertiser demand.
+
+1 (7m 14s):
+Sometimes they would do things like, hmm, decide, you know what, like it doesn't really have to be the highest bidder who wins as long as you know the, it averages out at the end of the month. So sometimes, because we, we control every link in the chain, we are gonna use our knowledge and our algorithmic ability to bid a little higher than the advertiser actually agreed to, just so we can win the impression and then we'll make it up later on. And the result of this is that adx, the exchange would just win like a really shocking amount of the time. And bec of course, because that would happen then that would like attract more advertisers to use it, which would attract more publishers to actually plug into it, right? So it creates these flywheel network effects that make the experience of using Google's tools seem in some ways better for everyone, but it's through distortion.
+
+1 (8m 6s):
+One of the biggest critiques in the, the DOJ case about what Google did was how it responded to this thing called header bidding. Header bidding was the marketplace's attempt to respond to the early distortions in the Google system. So this thing called dynamic allocation basically allowed Google to see what all the other competitors were bidding and then come in and bid on top of it each time. Part of what was happening is that real competition was not occurring. You were not having an auction where every single bidder stands in the same row and bids at the same time and whoever is the highest price wins.
+
+1 (8m 48s):
+So to try to get around this, the market created something called header bidding, which is a little bit of code that exists outside the ad server where publishers could offer up their inventory to a bunch of different competing ad exchanges. Then whoever won would then be fed into their system and then addicts would then have the chance to bid on that. It was something kind of moving closer to a true competitive auction and Google really hated it. So they came up with a very long array of, of ways to fight it. One of the ways I'm thinking about Project Poro, because it's like has a such a fun title, they decided that they would punish publishers who used header bidding by creating this system that would try to sniff out who was using header bidding.
+
+1 (9m 38s):
+And if you were using header bidding, their buy-side tools would decide to send a lower bid for your inventory, which would mean you'd lose more of the time, right? And so you would have bad results and they had warned their their partners, you know, if, if you use, you know, header bidding, it's not, it's not gonna be good for you. And, and Project Parlow is one of the things that DOJ points out is just like an antitrust violation basically. That's one example. There are many, many others.
+
+2 (10m 10s):
+That makes complete sense. It's not that there's been no competition, there has been Google has dealt with the competition in a way that may be illegal. Correct?
+
+8 (10m 17s):
+A Google digital advertising executive asked the following question in an internal email exchange quote, is there a deeper issue with us owning the platform, the exchange and the huge network? The analogy would be if Goldman or Citibank own the New York Stock Exchange,
+
+2 (10m 42s):
+Who does this hurt according to the Department of Justice in their lawsuit? Who do they name?
+
+1 (10m 47s):
+Number one, advertisers, right? Anyone who's ever advertised on Google was overcharged for many years and they alleged that Google has a fee in the transaction between advertisers and publishers that is higher than others in the industry. So really they take as much as 35 cents of every dollar that an advertiser pays before it reaches the publisher. So both advertisers and publishers are hurt by what the Justice Department argues is too high of a fee, right? A fee that is only so high because a monopoly is being illegally maintained. So advertisers are hurt, publishers are hurt, and they also allege that rivals are hurt.
+
+8 (11m 29s):
+In addition to the harm that Google inflicts on content creators and online advertisers. The lawsuit alleges that Google's conduct has also harmed the United States government, including the US Army.
+
+1 (11m 41s):
+I mean one of the most fascinating things about this case is the DOJ is actually also suing on behalf of itself Oh. As a consumer, because it says we are the federal government, we buy a lot of ads, right? We use the web like everybody else, you know, the military uses it. And so we are also a customer who has been harmed by this, which I thought was pretty interesting.
+
+2 (12m 6s):
+So you've laid out what the Department of Justice says is anti-competitive behavior. What does Google say?
+
+1 (12m 14s):
+Google says, first of all that they're wrong. That this, this is a misunderstanding and that the suit is basically just kind of a warmed over version of what Texas and a group of other states filed several years ago.
+
+9 (12m 28s):
+Let me put it this way, if the free market were a baseball game, Google positioned itself as the pitcher, the batter, and the empire.
+
+1 (12m 37s):
+They like to point out that a judge has thrown out what they say is much of that suit, which is not quite true. It, it is true that the, the Texas case is very, it's very similar to this case in terms of what they're complaining about. The Department of Justice has gone and found much more discovery and it's a, I mean it's a very like persuasively written case, but it's true that the Texas case w went before a judge and some of the, the allegations that they brought forward w were knocked out. It was by no means like the majority of them in, in the Texas courtroom. I I will say, just cause I was, I was there when the judge was talking about it, Google's lawyer's case was a little different.
+
+1 (13m 22s):
+Their argument was a little different. And their fundamental argument is, Hey, it's not our responsibility to help our rivals. It's not our responsibility to open up our systems so our rivals can compete with us. And if I wanted to boil down their legal argument, I I think it's gonna be that.
+
+2 (13m 39s):
+So the DOJ is going out after Google suing Google and has it said what it wants Google to do about what it sees as anti-competitive behavior.
+
+1 (13m 49s):
+Yes. And this is the part that's really wild. They want divestiture of the ad server in the ad exchange, which would completely reshape the digital advertising ecosystem. Hey,
+
+3 (14m 10s):
+What's going on here? What's going on here?
+
+12 (14m 18s):
+Hey y'all, this is Josh Muci, host of the Pitch, a podcast from Vox Media on the pitch, real entrepreneurs pitch real tech investors for real money. Are you gonna invest in this?
+
+13 (14m 31s):
+I'm in, I'm in for 50 k.
+
+12 (14m 33s):
+Founders have raised over 10 million on our show from some legendary early stage investors. Several of these startups are worth hundreds of millions of dollars today. And on our new season, we're doing something a little crazy. We're gonna let listeners invest in the startups on our show alongside the investors. Hear the next billion dollar idea way before anyone else. We're
+
+1 (14m 60s):
+Building a
+
+12 (15m 0s):
+$10 billion company.
+
+2 (15m 1s):
+Get that's kind of sexy. Go make the money
+
+12 (15m 4s):
+Honey. Follow the pitch right now to hear our best season yet our comeback season. New episodes start dropping weekly on February 8th.
+
+15 (15m 17s):
+Over the last few months, H b o Max has been taking shows off its platform entirely for one show. That means you've got to be airborne to actually watch it.
+
+16 (15m 29s):
+The show is physically and spiritually in limbo right now. You can only see it on American Airlines and on JetBlue.
+
+15 (15m 39s):
+Stop. What, what happens when a streamer disappears? Your TV show this week on Intuit Vultures pop culture podcast.
+
+17 (15m 52s):
+And again, the internet is not something that you just dump something on. It's not a big truck, it's, it's a series of tubes.
+
+2 (15m 60s):
+It's today explained. We're back with Wall Street Journal reporter Ke Haggy who was telling us that if the DOJ wins this case against Google, it will push Google to break up its ads business.
+
+1 (16m 11s):
+It would be a huge deal because as I said, 90% of large publishers use Google's tools to run their business right now. You know, a publisher ad server, that is such a clunky word, right? What does that even mean? It's really hard to get like excited about this thing at the heart of the case. But there's a great line in the complaint. It was from a Google executive that describes a publisher ad server as something like the operating system for publisher revenue. And I think that gets a little closer to why it's so important. It is literally the hole where the money comes in. That's it. It would totally reshape the industry because the way that things work now is entirely based upon the way that Google's pieces click together, all the dynamics pushing and pulling.
+
+1 (16m 55s):
+And so it would just reshape the dynamics of these auctions.
+
+2 (16m 60s):
+I hear you saying it would drastically change the way digital ads are done. But you also said this could reshape the internet. How?
+
+1 (17m 7s):
+I mean, the internet is digital ads. That's what the internet runs on. Huh? The vast majority of websites that you see, even like Joe's blog or any little website at all, most of them have Google ads, right? Like the overwhelming majority of every like small website on on the web has ads that are run by the system, by the Google display network, which is kind of that, that ad words, Google ads tool that I was saying. If these pieces fit together in a different way, maybe it makes them less efficient or maybe it introduces competition and drives down the fee, the size of that fee, that's like 35 cents.
+
+1 (17m 48s):
+If that suddenly is less. That also perhaps changed the business of digital media, which I don't know if you've noticed, has been sort of struggling over the years.
+
+2 (17m 58s):
+Okay, let's walk through how this changes for everyone involved. Let's say that I run Joe's blog, Joe is actually my given name. I'm Joe, my blog is about my life, but there are ads that pop up for people who come and read about my life. How does it change my website?
+
+1 (18m 13s):
+Well, it might mean that you getting, you are getting paid a different amount for the ads, right? Maybe more people are coming to click or less people are coming to click. So it might literally just change your financial reality. It might also mean that you have more choices of different companies to work with to serve your ads. I mean, you have that now, but Google is so, so, so dominant. Again, because of the way all these sort of reinforcing things click together. If some of that was pulled apart, you might have three really good options for who to serve your ads instead of one obvious one.
+
+2 (18m 50s):
+And then let's say my mom is on my blog every day looking to see what I Joe am up to. How does the experience change for her?
+
+1 (18m 56s):
+I don't know that the actual like loading and seeing of, of ads would change that much. Although I will say that the, one of the interesting things in, in the complaint is that it alleges a, that a lack of innovation kind of says, you know, these tools have worked more or less the same for, for the last 10 years. There hasn't been innovation. That's one of the things that a lack of competition results in, right? It's not as much innovation. So perhaps there, there will be more innovation in, in digital ads, right? Those display ads that we all see on the sides of things. Those have been like that for kind of a long time, right? So who knows, you know, maybe they're, they're we're gonna see innovation about new formats that, that somehow that there's a better model for
+
+2 (19m 36s):
+Like a shoe that talks to me.
+
+1 (19m 40s):
+Isn't that what we all need? But I, I would also add that theoretically if the government's case is right, that what would change for your mom is that the quality of the content might improve because you're making more money as a publisher because Google's not taking as much of it and then you can hire better writers.
+
+2 (20m 3s):
+It seems as though there are other changes happening in the online ad space, Google and what may happen to it is one factor. Are there other factors? Are things actually changing or is, is this mostly a static situation right now?
+
+1 (20m 18s):
+Oh, it's very much changing. So this is coming at a wild moment for digital advertising.
+
+18 (20m 24s):
+This morning Apple taking a stand on privacy, releasing a new feature, allowing customers to limit how much of their data is used and shared. The feature dubbed app tracking transparency will let you choose if you want your online activity tracked and sold to third parties such as Facebook and other apps.
+
+1 (20m 42s):
+This decision to ask consumers whether they wanna be tracked or not, turns out they don't. And that of course really hurt Facebook's business a lot.
+
+19 (20m 51s):
+Facebook relies on targeted adverts. It relies on knowing lots of information about you and selling that to advertisers. If it can't do that, that's going to hurt its profits.
+
+1 (21m 2s):
+And so we saw this year for the first time that the so-called duopoly of Google and Facebook actually makes up less than 50% of ad spending. And that's frankly a surprising turn of events having a lot to do with how much Facebook was hurt by apple's privacy changes, but also due to the rise of players like Amazon and TikTok. You know, Amazon's ad business have been, has been growing like a weed even though it's still young. So it is being reshaped in that way. And a lot of these concerns were really brought to the fore at a, at a bit of a high watermark for Google and Facebook where, you know, a few years ago they were every single year gaining share.
+
+1 (21m 46s):
+I mean I think back when I first looked into this issue, I think it had, we'd just come off a year where Google and Facebook made up more than 90% of the growth in the digital ad market that year, right? So it just seemed like they were just gonna grow and grow and grow and eat the entire market. And that dynamic has been tempered somewhat.
+
+20 (22m 5s):
+Meta stock has down 70% this year profits down 50% in the third quarter with the economy slowing meta is the latest tech company squeezed by a sharp decline in advertising revenue,
+
+1 (22m 18s):
+But they still make up half the ad market, which is a very concentrated market. So we're very far from like a truly diversified competitive digital marketplace.
+
+2 (22m 29s):
+What happens next? Is there any precedent that could inform how this case might proceed without asking you to predict too much?
+
+1 (22m 38s):
+Well there is the precedent that antitrust cases take a super long time. The Microsoft case took like the, that better part of a decade. Google has been sued by the DOJ on another matter regarding its search business. And you know, we're several years since that complaint dropped and still no trial. It could be years and years before there is any resolution.
+
+2 (23m 4s):
+Where do you think all of these changes are leading? I, I hear you saying some interesting things here about our relationship to the internet may be changing or we want our relationship to the internet to change. What are the sort of the big picture takeaways here, do you think?
+
+1 (23m 20s):
+I think that there has been a great deal of criticism of big tech in Washington DC and yet there has been very little tangible action about it. We just saw a year pass under the Biden administration who hired all of these extremely aggressive sort of anti-big tech, anti-trust minded folks. And we, we saw, you know, year past in Congress were almost none of the legislation that was intended to reign in big tech. And there was a great deal of it proposed, became law almost nothing. Very, very tiny amount.
+
+1 (23m 60s):
+So to me, outside of the the last DOJ suit, yes we've seen like the FTC and the States Act, but this is perhaps the single most significant action that we've seen the government take against big tech.
+
+2 (24m 22s):
+Today's show was produced by Amanda Louellen. We were fact checked and edited by Matthew Collect and Engineered by Patrick Boyd and AEM Shapiro. I'm Noelle King. It's today explained.

@@ -1,0 +1,311 @@
+0 (1s):
+The summer blockbuster season kicks off in earnest today with a big dumb movie about cars you might
+
+1 (8s):
+Wanna buckle up.
+
+0 (10s):
+Cars getting hit by missiles, cars driving off the Hoover Dam. Cannon cars. Cannon cars.
+
+1 (21s):
+That was awesome.
+
+0 (24s):
+But here today explained, we'd like to talk about parked cars, the Fast and Furious movies, much like the rest of us take parking for granted because it's mostly free and easy, but there is a cost
+
+2 (37s):
+That free and easy parking makes it hard to create affordable housing, create walkable neighborhoods. It has deleterious effects on the environment, both locally and globally. And so those are just some of the consequences of not really thinking hard about parking
+
+0 (53s):
+On the show today, we're gonna think hard about parking, so Vin Diesel doesn't have to.
+
+Decoder with Nilay Patel (1m 4s):
+Hi, I'm Neila Patel, editor-in-Chief of the Verge and host of Decoder, A show about big ideas and other problems on, I talk to leaders, innovators, and policy makers at the frontiers of business and technology about what keeps them up at night. Oh My God, you just hit on a giant thing, The competition. I have the greatest of admirations for Google and what they've done. I want people to know that we made them dance And what is going on, what is happening. So if you wanna know what's going on, check out decoder on Apple Podcasts, Spotify, or wherever you get your podcasts Right now.
+
+Intuit Vultures Pop Culture (1m 37s):
+We rely a lot on Google to find out about pop culture. You think about how many entertainment publications spend hours of productive time knowing that people are gonna search for the post credit scene of a Marvel movie, knowing that people are desperate to find out who Taylor is dating today, right? Like, and all of that stuff is search demand driven. But what happens once AI replaces search, how AI might change pop culture as we know it. This week on Intuit Vultures pop culture podcast, The Paradise,
+
+0 (2m 33s):
+Henry GraBar is a reporter at Slate, but in his free time, he went and wrote a whole dang book about parking.
+
+2 (2m 41s):
+I think people rarely think about parking until they have a problem with it. But anyone who has ever tried to build anything in an American city will tell you that parking is an absolutely unnegotiable subject at the heart of everything you could ever want to construct. So I'll give you an example of this. I talked to a Baptist pastor in Chicago who was trying to start a neighborhood church, right? So he found this building on the west side of Chicago, and he thought, I'm gonna start a neighborhood church here for some 25 families. It's, and, and this guy, his name is Nathan Carter, over
+
+7 (3m 15s):
+Half our church live within a, a bike ride. So people walk, it's very easy to be in our church without a car.
+
+2 (3m 24s):
+So he rents this church space and time comes where he's ready to buy it.
+
+7 (3m 28s):
+The week before closing, our lender called our contact at zoning just to confirm that we were okay, and that person was out of the country and it got kicked up to another person. And that person said, whoa, whoa, whoa.
+
+2 (3m 38s):
+And he cannot buy the church because the church does not have enough parking spaces. According to the city of Chicago Code. The city of Chicago says you need one parking space for every eight spots in a pew. So Nathan Carter's got this beautiful little church. It's everything him and his congregation have dreamed of, and they cannot buy the building because they do not have enough parking.
+
+7 (4m 0s):
+We tried everything we could to, to find a, a space, but it had to be within 600 feet. It had to be paved, landscaped, lighted. There was nothing that we could find.
+
+2 (4m 9s):
+So they spent literally years looking for 18 parking spots to satisfy the city of Chicago. And by the time they finally rent a parking lot 10 blocks away, the buildings have become so expensive that he's only able to buy half of the original property that he had planned to. At some point, one of his parishioners said to him, you know, pastor Carter, maybe this is a sign from God. Maybe this is a sign from God that this is not the church that we were meant to be in. Brutal, but it's not a sign from God, it's just the city of Chicago's parking requirements.
+
+0 (4m 38s):
+It wasn't like God created parking on the sixth day or anything like that.
+
+2 (4m 42s):
+No, no, no. God, God never created parking. In fact, that's, that's, you might even say that, that's part of the problem.
+
+0 (4m 49s):
+How much parking do we have in the United States?
+
+2 (4m 53s):
+Most estimates say we have between one and 2 billion spaces.
+
+0 (4m 56s):
+Holy smokes.
+
+2 (4m 57s):
+And that, that probably seems pretty abstract, but I guess one way to think of that is there are about 300 million vehicles in this country, right? So, you know, we're talking between three and seven spots per car. So parking is mostly empty. How
+
+0 (5m 12s):
+Did we get to one to 2 billion spaces that are always 75 percent-ish empty?
+
+2 (5m 19s):
+I think it was actually well-meaning city planners put yourself in their shoes. The middle of the 20th century, your bustling downtown is plagued by a parking shortage.
+
+8 (5m 34s):
+Good god, this is awful. I've been circling for 10 minutes at this rate. I'll be late to my tailoring appointment at Bloomingdale's.
+
+2 (5m 41s):
+No one has anywhere to park. Your stores are moving to the suburbs, you're not sure what to do. And so you decide that from now on, every new business or renovated building or any type of land use at all, from housing to Aries, to bowling alleys, to tennis courts will require a certain number of parking spaces.
+
+8 (5m 59s):
+Ah-ha. I foresee this solving the problem completely with no unexpected consequences.
+
+2 (6m 5s):
+And, and it turns out they were actually extremely successful at creating more parking spaces,
+
+0 (6m 10s):
+And it was viewed as a good thing. I
+
+2 (6m 13s):
+Think for a time it was, you know, I I looked up like newspaper headlines in the 1950s, and they actually thought the parking shortage was the greatest problem facing downtown.
+
+9 (6m 23s):
+To be fully dynamic, the American city must now accommodate the automobile. This is the vital factor of our new age.
+
+2 (6m 31s):
+I think what that shows you is that it was hard to imagine from the sidewalk on a bus link downtown street in 1955, that one day, in fact, one day soon, within a couple decades, there would be so much parking downtown that in Buffalo, a planner could joke. It looks like instead of creating space for cars to park, we have created spaces for airplanes to land. But that is indeed what many American cities came to look like in the 1970s and eighties as a result of all this parking that was created.
+
+10 (7m 3s):
+The red ribbon has been cut on the newly completed Hamilton County garage, hope to be the solution to Chattanooga's parking dilemma. The Garage is a result of studies in 1975 showing inadequate parking as the primary reason for Slackening business and downtown stores.
+
+0 (7m 24s):
+And what is the upshot of how much space we dedicated in our downtowns to park? Well,
+
+2 (7m 31s):
+We've created some really great space for roller hockey. That's something we, we have accomplished.
+
+11 (7m 40s):
+What for what guys going wild.
+
+2 (7m 45s):
+We think that most American downtowns are between a quarter and half parking by surface area. And you know, even like, so Portland, Oregon, right? Seems like a pretty bike friendly and lively place, right? Like not a place that you associate with acres and acres of parking lots. But I just saw an analysis that Portland, Oregon, if you were to put all that parking flat, it would occupy one fifth of the city. So 20% of the entire city is made up of parking.
+
+12 (8m 15s):
+You know, something? I've never paid full price for a parking spot. I can actually feel the street and I know where not to park, where to park. I'm just not one of those people who just goes into a lot or pays some valet guys. I I,
+
+2 (8m 25s):
+I think the most obvious thing is that parking is the greatest determinant of whether or not Americans will drive. And I think when we look at the fact that America is such an outlier in the degree to which people here drive all the time compared to pure countries like Australia or Canada or something like that, I think parking plays a great role in that. And, and the reason is not just because parking is a great subsidy for driving, right? If you're gonna require that every home have two parking spaces, you are essentially making the down payment on the storage of that car for the person buying that home, and they don't even have any say in the matter. So that's part of it. It's a subsidy for car ownership. Hmm. Building parking is really expensive.
+
+2 (9m 7s):
+So when we require parking with every new unit, we are essentially leving a pretty large tax on the cost of that apartment. I mean, we're talking like a study of low income housing in California and Arizona found the new parking added tens of thousands of dollars onto the cost of every unit. So multiply that over. How many low income housing units do we need to build in this country to give everybody a place to live? Several million. You're talking about a lot of money being spent on parking, but the bigger part perhaps is that the provision of all this parking creates environments in which it is difficult or unpleasant or dangerous to walk or ride a bike or use mass transit.
+
+2 (9m 47s):
+You go to a place that is full of parking lots and it has reached a density that is so low, a density of sort of attractions and amenities and things to do that's so low that you, frankly you need to drive. And, and so in that way, parking, it's not just a, a question of induced demand, creating more parking creates more driving, but also the fact that an environment that is rich in parking will be poor in everything that you came to park for.
+
+0 (10m 11s):
+Okay? So Henry clearly has a lot of beef with parking and up to this point, I feel like for people who love driving everywhere, you can maybe argue that it's worth the amount of space we've dedicated to it. It's, it's worth jacking up the cost of housing, waiting for the bus sucks, whatever. But then Henry told me about his Google alert.
+
+2 (10m 31s):
+I have a Google alert set up for parking space murder.
+
+13 (10m 35s):
+A man ended up fighting for his life after being shot at close range. And you won't believe what cops say the violent clash was over.
+
+14 (10m 43s):
+You are looking at surveillance video of a fight over a parking space that ended with an unarmed 28 year old father of three killed
+
+15 (10m 51s):
+A dispute between neighbors escalates to gunshots and witnesses say confusion over a parking spot is to blame.
+
+2 (10m 58s):
+There's a, you know, couple dozen parking space killings every year. And I don't think that necessarily indicates that there is something particularly contentious about parking so much is that the American populace is armed to the teeth and needs better access to mental health services. But one way or another, what we can say is that the provision of parking is pretty messy, right? People talk about fighting over parking as if it's some tragic accident. Like, oh, how could this happen? It's like, no, this is a policy choice. You created a system in which, you know, 500 drivers are fighting over the same 300 parking spaces. Multiply that by your Boston, Philadelphia, Chicago, New York, la like all these cities that have this situation and you wonder why people fight.
+
+2 (11m 44s):
+No, I mean, it's, it's, it's pretty obvious. I think
+
+0 (11m 51s):
+Henry has some ideas about how we can fix parking. We're gonna hear those in a minute on today. Explain
+
+17 (12m 29s):
+Fox Creative.
+
+Too Good (12m 30s):
+This is advertiser content brought to you by Too Good. Too Good cares about making great tasting lower sugar products that you can find in the yogurt aisle. They also care about combating food waste and food insecurity, which are bigger problems than you might realize. The US averages around 130 billion pounds of food waste per year. That's 30 to 40% of the total food supply that we produce in the country. My name is Caroline Huong and I am the communications and marketing manager with We Don't Waste in Denver. We recover good nutritious food from local businesses and we distribute it to nonprofits who have free food programs. Two good supports. Organizations like we don't waste to help keep healthy edible food out of landfills and reduce food insecurity. We don't waste this relationship with Two Good began back in 2020 and since then, they've actually become the large supporter in our organization's history. With two good support, we've been able to grow up to 20 million servings a year consistently. So every time you buy too good, you're not only doing good by you, but you're also helping to do good by others. To learn more, visit two good yogurt.com/one cup Less Hunger
+
+The Verge Vergecast (13m 44s):
+This week on the Verge Vergecast. Why is it so hard to find director's commentary on streaming services? I've been shouting about this on social media for a number of years. Streamers very, very easily could add one audio track that includes a commentary. Why would you make a whole movie about Blackberry? It's a product that is universally known in a way and almost known as a joke. And I thought this would be a great way for me to Trojan Horse, the way my friends and I make movies into a story that a general audience may be interested in seeing. And how do you direct an entire feature length mystery film? All on computer screens, Not one shot. And the movie is screen recording, like everything is built custom pixel by pixel. Basically This episode is all about making movies about tech and using tech to make movies. It's the director's episode of The Vergecast, and you can hear it anywhere you find podcasts.
+
+23 (14m 39s):
+What's parking like? Where you where sucks? Say it again. Sucks
+
+0 (14m 44s):
+Today. Explain back with Henry GraBar, author of Paved Paradise, how Parking Explains the World. Henry, towards the end of the first half of our conversation there, we got into the real mess that is parking in the United States. We got into your Google alerts. People are killing each other. It sounds bleak. Is there hope?
+
+2 (15m 6s):
+Yes. I feel some, some degree of hope. Yes.
+
+0 (15m 8s):
+Tell me why.
+
+2 (15m 10s):
+Turns out there are a minority, but a very active, busy and increasingly influential minority of people who are obsessed with the idea that parking, in fact, does explain the world. And then if you create better parking, you make it possible to create better cities. The leader of this movement is indisputably the 84 year old urban planning professor Donald Soup, who in 2005 wrote a book called The High Cost of Free Parking. Hmm.
+
+24 (15m 38s):
+I think parking is important because the, the, the average cars park 95% of the time
+
+2 (15m 44s):
+He's like the Pope of parking studies. And
+
+24 (15m 47s):
+In an audience this large, some of you were probably even conceived in a parked car.
+
+2 (15m 52s):
+His book is the Bible of people who are interested in parking reform. He's funny, he's charismatic and he has been absolutely happy, thrilled even to see this book make its way out into the world and see these parking reformers start to invade city councils and community meetings and work their way into, into politics and development and begin to build a little less parking.
+
+0 (16m 14s):
+Does this movement have a name? Well,
+
+2 (16m 16s):
+The movement is called the Shista.
+
+0 (16m 18s):
+The Shista. The
+
+2 (16m 20s):
+Shista. Yes. In fact, like if you, if you are by a computer and you go to Facebook, you can look up the Shista group and I kid you not, there are thousands of people who go there to discuss parking. What
+
+0 (16m 31s):
+Are the shista pushing though? There's
+
+2 (16m 33s):
+Three tenets of of schism, right? That Don Donald Schu proposes in his book. And those are stop the parking minimum. So if the developer wants to build parking with her apartments, she can do that. If she doesn't wanna build parking, she doesn't have to.
+
+25 (16m 50s):
+I'm down with that idea, especially if it forces people to use public transportation.
+
+26 (16m 56s):
+I'm just interested as to know then where all of those people would end up parking.
+
+27 (17m 3s):
+It sounds reasonable, you know what I mean? You, you're trying to get rid of one thing to, to make something else work.
+
+2 (17m 11s):
+Second tenant of schism is to charge a market price for street parking. So if you have a place where there are more cars that wanna park than there are parking spaces available, instead of adding millions of miles of driving to the road every year creating greenhouse gas emissions, other externalities of driving, you just charge enough for the parking that there's always a spot available.
+
+25 (17m 34s):
+I don't know here there are people that have plenty of money that will pay anything to just park.
+
+28 (17m 40s):
+Everything is charged more like where's the charge less at?
+
+2 (17m 45s):
+The third one is to spend that money locally because obviously everybody hates paying for parking. But in the places that have managed, implement such a program successfully and convince people that it's worth it, they spend that money in the neighborhood. I
+
+0 (17m 59s):
+Like that idea.
+
+26 (18m 1s):
+I'm okay with paying more if I know the money's going to a good cause.
+
+28 (18m 5s):
+I don't believe were the money gonna go in their parking.
+
+0 (18m 8s):
+Highly skeptical,
+
+1 (18m 9s):
+Right?
+
+0 (18m 19s):
+What about all the parking we already have in this country? These sound like great reforms for the future, but what about the stuff that we've got? It
+
+2 (18m 25s):
+Depends where you are really. I mean, I think a lot of the reform is about finding better ways to manage the parking that we have, which means charging the right price so that people will stop fighting over. It means fighting ways to share parking between buildings that need it at different times. Like a church for example, might have a parking lot that they use on a Sunday morning, but they don't use it the rest of the week. And there might be a restaurant next door that's open only at night and then they need a parking lot. And maybe the restaurant in the church could work together and just use one parking lot instead of each having two. That doesn't seem like much, but like multiply that out at scale and you've halt the number of parking spaces in the country.
+
+2 (19m 7s):
+So that's a lot of land that could be put towards other things such as planting trees or building affordable housing.
+
+0 (19m 13s):
+It it, it sounds promising, but also what we're doing in a lot of smarter cities, I wanna hear how electric vehicles are gonna shake up this whole situation.
+
+2 (19m 23s):
+They are going to seriously shake up this situation because I mean, think about it. The whole function of a parking space is about to change. For a hundred years. A parking space has been a place where you store your car and you leave it and you walk away for days or even weeks at a time. But now with electric vehicles, a parking space is suddenly going to become a much more valuable asset because it's gonna be the place where you charge your car as well.
+
+15 (19m 50s):
+Whether you are new or a veteran, even the best EV owners can sometimes forget the basic rules of charging etiquette. I think we are just learning the basic rules of charging it. We haven't forgotten it. We're still hammering it out, I
+
+2 (20m 2s):
+Think. Yeah. And that means access to parking is about to become, ironically, a key tenant of helping the country meet its climate goals and helping wean us off fossil fuels because transportation is of course the largest source of greenhouse gas emissions in this country. So if parking is the way that people charge their cars and we need everybody to start charging their cars and buying electric vehicles, we unfortunately must make sure that everyone has access to a parking space where they can charge their car.
+
+13 (20m 31s):
+Research from the US Department of Energy shows up to 90% of charging happens at home, but in older neighborhoods like Seattle's Central district residents could be stuck on roads with no outlet.
+
+2 (20m 43s):
+I think if you look at electric vehicle distribution right now, it tends to be concentrated in high income areas, which is no surprise because EVs are expensive and the used car market is pretty thin and the way people buy them is that they tend to buy them as their second or third car to go alongside a gas powered car that you would take if you were going on a cross country road trip or something like that.
+
+29 (21m 5s):
+Now that's why today I'm signing an executive order, setting out a target of 50% of all passenger vehicles sold by 2030 will be electric.
+
+2 (21m 17s):
+And what that means is that we are going to see the profile of electric vehicle owners shift. So instead of just being rich people who own EVs and money being the great determinant of who owns an electric vehicle, we're gonna see that change. And I think in the next 10 years, the determinant of who owns an electric vehicle is not gonna be money, but it's gonna be parking.
+
+0 (21m 39s):
+How come? Because if the convenience of where you can charge your car is gonna be the deciding factor, I
+
+2 (21m 44s):
+Mean that's what the surveys show. People buy electric vehicles when they have a place to charge them at home. Two thirds of Americans have their own home garage, no surprise, it's often the largest room in the house. The biggest architectural feature in the facade. Everybody loves their garage. And if you're buying an electric vehicle, you can spend between a couple hundred and a couple thousand dollars and get a nice level two EV charger installed in your garage, no problem for you. However, one third of American households, which is to say tens of millions of households do not have a personal private garage at home. They either share garages in their condo or apartment buildings or they park on the street.
+
+2 (22m 24s):
+And so for those people, the question is how are they gonna charge their cars? And so it's become increasingly urgent, this idea that we have to find a way to make charging accessible for those people because otherwise they're not gonna buy EVs and otherwise we're gonna end up with a two-tiered system in which people with home garages own electric vehicles and people who don't get stuck driving gas powered vehicles.
+
+0 (22m 45s):
+I feel like when I watch tv, every other car commercial I see is for an electric car. That could be wrong, but that's definitely the vibe I get. Especially big moments like the Super Bowl or whatever,
+
+9 (22m 57s):
+General Motors is going electric and Netflix is joining in by including more EVs in their movies and shows least they can do.
+
+0 (23m 4s):
+It feels like car companies have rethought their entire inventory as a result of these government initiatives. And obviously consumer demand, it feels like consumers are starting to rethink the vehicle because of EVs. Do cities have a golden opportunity here to rethink parking with electric vehicles?
+
+2 (23m 28s):
+One option is just electrify every single parking space that's gonna be insanely expensive. It's gonna take forever. Frankly, it's beyond I think the capacity of of most cities. And so then the decision is, okay, where are we gonna put the chargers and how are we gonna make sure that people share them? Ultimately what's what's required here is installing some public charging and then rethinking the way that people think about parking and charging because the place where these chargers are installed is not gonna be a place where you can go and leave your car for, for days at a time. People are gonna have to shuffle in and out. You know, that poses perhaps the greatest rethinking in terms of people's relationship with parking that we will have seen in in quite some time.
+
+2 (24m 16s):
+I think that's the positive side. And then the negative side perhaps, is that in many cities we are just beginning to think about all the other ways we could potentially use this public space that has for decades, for a century, been allocated exclusively for the free storage of private automobiles. And right at that moment we are going to install a bunch of super expensive infrastructure along the curb that ensures that for decades to come, all that space will be used exclusively for parking cars. And I think that would be a shame.
+
+0 (24m 49s):
+Hmm. So we've got an opportunity to like hit this out of the park right now or just stumble and make the same mistakes we've making for a hundred years,
+
+2 (24m 56s):
+No pressure.
+
+0 (25m 15s):
+Henry Graybar's book All about parking is called Paved Paradise. How Parking Explains the World. It is out now as is Fast 10 a movie mostly about driving, but I saw at least one car slowing down to park in the trailer. Our char today was produced by Miles Brian. It was fact checked by Si, Petros, Amanda, Lou Ellen, and Laura Bullard. It was mixed by Michael Rayfield. It was edited by Matthew Collette, who's still trying to figure out how they didn't call Fast 10 Fasten Your seat Belts today explained It's distributed by W N Y C. We are part of the Vox Mania podcast network. The rest of the team includes my co-host, Noel King, Hema Shaw, Aviche, artsy Haidi, and Victoria Chamberlain.
+
+0 (25m 59s):
+Our supervising producer is Amina Aldi. We got extra help this week from Jolie Myers and Patrick Boyd. We use music by Breakmaster Cylinder. Paul Robert Mosey found a new parking spot this week and we are gonna miss him.
+
+30 (26m 33s):
+It's sometimes it's kind of difficult because if you need to find a parking spot in a park, every whole building is around. Circle around the park, wherever you'll park on a road or inside beside the mini playground.

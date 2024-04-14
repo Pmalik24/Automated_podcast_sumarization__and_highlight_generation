@@ -1,0 +1,248 @@
+0 (0s):
+Lawyers for the Justice Department and for Google Squared off today for opening arguments in a courtroom in Washington DC. to find information about the trial, I went to Google News, then I googled Google antitrust trial stakes to find tape for my show. Open. this Court
+
+1 (17s):
+Battle It really matters because essentially it comes down to the way you and millions of people are searching the internet on your smartphone.
+
+0 (26s):
+This is at the heart of the US government's case against Google. Google is enormous. Is it so big because it's the best or because it tech blocked its competitors. It's the biggest antitrust trial in the us In almost a generation. I learned on Google, but as regulators and legislators and regular people have grown annoyed and disturbed by how much power big tech has, it won't be the last Coming up. On today explained, Hot girl Summer is over. We're kicking off hot antitrust Fall Google that you won't find it. Amanda made it up.
+
+Crucible Moments (59s):
+Support for this show today comes from Crucible Moments. Crucible Moments is a new podcast from Sequoia Capital and it takes you inside the pivotal decisions that shaped top companies like Airbnb, PayPal, 23 and Me and More. You can tune into Sequoia's new podcast series to discover how some of the most transformational companies of the modern era were built. Crucible Moments is out now and available everywhere you get your podcasts. and@cruciblemoments.com, you can listen to Crucible moments. Today,
+
+4 (1m 33s):
+Support for this episode comes from Zelle. You'd never fall for an online scam, right? You use two-factor authentication. Ignore calls from everyone named spam risk and never use the password. Password. But scammers are getting more sophisticated and more active, which means they're finding millions of new victims every single year. The good news is that there's a lot you can do to protect yourself on the Wild, wild Web. For starters, Zelle wants to remind you only send money to people you know and trust. Zelle is available to United States Bank account holders.
+
+4 (2m 13s):
+Only terms and conditions apply.
+
+0 (2m 18s):
+Hey, Google Play today explained,
+
+5 (2m 20s):
+Okay, playing today explained.
+
+0 (2m 30s):
+Addie Robertson is a senior editor at The Verge. She's in Washington DC for hot antitrust fall covering us versus Google.
+
+6 (2m 38s):
+So over the next 10 weeks in Washington DC, the government and Google are going to square off over whether Google search has gotten as big as it has by unfairly locking out the competition
+
+8 (2m 55s):
+Google, that company begins its first antitrust trial. As the government looks into business deals making Google the default engine search engine for things like Apple's Safari web browser,
+
+6 (3m 7s):
+We're probably going to hear a lot from not only Google executives, but from executives of the companies that Google is working with and that the government is alleging it's cutting deals with in order to maintain its search dominance. We're probably going to hear from Sundar Phai, the c e O of Alphabet, and potentially a lot of other figures in Google. So it's going to be a lot of the people making the big decisions around Google search.
+
+9 (3m 31s):
+The two sides are bringing enormous assets to bear with the D O J authorizing additional resources for its team and Google hiring three outside law firms to prepare for the case. Now,
+
+6 (3m 42s):
+This case represents one of the first attempts in years for the US government to go after a big tech company for monopolistic behavior in a really powerhouse industry like search.
+
+10 (3m 55s):
+The question is, is Google too powerful? Is it a monopoly that should be broken up?
+
+6 (4m 4s):
+The allegations here are that Google search, which is still after more than two decades, the core of Google's business has managed to corner the market on search engines by cutting deals with Apple and other companies that other potentially more innovative search engines can't compete with.
+
+11 (4m 22s):
+Google is the gateway to the internet and a search advertising behemoth. Google achieves some success in its early years and no one begrudges that. But as the antitrust complaint filed today explains, it has maintained its monopoly power through exclusionary practices that are harmful to competition.
+
+6 (4m 41s):
+So it's not illegal to have a dominant position in the market, and really nobody, including Google, argues that it doesn't have a dominant position in search. The argument here is that Google is managing to sustain this position through means that violate antitrust law through means that are anti-competitive, that are discouraging people from innovating in ways that have nothing to do with the government, says Google making a better product. Hmm. It just says that it's buying its market share rather than innovating.
+
+11 (5m 11s):
+If the government does not enforce the antitrust laws to enable competition, we could lose the next wave of innovation. If that happens, Americans may never get to see the next Google.
+
+0 (5m 23s):
+Okay, so this is interesting. If, you are competitive. If you're doing something better than your competitors are, then you deserve their business. Cool. Good for you. You've done it. But the allegation is that Google isn't doing anything better. It's just what it's, it's like buying its customer base.
+
+6 (5m 41s):
+The argument really is that yes, Google is buying its market share. So for example, If, you have an iPad and you open up Safari and you wanna search for something. Then Google has struck a deal with Apple that makes it the default search engine, and it spends allegedly billions of dollars on this placement. And this means that you're not necessarily consciously choosing Google whenever you go to search something. You're just getting directed there because Google has a lot of money to spend. Hmm. That's sort of the core of the argument here. How
+
+0 (6m 13s):
+Does Google respond? Google
+
+6 (6m 15s):
+Responds that even if there are these default agreements, that it's very, very easy to choose another search engine and that people are picking Google because Google's good. Their slogan is competition is just a click away. And so they point to the fact that some of the places that have made these agreements, like Mozilla with Firefox actually have tried to break away from Google and use other search providers and they've come back. Google argues because the customers just weren't satisfied. And so they're saying that people are really actively choosing Google and that Google is just providing the best service. And so these deals are helpful, but they're not the reason that it's dominant
+
+0 (6m 56s):
+Among people like you. People who have expertise in this, who would a betting person say is gonna win? Is there a sense that one side here is definitely a lock?
+
+6 (7m 6s):
+I don't think that there's one side that's a lock here. But I will say that it is seemed to be fairly difficult to win an antitrust case in the United States that the United States has for a long time based antitrust rules on what is known as the consumer welfare standard, which is basically, are there things you can point to that are specifically harming consumers of a service, not necessarily other companies. And in a lot of cases, that means are there prices going up for consumers or are they being actively denied something? And when you have a tech sector where a lot of services are free and a lot of allegedly anti-competitive behavior is these sort of gentle nudges, then it can be really difficult to prove anti-competitive behavior.
+
+6 (7m 54s):
+And so I think that this certainly isn't a lock for Kugel, and certainly search is a huge business. It would be potentially very damaging if something restricted it. But I think that it's a case that could be difficult for the Justice Department to win.
+
+0 (8m 9s):
+Let's say that the government does win. What can it demand? Google do?
+
+6 (8m 14s):
+A potential option is just, it tells Google to stop doing the behavior that it's largely complaining about in the suit, which is making these deals with companies to prominently place its search engine somewhere as the default. Hmm. And so it could say you are really If, you open up safari, you should be asked to pick a search engine that it shouldn't be able to strike these deals in a really extreme case. It could do something like break up the company. That's something that is potentially on the table in antitrust trials. That seems like something that would be pretty far on the end of things. It could ask for,
+
+0 (8m 52s):
+Are there any precedents for a case like this
+
+6 (8m 54s):
+In the us? The clearest comparison point for here, this is probably really going all the way back to the 1990s to Microsoft.
+
+12 (9m 3s):
+It's Reno time. Okay, who wants a piece of Reno?
+
+14 (9m 8s):
+The Justice Department has charged Microsoft with engaging in anti-competitive and exclusionary practices designed to maintain its monopoly in personal computer operating systems and attempting to extend that monopoly to internet browser software.
+
+6 (9m 25s):
+Microsoft was found to be acting anti-competitive in locking out access to competing web browsers in order to favor Internet Explorer.
+
+13 (9m 33s):
+The case revolves around Microsoft's control of the so-called operating system, the basic software that acts as the brains of today's computers. More than 90% of computers today use Microsoft's Windows operating system. The Justice Department alleges that Microsoft tried to use that dominance to gain control over the market for so-called browsers, the software that connects users to the internet.
+
+6 (9m 58s):
+And this wasn really just one of the biggest antitrust trials in tech. And people who are looking at this trial are definitely seeing echoes of Microsoft's case.
+
+14 (10m 10s):
+Microsoft's actions have stifled competition in the operating system and browser markets, but most importantly, it has restricted the choices available for consumers in America and around the world.
+
+6 (10m 26s):
+In that case, it ended up with Microsoft being found to have acted anti competitively, but then it ended up going to a settlement where the really severe remedies that were on the table, like breaking up Microsoft, never actually came to pass. And there's an open debate over whether this meant that really not that much happened or that while the strictest legal remedies were put into place, it put Microsoft on notice that it made Microsoft more cautious and made it less likely to crack down on potential competitors like Google that we're operating in this new web space.
+
+0 (11m 2s):
+What does the past and what does the current moment tell us about what exactly the stakes are for Google in this trial?
+
+6 (11m 10s):
+The stakes are that Google is a company that's been this wasn innovative for very long, that did some really tremendous things for the tech industry, but that now is a pretty settled incumbent. And I think that we're seeing now that the government is trying to shake up its dominance a little bit. And I think that precedent does tell us potentially that this could change Google's behavior if it feels like it has to be more cautious. It could also show that really there's not necessarily a great way under us antitrust law to break up large tech companies that some of the biggest tech antitrust cases have ended up just they have changed things for a while and then the industry has consolidated.
+
+6 (11m 54s):
+Again.
+
+0 (12m 2s):
+This wasn Addie Robertson of The Verge Coming up this year marks 25 years of Google search. We're click and history
+
+Shopify (12m 14s):
+Support for the show today comes from Shopify. If you're an entrepreneur and I know a lot of you are, then you know that feeling. You've got a jackpot idea and all you have to figure out is how to make it real. Whether you're a new maker selling handcrafted artisanal items, or an established business owner trying to expand the reach of your company, you need a partner to handle the minutia of building your brand online. That way you can focus on the big stuff, the important stuff. Shopify wants to help you make your dream a reality. Millions already use Shopify as their trusted e-commerce platform and you can be 1,000,001. You can sign up for a $1 per month trial period at Shopify dot com slash explained. All lowercase, they want me to say that it's all lowercase. You can go to Shopify dot com slash explained to see if Shopify can take your business to the next level today. That's Shopify dot com slash explained. Don't you dare use a capital letter.
+
+Amazon Web Services (AWS) (13m 19s):
+Support for this episode comes from Amazon Web Services. Your applications are the cornerstone of your business. So how are you staying ahead with a w s? You can innovate without limits. A W SS provides extensive, reliable, and secure infrastructure designed to deliver the best performance at an optimal cost. With the broadest and deepest application development capabilities at your fingertips, you can reimagine every application, innovate without limits, learn more at go.aws/aa.
+
+16 (13m 60s):
+Me, you better. You better me.
+
+0 (14m 6s):
+It's today explained. Google us. There was a time not so long ago when to get information, one would turn to Encyclopedia Britannica or some such, but like Pitbull, Google changed the game. How did it happen? I asked David Pierce friend of the show editor at large of The Verge to take us back to the early days of Google search.
+
+3 (14m 26s):
+The sort of ancient internet history version of this story starts in about 19 97, 19 98 when two PhD students at Stanford have this idea about a different kind of way to search the internet.
+
+17 (14m 43s):
+Search engines didn't really understand the notion of, you know, which pages were more important. you know, If, you type Stanford, you get sort of random pages that mention Stanford. This obviously wasn't gonna work, it obviously wasn't gonna scale.
+
+3 (14m 55s):
+One of the big problems with the internet in the 1990s was there were lots of new websites, there was lots of stuff happening and there was just no way to find it. Like there just literally wasn't a way to discover new things on the internet without just aimlessly typing in URLs to your browser. Mm. And this wasn a bad experience. So they had this idea built out a search engine, they called it Google. They did a demo for one of their professors where they searched the name Gerhard Casper, which was the president of Stanford at the time, in both Alta Vista and their new thing, which they called Google in Alta Vista. It came up with a picture of Casper the Friendly Ghost, which was a bad answer,
+
+18 (15m 29s):
+Boop.
+
+3 (15m 31s):
+And their search engine came up with the right guy. And so almost immediately they launched this thing into the world. They're like, okay, we've built this new tool, we think it can help people discover information around the internet. And almost immediately it starts to grow really fast.
+
+19 (15m 48s):
+I mean, in history, you have never had access to just, you know, pretty much all the world's information in seconds. And we have that now. And to make it really useful, you have to have a good way of finding whatever it is that you want and that that's precisely what we work on at Google.
+
+3 (16m 8s):
+It wasn't the biggest thing for a long time. Google as this dominant force on the internet is really a phenomenon of the last 15 years, not the last 25 years, but you really could make the case that that moment in 1998 was a sort of inflection point for the rest of the internet ever since
+
+0 (16m 25s):
+I didn't know this story about Larry Page and Sergei Brynn testing it with the name of Stanford's president. You said they put it into AltaVista also. So there were other search engines at the time. They weren't inventing something, they weren't inventing something new.
+
+3 (16m 38s):
+No. Google gets a lot of credit for, I think doing a thing better rather than kind of inventing a new thing out of whole cloth. Hmm, right? This idea that the internet is big and sprawling and full of lots of things and those things are hard to find, was a pretty well known phenomenon even many years before Google came out. And at the time Google started to come up, there were three real players, but really just two. So the three were Alta Vista, Yahoo, and Google. And Yahoo was kind of a separate thing. this wasn essentially just a phone book for the internet. Yahoo. They had a bunch of weird ideas about human editors who would put cool new websites in and If you wanted new websites, they had things categorized.
+
+3 (17m 25s):
+this wasn the white pages for websites, which made sense when the internet was very small and pretty quickly didn't make any sense anymore. What Alta Vista had done, this wasn the first company to go out and essentially discover the whole internet. It built this thing called a crawler that could go from link to link and webpage to webpage and start to actually ingest all of the information on a website. And when you do that, now you have this big database of files that you can actually search through when somebody looks for something. So it became an actual searchable document in essentially the internet. And Alta Vista was hugely successful and then had a bunch of disastrous corporate maneuvers and bad ideas about how things should work and it kind of slowly fell apart.
+
+3 (18m 10s):
+Why
+
+20 (18m 10s):
+Does everyone in this town use Alta Vista? Is it 1997?
+
+3 (18m 14s):
+But Alta Vista had a lot of really, really, really good ideas before Google had them. But what Google did right was show up and this wasn very fast. this wasn very simple, it just kind of worked. And Google had a couple of different ideas about how to rank things in search results that made it in this sort of ineffable way just feel better. Like Google understood the internet better than Alta Vista data in the same way that like when you start using TikTok, TikTok has this feeling of, it just gets you in a way that nothing else. Does Google felt like that compared to all the other search on the internet? Does
+
+0 (18m 47s):
+Google search still work the same as it did 25 years ago, 20, 25 years ago?
+
+3 (18m 51s):
+No, Google is vastly more complicated than this. wasn 25 years ago, the the early thing that really worked for Google was this thing called page rank. And the idea essentially was that instead of ranking something by how many times a word appears on that page, or how many times a person has visited that page, which are both decent, you know, metrics of success, but not actually really great. Google's idea was what if we take into account the number of websites that link to this page as a metric of success.
+
+17 (19m 22s):
+I wanted to find, you know, basically say, you know who links to the Stanford homepage and there's 10,000 people who link to Stanford, so you can only show 10, you know, and we ended up with this way of ranking links based on the links.
+
+3 (19m 35s):
+If I am going to link to a news article in my news article, ads are that news article is good and worth your time and worth reading or an informational page. If lots of folks are linking to that, that's probably a strong signal that it's a good informational webpage. This is a vast oversimplification of how Google worked even then. But Google essentially built the whole search engine around this idea of relevancy rather than just kind of popularity or keywords. And this wasn one of the things that really worked that is still true for Google, but Google now is this massively more intensive thing to try to figure out. Google cares about everything from page speed to the order and structure of the page.
+
+3 (20m 18s):
+Google cares about where things are and the size of the headings and how things are located and it's this black box that everyone is perpetually trying to figure out because ranking high in Google results is so important, but it used to just be that If, you wrote a very good webpage. You could at least sort of hope that people would link to you and that would send a strong signal to Google and all would be well and good. That is no longer how it works. No one really knows how it works. I think potentially including the people who build the system at Google. It's very hard to fully understand, but it is wildly complicated. Now
+
+0 (20m 52s):
+I wanna bring this back around to the issue that's at hand this week, which is the, the accusations. The allegations of antitrust, of monopolistic behavior. Once upon a time human beings just did stuff. Reporters wrote stories, scientists wrote papers and on and on and on. And now we want that stuff to come up on Google. We want that stuff to be the first thing that people see. Did we change our behavior in significant ways to make ourselves visible on Google in ways that are maybe coming into play in, in this question of how big is Google and is it too big?
+
+3 (21m 27s):
+Yes, in in huge, huge, huge ways. I think recipe websites are probably the best example of this.
+
+21 (21m 34s):
+Do you wanna know the secret technique that food bloggers use to show up at the top of Google search results?
+
+3 (21m 40s):
+The thing you see on every recipe website is it has a big title with a very simple sort of straightforward, you know, chocolate chip cookies recipe and then it has 2000 words of someone telling you about like what they did that day and all their feelings about the world. Yes. And then it has a bunch of subheadings that say, you know what to replace flour with or how to make this vegan or whatever. And then you get all the way down to the bottom of the page, passed a bunch of ads, passed a bunch of videos, passed a mountain of texts you didn't ask for, and then it gives you this very simple recipe card. Every single thing on that page from the way the recipe card is structured, like literally the underlying data is written on that webpage in a way so that Google can index it and understand what the ingredients are, what the steps are, all this stuff, all the way up to how long the page is, what the headings are, whether they're H twos or h threes, like literally the size of the font on the page.
+
+3 (22m 39s):
+All of that is dictated by these guides to how to get to the top of Google search results. Because a lot of people search chocolate chip cookie recipes and If, you can be one of the first couple of links that shows up when people do, you're gonna make a lot of money. It's truly that simple. And there is a really huge diminishing return between being the first link and the fifth link and the 10th link and like God help you, the 50th link, you're nowhere
+
+22 (23m 6s):
+Basically Google decides how well your website is answering the searcher's questions, addressing their problems or deepest desires. If, you want to show up on top of Google's search results page then follow these principles.
+
+3 (23m 20s):
+Like these are the things that have totally changed the way the internet looks and works because of Google. And what Google would say is it's just optimizing for good webpages and good content to something extent that's true, but it's stuck in this game where it says, here's what we think success looks like. And then people go and just absolutely game the crap out of that system to make success look like whatever they want it to look like. And then, then Google has to change the rules and people chase those rules. And so we're now stuck in this place where the internet looks like what everybody thinks Google wants. Whether that's true or not, by the way, is actually hard to know because Google doesn't share a lot about how the search rankings actually work.
+
+3 (23m 60s):
+So everybody is just kind of throwing spaghetti against the wall and trying to see what sticks and then making these massive inferences based on what happens, whether they're right or not.
+
+0 (24m 12s):
+Alright, so now we have the US government saying not just in this lawsuit, but in all of the cases, in all of the ways it's digging around Google, this company simply has too much power. It cannot dictate, it should not be able to dictate what we see on the internet. Everything down to what a chocolate chip cookie recipe looks like.
+
+3 (24m 32s):
+Yeah, I think that's right. And I think one of the things that the D O J is going to argue in this case is that what we need is a more competitive search landscape, right? That if, if Alta Vista 25 years ago had continued to make good decisions and had continued down the road of frankly having a lot of Google's ideas before Google did, there's a world in which there were real competitors here, but Google at first out innovated all of them and spent a decade just being much better at this than anybody. They moved faster, they figured out this wasn a huge money maker. They did the interface right? They made a lot of really good decisions. And then Google spent tens of billions of dollars a year making sure that this wasn hard for you to get to other search engines.
+
+3 (25m 15s):
+And they made themselves the default on the iPhone and they built the Chrome browser with Google built in. So what the D O J I think is going to argue and what I think is is fair to say in a lot of ways is that we'd be better served if there were lots of different ideas about how to find information on the internet. And that what Google has done is not just reshape the internet kind of in its own image, but make it very hard for there to be other ideas about how the internet can work.
+
+0 (25m 50s):
+David Pierce, editor at Large, The Verge, thank you as always. This was great.
+
+3 (25m 54s):
+My pleasure. Thank you.
+
+0 (25m 59s):
+Today's episode was produced by Amanda Lewellyn, three Ls If. you wanna Google her? this wasn edited by Matthew Collette and engineered by Patrick Boyd senior fact checker. Laura Bullard subscribes to Encyclopedia Britannica. I'm Noel King. It's today explained.
+
+16 (26m 13s):
+Baby. You can call. You ain't even gotta ask nobody me. I on the internet If you looking for me going pull it up because I'm a celebrity. I know you done heard of me. You ain't even got a clue, but it's so true. Flashing the cameras, baby. I'm the new So If you looking for going? Pull it up, ain't you? Better
+
+23 (26m 56s):
+Support for the show comes from Gold Peak real brew tea. There's a time of day about an hour before sunset where the rays feel warm and the breeze feels cool, but the hut hour of golden bliss is always gone. Too soon you might rekindle that feeling with a bottle of gold peak made with high quality tea leaves it's smooth taste transports you to golden hour. At any hour. Gold peak tea. It's got to be gold
+
+24 (27m 30s):
+Fox creative.
+
+25 (27m 32s):
+This is advertiser content from SC Johnson,
+
+26 (27m 36s):
+From the tiniest plankton to the most enormous whale. Ocean ecosystems thrive when all parts and cycles work in harmony. Each reliant on the rest to survive. A healthy earth needs healthy oceans and healthy oceans can't thrive when overwhelmed by plastic pollution. We can't let this continue, but this is not a problem that individuals can solve on our own. I'm Zara bti, sustainability educator and climate optimist. Throughout my studies, I've learned collective action is what really affects change. The key to helping fight the plastics crisis will be taking meaningful action at every level. Large and small consumers can limit their plastics consumption.
+
+26 (28m 19s):
+Governments can improve recycling infrastructure, and companies can find sustainable solutions to packaging and production. We are all accountable for our part in this crisis, and together we can ignite change. Learn more about how you can take collective action at sc johnson.com/action matters.

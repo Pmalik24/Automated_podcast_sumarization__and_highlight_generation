@@ -1,0 +1,257 @@
+0 (1s):
+Today explained Sean Ramas for him this past Saturday. Against my better judgment, I was scrolling the feeds, liking the tweets, and then I saw something glorious cool. Pope Papa Francis in an epic white puffer, he's got the cross dangling over the jacket. The jacket has this inexplicable built-in white belt. He looks like he's on his way to save humanity from eternal damnation and he's gonna be warm as hell while he does it. The tweet I saw captioned it. The boys in Brooklyn could only hope for this level of drip chef's kiss. I sent it to all my Catholics. And then on Sunday I spent less time online.
+
+0 (42s):
+So it wasn't until Monday morning that I found out that the image was fake. AI got me and millions of others. How we all got fooled by Prada Pope ahead on today's life,
+
+2 (60s):
+The Supreme Court is here, a case this week about art and who gets to remix an artistic idea. But this fight is not new.
+
+3 (1m 9s):
+Olivia Rodrigo was not doing anything different from Michelangelo or Leonardo DaVinci. Honestly, those guys were looking around seeing what other people did at the time in Florence and Rome and wherever and copying some of
+
+2 (1m 23s):
+It. SCOTUS copyright law. And you, this week on Intuit Vultures pop culture podcast,
+
+4 (1m 47s):
+It's the Pope. He looks fantastic. He's wearing a big white puffer jacket that looks like it was made like Balenciaga, Montclair, something like that. He looks like he just stepped off a runway. And of course the kicker is that is a fake image that it was made using ai. It's not a real thing.
+
+0 (2m 1s):
+James Vincent is a senior reporter at The Verge today explained, asked him why this AI generated picture of the Pope matters.
+
+4 (2m 10s):
+Because I think it is a minor milestone in terms of a fake AI image tricking a lot of people. I saw this being shared by a lot of people going, wow, Pope looking drippy as fuck and, and people who were taken in by it. And now there have been lots of AI fakes that have been circulated and they always, or not always, but a lot of them are taken in some people. But I think this was the first time I saw lots of people thinking that this just happened to be a real image.
+
+0 (2m 39s):
+Were you fooled by it? Be honest.
+
+4 (2m 41s):
+Yes. Okay. So the first time I saw it, it was, it was on Friday night and I was, you know, scrolling through my phone idly for whatever reason. And I went past it and I just saw it in passing and was like, wow, Pope looking real, he's looking real good today. And then I saw it again and I was like, okay, this is obviously like lots of people, people are paying attention to this image. So I took a closer look and I am happy to say I did spot that it was a fake, but I say this is someone who looks at AI generated images day in, day out. So I'm kind of, I'm definitely better attuned seeing what makes something fake.
+
+0 (3m 13s):
+Let's help the people out here. What eventually tipped you off that it was fake? How can we spot a fake image?
+
+4 (3m 21s):
+So when it comes to AI generated images, there are a few different tells and they kind of all in my mind relate to one of the same underlying traits. AI is good at generating surfaces, not the underlying system. Now that sort of sounds like quite an abstract thing to say, but if you think about the data it's trained on, it's not being fed 3D models of people or clothing or you know, architecture. It's being fed 2D representations of it. And so it learns what the surface of the image look like. This means that when you zoom in, when you look at the details, they often reveal some inconsistency, some blur or smear.
+
+4 (4m 1s):
+Now a very famous example of this is that AI image generators are not very good at producing hands. They create things that look like flesh, that look like fingers, but sometimes the joints are in the wrong place or there's, there's missing a knuckle or there's a finger missing or something like this. And this is because there's no internal representation. These systems haven't gone through anatomy classes. So if you actually, you know, to use a specific thing, yeah, you zoom in on his hand and he has this sort of slight indistinct claw of a hand and it's grasping something that looks like it could be the lid of a coffee cup but isn't quite a coffee cup. And this is the sort of telltale detail that gives away an AI generated image. They don't do systems in a way.
+
+4 (4m 43s):
+Hmm. So other things that were wrong with the images was his jacket was sort of weirdly folded when you looked at it up close, you were like, well, he'd sort of got a piece of fabric that dips in and out of another piece of fabric. And then he, he was wearing a crucifix, but the crucifix had this sort of image of Jesus that looked like Jesus had been sculpted in clay and then sat on,
+
+0 (5m 3s):
+Which the Pope would not do.
+
+4 (5m 5s):
+Famously, the Pope has a lot of respect for the image of Jesus Christ. This is what gives AI images away. They're also not very good at text, for example, if you see anything that has a written word in it, they're not very good at doing sort of big background shots. They often have a single image in the front of the frame like this one and no detail in the background cuz it's quite a lot of moving parts to work out all that stuff. The unfortunate thing is that they are getting better at all these challenges. These systems used to be very bad at generating hands, the hands are better now as, as in the Pope image, one of the hands was sort of okay and one was bad.
+
+4 (5m 48s):
+But you know, these are challenges that will be overcoming time.
+
+0 (5m 51s):
+So if there were these telltale signs, I mean you're talking about pretty obvious things. The cross didn't actually have like a real Jesus on it. His one hand looked like something out of a horror movie. Yeah. Why exactly did this image hit the way it did? I mean it, it spread like wildfire and a lot of people thought it was real. What was convincing if not these things that were so unconvincing?
+
+4 (6m 18s):
+So there's a couple of elements at play here. One is a recent improvement to the software. So the specific software used to create this image was made using Mid Journey it's called. And version five, a Mid Journey came out in the middle of March and it included quite a big improvement in, its the quality of images of people it made. And so you may have seen, for example, other recent AI fakes, and I'm talking the last two weeks since the middle of March, ones of Donald Trump supposedly being arrested, ones of French president Emmanuel Macron in the protests, ones of Elon Musk, supposedly on a date with aoc.
+
+0 (6m 55s):
+None of these things have happened. None
+
+4 (6m 57s):
+Of these, to be clear, none of those things have happened. None of those things have happened. But all those images have been created by Mid journey cuz it's had this bump in its quality basically. Now I, I think an important part of this is that mid journey also has quite a specific aesthetic. It has a type of image that it's better at doing than others. And I think that type of image corresponds to celebrity images. These are often pictures as with the one of the Pope where they're really dramatic, they have fantastic lighting, they've got a strong contrast between the lighting and the shadows. Often the colors really pop, the fabrics look really kinda shiny or glossy. And I think one part of that is that these systems are trained on a lot of images, scrape from the internet.
+
+4 (7m 39s):
+A lot of images on the internet, especially high quality images from stock sites like Getty Images and Shutterstock are of celebrities. Mm. So there is this correspondence between the training data and the images that they're good at producing. And to take that a step further between the images we are used to seeing. So I think, you know, when you see a fake image of the Pope looking, you know, particularly fashionable in a way because we've seen pictures of the Pope looking fashionable before, you know, there's actually this strong association between the Pope and Italian fashion. So much. So I was writing a story about this image and I was looking into the sort of the, the background of it. And there was a press release by the Vatican where they had to deny officially that the previous Pope wore Prada loafers early
+
+5 (8m 24s):
+In his paper. See, there were rumors that the pontiff favored Prada footwear, good Italian designer, right?
+
+4 (8m 29s):
+And they had his amazing phrase, which is like, the Pope doesn't wear Prada, he wears Christ. But because of this, I think people were sort of, they had an image in their mind of the Pope as being this sort of like mem ified figure, right? The Pope sometimes says or does quite funny stuff and images of of him are taken out of context. You know, there's a famous one where he was giving a torque, I can't remember where, but he's holding the microphone and it looks like he's holding, holding it like he's in the middle of a freestyle
+
+0 (8m 58s):
+Raft. Like he's dropping bars.
+
+4 (8m 59s):
+Exactly. And you know, it's just a funny image and it's a real image. But you know, it turned the Pope into a meme. Yeah. And I think this brings me to sort of the final point why we believe this one is because when it comes to fake images, if you want to believe the image is true, you will always, that would always push you towards believing it. And I think this is something that is gonna be very important when we keep in mind the future media environment. And I think a big part of the internet, Twitter had it primed in their head, pope's funny images of the Pope being funnier. Cool, I'm gonna retweet that. And so they skipped the bit in your head where you might go, hang on a second, is that actually real? And I think that's the really important thing that we need to gonna have to remember in the
+
+0 (9m 42s):
+Future. And there's this one dead giveaway I think that we did not touch on, which is that it's springtime in Vatican City. He does not need a puffer coat.
+
+4 (9m 54s):
+Exactly. Well yeah, no, it's true. It's true.
+
+0 (9m 58s):
+Do we know who made this fake image and why was it to dup the internet?
+
+4 (10m 3s):
+Yeah, the Buzzfeed had an interview with the creator of it who used his first name, but on his full name, he didn't wanna give it away. Buzzfeed identified him as a 31 year old construction worker from Chicago who apparently was tripping on mushrooms when he came up with the idea for the image. And he shared these images to a Facebook group and a subreddit on Friday at about two o'clock East coast US time. And they just spread like wildfire from there. Which I, but I, I mean I think that timeline seems sort of like a, you know, an insignificant detail. But I think that's really telling the fact that these things went viral in a matter of hours. I think that really shows that you have the right image at the right time.
+
+4 (10m 44s):
+It can really take off before people truly can, you know, debunk it or say what it is.
+
+0 (10m 49s):
+Is this a new normal for the internet now?
+
+4 (10m 53s):
+I mean, I think the thing is the in the internet has always hired a lot of fake news and fake images on it. And we sure, you know, Photoshop has existed for a long time. We've always had these sorts of problems. I do think this technology is going to accelerate the frequency with which we have situations like this. You know, in, in this case it was sort of a bit of a self-fulfilling cycle in that it got talked about because it got talked about and lots of people were talking about it to debunk it as well as to spread it as a real thing. But I do think in general the ease with which you can now produce this sort of fake, not just in images obviously, but in text and audio means there will be more of this going around.
+
+4 (11m 37s):
+Yeah,
+
+0 (11m 45s):
+More with James in a minute on today. Explained
+
+7 (12m 11s):
+Well folks, here we are, former president Donald Trump appears on the brink of being indicted by a Manhattan grand jury. I'm Preet Barara, the former US attorney in Manhattan. My podcast stay tuned is about law, justice, power and democracy. This week I discuss the latest news with a group of former federal prosecutors who understand how the justice system really works. Joyce Vance, Barb McQuaid and Eli Hoick. We discuss the questions on everyone's mind. Like,
+
+8 (12m 41s):
+Can you directly tie Donald Trump to the way these payments were booked and logged
+
+10 (12m 47s):
+Our prosecutors considering additional defendants or additional charges?
+
+7 (12m 51s):
+Is this the kind of conduct that merits a charge of a former president of the United States?
+
+9 (12m 56s):
+I think this is a serious crime pre and I think it's one that I would charge.
+
+7 (12m 59s):
+And where do we go from here?
+
+10 (13m 1s):
+The presidency from prison, right? I mean add to the crazy.
+
+7 (13m 5s):
+Add to the crazy to listen. Just search. Stay tuned wherever you get your podcasts. New episodes drop every Thursday. Stay tuned
+
+9 (13m 17s):
+From New York Magazine in the Vox Media podcast network. This is the Joe Rogan experience with a thousand percent more experience. Or is it the Don Lemon Show with a hundred percent more understanding of women in their prime. Just kidding. This is on with Kara Swisher. And I'm Kara Swisher. Every Monday and Thursday I take on big names in tech, media and politics to understand what makes them tick and to hold their feet to the fire. A bit on with Kara Swisher. Listen wherever you get your podcasts,
+
+11 (13m 56s):
+Throw your hands if he's a true player
+
+0 (14m 1s):
+Today explained. We're back with James Vincent, senior reporter at The Verge. James, when we last had you on the show, it was last year, you helped us understand that AI images are part of a broader trend in AI called generative ai. How are the other types of AI generation fairing when it comes to misinformation?
+
+4 (14m 21s):
+Well, the two other big categories are text and audio. Text hasn't been so much of a problem for misinformation that we know so far. This is the same sort of technology that's in chat G P T People worried it would be used for a lot of propaganda and fake reviews and stuff like that. We've not really seen that so far. Yeah, now the audio side is slightly different and I think there, there have been more instances, relatively low level of misinformation. If you've been on TikTok recently in the last couple of months, you know, they spread across social media. There's lots of videos of audio deep fakes of Joe Biden, Donald Trump, Barack Obama, lots of you know well-known figures like this. Pickman
+
+12 (15m 1s):
+Three, Pickman three has better graphics gameplay and story. It makes Pickman two look like a glorified tech demo man. Newer doesn't always mean better Joe. You should know that besides Pickman two has the president Chato, he's like a tiny man with a mustache who runs his own company. His whistle is a car
+
+4 (15m 20s):
+Horn doing things like playing video games or arguing about their favorite rap albums or whatever, whatever it might be.
+
+12 (15m 26s):
+That's right. Drake is the biggest to ever do it. He's one of the pioneer rap pop stars. He has more hits than you've had days in office.
+
+13 (15m 33s):
+You wanna talk about days in office one term. Listen, Drake is an undeniable force in rap. One of the biggest and greatest to ever do it. But bros catalog is mostly fluff settle.
+
+4 (15m 41s):
+That's a very good one. It's a good one. But there's also been people who have taken these tools and created fakes of say Joe Biden saying some transphobic things. And then I have seen instances of these being spread on Twitter, for example. And they do fool some people.
+
+0 (15m 56s):
+And, and and like the sort of indicators you gave us for spotting an AI generated image, are there similar indicators for audio?
+
+4 (16m 8s):
+They are trickier. So for audio, the sort of limiting factor at the moment, and again this is only gonna be true for a a short amount of time, is expression. So a lot of the AI generated voices, they're not very good at doing, you know, highs and lows of like really enthusiastic talking and oh God, I'm so unhappy, you know, and not good at doing that sort of thing. They're also not very good at accents. I've heard, you know, Irish friends trying to imitate their voices using voice clones and it doesn't capture their accent very well. And again, that is a factor of training data that most of the training data is, you know, American voices and RP voices in English, that sort of thing.
+
+0 (16m 47s):
+And what about text? Is there like are there indicators for, for text, for spot and AI and text?
+
+4 (16m 53s):
+There's no reliable software that can distinguish AI generated text versus human generated text. And there's nothing that can do that at the moment. However, there is sort of like some common sense rules about how you should be using these tools. So obviously a lot of the popular text generation systems at the moment are chatbots. That's chat G P T. There is Bard by Google and there is Microsoft's Bing chat bot. Now sometimes people often use these for search, they use them for answering questions that they would usually answer by going to Google and clicking on websites. If you do that for any important information, you need to fact check and you need to source what you're doing. So anytime you get a specific answer about, I don't know, a research paper or biographical data, historical data, what year something happened, who it happened to, you're gonna wanna check that with another source because there is a decent chance that they hallucinated their response.
+
+0 (17m 47s):
+It sounds like you're saying these systems are not not trained on, I don't know, responsibility and as a result it's only a matter of time before some fake text or audio or video or image disrupts, I don't know, democracy. Hmm. How are Microsoft and OpenAI and Google responding to fears over that distinct possibility?
+
+4 (18m 16s):
+They're not doing nothing. So I think a good example of this would be how Microsoft has handled news search within Bing. Hmm. So Bing is a chatbot. It can produce false information, but often sites its sources as well. It has little footnotes about its responses and supposedly points you to where it got that information from. Now sometimes it gets the information wrong, sometimes it points you to an incorrect source. Sometimes it sources it from a source that is untrustworthy and the same way that Google might direct you to an untrustworthy news site. Yeah. But that is something that it's doing that's helpful. However, I really believe that these companies are not doing enough, especially when it comes to chatbots. At the moment, Microsoft and Google and OpenAI are obviously involved as well.
+
+4 (18m 59s):
+They're locked in this battle where suddenly AI is the hot new thing. They're competing with each other extremely ferociously. And they are pushing out systems that I do not think have been properly safeguarded yet. These are companies that have in the past when it was less of a hot issue, talked about, you know, how much they care about AI safety and ethics and regulation. And now when there is potential market share on the line, they have shown that they will happily discard those principles if it means beating the competition.
+
+14 (19m 27s):
+Is artificial intelligence a threat to society and humanity? Well, a group of AI experts and industry execs, including Elon Musk, believe so and have signed an open letter calling for a six month pause on advanced AI development. That's training systems more powerful than Open AI's newly launched chat G P T.
+
+0 (19m 47s):
+How much more could these companies be doing right now? Not to rush out new exciting products and updates, but to ensure that these products and updates are safe for gen pop?
+
+4 (19m 58s):
+Yeah, well I, it's a tricky question cause the safeguards for each of the different sites of system are different. So for example, with a voice cloning system, you want to know if people are cloning someone who is a private citizen, for example. Because then you'd be like, well why are they cloning this guy or this girl's voice or whatever it might be. Yeah. So in that case you might want to have that person submit some sort of a check saying, yes, I, I consent to having my voice cloned when it comes to the search engines, the text search engines, they could have more safeguards like Bing is introducing in terms of, you know, footnoting their sources. But there's essentially a lot of big technological issues that just haven't been solved.
+
+4 (20m 41s):
+Like the fact that language models can't sort fact from fiction. I think these companies should be more cautious, cautious in what they're releasing to the general public. But I think there is this so much excitement and fervor around AI at the moment that a lot of companies are just thinking it's better to push what they have out there. They'll soak up any reputational damage that comes with it and they'll reap the benefits of being first to the user base.
+
+0 (21m 4s):
+And no one's in charge, there's no one agency country body who's saying here are some guardrails.
+
+4 (21m 13s):
+There is proposed legislation in the US and in the EU that could apply to some of these systems. But unfortunately it is a sort of, it's a classic case where the technology has just moved so much faster than the law. You know, the congressional hearings with TikTok recently, that was not a great display of the technical literacy of the United States lawmakers.
+
+15 (21m 35s):
+Mr. Chu does TikTok access the home wifi network?
+
+4 (21m 39s):
+It's not a recipe for successful legislation unfortunately. So the, it means that the people who are steering the ship right now are the CEOs of these corporations. Sat Nadela, sunk Sam Altman. These are the people who are in charge right now for better or worse.
+
+0 (21m 55s):
+And, and barring our listeners say, you know, trusting those guys fully, what can we do to have our wits about us as we look at our phones and see images that are real alongside images that are fake and hear audio that is real alongside audio that was generated by ai.
+
+4 (22m 17s):
+I've been struggling with this question myself recently because I I'm often a sort of technical fix guy. I think there can be technical fixes to these problems like having software that detects fakes and it up as such, right? That's not happening right now. And I think we are in a situation where we're gonna have to enter a new era of media literacy. People are gonna really have to rethink their old assumptions about how they view information on the internet. Just because you see a photograph that looks incredibly real, that looks entirely real, you are gonna have to stop yourself and think actually, is that real? Did that happen? It's gonna mean having new media habits. I think it's gonna mean probably turn turning more to trusted sources.
+
+0 (23m 4s):
+That sounds really nice, James. But I mean, what we've seen is that people didn't question what was put in front of them back when it was just other people lying. And now we've got sophisticated machines lying and you're hoping that we go to trusted sources.
+
+4 (23m 20s):
+Well, I I'm gonna be really pedantic and I'm gonna say that the machines aren't lying, it's still other people lying. Right.
+
+0 (23m 26s):
+Okay, fair.
+
+4 (23m 27s):
+The problem is the same. It is always people doing this for whatever reason they have, the machines aren't doing this to us, we're doing it to ourselves. And you are right that so far we've sort of failed these tests and now we're getting an even bigger hurdle and quite likely we're gonna fail it too as well. I I, I've seen some people talking about the fact that, you know, most of human civilization has been conducted under conditions of mistrust in a way, right? It's only a relatively small amount of time that we had these things called photographs, which were quite hard to fake and meant that you could believe the output.
+
+4 (24m 8s):
+And it's only a smaller amount of time that we've had this thing called digital video. And if you filmed it, it probably happened and it was hard to fake. So we have survived with a greater level of mistrust in the past. I'm sure we can do it again.
+
+16 (24m 27s):
+Old sleepy Joe on the
+
+17 (24m 28s):
+Mic. They know the clock stops for Joe and Barack.
+
+0 (24m 31s):
+I wish your confidence were contagious. I'm leaning towards humanity. Had a good run. Maybe the machines will do better.
+
+4 (24m 40s):
+Well they're having fun. At least you know,
+
+0 (24m 43s):
+Abso
+
+4 (24m 44s):
+We can, we can have an AI generated pope for the machines. We can have AI Catholicism.
+
+0 (24m 50s):
+Amen.
+
+16 (24m 51s):
+Ugly. And one day he'll disappear. He does. What's the point of crying?
+
+0 (24m 56s):
+James Vincent Saint Vincent, he's a senior reporter at The Verge and
+
+4 (25m 0s):
+I wrote a book called Beyond Measure, which is a history of measurement, which I promise you is much more exciting than it
+
+0 (25m 7s):
+Sounds. Our show today was generated by Amanda Louellen. It was edited by birthday boy Matthew Collet. It was fact checked by Matthew and Aha Artsy and S Petros and it was mixed by Paul Robert Moundy. It's today explained. Be careful out there. It's only a matter of time before the AI can access the home wifi network. They
+
+17 (25m 27s):
+Say that I'm good enough grabbing my duh. Think about shit that I shouldn't. So I tell him it's one of me. He making fun of me. Haha. This girl is a bum to me. Like that boy is a cap Sandy home. But I know where he at. Like Betty blowing her back thinking about me cuz he know that ass bad. Damn. And it been, what it been calling his phone like, yo, send me your pen. Fucking.

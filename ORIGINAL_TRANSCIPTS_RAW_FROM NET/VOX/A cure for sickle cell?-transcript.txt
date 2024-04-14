@@ -1,0 +1,266 @@
+0 (1s):
+Noel king. Remind me what we did on today. Explain this week,
+
+1 (4s):
+This week
+
+0 (6s):
+It's Friday, certain
+
+1 (7s):
+Monday, Elon Musk
+
+0 (9s):
+Monday was machine guns. We started the week by saying America has all of these machine guns on his hands.
+
+1 (15s):
+Rachel, and then Tuesday was about another thing in news.
+
+0 (20s):
+Roe V. Wade, Ravi.
+
+1 (23s):
+Yes. Oh my God. The biggest story in a generation
+
+0 (26s):
+Throughout all our plans to talk about the leak, the leak, which then you did again on Wednesday and then Thursday
+
+1 (34s):
+Kids, little kids always remember the little kids, little kids
+
+0 (38s):
+Don't have vaccines.
+
+1 (40s):
+That's right.
+
+0 (41s):
+It's a lot of grim news.
+
+1 (43s):
+It's a lot of grim news, dude.
+
+0 (44s):
+What do you say? We end the week with a positive jam.
+
+1 (48s):
+Oh my God. Can we please?
+
+0 (50s):
+We have one Noah,
+
+1 (51s):
+What is it?
+
+0 (52s):
+We got a possible cure for sickle cell disease.
+
+1 (56s):
+No kidding.
+
+0 (57s):
+Coming up on today. Explained
+
+3 (1m 1s):
+Dakota is a show about how big ideas really work and where they might go wrong. Hosted by me, Neil Patel editor in chief of the verge. I interview CEOs, policymakers, tech, experts, and creators about how they make decisions and how those decisions affect our shared future for better or worse past episodes have covered everything from self-driving cars to crypto, to social media moderation. It's a thoughtful, critical conversation about business and technology that you will not hear anywhere else. Follow Dakota, wherever you find your podcasts, new episodes come out every Tuesday.
+
+0 (1m 40s):
+Did. I explained I'm Sean Rama's firm, and you'll be relieved to know that there is a doctrine that house it's Dr. Drew
+
+6 (1m 46s):
+Cooler. I'm a physician at Weill Cornell in New York and a writer for the new Yorker
+
+0 (1m 51s):
+Where he recently wrote about a potential cure for sickle cell disease.
+
+6 (1m 56s):
+Yeah, so sickle cell disease is a disorder of the blood and specifically the red blood cells, which carry oxygen to our entire body, to all organs in our body. And in most of us, these red blood cells are kind of like little saucers. You know, they can move around the body easily. They have no problem kind of dropping off their transport of oxygen. What happens with people in sickle cell disease? Is that a specific protein within the red blood cell it's called hemoglobin. This is the protein that actually carries the oxygen it's defective in some way. And so what it starts to do is instead of, you know, if you can think about the red blood cell is kind of a bag with a bunch of little confetti inside and, and kind of move around, okay.
+
+6 (2m 37s):
+What happens with sickle hemoglobin is that it congeals into these long strands. And so it kind of stretches out the balloon of the red blood cell. It starts to look like what we call a sickle or a kind of a Crescent moon. And that caused all sorts of problems. These types of red blood cells are fragile. They can't move their way through the body's blood vessels as easily. They cause kind of traffic jams and there end result is that oxygen doesn't get to where it needs to be. And so, as you can imagine, that can cause all sorts of problems, strokes, then joint damage and abdominal pain and bone pain. And the basic idea is that you're not getting enough oxygen to your different organs of your body.
+
+6 (3m 19s):
+So sickle cell disease has been around forever. It was first kind of described in the early 19 hundreds. And so in the article, I talk about a patient named Walter Clement Noel, and he is a gentlemen from Granada. He comes to the United States to study dentistry at the university of Chicago and he has all sorts of medical problems. He has trouble breathing. He has pain in his abdomen. He has pain in his joints. He ends up seeking care at a hospital in Chicago.
+
+8 (3m 50s):
+It was by chance that all happened to consult James headache, a doctor with an interest in hematology, the study of blood,
+
+6 (3m 56s):
+They look under the microscope and his blood has it doesn't look like, you know, normal red blood cell. It looks like all these little Sickles. They follow them for three years and they can't figure out what it is, but they write a report. And in the coming decades, doctors around the country start to look at this report. They report similar types of symptoms in their own patients. And then in 1949, Linus Pauling describes what he calls the first molecular disease.
+
+9 (4m 21s):
+I believe that this is a disease of the molecule and that if we look at the blood of these patients, we shall find that the hemoglobin molecules are different from those of other people.
+
+6 (4m 32s):
+So sickle cell disease was actually the first disease that we knew the exact protein, exact molecule that was defective.
+
+0 (4m 43s):
+So Dhruv, why did you want to write about sickle cell right now?
+
+6 (4m 47s):
+So there's a few reasons. I mean, in my practice as a, as a physician in the hospital, I often see patients who have sickle cell disease and they come into the hospital and they're in terrible pain. Often.
+
+10 (4m 58s):
+It feels like somebody hitting you with a hammer,
+
+6 (5m 3s):
+They have all sorts of complications. They can have strokes and joint destruction, and they're in the hospital, they're getting blood transfusions and they need a lots of pain medications. It is a really devastating disease. You know, anyone who kind of cares for patients in the hospital probably has experienced that a lot of these patients are in and out of the hospital every few months. Some of them are in and out of the hospital every few weeks, no,
+
+10 (5m 23s):
+Nobody else, but us people that have pain knows how feels.
+
+6 (5m 29s):
+And now in the past few years there's been these gene therapy trials, which seem incredibly promising. And so there've been dozens of patients treated through this types of gene therapies, which come in different kind of flavors that we can talk about. And many of these patients have had complete resolution of their symptoms. So they're not on pain medications, they don't have any further issues. And so I thought this was a really interesting set of potential therapies and I wanted to learn more about it and it turns out they seem to be quite effective, but there's also a lot of challenges that may come up in terms of getting them to people. Unfortunately, for all sorts of reasons, sickle cell was underfunded for many years and it didn't have any treatments for the next 50 years.
+
+6 (6m 10s):
+And only now are we kind of getting to the point where we're really starting to get a handle on potentially transforming the care for people with sickle cell disease?
+
+0 (6m 19s):
+What are some of the reasons it was so underfunded for so long, who's most affected by sickle cell disease?
+
+6 (6m 25s):
+So sickle cell disease affects predominantly people of African ancestry. And there's an important kind of reason for that. If you have one sickeling gene, you have what's called sickle cell trait and that affords a certain degree of protection against malaria. And so this gene kind of evolved in places in the world where malaria had a high prevalence. So in Africa and Southern Europe and parts of Asia in the United States, at least the vast majority of people who have sickle cell disease are black. It's estimated that there's probably around a hundred thousand people in the U S with sickle cell disease, one in every 365 black births, it has sickle cell. And so it's, it's really a problem that is related. You can't disentangle it from history of systemic racism and discrimination and bias within the medical system and the funding for various treatments we have within the us healthcare system.
+
+6 (7m 16s):
+And for those reasons it has been understudied and underfunded.
+
+0 (7m 19s):
+So you're basically saying that the reason this hasn't really been addressed or a top priority is because it was mostly devastating black communities.
+
+6 (7m 29s):
+That's one of the reasons, you know, cystic fibrosis, for instance, it affects about a third, as many patients with sickle cell disease, but it receives much more in foundation funding then does sickle cell disease. You know, I talk about the ice bucket challenge. You might remember back in 2014.
+
+12 (7m 45s):
+Yes. This, this whole token here. And this is the ALS challenge.
+
+0 (7m 49s):
+Regrettably. I do remember that
+
+6 (7m 50s):
+It raised, you know, something like a hundred times as much funding as sickle cell gets from foundations on a typical year. And so there was a real lack of funding for a very long time for this disease.
+
+12 (8m 0s):
+So what runs froze.
+
+0 (8m 10s):
+And so previously, what tools have doctors had available to treat sickle cell disease?
+
+6 (8m 16s):
+In 1998, there was the first medication that was improved as called hydroxyurea as approved by the FDA,
+
+11 (8m 22s):
+As hematologists were frequently asked whether or not hydroxyurea is the best drug that we have available to treat our patients. The truth is it's really the only drug we have available to treat our patients, which what makes it the best choice.
+
+6 (8m 34s):
+And it's a medication that tries to shift some of the body's production from this abnormal sickle hemoglobin to a different type of hemoglobin, which is actually present just after we're born. And that, that seems to help some people and it can reduce the number of times that people have sickle and crises and the severity of those, you know, it has some side effects that doesn't work for everyone that was the of treatment. There were some other adjunct therapies that people would use, like kids would get penicillin prophylaxis to guard against some infections. You'd want to make sure that they have their vaccines, but in terms of targeted treatment for sickle cell, that was the main one. And then a lot of patients unfortunately have to be on chronic pain, medications, opioids, often to control kind of the severe pain that they have.
+
+6 (9m 17s):
+And so those were kind of a set of therapies that, that doctors have been using and continue to use to, to care for patients with sickle cell.
+
+0 (9m 24s):
+And now there's a game-changing treatment.
+
+6 (9m 27s):
+There may be a game-changing treatment we're on kind of the precipice potentially if these gene therapies, you know, are as effective as we think they are of transforming care for patients with sickle cell disease. And there are a number of companies that are in clinical trials with gene therapies and those trials seem to be going quite well. Two of the companies that I've spoken with expect to submit their data for FDA approval at the end of this year, early next year. So it's possible that a year from now we'll have several gene therapies for sickle cell disease on the market.
+
+0 (9m 58s):
+And for people who don't know how gene therapies work, how do they work?
+
+6 (10m 5s):
+It's hard to talk about them in general, because for different diseases, there's different techniques, but for sickle cell disease, I can tell you how it works. So for sickle cell disease, you know, you can think of it almost like a stem cell transplant that you, that you might've heard about for, for cancers or for other diseases. And so what happens is you take the patient's blood cells, you treat them in a lab, you edit the DNA of those blood cells. Meanwhile, the patient's in the hospital, they've gotten chemotherapy to try to wipe out most of their bone marrow, both red blood cells and white blood cells. So during that period, they're at high risk for infection and other complications, and then you infuse their own blood cells back into them. These are now the edited blood cells.
+
+6 (10m 46s):
+The idea is that those blood cells will take up residence in the patient's bone marrow and start creating more of them hemoglobin afterwards. So this, this approach has kind of a few advantages as compared to traditional stem cell transplants in a traditional transplant in the past, that's been used for sickle cell as well. You need to find a donor, first of all, and not a lot of people have donors. So the estimates are, you know, less than one in five sickle cell patients can find a suitable sibling donor to go through this process. Even if you do find a donor, you end up having to take pre powerful immunosuppressive medications, because there's a risk that those new cells from someone else might be rejected by your body. And so you need to take these immunosuppressive medications that in of itself can put you at risk for other types of infections.
+
+6 (11m 33s):
+And so this is one of the reasons that these new gene therapies are so kind of exciting is that everyone is their own donor. There's very low risk of rejection going forward. And at least in the few dozen patients that we've seen, they've had quite good outcomes for the most part.
+
+0 (11m 52s):
+Tell us about one of,
+
+6 (11m 54s):
+You know, one of the patients I spoke with was it was a woman named Victoria Gray. She was the first patient who got the CRISPR gene therapy in 2000,
+
+13 (12m 2s):
+1936 years old from forest Mississippi. Right now I consider myself to be cured of sickle cell disease, but I will always consider myself to be a sickle cell patient when I first started having sickle cell crisis at the age of three months old. So for me is been hospital stays my whole childhood in and out of the hospital with frequent blood transfusions and a lot of pain. And it's a pain that I couldn't rub and make feel better. I could relieve it, nothing helped except for how those pain medicines.
+
+13 (12m 45s):
+And sometimes they didn't even help. And I would get pain in my chest that felt like lightning strikes that it would take my breath away. And I had a crisis during testing and I had to be hospitalized in Nashville. So Dr. Frankel came to my bedside and he said, Victoria, have you ever heard of something called CRISPR? And I said, no. And he said, it's a new therapy. And if you agree to do it, you will be the first If I hadn't went through 34 years of sickle cell disease, I wouldn't even Know, or late to being a sickle cell patient.
+
+13 (13m 32s):
+You know, I don't have any other symptoms at all. I'm able to do all the things I dreamt them doing. I don't have pain crisis. It all. I was released from the hospital in September of 2019. And I haven't had a hospital admission since then. My favorite thing Has been being there for my kids in this being in the audience and the crowd, if the football games, watching my daughter here and my boys on the field, even smiling when they're on the beach.
+
+13 (14m 24s):
+So that's been the greatest part. And if I can say, when I speak to other sickle cell patients who are considering this, I can dream again. I stopped dreaming far as my future Because all I saw was pain, devastation and feel dreams. So now I train, I can plan and look forward to life and growing old
+
+0 (15m 4s):
+As you might remember from recently, even when science delivers a cure, not everyone always wants it. How to deal with that in a minute on today, explained
+
+14 (15m 22s):
+Check out these courts, Chopin made that sound famous in his funeral March, but it's actually the same chords that are found in Nirvana's song, something in the way This 180 year old ominous chord progression resonates with Cobain's melancholy lyrics. And the sound is connecting with listeners still today, something in the way climbed billboards hot 100 and March, 2022 marking the fifth time. Nirvana has been on the chart just like today. Explain breaks down the days. Latest stories switched on pop does the same for today's songs because it's not just Nirvana.
+
+14 (16m 7s):
+That's having a resurgence. The ONC, the sounds of nineties alternative music has made a comeback. The genres anti-corporate perspective, which developed out of the excesses of the eighties is a fitting backdrop to contemporary activist attitudes. This genre is back, but it's taken on a new sound with new faces. The second time around subscribe to switched on pop and discover the new alternative I'm cohost songwriter. Charlie Harding find switched on pop anywhere you get podcasts.
+
+15 (16m 37s):
+Hey folks, it's Preet Bharara. The former us attorney for the Southern district of New York. I lived that office for over seven years until I was fired by former president Trump five years ago. Now I host a podcast called stay tuned with Preet, from cafe and the Vox media podcast network. Every Thursday, I have long form conversations with the Newsmakers shaping our current moment and the thinkers who helped make sense of it. Politicians, journalists, academics, and activists, people like Adam Schiff, Anita hill Masha Gessen and Daniel Economen. As a former prosecutor, I focus on questions of justice. That means I dive deep into the war in Ukraine, the threat of climate change, the future of technology.
+
+15 (17m 19s):
+And of course the legal and political battles that are defining our time, like the investigations into former president Trump and the fights for voting and reproductive rights. I hope you'll consider listening and subscribing just search, stay tuned with Preet, wherever you get your podcasts.
+
+12 (17m 38s):
+So what
+
+0 (17m 45s):
+We're back today explained Hulk Hogan, Sean Rama's room, Dr. Khullar who practices medicine, but also finds time to write for the new Yorker, extremely annoying, but he's a good guy who's been telling us about what seems like a potential miracle treatment for sickle cell disease. Unfortunately, this is America. So I had to ask Dr. Dhruv what this treatment costs.
+
+6 (18m 8s):
+They're not on the market yet, but the expectation is that each treatment is going to cost one to $2 million per patient. So these are going to be incredibly expensive treatments. You know, I should note that the lifetime costs of someone with sickle cell disease, because it's such a treatment intensive condition already are in that neighborhood, one to $2 million. So it's not clear how this will shake out in terms of just dollars and cents. But obviously if you're able to avert all the human costs and the human toll of going through a lifetime of, of treatment and a lifetime of hospitalization, that's clearly a net benefit.
+
+0 (18m 45s):
+And I'm guessing that makes sickle cell disease treatment cost prohibitive for a lot of Americans.
+
+6 (18m 51s):
+You know, that's a complicated question because you know, a lot of these costs will be borne by insurers and not necessarily by the individuals who are getting the treatment About half of patients in the United States who have sickle cell disease are on Medicaid, Medicaid, eligibility, and benefits vary a lot state to state. And so a lot of the states that have the highest African-American populations also have the most restrictive Medicaid programs. So there's a lot of concern in the sickle cell community and among physicians and patients that these therapies will be restricted. You know, a Medicaid agency might say, you have to be this old, you have to have this much disease, but you can't have that much disease to get these therapies.
+
+6 (19m 35s):
+And so the high price of these therapies, I think will be a real issue from a policy perspective. And we need to figure out how we're going to make sure that it's accessible to patients.
+
+0 (19m 47s):
+Are there challenges aside from cost to making this kind of groundbreaking treatment available to as many people as possible?
+
+6 (19m 56s):
+Absolutely. I mean, cost is a, is a huge problem, but I think there's a number of other things that we're going to have to grapple with in the coming years. I mean, one is just this infrastructure problem. And so, you know, right now, a lot of patients in the U S who have sickle cell disease, they don't have a regular source of care. They don't have a hematologist. They're not even getting the treatments that are kind of the basic standard of care that people with sickle cell disease should get. So getting them this wildly expensive, very resource intensive new therapy, that's a whole nother level of challenge that I think our health system has to grapple with. And we need to really invest in making sure that people are connected to healthcare, that they're connected to the specialists that they need, that they're able to get to the centers that are doing this type of therapy.
+
+6 (20m 42s):
+Not every hospital will obviously be doing this. So there's a real infrastructure challenge. Also real trust challenge. I mean, many people and with sickle cell have been treated very poorly. Black Americans have faced discrimination. They've faced medical experimentation. That's been on ethical. They've been denied treatment as a result. You know, black Americans have lower levels of trust in healthcare than do white Americans
+
+13 (21m 9s):
+And having sickle cell disease. When I go to receive treatment, a lot of times I was labeled as a drug seeker, so that would delay my treatment. And there have been times where I waited in pain in the emergency room for over six hours before I received treatment. And I spoke to the nurses and some of them were good nurses and they would tell me not to repeat what they said, but it was like the main reason you're not getting treated is not because of your disease, but because of your skin color.
+
+13 (21m 52s):
+And I even had a friend, she was the first person I ever met that had sickle cell disease have them myself. You know, she was a few years older than me. By the time I made it to 18, I think she was, had turned 21 and she had her own place. It was my first year in college. And I plan to stay the summer with her. But before summer came, she passed away. She had a sickle cell crisis. She didn't want to go to the emergency room because of the treatment. And she tried to treat herself at home by taking Tylenol and specifically Tylenol PM.
+
+13 (22m 32s):
+She ended up going into a coma and never woke up The half full when you go there and you're in pain. And the people you look into for help are the ones who judge you. I've been speaking to sickle cell patients and they call me brave for even trusting the process to doing it. Because like you didn't feel like that was just going to experiment on you.
+
+13 (23m 13s):
+There has to be open communication there and trust they have to trust us if they want us to trust them.
+
+0 (23m 29s):
+On top of the challenges with trust, with costs, with infrastructure, there's our recent experience with the COVID 19 vaccines, which a lot of people in famously didn't want to get. It makes me feel sort of skeptical about gene therapy for sickle cell disease.
+
+6 (23m 46s):
+That's one of the real kind of insights that I was trying to bring out in this article and incredible therapy that exists is not the same as one that actually helps people. And so, you know, as you mentioned, we've had these extraordinarily effective COVID vaccines that came to market within a year of the pandemic starting, and they're free. You can get them while you're waiting for your train, takes a minute to get. And yet millions of people have chosen not to get them with sickle cell gene therapies. The situation is much, much more complex. This is a therapy that requires, you know, prolonged hospital stay. It's one that costs millions of dollars. It's one that you're literally, you know, editing people's genes. And so the ideas of mistrust and trust are going to be incredibly important.
+
+6 (24m 28s):
+And we need to take kind of steps. Now we need to think ahead about, it's not just going to be sickle cell disease, but you know, hopefully in the coming decade, there will be gene therapies for other diseases as well. And how do we start to socialize some of these kind of innovative therapies? How do we get people to start to feel comfortable with them? How do we talk honestly, about the risks, but also the tremendous benefits
+
+0 (25m 2s):
+Dr. Dhruv Khullar he recently wrote about sickle cell disease in the new Yorker. His article is titled, are we about to cure sickle cell disease? Myles Brian produced our show today. Laura Bullard, fact-checked it a theme Shapiro mixed and mastered Paul mousey chipped in on the engineering to Matthew Collette edited the rest of our team here at today. Explained includes Amina Alsada she's our supervising producer, Noel king. You know who she is. We got producers, Halima Shaw, Heidi, Milwaukee, D Victoria Chamberlain. We got VP of audio, Liz Kelly Nelson, lots of help this week from Lauren Katz, ode white music from Breakmaster cylinder and Noah Hassenfeld on the radio across these United States in partnership with w NYC I'm Sean Rama's from today explained is part of the Vox media podcast network.
+
+15 (26m 27s):
+Hey folks, it's Preet Bharara host of stay tuned with Preet and cafe insider. As you have surely heard a draft majority opinion from the Supreme court that would overturn Roe V. Wade was leaked. This leads to countless questions. What does this mean for reproductive rights? Why was it leaked? What happens next here at the Vox media podcast network? We've got you covered on Khalfan cider. I sat down with my cohost Joyce vans to discuss the legal substance of the opinion and the potential impact on other constitutional rights. You can find that episode for free in the stay tuned podcast. Feed. My colleagues at today explained also spoke to New York magazines here in Carmona to break down what this means for reproductive rights and on the weeds.
+
+15 (27m 12s):
+Darra Lynn spoke with Supreme court expert, Ian Millhiser to answer listener questions and dig into the details of the opinion. You can find these important conversations by searching for stay tuned with Preet today explained and the weeds in your favorite podcast app, or visit podcasts dot Vox media.com for a full list of shows in the Vox media podcast network.

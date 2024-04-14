@@ -1,0 +1,245 @@
+1 (2s):
+Tipping culture is out of control. According to one in three Americans who were surveyed by Bankrate earlier this year, I
+
+2 (10s):
+Was always brought up that you tip when you're satisfied with the service that you've received.
+
+3 (15s):
+Absolutely. I was brought up that way too.
+
+1 (17s):
+Oh my God, you guys, I was brought up that way too. That same Bankrate survey found that Gen Zers and Men Tip the least, asked for comment. Men replied with some frustration.
+
+4 (29s):
+It's become almost like a meme, right where the tablet gets swiveled around and it shows 20%, 25%, 35% as the barista or whomever it is, sort of looks at you with raised eyebrows to see which choice you make.
+
+1 (42s):
+Coming up. On today explained DoorDash launches an experiment to make us tip
+
+WashingtonWise (52s):
+support for today. Explained comes from Washington Wise. It's an original podcast from Charles Schwab. Decisions made in Washington DC can affect the markets every day, but what policy changes should investors be watching Washington Wise is an original podcast for investors from Charles Schwab. The show covers the stories making news in Washington, and also how they might affect your finances and investments. You can listen today@schwab.com slash Washington wise. That's schwab.com/washington Wise.
+
+Decoder with Nilay Patel (1m 25s):
+Hi, I'm Neela Patel, editor-in-Chief of The Verge and host of Decoder. We have a very special guest on this week's episode, former President Barack Obama. And our conversation touches on some of the most pressing issues of today. How do we prevent AI from being misused? What should we learn from our failure to regulate social media platforms at all? And can we balance the first Amendment with combating disinformation? This is one of my favorite episodes of Decoder, and I have to say, I think it's our show at its best. I sit down with high profile decision makers and business politics and tech. I ask tough questions about difficult choices. And, we talk about what it all means for the future. My Decoder interview with President Obama is available right now wherever you get your podcasts.
+
+6 (2m 7s):
+This is today explained.
+
+1 (2m 10s):
+Do you tip? Are you a tipper?
+
+4 (2m 12s):
+I do. I do tip. I sometimes tip too much. I have a little bit of insecurity around, around that, and I constantly seeking validation from strangers, but that's my own personal issues that I'm working through. And I would appreciate it if you didn't, you know, judge me for it.
+
+1 (2m 31s):
+Andrew Hawkins, transportation editor at The. Verge has some issues. Also has been covering an experiment that DoorDash is doing.
+
+4 (2m 39s):
+Yeah, so I guess they've been testing this new feature for a couple months now. But basically what happens is if you go into the DoorDash app to order some takeout and you attempt to proceed without tipping your delivery worker, a popup will show up on your phone that says, are you sure you wanna do that? Because if you don't, your food might end up taking longer than you expect. And this is meant to encourage more people to tip their delivery workers.
+
+1 (3m 7s):
+Okay. I wanted to be part of the, the game, the grand experiment. So I opened DoorDash on my phone a minute ago and nothing popped up, but now this makes sense because I didn't know that not tipping on DoorDash was even an option. I always just pick like 25% or whatever the highest is. And so, because I, I guess you have to go and type in zero if you're, if you don't wanna tip.
+
+4 (3m 28s):
+Yeah, that's correct. If you, you have to actively put in zero. And, and I think that this is an actually active for all markets. It's only in specific markets. Like for example, it works here in New Jersey, but we have a, I have a colleague in South Carolina who could not get it to show up for her. So it's clear that DoorDash is testing this in, in a few markets, but not all markets. But basically what happens is you have to actively put in $0 for your tip and the pop-up will show up and it says, orders with no tip might take longer to get delivered. Are you sure you want to continue? And that is meant to then incentivize the customer to then maybe rethink their zero tip decision.
+
+1 (4m 8s):
+Okay. So there are people out there who have been doing this, who have been doing zero tip on DoorDash, obviously, because DoorDash considers it a serious enough problem to now warn people. What does DoorDash say is its motivation? Is it like you guys are being cheap? Like how blunt are they about this?
+
+4 (4m 25s):
+I, I, I think it's, it's a couple different things. They want to obviously ensure that their delivery workers feel taken care of and respected and are being treated well by the customers. And so I think it's probably in response to feedback that they've received from this community of dashers, as they call them. The couriers are called dashers, which they all have to have some sort of stupid name. But the, the, the feedback that they probably have received at the company level is that, you know, we are getting a lot of zero tips that, you know, there are customers who are opting not to tip. And if there's anything that you can do on the product side to help encourage more tipping, we would love to see that this is DoorDash ISS response to that.
+
+4 (5m 6s):
+Now, DoorDash does say that most of its customers tip, we don't have exact numbers or any data on what most means, but DoorDash insists that the majority of its customers do tip their delivery workers.
+
+1 (5m 20s):
+How big a part of the take home pay is the tip.
+
+4 (5m 24s):
+So the, the delivery workers receive 100% of their tips. The payment that they receive from the company varies. It depends on how far they're traveling for the delivery, how much of the takeout order or how big the takeout order is. There's a lot of variables that go into what the take home pay is on each of the order, but I think it varies from around $2 to $10 per delivery order. But then on the tip side, a hundred percent of those tips do end up going to the dasher. So that's a very important part of their pay because it is something that they rely on. This is an extremely low paid industry. They are independent contractors. They don't receive benefits from the companies. They don't have healthcare or anything like that because they don't, they're not technically employees.
+
+4 (6m 7s):
+They're contractors and they work for a lot of different services, DoorDash, but also perhaps GrubHub and Uber Eats. And so they're all about speed and consistency. And I think the tipping side of the equation is something that a lot of these delivery workers really rely on. It puts customers in an interesting position because what they're basically asking for is a pret tip, right? You're asking them to tip your delivery worker before the food even shows up. You know, in the past we may have used the tip to reward a fast delivery or the food is hot when it arrives, or the delivery worker is especially nice and does something, you know, above and beyond. And that's why a customer will decide to tip a certain amount.
+
+4 (6m 48s):
+Now the customers are being asked to tip before that transaction even takes place. And that's kind of an interesting position to put the consumers in.
+
+1 (6m 56s):
+Yeah. So what's what's fascinating to me is that the workers, the, the door dashers themselves are making a very interesting point. We are underpaid, you said two to $10 per delivery order. That is nothing. I had no idea it was that low. The company DoorDash is saying back to them, indeed, you are underpaid consumer. It's on you to make up for that. When the workers kind of make their public case, does it ever come up that perhaps DoorDash itself should be paying them more? Has there been any kind of organized activism among door dashers aimed at the company rather than the consumer?
+
+4 (7m 31s):
+Yes. To, to put it simply, yes. And especially in a lot of the big cities around the country, you're seeing organized efforts to push for minimum wage for delivery workers. Yes,
+
+1 (7m 42s):
+He said
+
+7 (7m 43s):
+Way standing shoulder to shoulder fists raising the air. New York's delivery workers have one goal getting their companies to raise their minimum wage to,
+
+4 (7m 52s):
+In New York City, for example, the gig economy workers DoorDash, Uber Eats and others scored a significant victory just this last summer when the city announced that it would support a new minimum wage for delivery workers effectively around $17 and 96 cents per hour for food delivery workers.
+
+8 (8m 11s):
+That's the difference between taking home a hundred bucks after a full day of work, maybe a little bit more to taking home something that you can survive off.
+
+4 (8m 21s):
+And that's something that you're seeing in a lot of these big cities across the country as these delivery workers get more organized, come together and start to lobby for themselves. Because previously, you know, it was a bit of a wild west situation, you know, as independent contractors, they lacked a lot of organizational power to push for these types of policies. But we've seen that shift over the last few years, especially post pandemic with the explosion of delivery that the pandemic brought on.
+
+1 (8m 49s):
+Why does it take so much agitation to get the companies to just pay more? I mean, I, I'm on DoorDash more often than I should be. It's
+
+4 (8m 56s):
+Okay. We
+
+1 (8m 57s):
+All are, and I know, I know a lot of people who live the same way. Isn't DoorDash making like a crap ton of money off of me and and the millions of others who use them far too much? Yeah,
+
+4 (9m 7s):
+You would think so. But the delivery space is extremely thin margins, you know, they end up losing a lot of money. I think the DoorDash, while it's been growing and it's been adding new customers and new markets, it posted around a $172 million net loss in the second quarter of this year, which is narrowing slightly from around $260 million a year before. But yeah, these companies are not profitable. It's not a profitable business for them. They're hoping that through venture capital money and through other investments, that eventually they'll get to a point where they can break even and perhaps make a profit.
+
+9 (9m 42s):
+We're always in investment mode. I mean, DoorDash is a business whose goal is to solve many problems and certainly more problems in local economies to make all of these physical businesses successful. We have a long road ahead to do that, but we're gonna do it in efficient ways.
+
+4 (9m 60s):
+But they're all growing and trying to compete in such a highly competitive environment that they are basically losing money hand over fist at this point.
+
+1 (10m 9s):
+This is like the millennial lifestyle subsidy, right? Everything's free and then the companies are banking on in five years, only one of them is left and then they can charge us more, right? There has to be a long-term play here, I would think, because you can't just go on losing $172 million a quarter.
+
+4 (10m 28s):
+I mean, you see it in a lot of different areas as well. You see it in the ride hail space. Yeah. Between Uber and Lyft, how, how much more expensive it is to take a car places these days than it used to be. It used to be that you could very cheaply ride anywhere you wanted to go into big city, and now those same rides are exponentially more expensive as those companies are putting more of a premium on becoming profitable and cutting down on their losses. But as you see sort of uber emerging above Lyft and, and really sort of taking the vast majority of the customers in that space, I think that it's still up, up for grabs and delivery. Uber Eats obviously, and DoorDash and GrubHub and all of them are fighting tooth and nail for as much market share as they possibly can.
+
+4 (11m 10s):
+But I think a lot of folks on the labor side will say, you know, it's in these types of battles that the, the delivery workers end up really getting a short shrift. And I think that's why this tipping feature is really interesting because it shows that DoorDash is trying to perhaps encourage more delivery workers because with more durable workers, they can meet more demand and therefore serve more customers and they can show that they're workers that they're actually pushing for policies that will benefit them in, in the long run. Wow. Okay. So is it working? Is the new DoorDash prompt getting people to tip better? I, I think that's a, that's a great question. We've only just noticed it ourselves, so it's not clear as to whether or not it's having a meaningful effect on, on how people tip.
+
+4 (11m 53s):
+I will say there's been a lot of research that shows that there's a lot of tip fatigue or tip deflation. I've heard it described as well where there are just more ways in which customers and people who buy goods and services are being asked to tip. And I think a lot of people would prefer the companies to just pay their workers better rather than try to, as you said, bring the customer in on that and have the customer sort of subsidize the lack of decent pay for these workers for a living wage. Honestly, and you know, that's probably a, a bit too philosophical for this conversation, but it is something that I think a lot of people are concerned about.
+
+1 (12m 34s):
+That was Andrew Hawkins of The Verge, Andrew, sometimes tips too much. Andrew also sometimes works too hard, and he's a little bit too much of a perfectionist. Coming up, perhaps the nation's leading expert on tipping explains why we're being asked to tip so much these days in so many different venues and why we keep clicking Yes. And why we don't have to
+
+WashingtonWise (13m 10s):
+support for today. Explained comes from Washington Wise. It's an original podcast from Charles Schwab. Decisions made in Washington DC can affect the markets every day. But what policy changes should investors be watching Washington Wise is an original podcast for investors from Charles Schwab. The show covers the stories making news in Washington, and also how they might affect your finances and investments. You can listen today@schwab.com slash Washington wise. That's schwab.com/washington. Wise
+
+SimpliSafe (13m 43s):
+Support for today. Explain comes from SimpliSafe. It's that time again, the holidays. Maybe you're out, maybe you're leaving town. Maybe you're socializing with family and friends and spending a lot of time away from home. Who's watching your home? That's where SimpliSafe comes in when you leave your home. Maybe you want some peace of mind. And unless you have McCulley Culkin ready to set a bunch of booby traps, love the reference SimpliSafe, then you might wanna protect your home with SimpliSafe. Now 50% off. According to SimpliSafe, they provide a comprehensive protection system for your entire home with advanced sensors that detect not only break-ins, but home disasters like fires and floods. Plus their new 24 7 live guard protection comes with a smart alarm wellness indoor camera that lets monitoring, see and speak to intruders, deterring them in real time as they call for help. For a limited time, listeners can get a special 50% off any simply safe system with a fast protect plan. Visit simplisafe.com/today, explained that simplisafe.com/today explained. There's no safe like SimpliSafe.
+
+12 (15m 2s):
+My name is William Michael Lin. I'm a professor of services marketing at the Cornell Hotel School.
+
+1 (15m 8s):
+Okay, perfect. And is it correct to say that you are an expert in tipping?
+
+12 (15m 15s):
+Yeah. I don't want to be a modest, but I've published more on the topic than anybody else by a large margin.
+
+1 (15m 22s):
+Professor Lin got interested in how we tip and why we tip when he suddenly found him himself. Not the tipper, but the tippy.
+
+12 (15m 30s):
+My father was audited by the IRS and ended up owing him a lot of money and said that his contributions to my college education were gonna be smaller than he expected. So I found myself needing money, and when I went to look for work, I found that tipped occupations provided more income per hour worked than anything else I was qualified to do. So it was natural to go into those service occupations. I became interested in it as a topic of research. When I went to grad school, I had a job as a bartender, which technically was violating the conditions of a research assistantship I had.
+
+12 (16m 12s):
+I asked my advisor if he'd let me keep the job, and he said, sure, as long as you think of some research to do in that context. Now, I never did do research at the particular bar I was working in at the time, but it did get me thinking about Tipping as a topic, and I've been studying it for 40 years since then.
+
+1 (16m 32s):
+So how does one become the leading expert? How does one study tipping? What is, what is there to explore here?
+
+12 (16m 40s):
+Oh, wow. There's so many topics to explore. I began by simply asking why do people tip and what are the factors that influence their decisions about how much to tip? Hmm. But then I got into why do tipping norms vary across countries the way they do? And then I went into what are the effects of different tipping policies? What are its effects on servers? Does it actually motivate servers to provide better service? What are the effects on consumers? There's just a whole range of different research questions that it's possible to ask about it. And even though I've been studying this for 40 years, there's a lot that we still don't know.
+
+12 (17m 22s):
+There's only so much one person can do. Right? But I'm doing my best.
+
+1 (17m 29s):
+Why do people tip?
+
+12 (17m 32s):
+Multiple reasons. To reward good service, to help make up for low wages, to get better service in the future. Hmm. Most importantly, it's for social approval.
+
+1 (17m 45s):
+Let's talk about what the future looks like. You must be seeing, I would think that we're being asked to tip in a lot of places that we didn't used to be. There are places where I am doing all the work, the customer is doing all the work, and then the screen flips around and, and it asks for a tip. Is it actually becoming more common that we're asked to tip in places that we didn't used to be? Or am I crazy?
+
+12 (18m 11s):
+If you're crazy, I am too. Ha. Because I'm seeing the same thing. I don't know of any systematic study that documents how much more prevalent tipping requests are today than five years ago. But anecdotally, my own experiences tell me, yeah, I'm being asked for tips a lot more frequently and in places that I wouldn't have ordinarily expected it. The other day, I went to what was essentially a convenience store. I pulled out from their refrigerator, a Mountain dew went to pay for it, and they asked me for a tip. What's more that tips? Those tips started at 20%.
+
+1 (18m 50s):
+Did you tip?
+
+12 (18m 51s):
+No.
+
+1 (18m 52s):
+Did you feel guilty about not tipping? That's the real question.
+
+12 (18m 55s):
+Yeah. No, I didn't feel guilty at all. Yeah,
+
+1 (18m 58s):
+I'm, I'm exactly the same. If it's, if I've done all of the work, I mean, I hear people get very stressed about this. You know, they flipped the screen, but they haven't done anything. What am I supposed to do? And people really get in their feelings. and it seems to me like one possible solution is to not tip and just have very few feelings about it. You're okay. You, you did the work.
+
+12 (19m 18s):
+Yes. But I told you earlier that social approval was the main motivation for Tipping. Mm. And that person looking at you wants a tip. And it's hard to say no to them face to face. The why am I able to do it? In part it's because I know that just because they're asking for a tip doesn't mean that other customers are giving it. Most restaurants today will ask you for a tip when you go for carryout, but I know from surveys that only about 30% of consumers leave a tip. In that context, if two thirds of the people are not tipping, I won't be alone in saying no.
+
+12 (20m 0s):
+And that service provider can't be too upset with me. Yeah. It makes me feel a little less social pressure than I think the typical consumer feels.
+
+1 (20m 10s):
+What's driving this change? You, you're saying you see a change, you're the expert. I think most of us, based on the conversations we had with our team this week, I think most of us are seeing this. But what's behind it?
+
+12 (20m 21s):
+So many different things. I wish it was something simple. Let's start with, during Covid, people started tipping larger amounts in service context where they didn't usually she
+
+13 (20m 35s):
+Ended up tipping us $2,020.
+
+14 (20m 38s):
+And I think she has a little good sense of humor, right. In 2020 as well, it's probably the only positive 2020 that we'll have this entire year.
+
+12 (20m 46s):
+So I don't tip for restaurant carryout, but during Covid I would. Hmm. Why? As a way of helping the business and you know, pay its employees as a way of compensating people for the risk associated with working during c And I wasn't alone the, we've got lots of data showing that basically people became more generous in their tipping during covid that may have taught businesses that consumers are willing to tip in contexts that they hadn't originally thought they would be. Some of it has to do with the new technologies. Think about it. We've had counter service tipping for a long time, but it was in the form of a tip jar.
+
+1 (21m 29s):
+Yes,
+
+12 (21m 30s):
+Yes. But the nice thing about a tip jar from a consumer perspective is you can easily see what other people are doing. Not just the ones immediately in front of you, but all the other customers prior to you during the day because the tip jar is gonna be empty, full half full. You can see how much people are Tipping, but with the new technology, the screens don't tell you what other customers have done. And so you're hit with this request and you look at it and think, I'm feeling pressure to tip. Other people did no doubt feel the same pressure. And they're probably succumbing, they're probably tipping, given that assumption. They feel more pressure to tip than ever before.
+
+12 (22m 12s):
+What that means is that the screens get people the tip in a way that the tip jars didn't, and that motivates the business to keep making the request to ask for the tip. But some of it has to do with economics. Today we have full employment, we also have inflation. As a business, I want to get employees. I'm competing with other people. The way to do that is to pay my employees more, but to pay them more, I have to raise prices and raising prices during times of inflation, when other prices are already high in consumers are complaining is problematic.
+
+12 (22m 58s):
+So tipping is a way of getting extra revenue to pay your employees to help attract employees in this time of full employment. And at the same time, only asking for that money from those customers who can afford to give it and are willing to give it.
+
+1 (23m 15s):
+Do you think that this is the new normal, that the screen flips around and you're expected to leave a tip or at some point do enough people start to, as we are now, get tired of this and the business says, okay, just like the tip jar, it's not working anymore, it's not worth it.
+
+12 (23m 31s):
+That's a good question, and I don't know the answer. Surveys are telling us that about 60% of consumers today think it's gotten out of hand and they're unhappy with tipping culture in the us. That's much higher than it used to be. But whether it's going to affect their behavior enough to change businesses, practices it, I think it's too early to tell.
+
+1 (23m 56s):
+What would you advise our listeners who have strong feelings about tipping pro con? We're being asked to do it too much. What do you think people should do,
+
+12 (24m 5s):
+I suppose follow their own hearts. It. Look, I'm, I'm, I'm a social scientist. I'm not an etiquette expert. I do want to remind people that tipping's a voluntary activity tipping is not legally required. When someone asks you for a tip, they clearly want it and failure to give it to them is gonna make them unhappy. But just because they're asking for a tip does not mean that other people are giving it. In fact, most of these new contexts where people are asking for tips that are not traditionally tipped services, roughly a third of people are, are giving the tip and two thirds are not.
+
+12 (24m 52s):
+So if you decide not to tip in that circumstance, just know that you're not alone. That in fact, you would be among the majority and perhaps that'll make you feel less social pressure.
+
+1 (25m 8s):
+That was William Michael Lynn of Cornell's Hotel School. Today's episode was produced by Amanda Lewellen and edited by Matthew Collette. It was engineered by David Herman and Fact-checked by Laura Bullard. I'm Noel King. It's today explained
+
+15 (25m 44s):
+From the moment Twitter was founded. No one knew what it was supposed to be exactly, which was kind of great.
+
+16 (25m 51s):
+Some people would look at it and say, this is the future of communications. Others would look at it and say, this is the public square.
+
+15 (25m 57s):
+Eventually it became not so great.
+
+17 (26m 0s):
+What we didn't foresee was that everybody having a voice might produce a global voracious mob. And there was only one place that that was happening. and it was Twitter
+
+Land Of The Giants (26m 15s):
+A year ago in what was essentially the world's most expensive impulse purchase. Elon Musk bought Twitter that made him Twitter's most important user, but he's certainly not the only one to fall for. Its spell a spell that promises attention, connection, and power. I'm Peter Kafka and I'm hosting Land of the Giants, the Twitter fantasy. It's from Vox and the Vox Media Podcast Network. This season is sponsored by Mint Mobile to learn how Twitter got started, how it got where it is today, and where it's going next. Follow land of the Giants wherever you listen and get New episodes. every Wednesday.

@@ -1,0 +1,362 @@
+1 (2s):
+Imagine you call a cab and it pulls up to the curb in front of your place and you get in and you look over the driver and there is no driver. There's just robots. Hello,
+
+2 (15s):
+I'm Johnny Kat, where can I take you tonight?
+
+1 (18s):
+And you're like, what's going on? This feels unsafe. But then the robot's like, come with
+
+3 (24s):
+Me if you want
+
+1 (24s):
+To live. And so you relent and all of a sudden the robot makes the car go and you actually get to your destination. But then the robot gets kind of surly, get out. What sounds like a distant sci-fi future is now a reality. RoboCab are picking up passengers in San Francisco and they're coming for you. Next on today explained.
+
+3 (1m 10s):
+I'm Liz Lindqwister and I'm a data journalist at The San Francisco Standard. We focus on local news, politics, and culture in San Francisco.
+
+1 (1m 18s):
+And what's the latest in local news and politics and culture in San Francisco? Something about Robotaxis.
+
+3 (1m 24s):
+Yeah, a lot about robotaxis. People like to say that San Francisco is at the heart of the Robotaxis Revolution. Huh. And they're practically everywhere in the city now. You can see them crawling, you know, on every single street.
+
+1 (1m 36s):
+So this isn't like an experiment, this is the future. This is reality.
+
+3 (1m 41s):
+No, it's, it's very real. And it's happening and right in my backyard, you know, you'll see them every single day when you're going to work. I've taken them out to go get drinks with friends and stuff and, huh. They've become about as ubiquitous as, as an Uber or Lyft.
+
+1 (1m 53s):
+I'm sorry. That is like a game changer. I did not know. It was so ubiquitous that people were just taking 'em out to go get drinks with their friends on a Friday night or whatever. What was the experience like? Yeah,
+
+3 (2m 4s):
+I mean, it's very surreal because in a lot of ways the experience of riding in a robotaxis is just like an Uber. Like it's, it's a normal car. Whether you're in a Waymo, which it'll be like a, A Jaguar.
+
+1 (2m 15s):
+A Jaguar robot car.
+
+3 (2m 17s):
+Yeah, it's, it's very bougie. It feels very fancy and luxurious. But you'll just be riding through town and it just doesn't have a driver. Like it's, you'll see the wheel moving and spinning and the pedals going, but there won't be any driver up front.
+
+1 (2m 30s):
+Do you tip the robotaxis?
+
+3 (2m 33s):
+I have never tipped a robotaxis. Maybe that makes me a stingy rider, but I, I don't really feel the need to tip the technology.
+
+1 (2m 40s):
+Does it ask you to tip the robot driver?
+
+3 (2m 42s):
+No, it doesn't. And you know, in the case of Waymo, it wasn't able to even charge me for rides up until literally Thursday of last week. Basically this Robotaxis revolution really got kicked into high gear last Thursday because of this big state vote by the California Public Utilities Commission. Here
+
+5 (3m 0s):
+We are again, San Francisco, about to have four people make a decision on whether or not the city is going to be temped out by yet another couple of large tech companies, there
+
+3 (3m 12s):
+Were dozens of people who lined up outside of the Public Utilities Commission meeting on Thursday and they gave like six hours of public comment to say how much they really disliked these cars or how much they loved them. On the other hand, Waymo and Cruise, they had a pretty big contingence there in support. And you know, mothers against Drunk driving like to support crews because they like to plug that these robotaxis are safer than the average driver. I
+
+6 (3m 37s):
+Am a mother of an incredible child with autism. Autonomous has given me a new hope. My son will grow up to have a greater level of independence and safety.
+
+3 (3m 48s):
+On the flip side, there's just a whole slew of people that have seen how they've really disrupted life in San Francisco. There's been a lot of pushback from city officials, from the fire department and from just local activists who really don't wanna see more cars on the street, but it still passed. The
+
+5 (4m 3s):
+Vote is
+
+3 (4m 4s):
+Three one, the motion passes. They basically granted these robotaxis, the ability to expand unlimited through all parts of the city and drive all hours of the day and charge money for it. Basically making them like taxis.
+
+1 (4m 20s):
+You keep mentioning these two companies, cruise and Waymo, I think it's time you tell us a bit more about them. We try to ride with Cruise owned by gm. Cruise is one of the largest driverless car companies in America. Along with its competitor, Google's Waymo.
+
+3 (4m 37s):
+There's actually a third that has started to test some of its cars in the city. And in California it's called Zoox and it's backed by Amazon
+
+1 (4m 44s):
+Zoox. Yeah. Like Zucchinis?
+
+3 (4m 47s):
+No, like Z O O X. And their claim to fame is they're also doing Robotaxis, but their cars don't have like traditional driver controls. Like they don't have a wheel or pedals. It's just like a box on wheels that drives people through town.
+
+1 (5m 4s):
+You just get in and put your faith in. Uncle Jeff. Yeah,
+
+3 (5m 6s):
+Pretty much.
+
+1 (5m 7s):
+So these rides were free for a time. How much are they now that they're not free?
+
+3 (5m 11s):
+It depends on the company, because until now Cruz was actually able to charge for its rides. That's like, the confusing part about this is that different companies had different rules, but basically Waymo hasn't released its pricing model. They say that there's gonna be a base fee and that there's gonna be, you know, cost per mile, cost per time. And the same thing with Cruise, except Cruise has been more public about their base fee of $5 and the additional cost on top of it.
+
+1 (5m 36s):
+How is this changing the experience of calling a cab?
+
+7 (5m 40s):
+Taxi? Taxi Go man. Right here. Right here, right.
+
+1 (5m 46s):
+Are people doing different things in the car now that they're alone?
+
+3 (5m 51s):
+In some of my reporting, we found that people are starting to do, how do you say? Like de serous things or maybe some unseemly things in the car. Yeah. We found a handful of people who had either had sex or hooked up in the back of a robotaxis because wow,
+
+1 (6m 7s):
+There's
+
+3 (6m 7s):
+Just no driver to tell you you can't do that. And I'd imagine the same goes for alcohol or drugs. But you know, the companies obviously don't plug this as something that you should do in, in their vehicles.
+
+1 (6m 19s):
+Why not? Is sex illegal in San Francisco?
+
+3 (6m 23s):
+Definitely not in Robotaxis. According to some of our more adventurous readers.
+
+1 (6m 30s):
+Well, have there been any problems yet with these Robocar?
+
+3 (6m 35s):
+That's an understatement. Honestly.
+
+9 (6m 37s):
+The fire chief has reported 55 incidents this year where self-driving taxis interfered with firefighters duties.
+
+10 (6m 44s):
+This includes not just unexpected stops in front of our fire stations, not allowing our vehicles to respond to incidents.
+
+3 (6m 51s):
+It's pretty crazy. Like these cars will just get caught, you know, let's say there's 10 firetrucks coming down to, to stop a blaze in San Francisco. The cruise cars just don't know what to do and they'll just stop. They'll just kind of brick up on the street and not move. But the issue with that is that they'll be blocking traffic, they'll be blocking the emergency vehicles. The
+
+11 (7m 10s):
+San Francisco fire Department says they are not against modernization and new technologies, but any vehicle that endangers the people of the city and its visitors and would put its passengers between a fire engine and a fire is not ready for prime time.
+
+1 (7m 25s):
+So they crumble under pressure.
+
+3 (7m 26s):
+They definitely crumble under pressure. And they were put to the test this Friday. San Francisco has this pretty famous music festival called Outside Lands. Yeah, tens of thousands of people attend. It's a really big event for the city. And you know, cruise and Waymo were still operating around the, the park where the festival was held. This was
+
+1 (7m 45s):
+Like day one of the new world that we were living in, in San Francisco
+
+3 (7m 50s):
+Day. One of the New World. And they had a meltdown. What
+
+11 (7m 56s):
+A bizarre, futuristic scene on Friday night raising new concerns about Robotaxis in San Francisco.
+
+3 (8m 2s):
+Basically as many as a dozen stalled cruise cars, they blocked the streets in a neighborhood in the north part of the city.
+
+8 (8m 10s):
+This is my Super Bowl. Like after outside land watching this driverless car that's been stuck in the road for God knows how long caused mayhem outside of the festival. Oh, my God boy call me. Oh
+
+3 (8m 28s):
+No. The company said that it was because all of the people at Outside Lands disrupted kind of the cell phone signal or the signal that the cruise cars use to operate
+
+12 (8m 37s):
+These vehicles need continuous connectivity back to a central office. And what the companies say is that when they lose the connectivity, the cars stop to ensure safety.
+
+1 (8m 47s):
+The robots blame the people.
+
+3 (8m 49s):
+Yeah, the robots blamed the people. A lot of people said that the Robotaxis just couldn't handle the floods of people walking on the street. It, they'll just stop. And it, it's kind of funny to see because the cars kind of look clueless and And there's no driver in them either. So you really can't yell at them to move or honk at them either. I think something that people don't talk enough about too with Crew is that they're such cute little cars that it's kind of, it really truly is comical when they mess up.
+
+1 (9m 19s):
+But of course it's like all cute and fun until someone gets hurt and hearing Yeah. That these cars just have a meltdown when there's emergency vehicles flying through a crowded street or when there's lots of people around is concerning. Yeah.
+
+13 (9m 37s):
+What this says to me is that when cell phones fail, if there's a power outage, if there's a natural disaster, like we just saw in Lena that these cars could congest our streets at the precise time when we would be needing to deploy emergency apparatus.
+
+3 (9m 54s):
+You know, myself, having driven in so many robotaxis at this point, it's most interesting to see humans' relationships to these robot cars and not necessarily the robot cars themselves. Hmm. You know, when I'm inside them I'll see people flicking me off or just like glaring or yelling at me from outside of their cars. 'cause they feel so strongly about it. They're so frustrated with these dinky little robot cars. They're also conning the cars.
+
+1 (10m 19s):
+Conning the cars.
+
+3 (10m 20s):
+Yeah. So it sounds funny, but it's literally traffic cones that activists are placing on top of robot robotaxis sensors so that they literally can't move.
+
+14 (10m 30s):
+No one's in it
+
+1 (10m 32s):
+Marking autonomous vehicles as traffic hazards. The group Safe Street rebels is placing cones on crews and Waymo cars as a way to temporarily stop them. They want these cars off the road permanently.
+
+3 (10m 44s):
+You know, the city has even taken it into their own hands where like a firefighter in an emergency situation, they conned a a cruise car because they didn't want it keep moving into an emergency situation.
+
+1 (10m 55s):
+Wow. Even the firefighters are getting in on it. So it hasn't been a totally smooth transition, but that's sort of to be expected, I imagine. Yeah,
+
+3 (11m 2s):
+And I, I mean, I think the big question now too is, is where this is gonna fit in, in the broader transportation landscape of not just San Francisco but the state and the country. Like we have Ubers and Lyfts that still exist, but I imagine a lot of those drivers are frustrated that there are all these self-driving cars that might take their positions.
+
+15 (11m 19s):
+Activists told the C P U C, this is not only a threat to safety, but to jobs in LA is next.
+
+14 (11m 26s):
+If it passes here, it's also gonna be going to Los Angeles. Thousands of taxi cab workers in Los Angeles are gonna lose their job. It's gonna be a real detrimental development for the people of California.
+
+3 (11m 38s):
+And then of course there's transit problems with funding in San Francisco in the Bay Area. Our, our public transportation system is really struggling. So for another car option, private option to show up like this, you know, that gets a lot of folks really frustrated. Like, is this the right use of our time, of our priorities, of our funding? I don't know.
+
+1 (11m 57s):
+Right? Is the answer more cars?
+
+3 (11m 59s):
+Yeah. And that's a lot of the criticism is that San Francisco's a dense city. It's a small city. Does it really need thousands more of these robotaxis?
+
+1 (12m 13s):
+It sounds like what you're saying is that people ought to get used to the idea of being driven around by robots.
+
+3 (12m 19s):
+I mean, I think the C P U C vote basically said that, right? Like whether or not San Franciscans like it Rob Robotaxis are here to stay and now they have unlimited access to the city and can charge money for it. And you know, there are a lot of people excited about it. Waymo likes to say that they have a wait list of like over a hundred thousand people. Hmm. That's a lot of people that are excited to drive their cars
+
+1 (12m 41s):
+Or it's just a hundred thousand people who are really excited about having sex in a robot car.
+
+3 (12m 45s):
+I mean, you said it, not me. I mean at the end of the day, it's definitely a novelty to try out one of these cars. My parents are gonna come visit in a month and that'll be the first thing I do is show them the future in a robotaxis
+
+1 (13m 4s):
+Liz Lindqwister san Francisco standard ssf standard.com. Even if you're not going to San Francisco, you could still experience the Robotaxis meltdown that is in a minute on today. Explained
+
+Indeed (13m 22s):
+Support For today. Explain comes from Indeed. If you are hiring, you probably don't have time to wait around for a perfect candidate Indeed wants to help bring them to you. Indeed is a hiring platform on which you can attract, interview and hire all in one place. Usually you might spend hours switching between multiple job sites, looking for candidates with the right skills Indeed can help you streamline all of that. Here's how it works. You post an open job and indeed immediately shows you candidates whose resumes fit your descriptions. This helps you hire faster, plus you only pay for applications that meet your must-have requirements. You can start hiring now with a $75 sponsored job credit to upgrade your job. Post at indeed.com/today explained. This offer is good for a limited time. Listeners can claim their $75 credit now at indeed.com/today explained. That's indeed.com/today. Explained some terms and conditions apply.
+
+17 (14m 24s):
+Hi, I am Neli Patel, editor-in-chief of The Verge and host of the Decoder podcast. This September I'm taking over as one of the new hosts of the code conference alongside CNBC's, Julia Borson and Casey Newton from Platformer and Hart Fork. You've heard us all talk to major players in the worlds of tech and business on our shows, but Code has live unfiltered journalism you won't find anywhere else. This year we have onstage interviews with x slash Twitter ceo, Linda Yao, Microsoft C T O, Kevin Scott, and many more. From AI to streaming platform shifts to privacy. No one knows exactly where we're headed, but code is where the world's most influential people come together to find out. Join us for the start of a new era.
+
+17 (15m 6s):
+Apply to attend the code conference now at Vox media.com/code. That's Vox media.com/code. We'll see you in September.
+
+1 (15m 22s):
+Where am I?
+
+2 (15m 23s):
+You are in a Johnny Cat. I mean, what am I doing here? I'm sorry. Would you please rephrase the question? Huh? How did that get in this taxi? The door opened you got in
+
+1 (15m 34s):
+Today. Explain is back. We're now joined by Andrew Hawkins, transportation editor at The Verge to ask if Robotaxis are just a San Francisco thing.
+
+18 (15m 43s):
+Not at all. San Francisco, I think the most high profile market or the cars are operating, but Phoenix actually preceded San Francisco by many years and the Phoenix area has been Waymo's playing ground. Its stomping ground for the last, since I think 2017 actually. Huh. Cruise actually is now testing its vehicles in the Phoenix area as well. Where
+
+1 (16m 5s):
+Else are they heading?
+
+18 (16m 7s):
+So there's a number of markets that both companies have said that they plan on eventually or hopefully launching their robotaxis services. Austin, Texas is a prominent one. Mm. Cruz and Waymo are both testing their vehicles there. Waymo is testing in Los Angeles and has said that it plans on eventually launching a robotaxis service in la Ready
+
+1 (16m 28s):
+To ride without a driver in SoCal? Mm.
+
+19 (16m 31s):
+Are you ready? Nope. The company,
+
+18 (16m 34s):
+And they've been all over the place, honestly. They've been up in Washington state, they've been down in Miami. There've been some testing in Pittsburgh. There's even a few vehicles out mapping the streets in New York City. New York
+
+7 (16m 48s):
+City.
+
+1 (16m 48s):
+Wait, New York City's home to lots of people. And I hear these cars get confused when they're surrounded by people and their cell phones. Yeah,
+
+18 (16m 55s):
+That's, that is the case. So it'll be interesting to see how your average New Yorker takes it when the robots start to come up.
+
+7 (17m 3s):
+Hey, what about, I'm walking here, I'm walking here.
+
+18 (17m 7s):
+But yeah, as as of now, I think Waymo's got a couple cars that are just mapping the streets of New York. So they're manually driven, not autonomous, but you know, when you start to map, that's pretty strong indication that eventually you plan on having some sort of commercial service in the future.
+
+1 (17m 24s):
+It sounds like this is being scaled up kind of quickly. How quickly is this being scaled up?
+
+18 (17m 29s):
+It's been a while coming and I think the predictions have kind of outpaced the technology. Hmm. So we've been told, I think for a number of years that self-driving cars are coming, they're gonna take over our roads. We're not gonna have any human powered vehicles at all in the future. And I think a lot of those predictions really kind of have not panned out. Exactly. And we're starting to see how complicated it is to try to roll out this technology, especially in a very dense urban environment like San Francisco to say nothing of New York. I can imagine from the ground, if you're on the streets in San Francisco and all of a sudden you wake up and there's hundreds of these self-driving cars that are out there, it probably seems pretty quick to those people. I
+
+1 (18m 7s):
+Think when people hear that they're self-driving robot cars in San Francisco, they probably go like, oh yeah, it makes sense. You know, San Francisco, that's where this stuff happens. But how much pushback are these cars encountering in cities like, you know, Austin, Los Angeles? You mentioned Washington State, New York City.
+
+18 (18m 26s):
+Yeah, it's kind of been a, a mixed bag I would say. I think in California there's a pretty strong regulatory system in place in terms of autonomous vehicles when they are testing and when they wanna apply for commercial service. That doesn't exist in most other states. In fact, in Arizona the state has pretty much given the company's free reign to test and to launch commercial operations when and where they want to. There's very little oversight. So that's sort of the difference I think between California and some of these other states where these companies are wanting to launch much looser regulatory frameworks and there's a power vacuum at the federal level.
+
+1 (19m 6s):
+Self-driving cars are already being tested in at least 25 states, but with no federal regulations, America doesn't have a national roadmap for safety guidelines.
+
+18 (19m 16s):
+It's really left to the states to kind of create their own rule book for this technology. And you're, you're seeing that there's like a lot of diversity there
+
+1 (19m 23s):
+And we know the data says that some of these self-driving cars, maybe all of these self-driving cars are safer than human operated vehicles. But when you hear these stories about these cars freezing up in emergency situations, you can't help but feel like they could also drive you off of a cliff. Is there anyone in any of these states saying maybe we should slow this down and wait for this technology to improve?
+
+18 (19m 51s):
+Well, I don't, I don't mean to call into question your authority on this Sean, but I would like to push back slightly on what you just said because the data actually hasn't proven that the vehicles are safer than human driven ones. Oh good. It's easy to sort of as make that assumption because the marketing makes sense. You know, when the companies come out and say the Waymo
+
+20 (20m 8s):
+Driver never gets drowsy, it doesn't get distracted. It is something that is attentive all the time. That
+
+18 (20m 16s):
+Makes sense to people, you know, because humans are very prone to to doing all those things. But the way we, that we measure safety when it comes to vehicle operation and driving, it's usually in the hundreds of millions of miles. And these vehicles have not driven that much. They've driven millions of miles, but they are nowhere close to approaching hundreds of millions of miles, which is the sort of the metric that we use to measure the safety of human driving.
+
+21 (20m 39s):
+Would you say the cars perform as well or better than a human driver?
+
+20 (20m 43s):
+I would say that I really trust this technology and that when you're in the car you feel entirely safe and it's a great user experience.
+
+1 (20m 52s):
+So you're saying we should remain highly skeptical of these robocar and this technology?
+
+18 (20m 58s):
+I think when it comes to safety 100%, I think you can make a lot of assumptions that it sounds good on the surface and I think the initial data that they've released actually backs them up to a certain extent. But like I said, there still is a long way to go before we can actually state unequivocally that these cars are safer than human-driven ones.
+
+1 (21m 18s):
+But In the meantime, it seems like people are really excited about them. Some people
+
+18 (21m 21s):
+Are,
+
+22 (21m 22s):
+Here's the real pa state resistance driverless cars. Maybe the year is 2023
+
+18 (21m 28s):
+And it shouldn't be discounted. A lot of people in the disabled community are very excited because for their entire lives they've been very limited in the types of mobility options that they have. If you have visual impairment, you can't drive yourself. You have to rely on maybe Uber and Lyft. That's not a very reliable thing for them. Most of the time, taking public transportation can be really tough. In California, when they were having this vote about whether to expand the services, so many folks from the disability community came and testified and said that this is something that they want in their lives. This is
+
+23 (21m 57s):
+Pumpkin. She is a service animal. She is a guide dog. Her service, she performs, she guides me. I am totally blind. In the last month I have had three Uber drivers very explicitly deny pumpkin access to their vehicles simply because she is a service animal. This is not something that an autonomous vehicle is going to do.
+
+18 (22m 19s):
+It would be just a huge advantage to them to have this type of mode of transportation. So I don't think that that can be easily dismissed.
+
+1 (22m 27s):
+I know for people like you, this has been a long time coming, but I mean, I live in a somewhat major American city and it's still amazing to me to think that if I were in San Francisco, I could walk out to the street and potentially get hit by a robot car. Like that's a, that's a trip to me. Do you think this is just a moment of adjustment before we dive into the future? Are we kind of here? Is this the moment? Yeah, I, I mean,
+
+18 (22m 57s):
+So I talk to a lot of experts in this and what they tell me sort of time and time again that this is really kind of the very beginning of a potential revolution in transportation. But it's not gonna happen overnight, but it will happen with incremental evolutionary over a long period of time. And I think that that's why you have to be skeptical of those predictions about safety and like this is gonna sort of take over all driving altogether. And the folks that I talk to, they compare it to like other big changes that happen in history. So like when we first started installing things like indoor plumbing or a nationwide electrical grid with lines throughout homes and buildings or bringing natural gas to people's kitchens or building roads and highways for transportation.
+
+18 (23m 40s):
+You know, all of those were like major societal changes and they caused huge inconveniences and discomfort for a lot of people. But we can't live without them today. Can the same be said for autonomous vehicles? Well, it's, I think it's way too early to tell, but I do think that there is a lot of potential for both inconveniences and also sort of revolutionary mobility for a lot of people.
+
+1 (24m 8s):
+Andrew Hawkins, you can read 'em at The Verge dot com. Our program today was produced by Abby Shai Artsy. We were edited by Amina Al Fact, checked by Laura Bullard and mixed by David Herman. I'm Sean Ramas firm. The rest of the today explained team includes co-host Noel King, executive producer Miranda Kennedy, managing editor Matthew Collette, Halima Shaw, si, Petros Miles, Bryan Haddi Awadi, Amanda L. Allen, John Aarons, Victoria Chamberlain. Extra help from Patrick Boyd. Music from Breakmaster Cylinder on the radio. Thanks to W N Y C A show that exists. Thanks to the Vox Media Podcast network.
+
+0 (25m 9s):
+It's okay
+
+1 (25m 10s):
+Right here. Thank you for taking Johnny Cab. Thank you. Hope you enjoyed
+
+18 (25m 14s):
+The ride.

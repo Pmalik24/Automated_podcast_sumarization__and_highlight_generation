@@ -1,0 +1,224 @@
+0 (1s):
+Okay. So you've been worrying about COVID-19 for like two years or whatever it is at this point. And now there's this monkeypox thing.
+
+1 (10s):
+Cheers. Digging paws off me. Damn dirty. Ape
+
+3 (16s):
+Who chose Dr. Rosamond Lewis said there are over 250 confirmed and suspected cases of monkeypox in at least 16 countries.
+
+0 (26s):
+I don't want to freak anyone out here. It's almost certainly not going to be as bad as COVID. It's not particularly new. And we've already got vaccines that can prevent spread. All that being said. No one was asking for another thing to worry about, but here is yet another thing. What in the H E double hockey sticks is a monkeypox and how are we going to deal with this thing? Now I'm Sean Rama's firm. That is a head on today. Explained
+
+4 (60s):
+Dakota is a show about how big ideas really work and where they might go wrong. Hosted by me, Neil Patel editor in chief of the verge. I interview CEOs, policymakers, tech, experts, and creators about how they make decisions and how those decisions affect our shared future for better or worse past episodes have covered everything from self-driving cars to crypto, to social media moderation. It's a thoughtful, critical conversation about business and technology that you will not hear anywhere else. Follow Dakota, wherever you find your podcasts, new episodes come out every Tuesday.
+
+0 (1m 41s):
+It's today. I explained I'm Sean. Rama's from I'm here with Karen landman, who is a senior reporter on health and science here at box and a physician and an epidemiologist. Karen, did I get it? All right.
+
+5 (1m 53s):
+You did Sean. Great job.
+
+0 (1m 55s):
+Welcome to the show. The president's talking about monkeypox the world health organization is talking about monkeypox so it seemed like high time we talk about monkeypox on the show. How worried should the world be about monkeypox Karen,
+
+5 (2m 8s):
+First of all, I think we're all primed to worry quite a bit about any new pathogen. We are not used to seeing on the scene here in the U S and in Europe, but this is fundamentally a different situation than when COVID came on the scene. This is a smallpox like illness, but it's not nearly as virulent. It doesn't cause nearly as bad a disease as smallpox did, and it doesn't spread as easily from person to person as smallpox did. So it's not likely to lead to the kind of mass deaths that we saw with COVID-19. So I don't think we would expect to see a whole lot of deaths due to monkeypox in places where I have good access to hospital care. When we see monkeypox in the U S or in Europe, it's usually in sporadic cases where it kind of travels with a return traveler from Nigeria or some other place in central or west Africa, where there is a lot of monkeypox circulating either among animals and occasionally in little outbreak situations among people.
+
+5 (3m 4s):
+But we don't usually see the kind of person to person spread that we seem to be seeing in Europe and in the United States, leading to the kinds of numbers of cases that we're seeing now.
+
+6 (3m 14s):
+And Sweden have become the latest countries to confirm cases, following Britain, Portugal, and Spain,
+
+7 (3m 20s):
+Tonight, a potential case of monkey pox is being investigated at this New York city hospital. After the U S his first case of the year was confirmed the Wednesday in Massachusetts, a man who'd only recently traveled to Canada,
+
+0 (3m 34s):
+And we're still not seeing like bananas numbers like we do with COVID right. We're still seeing relatively small numbers of monkeypox.
+
+5 (3m 41s):
+Yeah, that's absolutely right. I mean, as of Tuesday morning, there were 270 odd suspected and confirmed cases of monkeypox worldwide. You know, given the rigor with which various clinics and events where might've been spread have been doing case finding that's actually not that high, a number, you know, you could imagine given that there is some probable transmission happening that is not being detected, that it could be a much higher number than that. It could be in the thousands, but we haven't actually seen those numbers turn up yet.
+
+0 (4m 15s):
+And if I'm understanding you, this has traveled from Africa to Europe and north America, is that correct? Yes.
+
+5 (4m 23s):
+Usually the way it moves right now, at least one travel associated case that is part of this outbreak that sort of has happened at the same time as this outbreak and a whole lot of other cases, most of the other cases are among gay and BI men. Men who have sex with men, many of whom are linked by having been in the same place at the same events at the same time. None of those seem to be linked to the travel cases. So there may have been some transmission that has not yet been detected that sort of does link those two groups of people.
+
+0 (5m 0s):
+Where was this event?
+
+5 (5m 2s):
+So there are several events, there was a, a sauna that's sort of the European term for a gay bath house. So about how it's used for adults for sex, usually by queer men in Spain, that's responsible for most of the cases. There was a gay pride event in the Canary islands that I believe has been linked to several cases are thought to have been linked to several cases and also a gay fetish event in Antwerp that's called dark lens. And that has also been linked to several cases. So the people who run those events have already reached out to attendees and done a lot of work to do case finding. But those are some of the events to which and places to which some of these clusters are linked.
+
+0 (5m 46s):
+You said, this is sort of like a smallpox type disease, but now we're talking about it being related to gay sex. Is this sort of like an STD? What's the deal.
+
+5 (5m 57s):
+I actually talked to John Brooks at the CDC. He's one of the leads in the investigation on this. He said, you know that what defines an STI, they call it an STI. Now sexually transmitted infection is a disease that requires sex to be transmitted. So gonorrhea and chlamydia are sort of the classic examples of this, but there are also a lot of diseases that do not meet that definition that can be transmitted during the kind of close contact that happens during sex. So like meningitis is an example of that. You know, there have been outbreaks of meningitis among also among gay and BI men just due to the close contact within that community that happens during sex. So not really technically transmitted during the biologically defined sex, but during the close contact that sort of surrounds all of that.
+
+5 (6m 46s):
+If monkeypox is being transmitted during sex, it's more likely just because of the close contact that goes along with sexual activity, not necessarily because of the biological active intercourse.
+
+0 (7m 7s):
+What are all the ways monkeypox can spread between people?
+
+5 (7m 10s):
+Most of the spread happens from contact with the sores open sores are, have a pretty high number of viruses in them. And so they're pretty infectious. It can also be spread through respiratory droplets and possibly aerosols. But John Brooks during the CDC press conference said that usually happens because there are undetected sores in the mouth and throat. And so when somebody, before they have an open sore on their visible skin may have a sore in their mouth or throat may cough or breathe heavily around another person and transmitted that way. So really the sores are where the transmission comes from in monkeypox.
+
+0 (7m 48s):
+Okay. So it's not like COVID style transmission where, you know, 15 minutes in a closed quarter, you're definitely gonna get it or something like that.
+
+5 (7m 56s):
+No, it's a very different type of transmission. And you do not. You're so unlikely to catch this during just casual contact with somebody. So it makes it a lot easier to protect yourself if you are, you know, out and about in the world,
+
+8 (8m 13s):
+CDC, this morning wants to calm the public fears over how the monkey pox virus is transmitted and transmitted the agency emphasizing that it does not spread easily through the air. Like COVID-19 monkeypox is primarily spread through sustained physical contact, such as skin to skin touch, or someone with an active rash,
+
+5 (8m 32s):
+The kind of contact that you need to have to transmit. This really needs to be skin to skin or contact with an item that a person's store has had contact with. So what's unique about this virus compared with many others, including COVID is that it lives for a long time on surfaces. So there have been cases of transmission, for example, to the person cleaning the bedding of an infected person, because they had contact with fluid that leaked from the sores onto that bedding. So, you know, you do need to have contact precautions around somebody that, you know, to be sick with this in order to prevent transmission, but that's a different, it's a very different kind of practice than not sharing airspace, as you can imagine,
+
+0 (9m 17s):
+It could spread through aerosols just to be clear here, but not nearly as likely as something like COVID
+
+5 (9m 22s):
+That's right. And it's just not nearly as likely for this particular pathogen to spread through aerosol as it is to spread through through skin contact.
+
+0 (9m 30s):
+Hm. How long has this disease been around and not, you know, been studied that closely?
+
+5 (9m 35s):
+Well, good question. Monkeypox was first identified in the late 1950s when it was found to be infecting research animals, which were monkeys, which is why it has its name, but it usually lives in small rodents, usually in Western central Africa. And it's kind of burbled up and small outbreaks, usually chains of maybe one to three people, usually household members in that part of the world since then. And only recently, maybe since 2017, have we started to see a whole lot of human to human transmission. And that has been in Nigeria primarily
+
+9 (10m 13s):
+An 11 year old boy, living in our borough was infected by the monkeypox disease. He and his family have been quarantined at the Niger Delta university, teaching hospitals.
+
+5 (10m 27s):
+It kind of started with a big rainfall event that caused both people and animals to flee to higher ground. And so there's just a lot more contact between humans and the animals where this disease more naturally circulates. And there've been more and more transmission events and clusters in Nigeria, such that there have been now 450 human cases in Nigeria. And a lot of those have been spread from humans to humans
+
+0 (10m 56s):
+And one of the symptoms like,
+
+5 (10m 57s):
+So it usually starts with a flu like illness, you know, some fever, chills, muscle aches, headache. And then within a couple of days, it'll progress to a rash. And that rash looks a lot like chicken pox, which doctors traditionally described as sort of a Dewdrop on a rose pedal, which means it's kind of a wet looking but clear blister on a red and base. And so it'll look like that for a couple of days and then progressed to being a more pacy looking blister, then that'll pop. And then usually within two weeks from the onset of the blister, they start to crust over the infectious period is thought to start with the onset of rash. Although there's also some discussion of the, of the possibility that infectivity starts, that someone can be contagious when they start having the fever and, you know, the muscle aches in part, because there may, during that period be rash inside the mouth and throat that it's not really detected by the person has, it
+
+0 (11m 54s):
+Sounds kind of gnarly. Who's most vulnerable here
+
+5 (11m 59s):
+Until 2017. We mostly saw bad outcomes among small children and babies who are also the primary people who got infected with this. So what that portends for us is that people with some level of immunocompromise are at higher risk for a bad outcome from a monkeypox infection. Even with this west African less severe version of monkeypox,
+
+0 (12m 23s):
+Does it have lasting effects?
+
+5 (12m 25s):
+It can, of course, if it causes severe disease, you can have outcomes from severe disease, including death, but also even mild disease. If you have substantial rash, it can leave some pretty significant scarring, which can be, you know, a cosmetic problem for some people. And I think what we're learning with COVID, there can be post viral effects that we have not yet identified. So I think there may be, there are some consequences that we know about, and then there are some that we may not yet know about.
+
+0 (12m 55s):
+Should people be concerned that this could turn into another COVID?
+
+5 (12m 60s):
+So we're seeing it in places and among a community that actually has a lot of resources to stop. Its spread
+
+10 (13m 7s):
+Is a containable situation, particularly in the countries like where we are seeing these outbreaks that are happening across Europe, in north America as
+
+5 (13m 16s):
+Well, both the general public and public health have a lot of practice. The general public has a lot of practice washing their hands, washing potentially touched or infected linens or clothes wearing gloves, wearing masks. I think, you know, masks are a lot less important for preventing transmission here, but contact precautions are something that many of us who had never heard about those things before COVID now know very well. I think we're actually in a pretty good position, but you know, if there is a whole lot of transmission going on that's undetected and there are chains of transmission that public health authorities are not able to catch, then, you know, this may become something that kind of burbles at a low level uncontrolled in the general population in, in countries that where it didn't circulate before, that is, that is a possibility, but for it to cause the kind of widespread, severe disease and death, that COVID cause that seems right now unlikely
+
+0 (14m 24s):
+How to prevent monkeypox in a minute on today, explained Support for the show today comes from, click up. They want to know what you would do. If you had one whole extra day a week, like a, like an eighth day, I'd probably play some tennis. No one asked me the folks that click up say that an extra day might just be up there for you waiting for you to just come and take it because they have a productivity platform.
+
+0 (15m 9s):
+And its goal is to save you a whole day of work. Every week, click up is designed to replace all the different productivity tools that live in totally different ecosystems. It can house all your tasks, projects, docs, goals, and spreadsheets. So you don't have to keep hopping from platform to platform. You can use the code explained right now to get 15% off click ups, massive unlimited plan for a year, meaning you can start saving time for under $5 a month. Sign up today@clickup.com and use the code explained. And you might want to hurry because the offer ends soon.
+
+12 (15m 47s):
+Check out these courts, Chopin made that sound famous in his funeral March, but it's actually the same chords that are found in Nirvana's song, something in the way. This 180 year old ominous chord progression resonates with Cobain's melancholy lyrics. And the sound is connecting with listeners still today. Something in the way climbed billboards hot 100 and March, 2022 marking the fifth time. Nirvana has been on the chart just like today. Explain breaks down the days. Latest stories switched on pop does the same for today's songs because it's not just Nirvana.
+
+12 (16m 31s):
+That's having a resurgence. The angst, the sounds of nineties alternative music has made a comeback. The genres anti-corporate perspective, which developed out of the excesses of the eighties is a fitting backdrop to contemporary activists attitudes. This genre is back, but it's taken on a new sound with new faces. The second time around subscribe to switched on pop and discover the new alternative I'm cohost songwriter. Charlie Harding find switched on pop anywhere you get podcasts.
+
+13 (17m 4s):
+Well, I track down Marcel and get this he's healthy. He's happy. And he's right here in New York filming outbreak to the virus takes my hat. And
+
+14 (17m 14s):
+This is amazing. I know I finally get a part on TV and the monkeys making movies.
+
+0 (17m 20s):
+I explain Shawn Robinson. I'm here with Karen landman, senior reporter on health at Vox. Karen, how do we prevent the spread of monkeypox
+
+5 (17m 29s):
+Contact? Tracing is the start of prevention efforts. Fortunately, there is no known asymptomatic transmission with monkeypox. So that means that in the period before a person starts to have those flu like symptoms, we don't think they're transmitting. And if you may recall from COVID, that was a real problem. A real difficulty in COVID is that you had to go back and think in the days before I was sick, you know, who did I have contact with? We don't really have to do that with monkeypox in the same way. So contact tracing is the beginning of all prevention efforts with monkeypox. And then once you know, who has, who has been infected and, and who those contacts are, you first get them to stay home.
+
+5 (18m 12s):
+And, and then in some places they're starting to vaccinate those people.
+
+0 (18m 16s):
+What vaccination
+
+5 (18m 17s):
+They're vaccinating these folks with a smallpox vaccine and the smallpox vaccine. Many of us have either not really had to think about or even really know about, but a large number of humans living in the world where smallpox was a problem until about 1980 have been vaccinated for smallpox. And my mom's
+
+0 (18m 43s):
+Got the scarf.
+
+5 (18m 44s):
+Yeah. Yeah. So there was quite a bit of immunity as a consequence. We still have smallpox vaccine in often in like national strategic stockpiles, for example, where we keep it in case some country has a smallpox isolate that they might want to weaponize. For example, for like a bioterrorism attack, the old smallpox vaccine that was used by the way is not the kind of one we would use. Now. It was a live virus vaccine. It was weakened, but it could replicate and people who had severe immunocompromised and we would, we would not want to use that as eagerly, as we might want to use a safer virus for folks with immunocompromised.
+
+5 (19m 27s):
+And so a new, safer smallpox vaccine, and it is called a genius, I believe is the brand name. Genius is a non replicating live virus vaccine. That's a better candidate for using in these situations where you basically vaccinate all the contacts of somebody who is a case or all that particularly close contacts to prevent them from either developing infection or transmitting it. And ideally you do that within four days of infection.
+
+0 (19m 54s):
+How much of the world is still getting a smallpox vaccination of some kind
+
+5 (19m 59s):
+A none
+
+15 (20m 1s):
+Step-by-step the disease was pushed back to the very last case. Ali Mo Molly.
+
+5 (20m 7s):
+It's not necessary to vaccinate people against smallpox anymore because it's been eradicated
+
+15 (20m 15s):
+On the 8th of May, 1980, Dr. Hoffman Mahler director general of the world health organization signed a certificate of eradication.
+
+5 (20m 24s):
+So there's no point in vaccinating people broadly for a disease. That's not causing a whole lot of death.
+
+0 (20m 30s):
+And what about treatment if you actually get the monkey pox?
+
+5 (20m 34s):
+So most people don't really need a particular drug directed at killing the virus or stopping its spread. Most people do fine just taking care of themselves at home drinking, lots of fluids, controlling any fever symptoms with pain and fever medicines and, and getting through it themselves. That way most people don't require hospitalization, but are currently being hospitalized. I think often just to prevent spread while other sort of contingencies are managed, but there are a couple of medicines that are being explored or have already been approved for use in people with this infection.
+
+5 (21m 15s):
+One is called T pox. It's sort of the brand name for tech Avira mat. There's some evidence from human trials in the Central African Republic that are promising. So that's a good thing. And there's also another drug called Brinson Dover. And that also seems to show some efficacy treating monkeypox. But honestly, I think most of the people, if you have a healthy immune system, most people will be able to manage this as just a, an infection that goes away by itself, but just has some unpleasant symptoms while it's making its way through you.
+
+0 (21m 47s):
+Is there anyone out there right now saying we should have never stopped vaccinating people for smallpox because if we hadn't, this monkeypox thing wouldn't have happened.
+
+5 (21m 57s):
+I haven't heard that particular perspective. I have seen there is a study published well before this particular outbreak sort of explaining how monkeypox is sort of filling a niche that smallpox previously occupied because people are no longer broadly immune to smallpox. And, and that's probably true, but you know, global vaccination campaigns are costly. Once you eradicate an infection, there are a lot of other places to put the resources that you previously put towards smallpox vaccination. So whether it's other vaccination campaigns or other, you know, disease prevention campaigns,
+
+15 (22m 40s):
+The year campaign cost $300 million, a real bargain. The world saves each year, 1000 million dollars on vaccines. And
+
+5 (22m 51s):
+Since 1980, when smallpox was eradicated, the amount of travel that people are able to do and that people do has changed quite a bit, has gone up quite a bit. And we're also seeing enormous changes in the border between humans and the wild animals where this disease normally circulates, right climate change has accelerated deforestation has accelerated conflict. Although conflict has always been present, you know, at least since colonialization throughout various parts of Western central Africa, that has been a really active dynamic over the last few decades. So all of this has brought humans in increasing contact with the reservoirs of this infection.
+
+5 (23m 34s):
+And, and so this may be accelerated monkeypox is arrival into this niche that smallpox previously occupied,
+
+0 (23m 44s):
+But these trends that talking about deforestation, you know, humans moving more and more into previously unoccupied territory, climate change travel. These trends don't seem to be going anywhere. Does that mean that monkeypox is just the latest in a host of new diseases we're going to be coming into contact with.
+
+5 (24m 5s):
+I mean, it is the latest, but if you'll recall, there is a Corona virus that also kind of jumped species and has caused a fair bit of having So yeah. Yes, absolutely. I mean, coronavirus obviously was not the first either. There are a lot of diseases that we don't often have to think about in the U S and in Europe, they exist. And they're a big problem in places where they circulate and have been circulating for a long time. And they are often introduced within our borders by travel, but what could contribute to their persistence is changing climates here.
+
+5 (24m 47s):
+So for example, think about dengue. Dengue is a disease caused by a mosquito borne virus that generally lives in the tropics, right? You need a certain kind of mosquito to transmit dengue. And for a long time, you didn't see that mosquito in the United States, but you'd occasionally see those mosquitoes and occasionally dengue virus being transmitted by them in places like key west or in Hawaii, rarely and public health thankfully was able to control those episodes. But as we see climate conditions changing, I think there's certainly a risk that we'll start to see a little bit more of this dynamic evolving in the future.
+
+0 (25m 31s):
+Karen landman is a senior reporter on health and science here at Vox and a physician and an epidemiologist. You can read her@vox.com. Our show today wouldn't have been possible. Were it not for the efforts of Halima Shaw and also Matthew Colette, Laura Bullard and Paul mousey it's today explained.

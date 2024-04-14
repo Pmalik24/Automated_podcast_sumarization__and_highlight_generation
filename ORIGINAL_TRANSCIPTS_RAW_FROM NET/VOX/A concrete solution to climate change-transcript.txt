@@ -1,0 +1,251 @@
+1 (3s):
+Most of the cement used in the United States is Portland Cement. It gets its name because it looks like Portland Stone, which is found on the aisle of Portland in England. And it's made by heating stones to very, very, very high temperatures. And as we'll explain in today's show, huge amounts of carbon are then emitted into the atmosphere. It's a problem, but for a long time it's been one without a solution.
+
+2 (25s):
+There's always been a group of engineers and architects and folks that have been interested in it. But the thing is, it's just, it hasn't been a high priority, you know, for building designers, for developers and what have you,
+
+1 (38s):
+Except climate change is making it a higher priority. Today on the show, the Visionaries of Clean Building Materials, one of them is retired NBA player and actor, Ulrich Fox.
+
+0 (51s):
+Double Team quickly by Grant Fox
+
+1 (55s):
+That's coming up.
+
+Vanta (60s):
+Support for today's show comes from Vanta. If you're building a business, then achieving compliance with frameworks like SOC two and ISO 27 0 0 1 might help you win bigger deals, enter new markets, and deepen trust with customers. But it can also cost you time and money. Vanta wants you to know that it automates compliance and simplifies security. In fact, Vanta customers report saving up to 400 hours of work and 85% of associated costs. To. learn more about what this is, how Vanta works. and to claim a special offer, visit Vanta dot com slash explained. That's VANT a dot com slash Explained.
+
+Atlassian (1m 43s):
+Support for this show comes from Atlassian. Atlassian. software like Jira, confluence and Trello help power global collaboration for all teams so they can accomplish everything that's impossible alone, because individually we're great, but together we're so much better. No matter if you're a team of two, 200 or two million Atlassian software keeps everyone connected and moving together as one towards shared company goals. Learn, how to unleash the potential of your team at Atlassian dot com. That's A-T-L-A-S s A N dot com. Atlassian.
+
+1 (2m 28s):
+Chris Batay has spent almost 30 years studying energy policy. Today he's at Columbia's Center for Global Energy Policy. He was a lead author also of the industry chapter of the last IPCC report. What is his job? Job exactly? It's trying to figure out how to get rid of emissions in steel and cement
+
+2 (2m 49s):
+Between cement and steel. They are effectively the skeleton of our civilization. They hold everything up in the air up against gravity. It's what we make our buildings, our bridges, our homes, you know, the weight bearing structures of everything we have.
+
+4 (3m 3s):
+There is no material that will do the same things as Concrete. You cannot have the same type of strength levels. You cannot have the same type of durability. I mean, it is
+
+5 (3m 12s):
+The second most consumed substance on the planet after water,
+
+4 (3m 15s):
+Correct?
+
+2 (3m 16s):
+Cement and Concrete have been used for well over 2000 years. We know at least that the Romans had a very effective cement that still holds things up. Today. There were master builders, and effectively concrete is If. you take various sizes of stone and gravel that are glued together with cement, right? So if the If, you think of a rice crispy square, that dessert where you've got the little Rice Krispies held together with marshmallows. The cement is the marshmallow. The Rice Krispies are the aggregate or the stone that holds everything up.
+
+6 (3m 49s):
+I love this stuff. I'm gonna name it after my daughter, Conia
+
+2 (3m 54s):
+Flint Flintstone. You are a genius.
+
+1 (3m 58s):
+Okay, so when we're talking about a solution to the problem of cement, what is the problem of cement? Exactly.
+
+2 (4m 6s):
+Effectively, cement is artificial rock. We've taken rock or limestone. We've heated it to 850 degrees Celsius. I forget what that is in Fahrenheit, sorry. And then at that temperature, it breaks into two chemical components, calcium, oxide, and CO2. And we just released the CO2 to atmosphere. For
+
+6 (4m 29s):
+Every time of cement that's manufactured, almost a ton of CO2 is emitted into the atmosphere. As a result, the cement industry is the second largest industrial emitter of CO2.
+
+2 (4m 42s):
+We then take that calcium oxide and we bake it with some other minerals to make the cement that people think of that, you know, that stuff that comes in bags or in big mixers, you pour it in with water and then you pour it into a form, or you form it into something, and then when it dries out, it dries out into an artificial rock. But it's the baking of that stone that creates all the emissions.
+
+7 (5m 3s):
+Cement is a concrete problem. The industry is responsible for about 8% of planet warming carbon dioxide emissions. That's about the same as every passenger car on the road worldwide. And far more than the global carbon emissions from aviation.
+
+1 (5m 21s):
+Cement is not a natural substance, as you've described it. We don't get it out of the earth. Who makes it?
+
+2 (5m 26s):
+Oh, there are many big companies in almost every country that make this. Typically your cement factories are outside of town, right? Because in the past they've been incredibly polluting because you need to get to really high temperatures first to split the limestone, and then to bake what's called the clinker temperatures
+
+8 (5m 44s):
+Inside the kiln. So to nearly 3000 degrees. This causes a chemical reaction in the raw materials as they slowly begin transforming. At this point in the process, the cement compound is called clinker
+
+2 (5m 56s):
+And cement. Plants are where we get rid of things we don't like. Most of our medical waste goes into these. Anything that's toxic or potentially, you know, can make us sick, comes outta hospitals. We burn that stuff in cement kilns to get to the temperatures we need. So in the past, they've been incredibly polluting. After
+
+9 (6m 14s):
+Years of legal wrangling, finally Lehigh Southwest Cement Company will be paying for dumping millions of gallons of toxic water into the bay.
+
+2 (6m 23s):
+So in the last 20 or 30 years, we've gotten a lot better at cleaning the emissions that come from cement plant. Hmm. But because of that, they tend to be outside cities. But close enough that you can truck in the cement and mix it with stones and what have you, and other ingredients, and bring it in by truck, and then pour it onto a site where you'll make don don't know a car park, a building or a bridge or what have you. Limestone's heavy, right? So you need, you don't wanna be too, too far from a limestone quarry. And then often they're right beside a limestone quarry. So most major cities will have a cement plant right next to the closest limestone quarry, and that's where they get all their cement for everything you build.
+
+1 (7m 0s):
+I am imagining that every country in the world needs cement. So every country in the world produces their own cement. But are there certain countries or certain places in the world where the most cement is produced?
+
+2 (7m 12s):
+Yeah, no, absolutely. So China has been experiencing an indus. They've been experiencing all sorts of revolutions since World War ii. Hundreds of millions of people have been taken from sheer poverty to middle class status. you know, in the last couple of decades,
+
+10 (7m 28s):
+China's economy has grown faster than that of any other major country. Once poor and underdeveloped, the Asian giant has now grown into one of the most important export markets for manufacturers from all over the world.
+
+2 (7m 41s):
+Their industry is the largest in the world, but as a consequence, they make over half the world's cement and Concrete. And they've been building everything with that.
+
+9 (7m 50s):
+It is a shrine to shopping and certainly a shrine to size. The company that built this building says it's 1.9 million square meters that's more than 20 million square feet. When you measure it by floor, space area, it beats every other building in the world.
+
+2 (8m 10s):
+Now they're getting to a point where they've got enough buildings, they've got enough bridges, they've got enough, you know, factories and what have you. So now a lot of those cement plants are kind of sitting idle, and what they're doing is ending up exporting a lot of that clinker. After China, the demand for cement and concrete is increasing really rapidly. India, the US produces obviously quite a bit the European Union, Brazil, Russia. But the thing to note is a lot of developing countries are heading a point now where they're going to need a lot of concrete to build a lot of infrastructure. And if they make it the same way we did, or the same way China did, we're not gonna have our emissions problem under control. And we probably won't. It's one of those things that'll contribute to going over two degrees Celsius, which is the Paris Agreement goal.
+
+1 (8m 52s):
+In an ideal world, we would be using less cement, which means we'd have to be using something else. When building designers are looking at what else they could use, what are their options?
+
+2 (9m 4s):
+Ah, no, this is the thing. Cement is really cheap. Cement and concrete are really cheap. So our architects, our designers tend to overuse it. Mm. And they use it wherever they can. And they're not incredibly careful. Like they'll oversize things. Now, If, you just ask them to spend a bit more time on the design, not sacrificing safety, not sacrificing anything else. They can probably cut the amount of concrete they pour into a building by about 20 to 30%. So that's the first step right there. The second step is that mineral I told you about earlier, that heated limestone. The clinker, we can replace up to half of that with coal fly ash.
+
+2 (9m 46s):
+We put in blast furnace, slag from steel plants. Some places can put in natural minerals, but there's another way where we take about one third ground limestone and two thirds local clays, heated local clays. And that can replace up to half the clinker. And that knocks out almost half the emissions right there. So that's our secret weapon rate in the near future is use less concrete, just designed for less concrete, and two, substitute out half the clinker. And that buys us a little bit of time to do the more expensive things, which is decarbonizing the production of the clinker.
+
+1 (10m 22s):
+What does a company face when they try to bring a cement alternative to market at scale?
+
+2 (10m 28s):
+One of the things is sometimes it changes the construction process a little bit. These are very conservative industries, be they're conservative, A, because they don't, you know, if something works, they don't wanna mess with it. They don't want to be liable for anything that goes wrong. And obviously no one wants to have an accident where things go wrong. And we've ended up with a very conservative construction industry because things have gone wrong in the past. Built bridges have fallen down, buildings have fallen down 'cause they weren't built. Well, once they found something that worked, they just didn't wanna change it, even though we do need to change things. A bit.
+
+1 (10m 59s):
+Coming up in the second half of our show, Chris, we're gonna talk about a company called Parkana. It was co-founded by Rick Fox, who used to play in the NBA. And this company says it's created a concrete that's not as carbon intensive. Do you know anything about Parta? And do you think maybe this is a way forward
+
+2 (11m 19s):
+Since the Paris Agreement in 2015, suddenly a lot of money and a lot of attention has been being, being paid to steal cement, chemicals, whatever, heavy industry, right? So there's a lot of people that have kind of, okay, there's a business opportunity here to make low possibly negative emissions cement. What Parta does is it's very particular to a specific set of resources, right? So Ana uses a local seawater brine, like from a desalination plant with blast, with basically steel slag brought together. And what it does, because of its specific chemistry, it can actually absorb CO2 outta the air. Now those are very specific conditions to that place and that and that need.
+
+2 (11m 59s):
+And I, I believe the idea is to do this in The Bahamas where they have to do desalination. Yep. That you can't do that everywhere. You're not gonna have necessarily have all the minerals to do that. But that doesn't mean that Parten, like we could have probably 10 different companies like Pana operating globally, working with different local resources. Have you got Clays? Have you got Slags? Have you got brines to work with? A lot of this is just playing with the chemistry, improving it works to con to construction firms and moving and moving forward with it.
+
+1 (12m 30s):
+I hear you saying there is actually room and perhaps even reason for optimism here.
+
+2 (12m 36s):
+Oh, there's, there's lots and lots of optimism. As I said, this is a very conservative industry that just hasn't changed anything for about half a century to a century. Lots of different, there's lots of way different ways to do this. We know are probably going to work. We need to get construction companies and architects and you know, engineering firms working with these new chemistry chemistries, getting practice with them. There are several different companies that are, that are, have a shot at this, that the, the old, the older companies can use that one method. I told you, the substituting out the klinker. And then we have this backstop technology where that we can put what's called carbon capture and storage on the back of a steel plant, sorry, not a steel plant, a cement plant.
+
+2 (13m 22s):
+Grab the CO2, clean it out, compress it, and push it underground. And it's cement is the one, one area where we think we can probably successfully do this. It's not cheap. It doubles the cost of making clinker, but it is the backstop that we have available to after we've done all these other things.
+
+1 (13m 48s):
+Chris Patai, he's an energy researcher coming up Fox on Rock's, former pro basketball star, Rick Fox Co-founder of Part
+
+GiveWell (14m 6s):
+Support for today. Explained comes from GiveWell. Whether you're trying to figure out where to go for the long weekend or whether that pizza place down the corner is like actually good reading reviews helps you figure out what's best. GiveWell wants to make it simpler for people to learn which charities are doing the most good with every donation they receive. So you can give with the confidence that your money will be put to effective use. According to GiveWell, they spent more than 15 years researching thousands of charitable organizations and have helped more than a hundred thousand donors give more than $1 billion to a number of high impact charities. If you've never donated through GiveWell before, you can have your donation matched up to $100 before the end of the year, or as long as matching funds last to claim your match. You can go to give well.org and pick podcast, then enter today explained at checkout. Make sure they know that you heard about Give Well From Today Explained to get your donation matched. Again, that's Give well.org to donate or find out more.
+
+BetterHelp (15m 10s):
+Support for today Explained comes from BetterHelp online therapy as 2023 winds down and the holidays are right around the bend. Many of you are looking for the right gifts for the people you love or Maybe, you just need something for that weird coworker. You got this year's Secret Santa and, and what BetterHelp is implying here is that you don't love that person, but because of your status in life, you have to buy that person a gift. It's sad. It also might be true. The point of the story is most of us aren't thinking enough about what we need for ourselves. And that might be a missed opportunity. If you're ready to set aside a little time to treat yourself to some TLC this year, you might wanna check out BetterHelp. You can be number one on your own gift list with BetterHelp. You can visit BetterHelp dot com slash explain today to get 10% off your first month. That's better. HLP dot com slash explained. BetterHelp online therapy, get yourself something this season.
+
+Atlassian (16m 11s):
+Support for this show comes from Atlassian. Atlassian. software like Jira, confluence and Trello help power the collaboration for teams to accomplish what would otherwise be impossible alone. Because individually we're great, but together we're so much better. That's why millions of teams around the world, including 75% of the Fortune 500 trust Atlassian software for everything from space exploration and green energy to delivering pizzas and podcasts. Whether you're a team of two, 200 or 2 million, or whether your team is around the corner, around another continent altogether, Atlassian software is built to help keep you all on the same page from start to finish. That way every one of your teams, from engineering and IT to marketing, HR, and legal can stay connected and moving together as one towards shared company-wide goals Learn, how to unleash the potential of your team at Atlassian dot com. That's A-T-L-A-S-S-I-A-N dot com. Atlassian Get Patty back it up. Back it up.
+
+12 (17m 18s):
+It's today.
+
+1 (17m 24s):
+Rick Fox played in the NBA for 13 years, ending his career with the LA Lakers in 2004. He then moved on to acting for which he definitely has the face. He co-starred in the first five installments of hallmark's Morning show mysteries based on the novels of Al Roker and a lot of other stuff. And he's a co-founder of Parta, a company that makes clean or cleanish concrete. This for him is a very personal endeavor.
+
+14 (17m 49s):
+I was called by the universe not only to support my country, The Bahamas, at a time when we were devastated by Hurricane Dorian back in 2019,
+
+15 (18m 1s):
+Hurricane Dorian made landfall on The Bahamas with wind speeds of 185 miles per hour with gusts going up over 200 miles per hour.
+
+14 (18m 9s):
+Some 30,000 people were displaced.
+
+16 (18m 12s):
+It's chaos here and the place is untenable. Nobody can live here. So we're trying to ghetto.
+
+14 (18m 17s):
+Thousands of homes were destroyed.
+
+17 (18m 19s):
+And the battered Northern Bahamas, massive piles of debris as far as the eye can see people
+
+14 (18m 25s):
+Had
+
+18 (18m 26s):
+Died. The United Nations says that 70,000 people on Abaco and Grand Bahama are in need of immediate humanitarian aid.
+
+14 (18m 34s):
+And it was, they call it a one in a hundred year storm. But If, you live in hurricane alley like we do. I grew up with hurricanes and they did not resemble what I witnessed on the ground. Mm. When I went to add some relief efforts, it, it's something that no one wants to experience. And in the case of our country and our region, it's happening more frequently beyond
+
+19 (18m 60s):
+Glasgow. Beyond the ambition, the forests of great Abaco have gone for mile after mile. It still looks Like a wasteland. And the communities around have hardly rebuilt.
+
+20 (19m 11s):
+This is beyond just the loss of a home. Many people have no way to recover.
+
+1 (19m 22s):
+And so, as you said about this journey, were you thinking in The Bahamas, we need stronger homes that can survive hurricanes? Or were you thinking climate change is a problem and the place where I grew up or the place where I'm from, the place where I have roots is seeing more of these devastating hurricanes and therefore we need to do something? Or was it a combination of both those things
+
+14 (19m 42s):
+Been morphed into both? Hmm. It started with the former, as you mentioned, I was not a climate technology entrepreneur to begin with. I come out of the entertainment space, Rick
+
+20 (19m 54s):
+Fox. I know she didn't.
+
+21 (19m 56s):
+He's an incredibly attractive man, son, dude was a Laker and a Celtic and he's not dead from a manageable illness.
+
+14 (20m 4s):
+My idea at that point in time was to just be more than just a citizen of the country that donated money at the time of devastation and start to search for greater answers and solutions.
+
+1 (20m 17s):
+So in the first half of our show, Rick, we learned about the, the difficulties of making concrete and cement. I mean, these are really energy intensive processes. You at Parta have found a way to do this differently. What's this formula? What do you do that that sets you apart?
+
+14 (20m 32s):
+So our material is as foundationally made up of large, big scale industry waste. One product being b brined from the desalination industry, the other product being slag from the steel industry. Both products are abundantly available globally and in a lot of cases either pushed back into the ocean from the brine standpoint or in the case of steel put in landfills all over the world. We take those two and we, through the, through our process and our chemistry, use zero energy, zero Portland cement. We have a formula that we cure through the absorption of hydration, but also through the absorption CO2.
+
+14 (21m 14s):
+And we get to a finished concrete that avoids all the negativity of traditional cement made concrete, and at the same time removes CO2 out of the atmosphere in the process of curing. So we, in a direct air capture capacity, without any use of energy, we get to Concrete a greener, fresher, cleaner, finished concrete.
+
+1 (21m 35s):
+I'm curious about something with respect to the process, which is the, the mixture that you're using of brine and slag. Those two things are still made from processes that produce a lot of CO2 emissions in their own right. Isn't that the case?
+
+14 (21m 51s):
+Yes.
+
+1 (21m 52s):
+Right. So tell me, tell me about how you kind of, you have to use something, yes. But the things that you're using are emissions heavy. Tell me a bit about that, getting your mind around that.
+
+14 (22m 3s):
+So you have to think of our processes the same way you would recycle plastic that's in the ocean or glass or anything that's being consumed and used regardless of whether or not Parta was on the planet as a, a viable solution to our problem. Steel is not going anywhere anytime soon. The world is not gonna stop developing desalination water and desalinating plants are growing increasingly in and around the planet. Water being the most, you know, valuable commodity out there, especially in the Middle East and the region of the Middle East. It's more valuable than oil. We are simply taking the products that are being discarded as waste. None of that associated with our production.
+
+14 (22m 45s):
+We're taking those waste materials that would otherwise sit in landfills or re return to the ocean and creating more damage and impacting the, the seabeds. We're taking those two things and turning them into feedstock for positivity and generating nature, positive building materials. So for us, those negative CO2 emissions are not assigned to us because we are picking them up after the fact and, and turning them into something positive.
+
+1 (23m 13s):
+Now you know how to do it. What is ana building and where are you building? Where can I, where can I see this stuff?
+
+14 (23m 20s):
+We built the first carbon negative concrete home in the world in The Bahamas. You can go and visit it. We'll continue to build more of them in the coming year.
+
+22 (23m 28s):
+Ana claims a 1,250 square foot home built with its cement. We'll remove approximately 182 metric tons of CO2.
+
+14 (23m 36s):
+That first home had zero Portland cement in it. It had foundations made from part, it had CMU block, it had mortar, it had the columns, it had pour in place. And we built a home that through the process of using our material generated 182 carbon credits. So out of that we generated a positive result in a carbon credit. And that carbon credit as we move forward here, can be used in a very positive way to support homeowners into getting into homes. 'cause that value could be attributed to a down payment. It could be used to support greater infrastructure in a community. And so we're using our carbon credits generated from our home building for good.
+
+1 (24m 20s):
+For the skeptics out there, Rick, what's it gonna take to scale this? You built one of these homes, that's incredible, but did it take 15 years? Is it possible to make more of them quickly and cheaply?
+
+14 (24m 31s):
+Currently right now we're, we have an MOU with the, the government of The Bahamas for a thousand affordable homes in the near three years coming up. That affords anyone that's interested in building a sustainably green dwelling unit or home or a building could use our materials as we scale. We're scaling in parts of the world where the conversation is more collaborative and sustainable goals and KPIs are being demanded. And so for us, the region of, of the Middle East right now, there's a huge demand for our product and setting up our manufacturing facilities to generate as much volume of material as possible is where we're focused on doing that.
+
+14 (25m 11s):
+But we're in, well we're in the US as well, we're in the Caribbean and we're in the Middle East right now.
+
+1 (25m 16s):
+Let me ask you lastly, we learned in the first half of our show that there are many companies trying to do, and in, in some cases, actually doing what Parta is doing. Now, business is a competition. That's, that's business brain, but there's another type of brain that goes into a project like this and that's, you know, we're doing something good for the planet as we compete in the marketplace. How do you view the other companies and the competition here?
+
+14 (25m 43s):
+So currently right now, we are in support of far more solutions than just ours. In other words, as long as an entity is not greenwashing, as long as they're not marketing that they do what we do right now, currently, no one does what we do. We avoid and remove CO2 through the process of the creation of our material to get to concrete. No one's able to do what we do today. There are others that do less bad. In other words, they're making building materials in a different fashion, but they use energy. They still heat, they still use, in some cases of some form of Portland cement. We are leading in the space of avoidance and removal.
+
+14 (26m 26s):
+We're leading in the space of replacement, of cement, not reducing cement. We replace cement completely. We are leading in the space of carbon negative avoidance and removal. No one's quite doing that yet. There are some people out there that are claiming to do it, but they're still in the lab. We are actually delivering these materials today. So I, I hope they hurry up and they get there. I hope they continue to add to the solution of choices for those that are, are looking for the right choices and we'll celebrate them as well.
+
+1 (27m 9s):
+Rick Fox, co-founder of Ana. Today's show was produced by Haddi Mawajdeh and edited by Matt Collette and Amina Elsi. It was engineered by Patrick Boyd and fact checked by Isabel Angell. I'm Noel King. It's today explained.

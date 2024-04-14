@@ -1,0 +1,221 @@
+0 (1s):
+Hello listeners have today explained in moments like these, when people are struggling to understand variants and vaccines and sending their kids back to school, a lot of news outlets are taking their paywalls down, but I would just like to point out the Vox has never really had a paywall in part because of financial support from our readers and listeners, people like you. Our goal is to add 2,500 individual contributions by the end of September, please help us get there and keep Vox free by making a financial contribution today, go to vox.com/give. There's also a link in the show notes of this episode. Thank you support for this show.
+
+0 (42s):
+It comes from nerd wallet, smart money podcast. Maybe you're looking for some financial advice, but you don't want to pay for it. Well, NerdWallet's smart. Money podcast is free and it's teaming with financial advice every week on smart money hosts, Sean piles and Liz Weston recap. The financial news that actually affects your life. Then they invited guests from NerdWallet's massive network of financial experts to answer real listeners money questions. Maybe they have the same questions you do. They cover topics like how to approach buying a house as unmarried partners or making sure you're maxing out your Roth IRA, where to go for travel insurance and much more it's practical stuff.
+
+0 (1m 28s):
+You can subscribe today wherever you listen to your favorite shows. The show again is NerdWallet's smart money podcast. Few months ago on the show, we brought you a story about fortnight. One of the most popular video games in the world, the company that owns it, epic games was suing apple, the most valuable company in the world. They were fighting about that little thing in your pocket that runs your life, who should control your phone. And by extension, you both sides made their case in court. The lawyers went home and apple and epic and everyone else in Silicon valley waited for a ruling and waited and waited.
+
+0 (2m 13s):
+It was like one of those never-ending spinning rainbow wheels that pop up when your apple machine is sick of you.
+
+2 (2m 19s):
+We're going to come down and Apple's favor is going to come down and epics favor is the judge going to sort of split the difference? What in the world is going to happen? I'm out here in Silicon valley and this was absolutely the most anticipated ruling and it took weeks
+
+0 (2m 33s):
+Bobby Allen tech reporter NPR. So
+
+2 (2m 36s):
+When it finally came, it was the thing that every single person who covers tech or cares about technology was reading. And it was super interesting. It was complicated, but it was super interesting. Remind
+
+0 (2m 47s):
+Us how this all got started. Bobby
+
+2 (2m 49s):
+Epic games, which makes the hit game. Fortnite has the CEO and he's this like North Carolina based Accentra character named Tim Sweeney. He really prides himself in being outside of Silicon valley. He runs this multi-billion dollar video game company, but he likes this sort of like Maverick persona. He really leans into it. Well, he launched this battle on behalf of Fortnite, but he also said on behalf of app developers everywhere to take square aim at,
+
+3 (3m 18s):
+You know, apple is locked down and crippled the echo system by imposing an absolute monopoly on this.
+
+2 (3m 26s):
+And specifically what he was taking aim at is app store fees. That if the sound's all really complicated, every single time, Sean URI will download an app that cost money or pay for something in an app, apple tax on a 30% commission, big moneymaker for them. Well, Tim Sweeney filed a lawsuit saying actually that's illegal. You're being a monopoly. A judge should declare that illegal and you should stop it right now.
+
+3 (3m 50s):
+Oh, that's all a million of us developers, large and small need to resist and refuse to continue cooperating with these platforms, which you know, intermediate and obstruct us.
+
+0 (4m 2s):
+Well, think of apple. They're thinking of their telephones. They're thinking of their apple TVs. Maybe, maybe they're thinking about Ted lasso. Hey, how y'all
+
+3 (4m 10s):
+Doing. I'm Ted last. So your new coach
+
+0 (4m 13s):
+Like this 30% fee commission situation just feels kind of like, weedsy how big a deal is this to this company.
+
+2 (4m 23s):
+It does seem kind of random, but it's huge to the company years ago, iPhone sales, Pete and apple, the most valuable company in the world needs to keep expanding and expanding. You know, as all tech companies want to, and they see a huge part of their future growth as being in its services business. So things like subscriptions and fees,
+
+4 (4m 45s):
+More stickiness with this customer is that's really what services is, right? It's a way to sort of keep you glued to their hardware ecosystem. Certainly does for me,
+
+2 (4m 52s):
+Central to that is the money it makes in its app store. And in recent years, developers have been increasingly speaking out and saying, Hey, you want to say that apple is a monopoly? Hey, look at me. I have a really good example of that. And it's how much I'm getting charged. Every time I try to get my app out to people, 30%, that's unfair, apple
+
+5 (5m 13s):
+And Google are the only gatekeepers of this new internet using user data and app developers innovations, and even income against them in order to bankroll the construction of massive toll ways on the formerly free information super highway.
+
+2 (5m 28s):
+And this 30% criticism has been snowballing lawmakers around the world. Advocates of all stripes have coalesced around this 30% what's to stop apple
+
+6 (5m 37s):
+From increasing its commission to
+
+7 (5m 40s):
+Percent we serve. We have never increased commissions in the store since the first day. It operated in 2008
+
+2 (5m 48s):
+And using it as the thing to point to when you say, show me an example of Apple's abuse of power. Everyone is pointing to the 30% as the reason why apple is monopolistic. Arguably, How did the tech trial of the century go? Well, it's a lot of expert testimony. I mean, every economist you could think of that has an opinion about the digital economy, took the stand and was under direct examination, was under cross. And they really got into a lot of minutiae that, you know, would put even the most curious legal reporter, straight snoozing.
+
+2 (6m 30s):
+It would cost him start sleeping, right. But there were, there were some, there were some moments that, that were, were pretty resonant and pretty interesting. And I think the highlight actually came right at the end of the trial when Tim cook for the first time ever took a witness stand and took a real beating from the judge and was forced to answer some really, really, really tough questions from the skeptical and really hard-nosed judge Yvonne Gonzalez Rogers in Oakland. What did she grill him about? So the question at the heart of the trial is, is this 30% an example of apple being a successful company and being hyper competitive?
+
+2 (7m 11s):
+Or is it an example of apple having too much power monopolizing, a market and abusing their might over smaller developers? And you know, you Yvonne Gonzalez Rogers, she didn't really buy that. Apple is subject to any real competition. So, I mean, she, she just sort of threw hard ball after hardball
+
+8 (7m 33s):
+Or charging the gamers to subsidize Wells Fargo with 39% of all your developers dissatisfied. How is that except? So what is the problem with allowing users to have
+
+2 (7m 48s):
+Really Tim cook? Really? You really think you have competition then why has this 30% commission not changed? And after he got off the stand, I think most court onlookers were basically left with the impression of, wow, she's about to drop a pretty searing ruling. That's gonna take a big whack at apple. This could be a real black guy for this company. I think that was sort of the expectation that many people watching this trial had after, after that showing did that pan out, what was the ruin? The ruling, the ruling was 185 pages, but in some epic didn't get what it wanted. Apple didn't get what it wanted.
+
+2 (8m 29s):
+It was sort of not great news for either, but overall Apple's overall system in the app store was affirmed. The judge said, you know what? I haven't seen evidence to suggest that you are operating apple like an illegal monopoly that said you need more competition. And I'm going to order that more competition be thrown into the app store, but essentially it was a lose, lose. Apple got a decent amount. Epic got a little, but both sides are unhappy fortnight
+
+9 (8m 60s):
+Game maker, epic games said on Sunday, it plans to file an appeal and its case against apple over in app purchasing power.
+
+2 (9m 7s):
+So the upshot of it is apple will be forced to let people like you or me pay for things in processors other than apples. And what that means is, you know, say I am playing candy crush and I want a few extra credits, right? They call that an in-app purchase. It's basically I'm on my iPhone playing a game. I'm going to buy a credit. Typically that goes to apple, apple gets 30%. The judge said candy crush players, you know, basically should have another option that says, should I process this through candy crush? Or should I process it through apple? And that might seem like a subtle sort of whatever change, but it's actually a huge change because since the app store was started in 2008, apple has so tightly controlled, every single thing about it down to the way it processes payments.
+
+2 (9m 56s):
+And it makes tons of money. I mean, during the trial, we found out one expert estimated that, you know, their profit margin is, is nearly 80% on this app store. So it makes tons of money off processing payments. And the judge said, basically, apple has this black box. It's not letting anyone see what's inside and that's not fair.
+
+0 (10m 16s):
+Okay. The judge wants apple to allow developers to give more information to customers. And this might hurt Apple's bottom line. How does apple feel about that?
+
+2 (10m 27s):
+This was far from the worst case scenario for apple. Apple feels like a Dodge to bullet apples. Lawyers are looking at this right now and saying, you know what, we're not super thrilled about making this change. This might hit our bottom line, but if the 30% commission was declared illegal, that would be a much bigger problem.
+
+10 (10m 45s):
+Epic appeal because epic basically lost almost everything. Epic is basically failed to prove any sort of monopolies.
+
+2 (10m 53s):
+If we were considered an illegal monopoly and the way that epic wanted us declared an illegal monopoly, that would have been a much bigger problem.
+
+0 (11m 2s):
+But this does end up being a bit of a disappointment for everyone out there who is hoping that this judge in California was about to hand down this ruling that would finally reign in big tech.
+
+2 (11m 14s):
+I think that's right. I mean, some of the small developers who were really hoping this judge would knock down or, or, or break open Apple's system in a more sort of systemic way are definitely not happy. I mean, one of them a match group, which runs Tinder, you know, th they put out a statement that basically says what, what this ruling shows is that our super old antiquated antitrust laws, you know, are, are not really the best ways to hold companies like apple accountable and that we need to bring our laws into the digital age. South Korea did this recently, South Korea is parliament just made history, targeting those big
+
+11 (11m 54s):
+App store app stores with a new landmark bill here, specifically,
+
+2 (11m 59s):
+South Korea, you know, the whole in-app purchasing and buying apps with this 30% commission was declared illegal. Or
+
+11 (12m 6s):
+In other words, developers can now avoid paying commissions to the big app store operators, directing users.
+
+2 (12m 13s):
+He is really progressive on this, but yeah, people who are hoping that this judge would really smack down, apple are sitting around looking at this ruling and they're feeling pretty bummed out right now.
+
+0 (12m 32s):
+Okay. The judge didn't smack down apple, but there are a whole lot of United States senators who would very much like to I'll speak to one of them in a minute, but I'm not going to say which one for now. You'll have to guess. All right. Hence Amy K no, no, no, no. That's too obvious. A Klobuchar it's today explained Support for the show today comes from better help. Do you ever text someone looking for some validation, some counsel, just some support, and then you never hear back.
+
+0 (13m 15s):
+And then you're just wondering, did they even see the text? Did they forget about it? Do they not like me anymore? Are they ignoring me? Do, do you have your read receipts on or off? Do they have theirs on or off? I keep mine off because I don't want people to know when I see their messages, because that, for some reason it feels like just another layer of social interaction that I don't need. But do you even call them read receipts or do you call them and say it's I've, I've heard both anyway. You know, who always answers, you know, who you don't need to worry about read receipts or read receipts, better help. And today explain the sponsored by better help online therapy and our listeners get 10% off their first month of online therapy@betterhelp.com slash explain that is better.
+
+0 (13m 56s):
+htlp.com/explained, get matched with a better health therapist who will respond and get started.
+
+12 (14m 10s):
+This is advertiser content from Linden tree in this golden age of streaming. We are inundated with choice when it comes to what to watch a study found that a personable spend over 1.3 years of their life, scrolling guides and menus to find something to watch and still failing.
+
+13 (14m 30s):
+Anytime. I think I've seen it, all, something comes up that tells me I have it.
+
+12 (14m 34s):
+That's professional critic, Robert Daniels at 8 1 2 film reviews. When it comes to choosing our next movie or TV binge, many of us rely on reviews to help us narrow our picks.
+
+13 (14m 45s):
+I'm hoping that it saves some time. I'm hoping that they don't have the same feeling that I have when I watch something I don't like. And I feel like, oh, I just wasted my time.
+
+12 (14m 55s):
+If we put in the research time, before it to our screening, why don't we do the same for big financial decisions? Lending tree is a one-stop marketplace where you can easily compare ratings for loans, credit cards, insurance, and more so not only do you save money, you save time, find lending tree on the app store, or go to lending tree.com to learn more terms and conditions apply in MLS. Number 1, 1, 3, 6,
+
+0 (15m 27s):
+Senator Amy Klobuchar. We spoke in the first half of the show about this sort of complicated ruling that was mostly a win for apple, but sort of a loss to what was your reaction to this news last week?
+
+14 (15m 38s):
+I think that's a pretty good characterization. So let's start with, from my perspective, the positive, because I think we have to take on these dominant tech platforms. I don't envy them. I think that it's great. They've had success, but at some point our laws reinvigorate capitalism, and that means making sure that new companies can start and that things are fair. And we don't have that going on right now. So for me, the answer is very clear. I wrote a whole book about this, that we need to change our antitrust laws, that our laws need to be as sophisticated as this new marketplace. We're relying on laws that were made before. There was a web before anyone invented anything with regard to the internet and we've got that problem.
+
+14 (16m 24s):
+And then we have courts that are predisposed to basically let the wild west govern here. When it comes to antitrust, not just tech pharma, online travel, you name it. There are so many cases where you've got one or two companies dominating a market.
+
+0 (16m 41s):
+You've you've introduced legislation in the Senate to promote competition in the app store and Google play. Tell me about it.
+
+14 (16m 48s):
+Well, that came out of a hearing we had, which was one of the most interesting things for a few reasons. One apple, wasn't going to send a witness and Senator Lee conservative Senator from Utah. He and I spent the weekend learning all about this. When we finally wrote a letter to Tim cook, and we said, wait a minute, you just talked about this issue yourself on a car Swisher's podcast.
+
+15 (17m 10s):
+Do you find this to be your most vulnerable part of your business? These issues with antitrust investigators looking into
+
+7 (17m 16s):
+Apple has helped build a economy that's over a half a trillion dollars a year. I think it's hard to argue that the app store is not an economic miracle.
+
+14 (17m 28s):
+And now you're saying you can't talk about it. You can't send a witness because you have pending litigation. You just did that last week. And so they ended up changing course. They sent a witness,
+
+16 (17m 40s):
+Chairwoman, Klobuchar, ranking member, Lee and members of the subcommittee. My name is Kyle and Aaron. I am Apple's chief compliance officer. I appreciate the opportunity to offer testimony about apples. Absolutely. Some of you may have an iPhone with you right now. I hope that's the case.
+
+14 (17m 58s):
+So the hearing proceeded on the apple thing. We found out this issue that came up in epic, that they couldn't tell them, oh, you can get cheaper rates from us on our own websites. And then we found out a lot about allegations of themself, preferencing putting their own products at the top. So that caused us to come together. Senator Blumenthal, Senator Marsha, Blackburn, very conservative. The three of us came together and did a bell on app store. So that's, what's pending right now. It's gotten a lot of attention and it would solve a lot of these problems.
+
+0 (18m 30s):
+Tell me what exactly the policy would do. I think people find this stuff a little confusing. Everyone uses these app stores, but I don't think people are really familiar with how the profit systems or
+
+14 (18m 42s):
+Exactly. And you know, what I think is crazy about this is that that's what they, they're thriving on this, that the complexity of them gives them dominance because many of us need to get more educated, which I have done on all of this in order to take this on. So what the legislation would do, it stopped app stores from promoting their own apps unfairly in search results. That's this self preferencing, right? That's when they put certain things at the top of the Google search or things like that for apple and Google to allow customers to use third party app stores, black, the app stores from using their special access to data. You know, we're all individual profit centers for them, but we don't make the money off ourselves. They do stop app stores from requiring app developers to user in our payments systems and requiring them to give access to system interfaces.
+
+14 (19m 31s):
+So that's what that bill is. But if you really want to get it, everything of the consolidation we're seeing across, not just with app stores, but across tech, across pharma in, in John Oliver's words, since the
+
+17 (19m 45s):
+1970s, that balance has tipped decidedly in favor of being merger friendly, which has led to real problems. And let's start with the obvious for workers. Mergers can often mean big layoffs, but it's not just employees that can suffer. Consumers can too, as
+
+14 (20m 0s):
+Showed how we seen consolidation in everything from cat food to caskets. So the point of it is that we need to change our laws, shift the burden, make it easier for the government to prove up these cases. Basically why
+
+0 (20m 14s):
+Hasn't the federal government been acting? You think, oh, that's easy.
+
+14 (20m 17s):
+You like move you, you turn around a corner and you see a tech lobbyist, right? There are some of the biggest contributors as well as pharma, just look at the numbers. So that's a piece of it. There's an old cartoon I have in my wall right now that I'm looking at in my office. And it's from way back in the 18 hundreds, but it shows the Senate sitting there and then these big bloated balloon type figures looking down on the Senate and they say things like standard oil trust, rail trust, because they basically own the Senate. So you have that going on. You always have that going on, but it's also because it's so complex what you raise it's, it's impossible to figure out some of it.
+
+14 (20m 57s):
+And they know that. So monopolies take advantage of that. So it's on us and on the citizens. And this is what I argue in my book, aptly named antitrust. It is on the citizens to really seize this and work with us to get this going. But there's more movement on this also because of David's his Leni, the hearings they did in the house were really good. So there's just a lot of action. And finally, I would be doing a disservice by not bringing up the agency funding for the FTC and the department of justice, antitrust division. Those are the two players here and the Biden administration has put in Lena Khan, some really out of the box thinkers to take on some of this monopoly.
+
+14 (21m 38s):
+But if they don't have the resources, it all becomes a joke. And right now they are a shadow of their former selves. So Senator Grassley and I passed a bill that will add their budgets over that. And that's based on the way the merger fees are structured. So it doesn't even cost anyone, anything except the big companies that got through the Senate. So it just shows you right there that we have movement on our side. And then we're trying with this big package we're working on this fall to get some funding there as well.
+
+0 (22m 9s):
+It just feels like these tech companies have been on this, like, you know, a decade long, if not decades, long like honeymoon period where we're so enchanted with what American tech companies in Silicon valley have accomplished. That maybe there's not even this, this drive to do anything about it. I mean, and now these companies are so powerful that they're more powerful than countries. They can swing elections
+
+14 (22m 30s):
+In Australia when they tried to charge them for content, Google and Facebook, they basically said to an industrialized nation, okay, we're going to leave and you don't really have anyone to take our place. That's what bullies do. That's what monopolies do. Then what happened? There was so much international pressure. They finally stepped out and stopped doing that and negotiated some with them. But I think that the time has come because of various things, privacy and the, like all of this stuff coming out, that is why we have antitrust laws. And so we just need to get the people in place, which the by the administration has done and is doing. We need to get the resources there, which I believe we're going to do in a bipartisan way.
+
+14 (23m 12s):
+This year, they bring up the cases. They refile the cases that get rejected. They try different theories. We've at least nominate judges that take this seriously at all levels. And then we make some changes to the law. Like we've always done as a country.
+
+0 (23m 36s):
+Okay. Appreciate it, Senator, thank you so much for your time.
+
+14 (23m 39s):
+This was really great. I hope I can come on again. Maybe on voting now that we have the deal with mansion <inaudible>
+
+0 (23m 54s):
+Senator Amy Klobuchar, D Minnesota. She's got the deal with mansion. Our episode today was produced by will read with help from Hottie mahogany. I'm Sean Ramez from it's today explained

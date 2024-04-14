@@ -1,0 +1,242 @@
+1 (6s):
+A 21 year old airman with the Massachusetts Air National Guard, who's accused of leaking classified documents to his friends on the internet, was charged today under the Espionage Act. The charges are unauthorized retention and transmission of national defense information and unauthorized removal and retention of classified documents or material. The Department of Justice says Jack Tahara, who went by Jack the Dripper on Discord, started leaking classified information months ago before the government caught on possibly as late as this week coming up on today. Explained in a world in which a lot of us believe the government is able to keep tabs on us. Why did it take so long for the government to realize what was happening to its private stuff in the most public place?
+
+1 (50s):
+The internet,
+
+2 (59s):
+RuPaul's Drag Race champion Sasha Valor, says some of the weirdest drags she's ever done was influenced by the Lord of the rinks.
+
+3 (1m 7s):
+They did a transformation from like a glamorous 1950s ingenu to Gollum and did the lip sync with both Gollum and Sneel fighting. And then I performed Kate Bush Weathering Heights,
+
+2 (1m 22s):
+Sasha Valor on her new book and the history of drag. This week on Intuit Vultures pop culture podcast,
+
+1 (1m 36s):
+It's today explained. I'm Noel King with Erin Banko. Erin covers intelligence for Politico and she's been following the path of the leaked government documents.
+
+4 (1m 45s):
+So it appears that these first documents appeared on a social media platform called Discord, which is essentially just another sort of messaging social media platform and we're still learning sort of the extent to which they in frequency with which they were posted, but it appears that last year is when they first began to appear.
+
+1 (2m 5s):
+And tell me about their trajectory. I understand they first appeared in one Discord server, then they kind of spread what happened there.
+
+4 (2m 12s):
+That's right. So what we know is that there was a very small Discord channel server called Thug Shaker Central. There were about 20 to 25 people that were members of this group. Mostly younger men, gamers, people who were really into video games, other people who said they really liked guns, mostly leaned conservative Republican right wing. And that is where those documents first appeared. It wasn't until months later that one of the members of that original group then reposted the images to a second Discord server. And then from there those images then appeared even, you know, more widespread on other social media apps like Telegram and Twitter.
+
+1 (2m 57s):
+What was in the documents? What do they say?
+
+4 (3m 1s):
+So the documents as I've seen them and as they've been reported, are pretty broad in the sense that they touch on a lot of different areas, but primarily they deal with the war in Ukraine.
+
+5 (3m 15s):
+These documents contain incredibly sensitive information about Ukrainian troop movements, strengths and weaknesses, including weaknesses in their air defenses, as well as really important and new information about just how far the US intelligence community has been able to go in penetrating the Russian Defense Ministry as
+
+4 (3m 33s):
+Well. But then they also deal with intelligence reporting from countries that span the globe really from the Middle East to China to other parts of Asia.
+
+6 (3m 43s):
+Other documents show the extent of us buying operations on South Korea and Israel, including with relation to South Korea, a conversation between two senior South Korean national security officials about their concerns over a US request for ammunition that would be set
+
+4 (3m 59s):
+To Ukraine. You know, I'm an intelligence reporter, so I see some of this stuff a lot and I can say that the documents are extremely sensitive in the sense that they really lay out the extent to which the US spies on its adversaries, but also on its allies. It contains very detailed information about really current day global events.
+
+7 (4m 24s):
+The documents are already prompting allies to respond. Israel's Prime Minister Benjamin Netanyahu pushing back after one document suggested leaders of Israel's spy agency had encouraged protests against his proposed judicial
+
+4 (4m 37s):
+Reforms. I think that's what makes these documents sort of shocking is that, you know, in past leaks we've seen, you know, documents that have been held in servers for years leaked out to the press. But these documents really talk about very real national security issues that are happening in in real time.
+
+1 (4m 58s):
+You said they appeared on Discord late last year. I don't think this became a news story until this month. At what point did American authorities say we have a problem here guys?
+
+4 (5m 9s):
+The Washington Post has actually reported that the documents or transcripts of the documents at least appeared starting all the way back in the summer of 2022. The tranche that I've seen didn't show up online until probably January, but we do know from this Washington Post reporting that the leak span perhaps all the way back to the summer of 2022, our sourcing suggests that the government did not know that these documents were circulating until last week.
+
+1 (5m 38s):
+Wow. Do we know why it took that long?
+
+4 (5m 42s):
+I think there are a lot of questions about why the government didn't know that these documents were spreading online. I think it's fair to assume that the documents were held within this original Discord channel pretty tightly. We've seen interviews and reporting to suggest that the members of this original server basically had a pact not to post the images elsewhere, not to share them with anyone. And it's not like the government has an office that just is responsible for prowling the internet for leaked classified documents, right? The government maintains it doesn't spy on Americans on its own citizens.
+
+4 (6m 22s):
+There are limitations about the extent to which government agencies can even go onto social media and look at users' profiles if there's no specific threat or open, you know, law enforcement case. But I do think that we'll start to see members of Congress on Capitol Hill when they return next week, begin to ask questions about whether or not we need to think through this a little bit more about how we can identify potential legal activity that's happening online. If you know it doesn't fall squarely into, for example, the terrorism bucket or the threatening acts of violence bucket.
+
+1 (6m 60s):
+It's so interesting because I think a lot of us think, oh, the government is watching us all the time. They know what we're doing and here we have proof that no, perhaps they aren't and they don't. So the authorities find the documents online, it's very clear that someone has leaked them. Do they then start looking for the leaker or the leakers immediately?
+
+4 (7m 18s):
+From what I can tell, a lot of the information that was first made available about the leak was from open source information. So Belling cat, which is a really well known research and journalism organization, did a pretty big investigation after the leak happened outlining how researchers had basically found this original Discord server, talked to members on the on the server. There
+
+8 (7m 46s):
+Was about three other members in the voice chat with me. When I first found out that these were public made public, it felt like my heart was beaten out of its chest and my legs were buckling and I could not believe that this was happening. We didn't realize the sheer, just immense nature of these leaks until a bit later.
+
+4 (8m 9s):
+If you do the sort of digging and searching in an open source way, it's not really that hard to figure out, you know, who was a part of this original server. So I imagine that the government, all they had to do was subpoena discord, get lists of people who were on that original server and then start asking questions. Discord has said that they've been cooperating with law enforcement, with the government investigation. They haven't said, you know, specifically that they received a subpoena, but I imagine once you understand that the server is on discord, that there was one group of people that it's pretty easy to identify who the leaker is.
+
+1 (8m 49s):
+Okay, so there's a big search for the leaker. We don't know all of the details of the search, but then yesterday there's a huge development. Tell me about what happened.
+
+4 (8m 57s):
+So as soon as the New York Times divulged the name of the alleged leaker, it really went very quickly from there. Within I'd say an hour and a half, we see the F B I being photographed in front of this individual's house. We see them doing a search on television. You know, we have drones flying around this kid's house. We see tons of law enforcement activity, the New York Times as they're taking photos and very quickly this individual is arrested and taken into custody. Okay,
+
+1 (9m 32s):
+Who is this guy?
+
+4 (9m 33s):
+So this individual is Jack Tahara. He's 21 years old and he lives in the Taunton, Massachusetts area, sort of the North Dayton Township. He works on a base there. He is a part of the Air National Guard specifically works in an intelligence unit. Within that guard, he works on sort of cybersecurity issues.
+
+9 (9m 57s):
+The 21 year old was in the 102nd intelligence wing of the Massachusetts International Guard. He was working as a cyber transport systems journeyman. In other words, he was responsible for keeping the internet working at all of the air bases, and no doubt we
+
+4 (10m 12s):
+Will learn more. We also know that he comes from a family that has longstanding ties to the specific intelligence wing. His stepfather worked at the airbase for 34 years, retired from the intelligence wing in 2019. His stepbrother, Alex is a current member of that intelligence wing. It seems to me, based off of reporting from, you know, interviews with friends of this individual who, who were also part of the Discord channel, that Jack leaned more conservative, he owned guns, he was described by one of the friends on the Discord server as just being very concerned about world events.
+
+4 (10m 54s):
+The
+
+10 (10m 55s):
+Washington Post says it spoke to a friend of the alleged leaguer, agreeing not to name or show the young man who said this about his friend.
+
+8 (11m 3s):
+He had disagreed with several occasions such as Waco and Ruby Ridge, and thought that the government is overreaching in several aspects
+
+4 (11m 10s):
+And that's why he leaked the documents and wanted to inform his friends about what was going on in the world. You know, I don't know if I really buy that to be honest with you, but that's at least how he's been described by people who know him. But what we also know about Jack and some of the other individuals on this Discord server is that they have been videoed and other messages have been captured that show them speaking very negatively about other races and cultures. Very racist talk on some of these forums. I think some of the videos have have shown him shooting a gun, yelling sort of racist anti-Semitic remarks. So that's sort of the extent to which we understand.
+
+4 (11m 52s):
+Jack at this point,
+
+1 (11m 56s):
+Do we have any idea of a motive of why he did this?
+
+4 (11m 59s):
+I think the motive is still, you know, an open question. His friends on this Discord server has described him as leaking the content to educate and to inform. I'm not sure I really understand Jack's motive yet. It could be that he was trying to impress his friends about the level of access he had in these servers. It could be he really had ideological reasons for doing it. We just don't know a lot about that yet.
+
+1 (12m 39s):
+Erin Banco of Politico more with her after this.
+
+12 (13m 9s):
+Hey, this is Noam. I'm the host of Vox Science podcast, unexplainable for a show all about scientific questions that are still unanswered and everything we can learn by diving into the unknown. One of my favorite things about my job is hearing directly from our audience about why they listen. Here's one email I really love this listener said, I find myself inspired to go study science, learn work hard, and conduct my own research one day. This instills in me dreams for my future of being one of the scientists podcasts like yours call or being someone to discover a long-held mystery. I can't explain how much this means to me, honestly, reading an email like that, I just feel so lucky to be part of a show that makes this kind of impact and has these kind of wonderful listeners that take their time to tell us what this show means to them.
+
+12 (13m 60s):
+And I'm really glad Vox makes unexplainable free and accessible to everyone. Part of what makes this possible is the Vox contributions program. In April, we're aiming to add 1500 contributors to celebrate Vox X's ninth anniversary. You can go to vox.com/give today to help us reach our goal. There's also a link to give in the show notes. Thanks so much for all your support.
+
+13 (14m 31s):
+Al Bruno ran the mob in Springfield, Massachusetts,
+
+14 (14m 34s):
+US growing up battalion and you want to be a criminal. Bruno was the guy that we looked up to
+
+13 (14m 39s):
+Till he was gunned down in 2003.
+
+15 (14m 43s):
+Now Bruno just took about eight to the body at the Italian club on Winthrop Street. I'm like, oh Jesus.
+
+13 (14m 49s):
+Bruno's murder was a mystery, but also an opportunity. It was law enforcement's best shot at taking down the Springfield Mafia once and for all. I'm Ellie honing host of up against the Mob, this Springfield crew. As a federal prosecutor, I took down over 100 mobsters, but nothing was as wild as what went down in Springfield.
+
+16 (15m 15s):
+Call 9 1 1. I've been shot
+
+13 (15m 18s):
+To solve the case we'd have to convince made men to break their code of silence. You can't put your hands on 'em or you get killed. And as the dominoes started to fall, all
+
+17 (15m 28s):
+Of us just looked at each other like this case is blowing up,
+
+13 (15m 31s):
+Up against the mob, the Springfield crew from Cafe and the Vox Media Podcast Network. Following your listening app to hear all seven episodes out now
+
+1 (15m 50s):
+Is today explained. We're back with politicos, Aaron Benko who covers intelligence. Aaron, we talked earlier in the show about how this might have happened, the logistics of it, how it appeared on Discord and then spread. What were the systemic problems that allowed a young guy with some amount of classified access to essentially surprise the United States government by leaking stuff that ended up all over the internet.
+
+4 (16m 15s):
+Right? So what we know about Jack Des Sherra is that he is 21, which isn't all that young, you know, in terms of, you know, individuals who enter the Massachusetts Air National Guard or the military in general, right? What we do know is that individuals who work in this national security apparatus within the federal government have access to all sorts of kinds of intelligence. You know, top secret, highly sensitive, classified documents and intelligence. And this is partly because if you think about what happened in the post nine 11 era, you know what happened procedurally within the federal government after that is that there was a real push to share information across the federal government so that nothing like nine 11 would ever happen again.
+
+4 (17m 6s):
+And so a lot of those policies have been in place now for decades, right? And, and so I think now we see lawmakers begin to question on Capitol Hill and other officials with within the government about whether or not those policies need to be looked at again, whether or not we need everyone to have access to this kind of information. And I think that's a debate we will really begin to see play out in the coming weeks and months. These
+
+1 (17m 32s):
+Documents are about the war in Ukraine and the information in them involves not just the United States and Ukraine, but many, many, many other countries. What has the fallout looked like on a global scale? Who's angry about this? Which countries are saying something about this?
+
+4 (17m 47s):
+You know, it's been really interesting because we have not seen a ton of reaction from within the administration or frankly Congress about the leak itself. You know, we've seen some murmurs from, you know, lawmakers on the intelligence community. We've seen, you know, spokespeople for the Pentagon come to the podium and sort of talk about the leak.
+
+18 (18m 13s):
+I think the American people need to know and deserve to know that we're taking this very, very seriously. There is no excuse,
+
+4 (18m 22s):
+But the administration, you know, when we're just talking about the US now, we've seen the administration really clamp down on having people talk about the leak in general. There's been a real push to get people not to talk about this until the investigation is over and until the administration really understands the extent of it internationally, we've seen countries like South Korea come out, you know, very angry about the leak because one of the documents in the trache shows that President Biden and his National Security Council had reached out to South Korea to consider sending ammunition to Ukraine.
+
+19 (18m 59s):
+South Korea's defense minister has spoken with his US counterpart to reassure each other. Their reliance is as strong as ever, both pointing out. They believe a number of the elite documents are false.
+
+20 (19m 14s):
+Many of the disclosed documents are fabricated and our joint assessments are consistent with each other.
+
+4 (19m 20s):
+We haven't seen a ton of reaction from, from Kyiv, from President Zelensky and his advisors, which has been surprising. A lot of the information in the documents was about Ukraine and about the extent to which the US is spying on Kyiv. You know, on the inner circles within Kyiv,
+
+21 (19m 37s):
+This is being seen as a worrying development for a US spying operation that has been remarkably efficient and remarkably effective throughout the war in Ukraine. So
+
+4 (19m 47s):
+I'd say overall the response has been somewhat muted in a way that I wasn't fully expecting. President Biden himself in his travels to Ireland had said he's not sure that he's all that concerned basically about the leak. But I think as the case begins to play out in public, in court will begin to see more reaction.
+
+1 (20m 9s):
+I was reading about Biden's remarks this morning and his quote was,
+
+22 (20m 13s):
+I'm concerned that it happened, but there's nothing contemporaneous that I'm aware of that is of great councilman.
+
+1 (20m 20s):
+The president of the United States is saying, this is not a big deal. That feels surprising to me.
+
+4 (20m 24s):
+It's surprising to me too, and I can't tell if that's because the information that was within the documents is so widespread within the government. You know, that thousands of people have access to that information that he thinks just everyone knows about what was in the documents or if he really thinks that the information that was contained within it is not sensitive and that there's perhaps other information out there that he thinks is, you know, would be even more damaging if it were to come out. It's hard to sort of parse what he meant there. I know national security officials within the administration are, are really upset and concerned that this link happened.
+
+4 (21m 3s):
+They think it exposes sources and methods. It exposes how we use different intelligence mechanisms to gather intelligence and information that it puts people in harm's way. But maybe from an informational standpoint, the president doesn't think that the information is all that damaging. It's hard to parse his words on that. How
+
+1 (21m 22s):
+Does this compare to past high profile, high level leaks of, of secretive government documents?
+
+4 (21m 28s):
+So this leak has been, you know, sort of immediately compared to the WikiLeaks tranche of documents that came out between 2006 and about 2020 where Julian Assange and other people who worked at WikiLeaks were publishing, you know, millions of documents. Some of them very secret, very sensitive about all sorts of, you know, global events. The
+
+23 (21m 52s):
+Whistleblower faces up to 175 years in a US prison if he is finally extradited and eventually convicted of leaking American military secrets.
+
+4 (22m 2s):
+Now the leak we're talking about here is much smaller in scale. I think we're talking maybe hundreds of documents. But what's different about this leak is that the documents that are being leaked are documents that deal with real time national security issues and events. You know, the war in Ukraine is still ongoing. What's being leaked is very sensitive because we're talking about conversations that that happened, you know, between world leaders just like last month. And so in a way these documents are, are more piercing and more damaging because they deal with real-time events, which can really affect things on the ground.
+
+4 (22m 43s):
+Perhaps for example, in Ukraine, you know, we saw the leak with reality winner where she leaked, you know, documents that had to do with the 2016 election.
+
+24 (22m 54s):
+She was hit with the longest sentence ever imposed on a civilian for leaking classified information to the media.
+
+4 (23m 1s):
+But again, those were only just a few documents they went through the media. So again, what's different about this leak is that it didn't go through media sources. You know, we're not necessarily dealing with an individual who had a certain ideological belief where they wanted to package the material in a way that was, you know, or framed in a certain way that was then passed on through the media and would get disseminated that way. I mean, these documents were just dumped on discord to a very small group of people. So it's curious in a way,
+
+1 (23m 35s):
+What are the immediate consequences Now, is there some office in Washington DC where everyone is on lockdown? Are people's passwords being changed and, and they're being kicked off of servers? Like what do you think is happening today behind closed doors at the Pentagon, for example?
+
+4 (23m 47s):
+So I know the Pentagon has begun to talk about ways to perhaps change their policies about who gets access to certain kinds of material, how it gets disseminated, but we have not seen any sort of immediate lockdown or change in policy take place yet. I think the discussions are still underway.
+
+25 (24m 14s):
+We continue to review a variety of factors as it relates to safeguarding classified materials. This includes examining and updating distribution lists, assessing how and where intelligence products are shared in a variety of other steps.
+
+1 (24m 33s):
+And so should the American public assume, I don't mean to be cynical or even sinister, but should the American public assume that classified documents are just not that secure?
+
+4 (24m 42s):
+I think it's fair to assume that a lot of classified information is perhaps in the hands of individuals who could potentially leak it, right? But that is the risk we've always taken with having classified information and security clearances. And again, in that post nine 11 era, we really expanded the, the range of people that had access to this information. You'll hear officials say, we have very strict security clearance protocols and things like that. But again, I think that security clearance process is, is going to need to be reviewed and I think it will be reviewed. We've already seen lawmakers and officials begin to talk about that.
+
+1 (25m 41s):
+That was Erin Benko. She covers intelligence at Politico. Today's show is produced by Halima Shaw and Aha Artsy. It was edited by Matthew Collette, in fact, checked by Laura Bullard and Victoria Chamberlain. It was engineered by Paul Robert Mosey and Patrick Boyd. I'm Noelle King. It's today explained.

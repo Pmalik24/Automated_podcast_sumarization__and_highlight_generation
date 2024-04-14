@@ -1,0 +1,176 @@
+1 (4s):
+The dog arm of a San Francisco based biotech firm called Cellular Longevity says it's developed a new medication that'll help large breed dogs live longer. Loyal. That's the name of the dog arm. Partnered with the pharma company CNEs to develop the medication, which should be on the market very soon. If your first reaction is, that's fantastic. Followed by, sorry, dog arm kinetics. You're in good company. Scientists may be googly-eyed over this new medication, but animal ethicists are on edge.
+
+2 (36s):
+Well, I'm, I'm not saying I necessarily think it's wrong. I mean you asked me if I would do it.
+
+1 (42s):
+Yes, you are right. You're an ethicist and and it's good for you to draw that distinction. Yeah. Coming up on today, explained Long live your dog.
+
+Microsoft (1m 1s):
+Nearly 24,000 kids had their identity stolen in 2022. In the age of social media and phishing schemes, it's more important than ever to protect your family's personal data. Microsoft Defender helps keep your personal information safer online with identity theft monitoring for the whole family, giving you real-time alerts, expert guidance, and even hands-on restoration support. When you need help, you get personal data plus device protection all in one easy to use app. Maximize your protection with Microsoft Defender. Available with a Microsoft 3 6, 5 personal or family subscription. It's today explained.
+
+1 (1m 48s):
+M no Will King. Emily Mullin is a staff writer at Wired Magazine. She covers biotechnology and she's a dog person.
+
+5 (1m 56s):
+I do not have a dog, but my parents do. He is a very sweet English cream golden retriever who's sort of lazy and does his own thing, but he's, we love him. I
+
+1 (2m 10s):
+Have a lot of adjectives to describe my pug, and Sweet is not one of them, but I love him so much. Emily recently wrote for Wired about a company called Loyal, which made some very big news.
+
+5 (2m 22s):
+This San Francisco biotech company has just cleared a key FDA hurdle on the path to getting a drug approved to extend the lifespan of dogs. So they haven't gotten approval yet. There are still a couple more steps in that process, but this is sort of the first major step based on initial data the company has submitted to the FDA. The agency has basically said, this drug has a reasonable expectation of success, and that's kind of a big deal for the FDA to do because it has never approved a drug for life extension for longevity for animals or humans.
+
+5 (3m 7s):
+So this is kind of a sign that the FDA is ready to take this idea seriously.
+
+1 (3m 13s):
+How far back I mean? Listen, I, I think a lot about medicines for humans and the advances that have been made since kind of time immemorial. Right? How long have scientists been studying life lengthening drugs for dogs?
+
+5 (3m 29s):
+Well, scientists have been interested in this general idea of life extension for a long time. In the 1980s and nineties, they identified the first genes that modulate lifespan, and they did this in worms first. And since then, there have been studies in different lab animals, rodents, fruit flies, more worms. And scientists have shown that certain genes seem to be key regulators of lifespan in these animals.
+
+6 (4m 5s):
+The genes that control dog size and specifically make big dogs live a shorter life is all connected to one of the most well understood in OG longevity pathways. There is because the first time they showed was a single gene mutation and they could make a warm live longer. They made that warm genetically Like a chihuahua
+
+5 (4m 25s):
+So loyal with this drug is specifically trying to lengthen the lifespan of large and giant breed dogs. And there's this, well-known inverse relationship between dog size and how long they live. So you probably know that great Danes, Irish wolf hounds, Bernie's mountain dogs. These dogs only live 6, 7, 8 years, and yet the smallest of the dogs that humans have read Chihuahuas, for example, can live up to 20 years. And so there's this inverse relationship here, and scientists have pinpointed one potential driver, a hormone called IGF one that seems to be present in high levels in these large dogs and in low levels in small dogs.
+
+5 (5m 24s):
+And of course, humans have been breeding dogs for hundreds of years for certain characteristics. And that has resulted in this big disparity in dog size that we don't really see in many other mammals. I mean purebreds are very inbred and In fact, several studies have shown that mixed breed dogs on average live longer than purebred dogs.
+
+6 (5m 53s):
+Basically when people were breeding for size, our thesis is that they, they accidentally gave dogs an accelerated aging disease, basically to things that control the dog growing really quickly in puberty. Wow. Don't fully turn off then the dog ages at a faster rate. Right. And dies sooner. Okay.
+
+1 (6m 10s):
+So big dogs have higher levels of a hormone called IGF one, and they die more quickly than smaller dogs. What does IGF one do and is it fair to say it's killing large dogs more quickly?
+
+5 (6m 26s):
+Well, one explanation for why large dogs have shorter lives than small dogs is that maybe they're aging at a faster rate. IGF one has been linked to growth and bone size, and it plays a role in metabolism. So what Loyola is trying to do is reduce the levels of this hormone throughout the body of these large dogs. And they say that in initial studies of a little over a hundred dogs, that they have been able to bring this level down to what is seen in medium sized dogs.
+
+5 (7m 8s):
+So we're not talking about getting rid of this hormone completely or bringing it down to levels in small dogs, but loyal says that at least in the initial studies it's done, that it can actually do this in large dogs and bring this hormone to levels seen in medium sized dogs.
+
+1 (7m 30s):
+Would it affect their bone growth and their metabolism?
+
+5 (7m 34s):
+So with this drug, Loyola aims to treat dogs that are at least seven years old. Oh, the company hasn't really said how this drug is going to affect dogs' health at that age. We don't really know exactly the mechanisms behind how it's working. And the company has kept some of that information close. So we don't exactly know yet. And right now, the company is planning a bigger trial of around a thousand dogs that's going to start either next year or in 2025 to do this bigger efficacy study.
+
+5 (8m 17s):
+What's gonna happen is they'll have a placebo group and an experimental group, and of course some dogs won't receive the drug. We'll receive a placebo. Some dogs will, they're enrolling people's pets in this trial. So If, you have a large or giant breed dog out there, you know, you might be able to get your dog enrolled in this trial.
+
+1 (8m 39s):
+God, I wish I could get my pug enrolled in this trial. I want, I want 'em to live forever. How do dogs, how do dogs receive this treatment? I mean, is this something where you have to take them to a hospital to get it done? Or is this as simple as you know, it's a pill you grind up over their food?
+
+5 (8m 54s):
+So for now, this drug is an injection designed to be given in a veterinarian's office every three to six months. Hmm. For the company to get conditional approval of this drug from the FDA. The company has already shown that there's a reasonable expectation of effectiveness, but it still has to conduct this larger study. It also has to show the FDA that this drug is safe for dogs and it has to show that the drug can be manufactured safely and reliably. Once it does that, the company can then ask the FDA to conditionally approve this drug.
+
+5 (9m 37s):
+And a conditional approval is essentially a temporary approval, which is going to allow loyal to market the drug for up to five years. And at that point, at that five years, the conditional approval is going to expire. So Loyola is going to have to show in this large trial of around a thousand dogs that it does work or else it has to take the drug off the market. But if it does have this great data showing it, does In fact extend the life of these large dogs, then the drug will be fully approved by the FDA.
+
+1 (10m 16s):
+Are there any side effects of this medication?
+
+5 (10m 19s):
+Well, we don't really know yet, because Loyola has said it has tested this drug so far in about 130 research dogs. But at least in the initial test of this drug, they didn't see any major cause for concern. A couple of dogs had runny stools for a couple of days after treatment, but nothing serious. But again, that's what this bigger trial is for.
+
+1 (10m 48s):
+You know, I have a question sort of on behalf of the skeptics about the investment in this versus the investment in things that are useful for human beings. Right. So I, I imagine there are people out there who would say there are bigger scientific questions. We still haven't figured out cancer. Guys, why are we, why are we putting time and money into this? When loyal and companies that work on this are asked those questions, what do they say? Is it just about, well, you know, pets are people too.
+
+5 (11m 20s):
+Well, I think Loyals goal, and I think a big goal of the life extension field is to bring a drug to humans is the ultimate goal, right? To figure out how we can extend not just people's lifespan, but the number of healthy years that they have. Humans have IGF one as well and too much of IGF one in people also leads to health problems. So I think there's definitely potential here for maybe an application to humans if it does work in these dogs.
+
+1 (12m 5s):
+Emily Mullen, she's a staff writer at Wired, where she wrote a life extension drug for big dogs is getting closer to reality. You can find it on wired dot com coming up. So it sounds like good news for pet owners, but is it ethical? We're gonna call an ethicist an animal ethicist. It's a real thing.
+
+Microsoft (12m 35s):
+Fox Creative, This is advertiser content from Microsoft 3 6 5. In the first six months of 2023, more than 200,000 cases of identity theft were reported. Credit card fraud, bank fraud, the ominous category of other. There are a lot of categories that fraud can fall into, and there are ever evolving strategies that thieves use to take advantage of unsuspecting people, even if the odds are relatively low, the stakes are high and there are simple ways to protect against all kinds of identity theft. Never repeat passwords, never click on a link sent from an unknown contact. And use tools like Microsoft Defender. Microsoft Defender helps keep your personal information safer online with continuous monitoring of threats to your identity and credit. Get timely alerts, monthly credit reports, expert guidance, and even hands-on restoration support. When you need help, all in one easy to use security dashboard, maximize your protection with Microsoft Defender available with a Microsoft 3, 6 5 personal or family subscription.
+
+10 (13m 47s):
+Where am I? This is the great hall of judgment. Judgment. Oh, not to worry, Charlie, you go to heaven, all dogs go to heaven. Because unlike people, dogs are naturally good and loyal and kind. Huh? That's true.
+
+1 (14m 3s):
+Today explained, we're back with Rebecca Walker. She's a professor of social medicine and philosophy at UNC Chapel Hill. She focuses on animal research and ethics and that includes our relationship with what she calls companion animals.
+
+2 (14m 18s):
+I think the word companion animal can be confusing for people. So I just mean by that pets, I think people are really too focused on their own interests in their relationship with the animal and not thinking enough about what life is like from their point of view.
+
+1 (14m 42s):
+For instance, professor Rebecca,
+
+2 (14m 45s):
+Well I mean, i, I don't know if I should say this, but I think giving your pet drugs to extend their life by a little bit, just so you can spend a little bit more time with 'em, would be a prime example of that kind of problematic attitude. Because I, I think it's probably not in the best interest of the animal.
+
+1 (15m 6s):
+Rebecca has a cat, a few chickens, a golden retriever named Pepper. So I asked her would she give this loyal drug to pepper?
+
+2 (15m 14s):
+No, certainly not this drug at this time, but generally I think probably not. Medications all have risks and side effects. She's a perfectly healthy dog. She's not in a position to communicate with me how she's feeling about any drugs that I might be giving her other than, you know, her behavior or her sort of, you know, medical signs that aren't necessarily gonna track, you know, how she's actually feeling. So, you know, why would I give her a drug that could harm her and it best expand her life for a few months? I think that might be in my interest, but I doubt it's in her interest.
+
+1 (15m 54s):
+Let's dig into that a little bit more. That last thing you said about it's in my interest, but not necessarily in her interest. So among the distinctions that I want you to kind of just spin out a little bit are, if a dog is sick, we give them medication. What's the difference between a dog is sick and so we give him or her medication and a dog eventually is gonna die and now there's this, this drug that can make 'em live longer.
+
+2 (16m 18s):
+So the the things I would be concerned about is amongst them, I think when we're behaving for the sake of other people and we're, we're doing actions that are primarily with respect to thinking about their interests, it's important that we don't confuse what we want with what they really have an interest in. And so I think for, you know, a human being who maybe they have a big project that they're working on or something that they've been sort of trying to get finished their whole life and you know, they just need a couple more months of life to, to get it done.
+
+2 (16m 58s):
+Maybe for them this would make sense because it would give meaning to their life as a whole. But dog lives aren't like that. They're sort of really driven by their day-to-day welfare and not by those kind of big projects. So I think you need to think about the dog life from her point of view and what's good for her and is it worth the risk of having some unpleasant experiences or unpleasant reactions just to sort of add a, a little bit more life from her point of view. I think for us, because they live a lot less than we live, we think of their short lives as, as you know, tragically short.
+
+2 (17m 40s):
+But from her point of view, things are are quite different. So I think if she was experiencing an illness or suffering from a disease or disability, that would be a really different situation because then it would be in her interest to give her a medication. Even in that case, it often happens that people may treat animals or extend their lives beyond what is actually in their interest because they just can't let them go.
+
+1 (18m 9s):
+Alright, so we have this company make this announcement. And so we understand that people who own or guard or or live with large dogs will soon be able to make this decision for themselves. From an ethical standpoint, what should people consider before they think about giving a a medication like this to their pets?
+
+2 (18m 30s):
+So I think there are a few different things. One, I think this issue about whether an animal is a healthy animal or a sick animal is really important. And so you really need to do a risk benefit sort of analysis on their behalf, which again, I think is really difficult for us to do because our interests are all kind of caught up in wanting them to live longer and thinking about sort of the benefit they provide to us by being part of our lives. So I think it's really important to, for people to, as much as they can, to remove themselves from that equation and try to think about things from the point of view of the animal.
+
+2 (19m 15s):
+But also in that regard, I think one thing for people to be aware of upfront is that when this drug hits the market, if it does so under this FDA conditional approval, it won't actually have been proven effective to extend an animal's healthy lifespan. And the sort of rhetoric around it sounds really positive and people are oly hopeful that it will be effective.
+
+11 (19m 42s):
+Scientists could be on the brink of a big breakthrough when it comes to helping four-legged friends live longer, giving
+
+2 (19m 47s):
+You possibly
+
+1 (19m 48s):
+An
+
+2 (19m 48s):
+Extra year of cuddles, fetch and sloppy kisses. but it does mean that veterinarians can be prescribing it and owners can be thinking they're doing something that's gonna help their pet live longer, but it's not actually necessarily the case. So whether it actually works will depend on getting the full results of the clinical trials that are still gonna be ongoing at the point that it's approved.
+
+1 (20m 15s):
+We heard in the first half of the show that this type of drug could someday be available to humans. Now you've drawn this distinction, which is my dog, as much as I love him, is never gonna retire and start learning another language and travel and develop hobbies. Gies is always just gonna have walks and treats and that's about it. But human life can be really fulfilling past a certain point. Do you think that life extending drugs for humans are something that is ethically interesting? Tricky, dubious?
+
+2 (20m 47s):
+I'm not worried about it just because it's life expanding. I mean typically in bioethics we make a distinction between medical interventions that treat or prevent disease or disability and those that enhance us in some way. And I think that the way that the people who are promoting this drug have been talking about it, they've been talking about it as a kind of a prevention in particular, it's preventing death.
+
+6 (21m 19s):
+One of the cool things, at least how we're trying to approach it, is that we're looking at preventative medicine and specifically like one me way to think about it is statins, you know, a, a large portion of the adult US population is on statins to reduce their risk of future cardiac events. That's what I think an aging drug should be,
+
+2 (21m 37s):
+But it's pretty clear that it falls into the enhancement category in terms of that distinction. So we're trying to add more life to a normal lifespan and I'm, I'm not that worried about that because our, what's normal in terms of our lifespan has, you know, changed dramatically over the centuries in, in result to environmental shifts and you know, even just plain old sanitation. So I guess what I'm more concerned about is lifespan is already really closely associated with wealth. Yeah. And these drugs might be expensive and might give better off people even more access to longer life.
+
+2 (22m 19s):
+So there's a certain fairness issue and access issue that I think would be really important to consider. I also think that, you know, we we're sort of always looking for a kind of fountain of youth or way to expand and extend our lives instead of recognizing the reality that we are all going to die and the importance of doing the best we can with what we have. And I just sort of feel like this is kind of one more way of adding to that problematic perspective.
+
+1 (22m 53s):
+It sounds like your point of view is that we should think maybe a bit less about extending the lives of our pets and think more about improving the quality of the lives of our pets. How should we do that other than the obvious?
+
+2 (23m 7s):
+Yeah. Well I think one important thing we can think about is how animals are bred for human interests. And I, I was saying before I'm more concerned with how we're already relating to animals. So just for example, take my golden retriever, right, there's some evidence that their lifespans have been going down as they've been bred more intensively to have particular kinds of looks. you know, we should, we should think first about how we're creating animal breeds and lines in ways that already diminish their lifespan before we think about taking the lifespan that we've already shortened and, and lengthening it by adding a drug into the mix.
+
+2 (23m 48s):
+So I think that that's kind of more what I'd be interested in in us looking at.
+
+1 (24m 3s):
+Today's show was produced by Amanda Lewellyn. She has a little brother Dog's name is Opie. It was edited by Matthew Collette Zos dad. It was fact checked by Laura Bullard mom of Murph and Muzzy, and it was engineered by David Herman, who is a cat person, whatever that means, hay, Robocop, and smalls. This is today explained and it's the second time this year. We've put our pet's names in the credits. One more thing before we go. We're working on an episode about millennials dreading motherhood. Are you a millennial? I know that a lot of you are If. you were born between 1981 ish and 1996 ish and you're feeling some type of way about becoming a parent. Please give us a call and tell us about why that is. Our number is 2 0 2 6 4 3 0 3 1 4.
+
+1 (24m 47s):
+Keep your message brief please, and we might use it in the show. Heads up. 2 0 2 6 4 3 0 3 1 4. Thanks for doing this.
+
+3 (25m 15s):
+Nearly 24,000 kids had their identity stolen in 2022. In the age of social media and phishing schemes. It's more important than ever to protect your family's personal data. Microsoft Defender helps keep your personal information safer online with identity theft monitoring for the whole family, giving you real-time alerts, expert guidance, and even hands-on restoration support. When you need help, you get personal data plus device protection all in one easy to use app. Maximize your protection with Microsoft Defender. Available with a Microsoft 3 6 5 personal or family subscription.

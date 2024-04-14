@@ -1,0 +1,251 @@
+0 (0s):
+Support from the shelter. And it comes from science diction. It's a new show from science Friday and WIC studios. In each episode of host Johana Mayer picks one word and tells a story and the science behind it, like the word meme originally, it had nothing to do with the internet. It was coined in the 1970s by a famous and controversial evolutionary biologist. If you like your etymology with the side of science checkout signs, diction available, you'll never believe it. Wherever you listen to your podcasts,
+
+1 (47s):
+No provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.
+
+0 (58s):
+So it was 26 words you just heard are known as Section to 30. It's the law that laid the foundation for the internet. As we know it today, it made big tech behemoths like Google and Facebook possible.
+
+2 (1m 10s):
+And it's not just big tech. I mean, it's any platform that hosts user content. So it goes anywhere from Facebook and YouTube, all the way down to the community news site that I read every day in Arlington Virginia, that has a pretty lively user comment. Section
+
+0 (1m 28s):
+Law professor, Jeff Casa.
+
+2 (1m 31s):
+But when I read some of the comments, I think, wow, they're pretty lucky that section two 30 exists because they really get into it. And so all of that open discussion would be much more closed if we didn't have a section two 30
+
+0 (1m 48s):
+For the uninitiated section two 30, essentially protects platforms from being responsible for everything users say, it sounds sort of small, but it's enormous. Take Yelp
+
+2 (1m 60s):
+Without Section to 30. If Yelp were to receive a complaint about a user review, their choice would either be to take it down, or they would have to possibly defend it in court as though they were the author. And now I'm not going to speak for Yelp, but if I were their legal counsel in a world without Section to 30, I would tell them immediately take down any review when you get a complaint, because you're no position to investigate. Whether that car mechanic has ripped off a consumer. So the internet would look very different. It would be much more of a one-way communication street than the sort of the multilateral experience that we have now.
+
+0 (2m 45s):
+So basically whenever we write our opinion about anything on some platform on the internet we're doing so by the grace of section two 30, that's exactly right. Section two 30 has been getting a lot of attention lately from politicians who'd like to reign big tech, which Jeff Casa did not see coming. When he wrote a book about it just a few years ago.
+
+2 (3m 5s):
+Not at all. I started writing this book in 2016 because I had an academic interest in section two 30 and more than one university press of all places told me that there was not sufficient interest in something called section two 30 to publish a book about it. So it clearly things have changed in the past few years,
+
+0 (3m 28s):
+Two 30 turns 25 this week. So on the show today, we're going to explore the ways politicians would like to change this founding pillar of the internet and how that could change just about everything we do online. But before we do, we're going to talk about Section to thirties origin story.
+
+2 (3m 45s):
+So to understand Section to 30, you really have to go back before the internet
+
+3 (3m 54s):
+Flood tide of the bill is engulfing are country. And the bottom of News Stan of the Senate that is threatening to burn an entire generation of our American children.
+
+2 (4m 8s):
+In the 1950s, we had a very different and much more expansive view of what constituted, obscenity, which could be criminally prohibited. So you had a bunch of local laws that sought to criminalize the sale of obscene materials,
+
+3 (4m 25s):
+Objectionable material to the police. The law is yours,
+
+2 (4m 30s):
+No weapon. There was a 72 year old man named Eliezer Smith who ran a bookstore kind of bad part of Los Angeles. And he gets a Visit from an LAPD vice officer who determines that a book that he's selling in his store is criminally obscene. And Ellie is our Smith. He's an immigrant from Poland. And he says, you know, I don't read all the books I sell. I sell thousands of books,
+
+3 (4m 57s):
+Laser Smith kind of versus the people of the state.
+
+2 (5m 1s):
+And his case goes all the way up to the Supreme court. And the Supreme court strikes down the law and they say that you cannot hold the distributor of someone else's speech liable, absent, any knowledge or other sort of culpable mental state 'cause that would chill too much speech.
+
+3 (5m 23s):
+No problem you have when you feel it with an innocent proprietor, the bookshop is this. If you're going to ask, if you say to him, regardless of all of the reasonable precautions you take, nevertheless, you will be guilty. The inevitable tendency is to stop the flow.
+
+2 (5m 40s):
+So even though obscene material is not protected by the first amendment, by imposing liability, with no knowledge whatsoever, that will actually chill other legal speech. So we have that rule and it works pretty well over the next few decades for bookstores, for newsstands, those sorts of distributors. But then we get to the early 1990s and we have a very new type of distributor,
+
+3 (6m 8s):
+Pretty fancy computer there. We want to give it to test drive me. Those
+
+2 (6m 12s):
+Distributors are online services, prodigy, prodigy, prodigy, and CompuServe for the two of them,
+
+3 (6m 19s):
+CompuServe combines the power of your computer with the convenience of your telephone, to bring you hundreds of online services, like a complete set of encyclopedias.
+
+2 (6m 29s):
+When I tell students about this now they'd kind of give me a blank look like, what are you talking about? But at the time, if you wanted to access information on your computer, you could either use local bulletin boards, or you could go to these national services. CompuServe and prodigy had fairly different practices. CompuServe was kind of like the wild West. They did very little moderation or curation of content. The third party is provided on their services. Prodigy on the other hand, wanted to be family-friendly. So they had a much more detailed content policies and they contracted out moderation because they wanted parents to feel comfortable letting their kids look up information on an online encyclopedia or participate in a check group.
+
+3 (7m 23s):
+Kids love it. One of the big reasons we got prodigy,
+
+2 (7m 28s):
+Not surprisingly, both CompuServe and prodigy get sued for content. The third party is posts. They both get sued for defamation CompuServe manages to get the case dismissed because of what the judge does is he looks at CompuServe and he says, the CompuServe is basically like an electronic news stand. And there was no evidence to the CompuServe knew of the particular defamatory material. So just like Elliot is, or Smith. CompuServe is not liable prodigy. On the other hand, they get sued. And the judge says, I'm not going to immediately dismiss this case because prodigy is more like a newspaper than a news stand.
+
+2 (8m 12s):
+Prodigy has taken effort to moderate user content. So that means the prodigy becomes responsible for everything on its service, regardless of whether it knew about it. Yeah. So this created a very different standard depending on whether you actually moderated. Correct.
+
+0 (8m 35s):
+So it's a company sort of paradoxically that is moderating it's site that gets punished while another, that isn't moderating anything is let off the hook. Do I have it?
+
+2 (8m 48s):
+Is that right? That's exactly right. So that that's exactly what section two 30 was intended to fix. Who was it that ultimately steps up to figure this out? So this isn't just bouncing around in the courts all the time. Chris Cox, a Republican from orange County who later became the sec chairman under president Bush.
+
+4 (9m 8s):
+Oh, at the time that we passed our bill and there were court cases that perversely made internet providers liable. If they tried to exercise editorial discretion, keep a smut off of the internet and so on.
+
+2 (9m 20s):
+And Ron Wyden, who at the time was a us representative from Oregon. Who's now a Senator who was a Democrat.
+
+4 (9m 27s):
+Chris and I happen to think that there is the energy and the talent in the private sector, in the markets, which understand how much parents want these innovative blocking technologies now. Yeah.
+
+2 (9m 39s):
+And politically, they have very different profiles. I've lived in Portland. And I can say that it has a very different place from orange County, California, but they both were younger. And they had districts that relied pretty heavily on the tech industry. So they saw this as a way to really help promote growth in this new engine.
+
+4 (10m 2s):
+This is an industry information. It's only beginning if the government takes the view that it can control it, define it and regulate it while it's still an embryonic form and it's bound to fail.
+
+2 (10m 13s):
+No, they come up with tell me what these 26 Words are. So Section to 30, has a bunch of different provisions and definitions, but the main provision, what I call it, the 26th Words that created the internet, say no provider or user of an interactive computer service shall be treated as the publisher or a speaker of any information provided by another information content provider. So what in essence, that means you can Sue the person who posted the bad stuff about you. If it's defamatory, for example, but unless an exception applies and there are a few different exceptions, Aww, you can't Sue to the platform where it was posted. And there were two reasons.
+
+2 (10m 53s):
+First it was to fix this disincentive to moderation. And the second goal was to say, we recognize this is a nascent industry and it has a lot of potential and we don't want to burden it down with regulation and litigation at the outset. So we're going to take a hands-off approach. And basically the market will do its thing. And if a platform is doing too much moderation, people might not like that very much. But if it's doing too little moderation, people also might not like that. So very much is saying, you know, lets let the consumer demand dictate what platforms do. And does it make any sort of splash when it's introduced, when it's passed into law, section two 30, it didn't really get attention until more than a year later when I'm, there was a case where AOL, you got mail, they were sued for user content.
+
+2 (11m 48s):
+And this was the first time that any company been able to rely on section two 30 as a defense and the clerk interpreted section two 30 and an incredibly broad manner. And that's when people started to realize, wow, Section two 30 is something that these online services and websites can really rely on to get rid of lawsuits. All right. I think a lot of the big platforms now, I mean they all started out as small companies and I think that they could not have emerged with their current business models in a world without Section to 30.
+
+2 (12m 33s):
+Once they've gotten to the size and the wealth and the power that they have, they would be able to survive now without Section to 30, I think they have to change their operations pretty radically, but a small social media company that starts out being founded by a college student. That's something where if they were liable for every bit of content that their users posted, that would be very hard to get off the ground. It would be hard to attract venture capital funding in that circumstance. So the same is true for any startups. Now that rely on user content and want to become the next Facebook or Twitter Section to 30 is pretty crucial for them.
+
+5 (13m 15s):
+<inaudible>
+
+0 (13m 21s):
+Jeff. Casa is a professor at the us Naval Academy and the author of a book titled the 26 words that created the internet after the break. Section two 30, maybe one of the few things that the former president and say, Elizabeth Warren can agree on. At least kind of I'm Sean Ramez from its Today Explained Support from the show today comes from caviar. I don't know about you, but I'm personally approaching the one year anniversary of making this show from a closet and working from home and cooking way more, which is great.
+
+0 (14m 10s):
+But also it turns out some of my favorite local restaurants cook better than I do. I hate to admit it, but it's just a fact and caviar wants to help you connect with those great local restaurants. They've got all sorts of food. You can see for yourself on the caviar app. You can stay safe and healthy inside and get the tasty food you actually want. And right now KVR is giving Today Explained listeners 20% off their first order. You just enter the promo code today at checkout on that caviar app. Remember that's 20% off your first order with the promo code, Explained download that caviar app.
+
+0 (14m 50s):
+And this is the offer code Today for 20% off some
+
+5 (14m 53s):
+Food food.
+
+0 (15m 2s):
+The port for the show today comes from better help. I won't waste your time with another sort of review or summation of how complicated the past year has been for people. Let's just say though, it's worth noting that just because we've been at it for a year, it that doesn't necessarily make it any easier to deal with a global pandemic or staying at home or wearing a mask everywhere you go, or avoiding people or being mad at people who aren't wearing a mask or being mad at people who are wearing masks. That happened to me this week and someone yelled at me for wearing a mask. Anyway, the point of the story is people at better health, our standing by to talk, or if you need someone who you can call them up. So you can do online therapy with video, you can do live chat options.
+
+0 (15m 46s):
+It's much more affordable than in-person therapy and you can get started with the therapist match to your unique needs. In under 48 hours to podcast is sponsored by better health and Today Explained listeners get 10% off their first month@betterhelp.com slash Explained. That is better. H E L p.com/
+
+5 (16m 4s):
+Explained
+
+0 (16m 12s):
+Addie Robinson. You're a senior reporter at the verge. We just talked to Jeff about the sorta long history of section two 30, but we didn't get into the more contemporary political infighting over this issue. When does it first become a political target?
+
+1 (16m 26s):
+Section two 30 in a broad sense. It doesn't see a lot of legislative action for many, many years. And then in 2017 and 2018, there is this push to change it. To address sex trafficking has been a huge development of the attempt to regulate tech companies Today, but it has nothing to do with Facebook. So this is to foster. It took away the safe Harbor protection from any online speech that enables prostitution, including voluntary sex work. Police recorded a 170% jump in reports of human trafficking in San Francisco last year. But we're learning that that huge spike appears to be connected to the federal shutdown of sex for sale websites.
+
+1 (17m 8s):
+The goal of this law was to curb human trafficking, but it seems to be having the opposite effect foster assessed to becomes sort of the first time that this bill gets seriously debated in Congress for a while. But at that point it's relatively by partisan. This is seen as an issue that most people on both sides of the aisle support. However, around that time, there's also a backlash building against social media, and that starts bleeding into the fight about section two 30 in ways the turnout to be really partisan. So one of the earliest examples is that Mark Zuckerberg shows up in the spring of 2018 to talk to Congress and Senator Ted Cruz says, well, under section two 30, you have to be a neutral public forum.
+
+0 (17m 52s):
+The predicate for, for Section to 30 immunity under the CBA CDA is that you are a neutral public forum. Do you consider yourself a neutral public forum? Are you engaged in political speech, which is your right under the first amend.
+
+1 (18m 4s):
+This is not actually how the law works, but it starts setting into motion. This weird kind of contradictory messaging that is mostly on the Republican side that says Section two 30 is simultaneously something that tech companies are violating by not being quote unquote neutral and something that's allowing tech companies to not be neutral. And that's why we need to reform the law.
+
+0 (18m 27s):
+Hmm. So how does it go when Mark Zuckerberg testified before Congress?
+
+1 (18m 32s):
+So obviously Mark Zuckerberg is going to say we're a neutral place.
+
+0 (18m 35s):
+I'm very committed to making sure that Facebook is a platform for all ideas. That is a very important founding principle of, of what we do. And that is something that is, as long as I'm running the company, I'm going to be committed to making sure that the case,
+
+1 (18m 48s):
+Right. And from there, nothing really happens for a while. But then over the next couple of years, the more that tech companies end up on the opposite side of fights with mostly president Donald Trump, the more Section two 30 becomes this sort of boogeyman for anybody who is upset about the idea that social media is sensory conservatives
+
+0 (19m 12s):
+And the foreign president plays a huge role in and sort of mainstreaming Section two 30. Right?
+
+1 (19m 19s):
+Right. So from the beginning, Trump who was a huge social media user hates social media companies because he thinks that they rig their results to make him lose followers or that they don't put positive things about him in Google.
+
+6 (19m 33s):
+Well, yeah, I think Google is a really taken advantage of a lot of people. And I think that's a very serious thing and it's a very serious charge. I think what Google and what others are doing. If you look at what's going on at Twitter, if you look at what's going on and Facebook, they better be careful because you're, you can't do that to be.
+
+1 (19m 52s):
+And so he looks for ways to attack them. And this brings him to the idea that he should be able to regulate social media and make it not biased against him. By changing section two 30, this kind of percolates in the background for a while. And then in early 20, 20 Twitter starts fact-checking when the looting starts, the shooting stars, the Words of the precedent. You can see it at the top of that. Twitter took note a short time ago. It flagged that tweet saying this, this tweet violated the Twitter rules about glorifying violence. However, is very, very bad for him apparently because he signed an executive order that is designed to eliminate bias on social media, by making the federal government basically redefine section two 30, or they have a shield, they
+
+6 (20m 48s):
+Can do what they want. They have a shield that I got it
+
+1 (20m 51s):
+And it makes Section to 30, just this big target for the rest of the year.
+
+0 (20m 55s):
+And this is like, as a lot of Americans are focusing on say a global pandemic or a frightening election situation, what is going on like underneath the surface with politicians, the former president and section two 30
+
+1 (21m 12s):
+And all of the big things that you're talking about, play out over social media. And so every time one of those things ends up putting Trump in a fight with mostly Twitter or Facebook Section to 30 gets sort of dinged for being somehow related to that. So by about a month before the election, Trump has just sending out all caps, tweets the say repeal section two 30,
+
+6 (21m 34s):
+Giving a lot to them. Section to 30. We've given them that power. And you know, that can be taken away. It could be take it away
+
+1 (21m 46s):
+Because he believes that if Twitter takes down his tweet about when the looting starts to the shooting starts, which it didn't, but it kind of restricted it. Then he points to this executive order or a bunch of legislative stuff and says, look, we need to take action on this.
+
+0 (22m 3s):
+And this doesn't end after the election, right
+
+1 (22m 5s):
+After the election, it only gets worse because Congress puts up this defense bill, the NDA, and Trump says, okay, well, this thing has to include a repeal of section two 30. And so he vetoes it. And then Congress has to override the veto for this massive bill because Trump decided that he wants to stop Twitter from being biased against him, by changing one of the foundational laws of the internet. It was just a strange thing for him to pick up the Hill that he dies on.
+
+0 (22m 36s):
+And of course he does sorta die. Not only is he overwritten for the first time in his presidency, by a veto proof majority in the Senate, but then of course he does finally leave the executive office. Is someone going to pick up this two 30 fight for him and the GOP?
+
+1 (22m 54s):
+So Senator Josh, Holly has put forward a bunch of bills even before if the executive order that were aimed at enforcing this idea of neutrality. And there has also been bills brought by among others, Lindsay Graham. So they're definitely still going to be involved in this fight.
+
+0 (23m 11s):
+All right, because this is sort of thought of as this wildly partisan fight, but Democrats would like to see reformed to Biden. You know,
+
+6 (23m 21s):
+Section two 30 should be revoked immediately, should be revolved. Number one for Zuckerberg and other plants. That's a pretty foundational law of the, of the modern internet. Exactly. Right. And it should be revoked. What do Democrats want to do?
+
+1 (23m 37s):
+Let's say you have less, Friday a group of lawmakers, including Amy <inaudible> and Mark Warner introduced what's called the safe tech act. What we wanted to try to draw. It was a carefully
+
+7 (23m 46s):
+Tailored reform of section two 30, that it didn't go at the underlying debate about speech.
+
+1 (23m 53s):
+And this feels like something that could end up being a blueprint for how Democrats push for two 30 change. So this roll is if you read between the lines based on a few kind of big cases where it seems like section two 30 has failed the internet. So for example, it curves out rules saying, okay, Section two 30. Doesn't apply to wrongful death suits, which has been an issue because when say guns are sold online platforms like arms list of use section two 32 say, well, we're not responsible for this. We're just the platform providing this service for people to sell weapons. The same goes for the harassment.
+
+7 (24m 33s):
+If you have been harassed so often from one of these platforms and you're able to get injunctive relief Section to 30, should not preclude it.
+
+1 (24m 41s):
+No, there is human rights, which is aimed at the genocide to Myanmar and making it possible for say people to Sue Facebook.
+
+7 (24m 50s):
+We wanted to make sure that civil rights laws applied and that section two 30 did not present that. And we wanted to make sure that the alien tort act so that if someone in Rohingya could show cause under the alien tort app, for example, that section two 30 would not protect you.
+
+1 (25m 7s):
+And it was just sort of a laundry list of largely pretty valid complaints that people have against big social media sites. It's an attempt to carve those things out of section two 30.
+
+0 (25m 19s):
+So it sounds like if there are changes to section two 30, they might not be sort of vast re-imagining changes, but more sort of smaller piecemeal tweaks.
+
+1 (25m 31s):
+This is the problem is that it's really hard to tell what is a vast change to section two 30, because a lot of what section two 30 says and does is look, if you're running a website, you don't have to worry about a bunch of potential hazard for user generated content, no matter what it is, because like anybody can post anything on the internet. You can post harassment on a knitting forum as easily as you can on Facebook or some kind of gossip site. So really the risks when you do something like carve out harassment or any other policy Section from two 30 is you put all sites at risk.
+
+1 (26m 12s):
+If someone uses them for that thing and they don't catch it. But the difficult thing with section two 30 is always trying to find ways to avoid collateral damage that takes down well-meaning smaller sites. And it's really hard to tell if you do bill and really any bill managed to thread that needle. Hmm.
+
+0 (26m 32s):
+I remember, you know, when I first heard about Section two 30, it was in the context of it being some sort of pillar of the internet, this sort of flawless regulation that
+
+5 (26m 44s):
+Created this thing that has become so essential to our lives. It sounds like from everything that's going on right now, and even in the past couple of years, that's changed at the very least, right? There's more of a willingness to re-examine it. And to think about how it could work better for all parties. A lot of tech optimism has faded over the last decade, a lot of optimism about what the internet was capable of and what people being in touch with each other at a large scale and the more ugly things that people point out on the internet, the more it seems like the law that created the internet is actually a bad thing.
+
+5 (27m 26s):
+So it's really not that surprising, but it is a little bit of a red flag that you should probably be careful when you're tinkering with this thing, because its effects that are really hard to predict. Addie Robertson is a senior reporter at the verge. You can find her reporting on section two thirty@theverge.com goodbye.

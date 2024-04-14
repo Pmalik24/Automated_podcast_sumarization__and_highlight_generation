@@ -1,0 +1,215 @@
+2 (0s):
+Support for the show today comes in the quip electric toothbrush company. Maybe I've been to the dentist in a while because you know quarantine social distance. Maybe just don't like the dentist if that's the case. You probably want to have a toothbrush you can rely on and you can rely on the quip to send your refills every three months for just $5 and you know shipping is free. And right now if you go to get equipped on cam / explained you'll get your first set of refills for free. That is GE T Q UI p.com explained where your first set of refills is free.
+
+2 (42s):
+Back in April of this year. We brought you an episode titled Death Cab for the postal service and it we talked about what makes the USPS a singular institution great example of something the United States did right in a time when we're surrounded by examples of things we're doing wrong, but we also talked about some of the financial woes. those facing the United States Postal Service and the implications for our election this year shortly after that episode President Trump put a guy named Louis dejoy in charge of USPS The Joy didn't have any experience within the institution but he was a big political donor to Donald Trump
+
+4 (1m 19s):
+and since then the
+
+2 (1m 20s):
+crisis at the postal service has become dramatically worse and seems all but
+
+4 (1m 25s):
+sure to have
+
+2 (1m 27s):
+massive implications not only on the Integrity but
+
+4 (1m 30s):
+Outcome of our election
+
+2 (1m 33s):
+and the country is really beginning to notice people are protesting people are buying stamps for the first time in their lives. Indie folk star Taylor Swift is tweeting about it and most importantly over the weekend Nancy Pelosi decided to cut congress's summer vacation short to deal with this mess Adam Clark SDS. You've been covering the story for recode and vaux when exactly did this get like end the summer recess level that that
+
+3 (2m 1s):
+there's been a slow build in dissatisfaction with the mail and recent weeks a new story started to come out earlier in August that the new Postmaster General was slowing down the mail intentionally taking cost-cutting measures and doing stuff like Bangalore time, but I think it really hit its breaking point at the end of last week when news came out that the Postal Service had sent letters to 46 States and DC saying that election mail was Probably not going to arrive on time for the election which is a huge deal obviously and I think that really mobilized people around the idea that slowing down male can have like a really serious consequence when the election comes around and the Slowdown appears to be intentional in coming from this new Postmaster General who is a top Trump fundraiser and has no USPS
+
+2 (2m 52s):
+experience. So, what does he do when he comes in? What are the cost cutting measures
+
+3 (2m 57s):
+the cost cutting measures included putting an end to Time reducing the amount of Transportation. So that's the number of mail trucks actually carrying mail and essentially he told workers if at the end of the day not all the mail has been delivered just leave it on the mail room floor and we'll get to it the next day and that created a huge backlog. So the delays are getting longer and longer and that's just what we knew about it the beginning the Postmaster General was not transparent about what he was doing. You didn't tell the postal unions what he was doing and we've been hearing more And more about what's actually been happening and in the last week or so, we've heard that hundreds of sorting machines have been taken out of post offices.
+
+3 (3m 40s):
+These are the machines that can process millions of letters and our the same machines that would process ballots if they came in and the new Postmaster General has been taking them out of post offices and planning to dismantle
+
+2 (3m 53s):
+them. What exactly are these mail sorting machines and how important are they to getting the mail delivered? These mail sorting machines
+
+3 (4m 2s):
+are huge proprietary pieces of equipment that are designed to handle letters and you know, they basically feed letters into the machines and they sort them. So these sorting machines let the Postal Service process huge amounts of male and it's about 30,000 pieces of mail per hour per machine. So needless to say these machines really come in handy around high-volume periods, like an election and we're expecting more mail-in ballots this November than The country's ever seen before.
+
+2 (4m 37s):
+Okay, so the joy is overseeing some serious changes that USPS in the weeks and months leading up to a presidential election. Even though he's a big donor to the sitting president. He's not being transparent about the changes. How about the sitting president has President Trump or his administration said anything about these slowdowns and how they could affect the election. It's important to point out that the Trump
+
+3 (5m 2s):
+Administration has been blocking funding for the Postal Service since the pandemic started. And that has continued and Trump actually in recent days said two
+
+4 (5m 12s):
+of the items are the post office
+
+3 (5m 15s):
+and the three and a half billion
+
+4 (5m 17s):
+dollars per million voting now
+
+3 (5m 19s):
+if we don't make a deal, that means they don't get the money. That means they can't
+
+4 (5m 22s):
+have Universal mail-in
+
+2 (5m 24s):
+voting was he acknowledging that this is intentional right there. What
+
+3 (5m 28s):
+was that? It sounds like he was acknowledging it was intentional. It's hard how else to interpret what he's saying based on was actually
+
+4 (5m 36s):
+happening. Right and maybe that's scared a lot of
+
+2 (5m 40s):
+people because this really heated up over the weekend. Is that fair?
+
+3 (5m 44s):
+I think it definitely did. Yeah, it started heating up when news broke on Friday that the Postal Service had sent letters to 46 States and DC saying that their mail in ballots were going to get The election boards on time essentially seemingly putting the entire election at risk disenfranchising the vast majority of Voters in the country. I think that was a bad moment and things got worse because there had been a campaign building online. A lot of people have been sharing photos of these mailboxes being removed accounts from postal workers about not being able to take over time and they all sitting on the mail room floor.
+
+3 (6m 30s):
+And it feels like that outrage on social media just totally exploded after this news
+
+2 (6m 37s):
+story get on Friday
+
+3 (6m 41s):
+and online outrage came to the real world about a hundred people protested outside of postmasters. Enjoys House in Washington, DC essentially screaming at him for slowing down their mail, and for seemingly trying to sabotage the
+
+2 (6m 53s):
+election over the weekend the
+
+3 (6m 57s):
+Trump Administration tried to Direct blame towards the Democrats for not funding the USPS and Mark Meadows the white house chief of staff told Jake Tapper on Sunday that this Narrative of machines being taken out of post offices basically wasn't true that that wasn't
+
+2 (7m 14s):
+happening if they were not part of an already scheduled reallocation. It's not happening. It's not a new initiative by this Postmaster General in when we look at this. It's all about efficiency, but you have a normal system of changing it out
+
+3 (7m 29s):
+and you Also said that machines wouldn't be taken out between now and election day. Of course that totally contradicts everything. We've heard from postal workers the postal unions and there's one particular moment in this interview where the topic of mail fraud comes up and I think that that gets right at why this Postal Service issue is so problematic
+
+2 (7m 48s):
+that there's no evidence of widespread voter. There's no there's no there's no evidence that there's not either that's the definition of Fraud Jake. What does that even mean? He sings the fact that there's no evidence. That there isn't fraud means there's fraud is he High?
+
+3 (8m 6s):
+What I think is mail fraud discussion highlights. Is that regardless of how bad the slow down with the US Postal service's right. Now? This is all serving to so distrust in the postal service and make people think twice about voting by mail and during the pandemic. That's the safest way for a lot of people to vote and mail-in ballots stand to swing the election. Turn to one side or the other so not trusting. The male is essentially leaving people not to trust the American electoral system in 2020.
+
+2 (8m 41s):
+And I'm guessing that brings us to Congress cutting short. It's vacation
+
+4 (8m 45s):
+as early as the
+
+3 (8m 46s):
+spring when the first cares act with through Democrats have been fighting for funding for the postal service and funding that President Trump has not wanted to give them they have continued that and they were trying to get 25 billion dollars into the latest coronavirus relief package that did not get passed before Congress when on recess and it was around the same time that others in Congress like Gerry, Connolly and Carolyn Maloney were calling on the joy to come and testify before Congress in September. And while these protests are happening outside to Joy's house. You're getting calls for Congress to return from their August recess to do something about the postal service to pass funding or somehow Force these new policies to stop and Nancy Pelosi doubts on Sunday that that would happen.
+
+3 (9m 35s):
+So they're expected to come back later this week and get to work on this.
+
+2 (9m 41s):
+What can Congress do about this? I mean this doesn't feel like a something that the Democrats should be concerned about or the Republicans should be concerned about it feels like something just every American should be concerned about right now. What action can be taken to reverse This calamity
+
+3 (9m 59s):
+Congress could do a couple of things. The big thing is Congress can give money to The Postal Service that the postal service has been asking for it for months and they need it. Another thing is the Congress could pass a law that would force the post. Sir, General to stop these new policies go back to the way the mail was before he took over when it was still functioning pretty well. There have also been calls to investigate the joy. There are states that are threatening to sue the Postal Service to reverse some of these policies States played to bring lawsuits and there's also discussion of the FBI getting involved, but from everyone I talked to the most immediate thing that could happen would be an infusion of cash from Congress for the Post.
+
+3 (10m 41s):
+The service the postal service is asking for 25 billion dollars to make it through the election and to stay alive is an organization something that a lot of people don't think about is that the US Postal Service could just go away and this might be the moment that some Republicans have been really wanting which is to privatize the Postal Service to turn it into a business, but it's not it's a public service people depend on the postal service for their medications. They depend on it for their paychecks. And it's Unthinkable that the US Postal Service would stop existing but if things continue the way they're going now, I think it's a
+
+2 (11m 18s):
+possibility. After the break, I'll speak with representative Gerry Connolly about what exactly Congress can do to ensure the postal service is left alone to play its part in the 2020 election. I'm Sean Rama's from its today explained. Support for the show today comes from Babble Babble. They want to get you speaking like really speaking a new language and just weeks they've got 10 to 15 minute lessons. For those of us who can handle being taught something for more than 10 to 15 minutes and they're thoughtfully created by language experts whose teaching methods have been scientifically proven my friends to be effective across multiple studies.
+
+2 (12m 13s):
+They even have speech recognition. Technology that helps improve your pronunciation and accent and who are we kidding when it comes to language learning? It's all about that pronunciation and that accent right now when you purchase a three-month subscription Babble will give today explain listeners three additional months for free with the promo code that you can guess. It is explained that three additional months for free when you go to battle.com and use the promo code explained on your three month subscription. scription be a BBE l.com promo code
+
+1 (12m 48s):
+explained
+
+2 (12m 56s):
+Support for the show today comes from caviar. I know there's lots of apps that offered to deliver food to your home for you. But how many of them are named caviar people just one and they've got a curated list of great local restaurants and more than 25 major American cities. So maybe download that caviar app right now to find out if your city is one of them stay safe inside and get that tasty food you really? Eat and just for our listeners right now caviar is offering $10 off an order of $20 or more. All you have to do is put in the offer code explained at checkout.
+
+2 (13m 37s):
+Remember that's $10 off your purchase of $20 or more with the offer code explains. Let's just do like a rough example here if your order costs $25 right now is going to cost like 15 with the offer code explained download caviar. Are on the app store Google Play and use that offer code
+
+1 (13m 57s):
+explained.
+
+2 (14m 6s):
+Can we just start by having you? Say your name and who you represent? I'm
+
+4 (14m 10s):
+Gerry Connolly. I represent the 11th District of Virginia, which is Northern Virginia and I care the government operations subcommittee, which is the sub Committee of jurisdiction over the postal service.
+
+2 (14m 21s):
+Thank you. And Congressman word is y'all are coming back to work this week breaking your August recess to do something about this crisis at the United States Postal Service. What's the plan? What do you what do you want to do we needed
+
+4 (14m 33s):
+That rolls back the delivery service delays that the Postmaster General fluid The Joy has implemented in the last month that will have the effect of slowing down the delivery of ballots and request for balance in a critical election. But we also need to do a few other things there. We need to fund the Inspector General because we're asking the inspector General's office to investigate whether these were legal changes whether they have a date. Notorious effect, which we know they do on the election and we also need to make sure that all ballots are treated as first class mail this election cycle because if that's another change, the joy has implemented that could risk a lot of ballots being treated like commercial male,
+
+2 (15m 21s):
+of course before y'all took this recess Congress was having a pretty tough time coming to consensus on relief for the coronavirus for the pandemic. That how hard do you think it's going to be to find consensus on this issue of maintaining the
+
+4 (15m 39s):
+Integrity of our election? Well prompt I think personally it's made it very difficult for Republicans. If there is disruption in mail delivery of any kind the first victims of that disruption live in Rural America where the postal resources are already stretched thin they're the ones who may find their ballots at risk there. Medical equipment not delivered their prescriptions late. So I think there's the possibility Common Ground here. I think there are a lot of Republicans deeply concerned about what's happening whether they have the courage to act is always the million-dollar question with them. But in this particular case, they're going to get blind public support for the postal service is extremely high and public angst about the shape of the post office with these new changes also, The hi you fool around with that at your peril.
+
+2 (16m 36s):
+What's The Back-up Plan if republicans in Congress choose to fool around with that if they choose to disregard the amount of angst. We're seeing in the country. I mean Taylor Swift is tweeting about this,
+
+4 (16m 48s):
+right? Yeah. It's not a secret that the postal service was vulnerable and needed Revenue stabilization. We had it in the first cares act. We have it again in the heroes act the Republicans in the Senate were willing to go along with most of it and it was Trump who threatened to veto the bill if any postal assistance was in there. So we're not willing to do that again in the second round and I think Trump realizes he's on very shaky ground. So we've got public opinion with us. We've certainly got lots of sunshine through media attention. We're going to have a hearing and we're going to call the Postmaster General to that hearing to account for what he's doing. We've asked for Inspector General investigations.
+
+4 (17m 31s):
+I've asked for a flash report from the Inspector General so that we can get it in real time. But ultimately if the Republicans refuse to go along we have a republican majority Senate and don't forget Trump can veto anything. We
+
+2 (17m 44s):
+pass you've gone a step further and called for Postmaster General de Droid to resign. Yes as he responded to that.
+
+4 (17m 53s):
+No, but President Trump has defended him as doing a good job now. Mr. The joy is a political crony of the president's he's a big Republican. Owner he has no credentials for the job of Postmaster General which oversees billions of mail pieces every year which hires an employee's 630,000 employees and deliver service to every household and every business in America every day that breaks a tradition with the Postal Service where we've tried to professionalize the leadership and be politicize it but Mr. The Joy immediately set about to to implement measures he knew full well would have the effect of delaying the delivery of mail ballots.
+
+4 (18m 41s):
+If not reversed
+
+2 (18m 42s):
+at the end of the day though Postmaster General The Joy does not answer to Congress but to the president, that's my understanding. Is that
+
+4 (18m 49s):
+correct? No, the Postmaster General by law reports to The Postal Board of Governors. Okay, and that's why I wanted to have the poster Board of Governors. Not just the Postmaster General come before our committee and Be held to account ultimately. However, the Constitution vests the creation and vague management of a postal service with the Congress of the United States. So we ultimately have authority and that's why we need willing collaborators on the Republican side of the aisle in the Senate to reverse these as quickly as possible. That being said is
+
+2 (19m 23s):
+Congress deems that the Postmaster General is acting let's say with with nefarious intent to prevent the es from Executing this
+
+4 (19m 36s):
+election in good faith. Can
+
+2 (19m 39s):
+it do something to replace the Postmaster General? Can it do something to force his
+
+4 (19m 44s):
+hand? Well, I mean Congress could pass a lot of supersede all existing legislation and direct the appointment of a new Postmaster General that's not going to happen between now and November 3rd. That's why I've called for his resignation. We need to start over the president's made no secret of the fact that he believes voting by mail is an existential threat It to his re-election and he's bound and determined to do everything. It can to disrupt that from happening
+
+2 (20m 11s):
+Congressman. I think a lot of people are feeling this real severe angst right now. They're asking how can this even happen when we need this institution most, you know, there seems to be this concerted effort right packages have slowed down these sorting machines are disappearing. People are freaking out over these locked mailboxes.
+
+4 (20m 32s):
+I just wonder how
+
+2 (20m 33s):
+confident are you that Congress can take the appropriate action right now to reverse these moves to ensure the Integrity of the
+
+4 (20m 42s):
+election. I think it's really important found that in the analysis of what's going wrong. We separate political sabotage from the underlying capacity and capability of the Postal Service. This isn't an act of God. It isn't something inevitable because of the economy or the pandemic. This is a deliberate strike at capability and we have to Reverse that and the public has to know who to hold responsible the more sunshine and the more Relentless pressure the public the media and those of us in Congress who are advocates for the postal service can bring to bear. We are going to reverse these decisions. We are going to guarantee the Integrity of the election including voting by mail
+
+2 (21m 26s):
+representative Connolly. I thank you for your time. Appreciate it my great pleasure. Thank you. son Congressman Gerry Connolly represent the 11th District of Virginia. We reached out to the Postmaster General Louis de jouy to ask about the usps's recent removal of sorting machines and also to hear his response to representative Connelly's call for him to resign we didn't hear back by publishing time. If you're feeling petrified the Postal Service can't handle the amount of absentee ballots. So be this year. I just want you know that the number of ballots USPS might need to deliver for this election still pails.
+
+2 (22m 12s):
+In comparison to the amount of mail it processes every Christmas. That's not to say you shouldn't be worried right now, but I just wanted to remind you that if properly funded and managed delivering ballots. This election is not beyond the capacity of the United States Postal Service. This is today explained.

@@ -1,0 +1,296 @@
+0 (0s):
+Earlier this month, the police department up in Edmonton, Alberta, Canada, released a sketch of a suspect just another day in police town. Except no one knows what this suspect looks like. The sketch was based purely on DNA
+
+1 (15s):
+Edmonton Police are turning towards an emerging technology with hopes of identifying this suspect in a sexual assault case that has gone cold.
+
+0 (24s):
+The emerging technology is known as DNA pheno typing, using nothing more than DNA found in an investigation to try and figure out what a suspect may have looked like. And, and within days of adopting this technology, the Edmonton Police had reversed course. They took their DNA police sketch down and apologized to the public why coming up on today explained
+
+3 (48s):
+It's a case of bar science and poor ethics.
+
+5 (59s):
+Cover story from New York Magazine is back. I'm Hannah Rosen, host of Season two Seed Money. This season we have a story about a billionaire and ex buy many, many women. It's
+
+6 (1m 13s):
+Almost like he's using all the women as a startup
+
+5 (1m 16s):
+Company. And so, so many lies.
+
+7 (1m 18s):
+If I can't stop him, I don't think anybody will be able to stop him.
+
+5 (1m 23s):
+Cover story. Season two, Seed Money Coming October 25th, Hear the trailer and follow us wherever you listen to podcasts.
+
+8 (1m 33s):
+Taylor Swift is releasing her 10th album this week, and it will most likely be a hit like everything she's ever done.
+
+9 (1m 41s):
+I'm never gonna call her avant garde, but she's far more innovative than most people give her credit for, and I think she will go down as one of the greats in arguably.
+
+8 (1m 53s):
+But this is a good time to assess her career and legacy, the meaning of Taylor's Swift this week on Into It Vultures Culture podcast
+
+0 (2m 8s):
+Today explains Sean Rams from a heads up that the show that's ahead of us will feature some discussion of sexual assault, but that's not really what it's about. We're here to find out why the whole world seemed to notice a decision made by the Edmonton Police in Canada this month.
+
+10 (2m 23s):
+It's because the police used something called DNA phenotyping to try and advance a stalled sexual assault investigation. They created a massive backlash that was centered on questions of racism, but also raised a lot of questions about forensic science and the limitations of dna.
+
+0 (2m 46s):
+Taylor Lambert is an investigative producer for the CBC in Edmonton. He's been following the story.
+
+10 (2m 55s):
+So in early 2019, a woman was attacked by a stranger on the street and violently sexually assaulted According to police. It was quite a brutal attack that left her with life altering injuries. It was winter in Edmonton, and so the man was bundled up and his face was covered. Essentially, the only identifying details that the police had to go on was he was around five four, that he had some kind of an accent when he spoke and that he was black. The investigation goes nowhere and the police run out of leads.
+
+10 (3m 40s):
+From what the detective told us was that they had so little to go on that they were just grasping at straws. And so they turned to phenotyping as basically their their last resort Hail Mary Long shot. It's
+
+11 (3m 58s):
+Definitely a last resort.
+
+0 (3m 60s):
+And now for those who aren't in the know what exactly is phenotype,
+
+10 (4m 4s):
+It's using DNA analysis to produce a computer generated image of a person. But it's a highly controversial practice. DNA contains the building blocks of an individual, but it's not a blueprint. It's not that precise. So DNA is pretty good at predicting, say your probability of hair color or skin color. But for something like the shape of the human face, there's just way too many complexities involved and you can't make a scientific determination of what a person will look like based on DNA alone.
+
+10 (4m 51s):
+And so in short, scientists say that it can't be done, but at least one company claims that it can do this behind closed doors.
+
+0 (5m 5s):
+Which company is that?
+
+10 (5m 7s):
+That's an American company called Parabon, which is really the go to firm for this when it comes to law enforcement.
+
+12 (5m 18s):
+Parabon NanoLabs of Rustin, Virginia has developed sophisticated software capable of unlocking information contained in DNA left at a crime scene. As the program sifts through millions of pieces of genetic information, it slowly begins to build a suspect's appearance.
+
+10 (5m 36s):
+So obviously genetic research is valid science. There's, there's experts in that field who do conservable research to advance our understanding of that, that scientific approach. But where it falls short is making all the countless determinations of probability that you would have to for all of the factors that go into a person's physical appearance in their face. So it's not just a simple thing like your hair color will be red or blonde or brown. There's so many different complexities involved that scientists say you can't accurately predict what someone's face will look like.
+
+10 (6m 22s):
+So what Parabon does is they say, We are able to do this.
+
+13 (6m 26s):
+DNA is is a blueprint for a person. It defines our hair color, our eye color, our skin color. All of that is written in the dna. And the trick is just to figure out what parts to look at in order to make those predictions and learn something new about a suspect, just based on the DNA
+
+12 (6m 44s):
+Snapshot is highly accurate and has been successfully evaluated by major metropolitan police departments and federal agencies.
+
+10 (6m 51s):
+But the technology that they use, the algorithms that they use are closed source. They're not peer reviewed. Scientists can't look at the data to determine how accurate they are. They can't look at the failure success rate, if you like, because all of that data is also proprietary.
+
+0 (7m 11s):
+It sounds at the very least that this, this is a developing science. How much does a process like this cost? The Edmonton Police Department?
+
+10 (7m 21s):
+The police told us that they paid Parabon 1700 Canadian dollars, which is a little over 1200 US dollars.
+
+0 (7m 29s):
+Huh? So not that much.
+
+10 (7m 31s):
+No.
+
+0 (7m 31s):
+Does that make this common practice for police departments?
+
+10 (7m 35s):
+Well, I wouldn't say it's common practice yet, but on Paragon's website, they've posted a selection of some of these so-called DNA mugshots that they've done for various law enforcement agencies around the world, including many in the US and a few prior cases in Canada. And just based on that catalog, it looks like this is a practice that's been employed by hundreds of law enforcement agencies worldwide. Some of them do look fair, a pretty good prediction of the person that was eventually caught. Some of them are not even close, A lot of them are not even close.
+
+10 (8m 16s):
+So it seems like it's at best educated guesswork.
+
+0 (8m 20s):
+I wanna go look at these photos. Is it DNA nanotech? I'm wondering where to look
+
+10 (8m 24s):
+In a second. Yeah, I think it's snapshot.parabon.com.
+
+0 (8m 32s):
+I got it. Okay. I'm going to this website. I see the Edmonton police's controversial phenotype up here. Obviously they haven't caught the suspects, you don't get to see it before and after a composite profile they did for Venia Ohio, where their phenotype DNA snapshot looks kind of like the guy, but then I see one in Eugene, Oregon where the phenotype looks nothing like the guy. So it looks just from this brief sample, a little hit or miss.
+
+10 (9m 10s):
+Yeah, for sure. I'm, I'm not an expert in police work, but it seems to me that this would be a less reliable tool than say a police sketch drawn from an eyewitness account of somebody.
+
+0 (9m 24s):
+So perhaps, presumably they can't solve the case in Edmonton. They decide to use this phenotype and they decide that it'll be a good idea to tweet out the photo because I guess they have to publicize it in order to get the composite out there. Is that what happens?
+
+10 (9m 40s):
+That's right. They put out a press release with the photo they post on social media. They hold a press conference announcing their use of this technology. They seem to be fairly proud of it in a way. They're sort of trumpeting the fact that they're using this, you know, cutting edge, if you like, technology to solve this terrible crime.
+
+0 (10m 6s):
+How do people respond?
+
+10 (10m 7s):
+Not well. The image is immediately excoriated online. People point out that this CGI head of a young black man could look like a lot of people in the community. And those innocent people might have the cops called on them and become suspects, or worse. I mean, we have data that show that in Canada, black people are more likely to have to interact with the police, more likely to be incarcerated, and more likely to die at the hands of the police. While there was a lot of outrage about the use of this image, there was also a lot of concern expressed about the very real risks that this image would put on racialized communities.
+
+0 (10m 59s):
+How did the Edmonton police respond?
+
+10 (11m 2s):
+They don't exactly apologize. One guy technically said that he was sorry, kind of for something, but it, it's not a real apology.
+
+0 (11m 12s):
+Canadians know a real apology.
+
+10 (11m 20s):
+Two days after they had announced the use of this technology, they announced at another press conference that they are removing the image from their website. And social media counts
+
+14 (11m 32s):
+The potential that a visual profile can provide far too broader characterization from within a racialized community. And in this case, Edmonton's black community was not something I adequately
+
+10 (11m 43s):
+Considered, but they also insisted that they were just trying to find justice for the victim.
+
+14 (11m 48s):
+I prioritized the investigation, which in this case involved the pursuit for of justice for the victim herself, a member of the racialized community over the potential harm to the black community.
+
+10 (12m 1s):
+They're a little defensive of their use of this technology, and they didn't rule out using DNA pheno typing again in the future.
+
+0 (12m 11s):
+Where does that leave this case, This violent sexual crime from 2019?
+
+10 (12m 17s):
+Well, in the two day span that it was out in the public, you know, the attention that was on it was certainly focused more on the question of whether this image should have been created and released in the first place, more so than on trying to identify a suspect. But if the police did get anything out of it from that perspective, they haven't said. So. Where this leaves the case is unclear, But I, I think this case has raised a lot of questions that resonated quite widely, not just in the city, but across the country and actually even outside of Canada.
+
+10 (12m 59s):
+Questions about how the police view the black community. Multiple people in the chain of command would've had to have seen and approved this image before it's release. And another big question it raises is, what does it mean that the police are turning to unscientific means in their police work? And does the public understand, or for that matter, do the police understand that forensic DNA pH phenotyping is not considered valid science?
+
+0 (13m 41s):
+The science of dna pheno typing when we return on today, explained
+
+5 (13m 55s):
+Cover story from New York Magazine is back. I'm Hannah Rosen, host of season two seed money this season we have a story about a billionaire.
+
+7 (14m 5s):
+He's the most articulate, he's the most savvy, he's the most, he's very cunning
+
+5 (14m 10s):
+An xy.
+
+15 (14m 11s):
+This isn't an aberration that just happened, you know, a couple years ago. This is a pattern of
+
+5 (14m 16s):
+Behavior. Many, many women, it's
+
+6 (14m 18s):
+Almost like he's using all the women as a startup
+
+5 (14m 22s):
+Company. And so, so many lies happens
+
+16 (14m 25s):
+Once in everybody's life. And this guy is a master liar, master liar.
+
+7 (14m 31s):
+If I can't stop him, I don't think anybody will be able to stop him. And
+
+5 (14m 36s):
+What did you think about yourself?
+
+17 (14m 38s):
+I was the dumbest mother <inaudible> in the United States. He got me good
+
+5 (14m 44s):
+Cover story season two seed money. Listen wherever you get your podcasts.
+
+0 (14m 54s):
+Hey, it's Sean. And when I showed up to vox.com back in November of 2017, I was actually new Sean because there was already a Sean, his name was Sean Illing. We lovingly referred to him as old Sean back in the day. And old Sean has a new podcast called The Gray Area, which was old Vox Conversations. It's a philosophical take on culture and politics and whatever Sean's been thinking about, which tends to be really interesting stuff. We played one of their episodes sometime back in the feed on today, explained about forgiveness, because I just never heard such an interesting dynamic conversation about forgiveness.
+
+0 (15m 34s):
+Sean's a bit of a philosopher by trade who happens to work in journalism, and every week he's gonna sit down with journalists, authors, academics, and whoever else he wants to, to get some really cool takes in a very hot world. You see what they did there. New episodes of the gray area drop every Monday and Thursday. Check it out, wherever you listen today explained. We're back. And now we have Professor Dan Crane from Wright State University in Ohio with us.
+
+18 (16m 11s):
+I have testified as an expert witness in cases involving DNA evidence since January of 1991.
+
+0 (16m 20s):
+Professor Crane knows more about DNA than your average true crime enthusiast.
+
+18 (16m 25s):
+Now over 125 cases of 27 different states, several different countries, Northern Ireland, England, Australia, as well as a, a number of US federal courts and courts marshal.
+
+0 (16m 41s):
+So we asked him what he thought when he saw the Edmonton police using DNA pheno typing to try and track down their suspect.
+
+18 (16m 46s):
+Well, I, I, I think it, it brought to mind a, a pretty wide variety of thoughts at at one level I'm thinking, yeah, this is a, actually a fairly non-descript representation. I, you know, it seems like it's a, a pretty broad target that a a pretty wide range of people might be said to match. And yet, I, I think I also appreciated that that's consistent with what you should expect from that technology, these approaches at this stage in their development. The concern then is that because it's got DNA associated with it, that people will give it more weight, more credibility than it probably deserves.
+
+18 (17m 34s):
+And, you know, we need to be a little bit cautious about how it is that that sort of information is, is shared with the general public.
+
+0 (17m 44s):
+Let's talk a bit about the backstory of this science. When exactly do we get this technology, DNA phenotype? When does it make its debut?
+
+18 (17m 53s):
+You know, I think you can go back maybe as long as a hundred years. You know, we've learned an awful lot about human genetics through twin studies. You know, the studies of identical twins, especially when they've been separated at birth.
+
+19 (18m 14s):
+And you and I are like, like sisters, sisters hall, we're like twins.
+
+18 (18m 23s):
+And from that type of work, we've learned that quite a bit about what we are and how we look is determined by our genes. For instance, about 80% of our height seems to be governed by what it is that we have in our dna. But there are also some interesting behavioral things that you can glean from these identical twin studies. Meaning that there's things in our dna, for instance, that age old question of boxers versus briefs. It turns out that there's a strong genetic component for that. That if you find a, a pair of identical twins that were separated at birth, and you tell me one of them has of preference for wearing briefs.
+
+18 (19m 9s):
+I, I'll put money on the fact that the, his other twin will also be fond of briefs as opposed to boxers.
+
+20 (19m 17s):
+They're haines. Let's just leave today.
+
+18 (19m 27s):
+Almost all of the traits that we might be interested in are what geneticists would call complex traits. And that means fairly simply that they're determined not by just one gene, but determined by often dozens and sometimes hundreds of different genes, each of which has some say in what the final result is going to look like in an individual. And the sorts of traits, hair color, eye color, height, and, and then especially things like facial shape or skin color. Those are actually things that haven't been studied that much by geneticists.
+
+18 (20m 10s):
+Most of the federal research dollars is dedicated to resolving things associated with life threatening diseases. And so for DNA phenotyping, it's that sort of stuff that fell off the back of the truck that, that people are trying to piece together to, to get something useful for, for this other purpose.
+
+0 (20m 34s):
+Well, because it isn't as vastly studied a field, I wonder how reliable this science is,
+
+18 (20m 43s):
+You know, as somebody who gets involved in court cases where DNA evidence is involved. To my knowledge, the types of tests that are done for dna pH phenotyping haven't even started to appear in the peer-reviewed scientific literature. So it, it's very difficult to argue that these types of findings would be accepted as evidence in a court of
+
+0 (21m 10s):
+Law. And that hasn't stopped police departments, at least the Edmonton Police Department from trying to use it. Is, is this a first, is this an anomaly or is this increasingly a method that police departments turn to?
+
+18 (21m 24s):
+Well, for maybe on the order of 20 years now, going back to maybe around 2004, I'm aware of a case that a United States crime laboratory used DNA phenotyping to assist in an investigation. Today,
+
+21 (21m 39s):
+One of the major players in the investigation into serial killer Derek Todd Lee, talked about the case that gripped the Baton Rouge area. She shared the major turning point in the case, a DNA sample that completely refocus the search for the killer.
+
+18 (21m 53s):
+Pretty much up till this point in time, it's been used as a method of last resort when it, it's a crime that's of particular interest to local law enforcement and they've exhausted everything else to generate leads. They might then turn to seeing what they could get from this type of DNA phenotyping approach. There have been in the past couple of years, a few laboratories that are starting to embrace it. Edmonton obviously is one, but Australia, their law enforcement has done some kicking of the tires of a number of different approaches to doing DNA phenotyping.
+
+18 (22m 36s):
+And they've settled on one that they now would like to use as part of their routine case work. But you know, on on the other side of the coin, there are countries that have very explicitly and specifically said, you want, you should not do this type of testing. Belgium and Germany, for instance, have laws that very specifically prohibit it. You know, we're still in the early stages of how society wants to deal with this type of evidence.
+
+0 (23m 4s):
+Were you surprised when the Edmonton police backpedaled and, and deleted this post and said, you know, they were sorry for, for sharing this, this composite image?
+
+18 (23m 15s):
+I'm trying to think what the best way to express this is because I I, I'm starting to feel like an old guy, right? Because I, I've seen this play out before. It, it seems very common and, and maybe particularly in the area of forensic science, for there to be very enthusiastic proponents of a new methodology. The, and they're typically the developers of the new methodology, and they get out in front and they do a good sales job and they, they persuade others to, to get on their bandwagon. And then the questions start to get asked. And, and, you know, it's, it's kind of like a pendulum swing.
+
+18 (23m 56s):
+We, we, we have very enthusiastic proponents that develop these approaches. Everything looks like sunshine and roses. And then you start to hear some of the serious questions and, and then you, you go back to the other way and you may become over cautious in terms of not utilizing the information that you might be able to get from these new approaches.
+
+0 (24m 18s):
+Do you think it's only a matter of time before DNA pheno typing technology improves and police departments around the world are using this as a more normalized way of investigating crimes they can't solve?
+
+18 (24m 33s):
+I do think it's a matter of time before the, the work is done that would allow us to, to use it more reliably. How long that timeframe is, is a reasonable question. I don't think we're anywhere near there just yet, but maybe in five or 10 years we could start talking seriously about something that would pass muster in American courts at the very least.
+
+0 (25m 1s):
+And until then, what should police departments in America and I don't know, say Edmonton, Alberta, Canada, be keeping in mind?
+
+18 (25m 9s):
+Well, until then, I, I think they should sit patiently and wait until it's, it's ready for prime time.
+
+0 (25m 26s):
+Dan Crane is a biology professor at Wright State University in Fairborn, Ohio. Earlier in the show you heard from Taylor Lamber with the CBC over in Edmonton. Our program today was produced Bys Petros, it was edited and fact checked by Matthew Colette and mixed in Master by Paul Robert Mosey. Thanks for listening to today. Explained.

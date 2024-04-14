@@ -1,0 +1,626 @@
+0 (1s):
+A quick warning. There are curse words that are unbeknownst in today's episode of the show. If you prefer a beeped version, you can find that at our website, this American life.org.
+
+1 (12s):
+So a little while back this guy named Ken Irwin started reaching out to people here at this American life. Emmanuel got a voicemail that was both very insistent and deeply apologetic.
+
+2 (23s):
+I'm so sorry for calling you. I'm just trying to get ahold of someone at like this American life or New York times. I'm so sorry for interrupting you on your weekend.
+
+1 (31s):
+Kali got messages on LinkedIn saying, quote, even give me five minutes to tell you what I know so far, I promise it's a crazy story.
+
+2 (39s):
+And today is about to be like a million times crazier. Two weeks ago, my life was normal. I literally was just like working for Amazon. I was a normal person
+
+1 (50s):
+On Dana's voicemail. He said he was sure she was way too busy to call back herself. But he swore a fact checker could confirm everything. He's saying
+
+3 (57s):
+Basically I became a multimillionaire over the last week and a half, which isn't a thing in the story of like so much crazier than when I'm even saying
+
+1 (1m 6s):
+To Brian, this guy wrote on Twitter. I have no idea where the story will go as I'm stuck in it, trying to figure it out. But I think you're exactly the type of person that could figure it out. So they all pass that information to me. And I called the guy. He can, this is IRA glass from this American life.
+
+5 (1m 28s):
+Oh my God. That is amazing. Hi.
+
+1 (1m 31s):
+Hi. Nice to meet you.
+
+5 (1m 34s):
+Thank you for calling. I did not expect to be talking to you. I'm so sorry for spamming your entire company
+
+1 (1m 41s):
+Right off the bat. He asked me if I knew what NFTs are and at a general idea that there are images and other things in the crypto world, that people are selling to each other for a lot of money for now. Can I say, that's all you need to know for this to make sense. He told me that this all began for him two weeks before our conversation on August 22nd
+
+5 (1m 59s):
+With a person named Adam Rochelle, if you Google him, he's like a, he calls himself an NST archeologists. Like I don't know how to describe him. He has a podcast. So he reached out on LinkedIn and Gmail and basically told me, Hey, if you're the owner of pixel map, I need to talk to you immediately
+
+1 (2m 20s):
+Pick somebody up was a website that can create it in 2016.
+
+5 (2m 23s):
+He wants to tell me that basically I could make a lot of money if I brought the site back up and I immediately assumed he was scamming me because like, I mean, we all get emails like that all the time. And the only reason I talked to him was image and pixel map. Like the site has been down literally since 2017. So I just wanted to know like how he even knew that word
+
+1 (2m 49s):
+Can, I may picks them up just for fun. And to teach himself a new programming language. He's somebody who was always tinkering, inventing things, a hovercraft that could carry a dog. He has three and a fourth dog that he refers to as the randomly generated dog. One of his recent projects used a 3d printer to create another better 3d printer. His real job was he worked for Amazon's web services company. He was one of the lead engineers, developing code for big companies like Snapchat and Pinterest. It's 33. It was in Indiana as her pixel map.
+
+5 (3m 22s):
+You can see it actually. You're going to think it looks stupid probably, but
+
+1 (3m 26s):
+This is the kind of self-deprecating remark. I learned that Ken does reflexively a lot, but in this case, the pixel map that IO website does look kind of primitive. When you first see it like early eight bit Nintendo or something, it's a grid of tiles, picture 4,000 little tiles, and they're tiny. They're like each is 16 by 16 pixels. And the idea is anybody can buy the tiles, own them and decorate them how they want. So people have different cartoons in them and words they've posted when Ken created this back in 2016, barely anybody noticed or cared, maybe 20 or 30 people bought tiles within a year. He was pretty much done with pixel map.
+
+1 (4m 6s):
+So that is the project that this guy, Adam McBride wanted to talk to him about. And so the same day that Ken gets Adam's email that afternoon, he gets on his zoom with him.
+
+5 (4m 15s):
+He said, basically what he does is he goes in and tries to find really old and FTE projects. And that he does it as like a, a hobby and really enjoys doing it. And he said that mine would be one of the earliest, even though 2016 is not that long ago. And the NFP space, that's like almost the oldest you can go. And that I'm probably sitting on a ton of money. And I don't realize that
+
+1 (4m 40s):
+It's sitting on a ton of money because in the crypto world, one kind of NFT that people get excited about and pay money for is what they call historic NFTs. The first NFTs that ever existed. Ken tells Adam that's all great. What's an NFT. Adam gives him a quick primmer. And had it ever occurred to you that what you had made was an NFT?
+
+5 (5m 4s):
+No. Cause when I made it, there were no enough keys. Like I didn't even like the only time I had heard of him, if he, since then, I had heard like in the news and Steph Curry had one and I really hadn't even looked to see what an NFC was, which I know sounds really stupid. Like I truly have completely forgotten about my site. And I was saying like, how much do you think I could get for it? And he said like, I seen projects like this. I had one that the developer got over a hundred thousand, but looking at your, I think you could probably get 500 grand out of it. And at that point I like, I thought he was really nice.
+
+5 (5m 47s):
+I didn't think there was any chance on earth that actually happening
+
+1 (5m 54s):
+At a McBride tells him I can help you set this up and get it relaunched. And people will pay you gobs of money for the rest of those 4,000 tiles. He said, he knows a group of guys who love the early historic NFTs, like this one. And they'll talk it up on Twitter to encourage people to buy. He says, he's done this for a bunch of other old NFTs, but Adam tells him there was one little snag. Ken needs to lower the price of each tile. That's it goes back in 2016, Ken set the price of each tile at two ether. Now, ether, I didn't know anything about this connect to explain this to me is the name of one of the big cryptocurrencies like Bitcoin in two ether back in 2016 was around 20 bucks.
+
+1 (6m 38s):
+The problem Adam explained was the value of ether had blown up and to ether these days is now more than $6,000 way too high. For most people
+
+5 (6m 49s):
+You said I would be a lot better off than a lot more successful. If I would say all of them to 0.35
+
+1 (6m 57s):
+0.35 F. In other words, each image would cost 0.3, five ether, a third of an ether,
+
+5 (7m 4s):
+1300
+
+1 (7m 4s):
+Time around a thousand dollars.
+
+5 (7m 6s):
+And like, for me, that made complete sense.
+
+1 (7m 9s):
+He told me he didn't really believe any of this was going to work anyway, but he figured what's he got to lose.
+
+5 (7m 14s):
+I'm just like, I'll go with it.
+
+1 (7m 16s):
+So Ken started knocking down the price of his 4,000 tiles, which actually took some time because the way he wrote the original code, the original program for pixel map repricing, each time it took a few minutes and they had to do them by hand one at a time for hundreds and hundreds of tiles. Now he could have written code to automate that process, but he said he wasn't thinking straight that particular week, because that week his dad had a heart attack and went to the hospital for bypass surgery. And so Ken was spending a lot of time at the hospital with his dad. Adam was sending messages and the buyers were pounding at the door, hurry up, do them faster. And some people were so impatient.
+
+1 (7m 56s):
+They just paid the higher price over $6,000 to ether, which leads to an obvious question. Why lower the price? If people were paying to Ethereum for them,
+
+5 (8m 11s):
+Because I'm a moron. And he said that the whole reason, like the Hughes during this big campaign, I have no idea. Like my wife, she's not my wife. I've been with her for 11 years. She basically, she, she was like, if they're buying them at this, shouldn't leave, like raise the price, like 0.5 or one, or just leave it at two. Like, it looks like they want it. I was like, no, it's not. It was not smart. It was, I was worried that like, what if they all of a sudden disappear or change their mind? Like, I have no idea, like why they want it, like what's going on. All I know is if we sell them right now, we will literally, like I had done the math.
+
+5 (8m 52s):
+I was like, we're looking at like 2 million or more if we saw all of them and I've never had that kind of money, like literally all I could think about was like, I'm about to become a millionaire. And then the weird part of the story started happening.
+
+1 (9m 9s):
+Oh wait, wait. That's the weird part of the story hasn't even happened yet.
+
+5 (9m 13s):
+Correct.
+
+1 (9m 19s):
+What transpired next? You got a phone call that made him rethink everything that had happened to this point and look very differently at this guy, Adam McBride, who seems so nice and helpful at first. And I had a series of conversations over the course of weeks where all of this unfolded basically can start it off. Like most of us, I think he hadn't been following this whole NFT thing. Didn't know what they were. And then suddenly like, like, I don't know, somebody in a fairytale who's transported to a strange new world where he gardens like he's a prince or a Knight or something. Ken gets pulled into this crypto world where he finds, he has all this credit, all this street credit as one of the first pioneers.
+
+1 (10m 0s):
+And once he's there, he starts to take a look around at the NFT world, sort of dazed, like, okay, you just made me a millionaire. Like who are you people? And he does not like what he sees. And then some of the things happen after that, which you'll hear from WBZ. Chicago is this American life. I'm Eric Glass seriously stay with us At one planet of the apes. Okay. So can we price this tiles and things went even better than Adam McBride said they might. He sold 3000 tiles earning him a total of $3.5 million.
+
+1 (10m 44s):
+And the amount of time that took from Adam's first email to $3.5 million, two days and six hours, six days after that, basically the first Monday that rolled around after he had all that money, he did. What many people dream of doing? If they hit the lottery or something, he quit his job. Not that he disliked his job, just the opposite. He says he really enjoyed his job, but he wanted to devote his time to developing pixel map and various ways demanded, pushed the price of picks them up. So high, 15,000 to $18,000 per tile. He decided to keep 900 of them for himself.
+
+5 (11m 19s):
+But that's the weird part of the story yet.
+
+1 (11m 22s):
+Okay. So let's get to the weird part of this story.
+
+5 (11m 25s):
+So the weird part, I mean, it's all weird, but the part that changed that was this guy reached out to me and basically said, Hey, I have seen some things concerning on the transactions pixel map. I wanted to reach out and see if I can talk to you about it. And he sounded like he was ticked off. So I was like, sure, I called him. I've been talking to him literally every day, since then
+
+1 (11m 52s):
+Australia, he told me he'd been looking at all the pixel map sales, which is not something that's hard to do because every transaction with NFTs and with crypto is all public. That's how crypto works. And this guys go here, the transactions and the whole thing looked fishy to him. Why he asked, were you lowering the price of all the tiles when demand for them was so high that he didn't know exactly what kind of rip off Ken was running. It made no sense.
+
+5 (12m 17s):
+Like he was positive. It had to be a scam or else I was a complete moron. Like that's the only two options. And I was like, I think maybe I'm more on them. And then he told me about crypto punks,
+
+1 (12m 31s):
+Okay. Crypto punks, crypto punks, or this big iconic NFT. And they're these little cartoons they're like punks like eighties punks, like with Mohawks or dyed hair, all of them slightly different. They're 10,000 of them cute, easy to understand. And they caught on. So everybody's bought them JZ, Serena Williams, Heidi Klum, Snoop dog, and a big part of their value supposedly was that they were among the earliest NFTs anyone ever made. And they were marketed that way as the original NFT, the first NFT, the average price of a crypto punk. When Ken was talking to the guy in Australia, 300 to $400,000, each, each guy in Australia was like, pixel map is a year older than crypto punks.
+
+1 (13m 19s):
+And so
+
+5 (13m 20s):
+There's absolutely no reason why yours be worth even more than that. You're sitting on not a couple of million, most likely several hundred million, unless you keep screwing up essentially. But like he said that with like Australian words, which are less friendly,
+
+1 (13m 37s):
+What were the words he used?
+
+5 (13m 39s):
+Like, you need to stop being a fucking idiot.
+
+1 (13m 44s):
+The guy from Australia said, it didn't make sense to go or pick some apps price at all. Again, crypto punks are selling for $400,000 and Ken was reducing pixel map to a thousand dollars. And the guy in Australia had a prime suspect for who might be benefiting most from this odd behavior for who might be behind all of it. There was a bot, a bot that purchased a thousand, picks them up tiles at the lowest price, and then watch the price double and double again and again and again, the bot, the bot was the biggest owner of pixel map. Whoever was behind the bot made a ton of money.
+
+5 (14m 22s):
+I remember him saying, who do you think owns the buck?
+
+1 (14m 26s):
+Ken's first thought Adam McBride. After I, it was Adam McBride who talked him into doing this illogical thing of lowering the price. But then he thought, did Adam McBride have that kind of money? Like a thousand tiles cost more than a million dollars. So we had another suspect or rich guy, somebody who could be the money behind Adam McBride. And I just want to say, I know this is a very random name to be pulling out of the air and putting into the story. But the rich guy, Ken suspected was the president of the Philadelphia, 76 ERs, Darryl Moray, Darrow, Moray, who very publicly has talked about loving NFTs and who can suspected because Adam showed him that Mario had bought a few tasks of pixel map very early.
+
+1 (15m 13s):
+Like even before Adam relaunched the site officially before Adam told the world about it, How did he know to do that? Maybe he also created the bot to quietly snag, an extra thousand tiles.
+
+5 (15m 29s):
+Like I'm almost turned that is either Adam or Daryl or a combination that got those. I am trying to prove it by good, but like, I don't, I don't know for sure. It's just, literally, those were the only two that would have known that early on because the cells and we're basically right at the very beginning and they had a right to get it. But Adam told me like he was specifically telling me the only way it would work is if I, I sound like a moron by not even saying this, but to lower the price and niggas ML as fast as possible. Like he, he, so
+
+1 (16m 2s):
+I don't want to be, I don't want to be rude, but it sounds like Adam probably asked you to go with a price so he could buy more of them because he knew the price was going to go up.
+
+5 (16m 11s):
+Yes. And he got a thousand of them.
+
+1 (16m 14s):
+So have you asked Adam?
+
+5 (16m 16s):
+No. It so
+
+1 (16m 18s):
+Why not?
+
+5 (16m 21s):
+And basically still playing the stupid card because I'm trying to get proof of it. Like, like there is like 0.0, 1% chance that he didn't do, like, I don't even know how it would be possible. That's not him, but like, I want to know if it's him or if it's him and Daryl or like, who does
+
+1 (16m 38s):
+Ken, can I ask you? Like, like, why be so mad at Adam? You didn't know what you had. He let you know, he made you a millionaire and he's also on the internet making the market for you. He's actually finding buyers for you. He's talking it up. He's making the whole thing happen. Why shouldn't he make money? Like who, who cares? If he gets more? Who cares? If he owns a thousand of them, you own 900 of them and you'll make a lot of money.
+
+5 (17m 8s):
+You sound like my wife. So no, there there's two reasons. One, I gave him a half million dollars as like a thank you because I went full moron. Like, I cannot tell you how bad that sucks. Cause I did that. But like, I I'm just adding that to the story. The other part of that though, was when he was like talking to me the first day, he told me like, I'm not because I was like, there's has to be something in it for you. Like, why would you just do this? Maybe he told me he's basically doing it because he enjoys making people happy.
+
+5 (17m 48s):
+And if I want reward him at the end of it, I can, if not, he just likes to do it. So part of it is him just lying like outright and grabbing the belt.
+
+1 (17m 57s):
+Right?
+
+5 (17m 58s):
+It's more about being like hinges, lying to me. It's just like not nice.
+
+1 (18m 5s):
+It was galling. And so of mind bending that this guy had seemed like such a pal. So supportive could have been playing him for a sucker all along, ripping them off at the exact moment he was making Ken Richard than he'd ever imagined. He'd be, you don't have to know much about crypto to know that it is rife with scams of all kinds can want it to figure out who is behind the bot because he wanted to understand what did just happen to him. Was he like the group who was so naive that he didn't even realize that his pocket was being pecked. What was real and what was not in this new world. And he suddenly found himself in, We agreed to stay in touch.
+
+1 (18m 49s):
+Four days later can text me saying there's news. And we get on the phone. It's September 11th, his birthday. We tried to go to about how it's been kind of a weird birthday to have most of his life, but that's not the news. He also has COVID but it's a mild case. That's also not the news. And so what's new. Well, he's been spending a lot of time trying to understand what's really happening with NFTs, especially with Adam McBride and the guys who buy these historic NFTs. And he's convinced it's pretty ugly.
+
+5 (19m 20s):
+Yeah. It's not like a, maybe like I have proof like Althea, sorry for language fucking fruit. They are doing this actively like w project after project. It's really fucking cool. What they're doing. I don't think it's illegal. Like, like I'm not saying any of it's illegal it's I think it's hugely wrong and unethical, but there's no laws about it. But honestly like, like this is coming from the person that made the second NFT. If I have it right. I don't think they should fucking exist, But I think it's a horrible scam. That's screwing over people. Like the whole thing.
+
+1 (19m 57s):
+Ken said that he sees everything that Adam McBride and his guys are doing because they've kind of adopted him and included him in their chat groups on discord discord. If you don't know, is a chat site out of my first of the guys in his discord group as the apes.
+
+5 (20m 13s):
+And I had no idea when it was other than like a monkey. It's just like people that are ridiculously enthusiastic about NFCS. And when they find out about one, they just like go in and grab them like crazy.
+
+1 (20m 27s):
+That's called <inaudible>. Abe is a word that you actually hear a lot in the end of T world. One big NFT is the board apes yacht club to show me what is so horrible about what Adam's doing. Ken calls me back from his computer so he can share his screen
+
+7 (20m 43s):
+Testing.
+
+1 (20m 43s):
+There we go.
+
+7 (20m 46s):
+Sorry. It took me a while. My microphone wasn't plugged in.
+
+1 (20m 49s):
+This is the moment I see him for the first time. He's clean, cut, short hair, neatly trimmed beard, and the general vibe of the friendliest, most sincere tech support guy in the world for his job. He does video calls in front of a green screen with a really nice microphone. And that's what he has in this call. He goes to open up Adam's discord group and Ft archeologist.
+
+7 (21m 13s):
+Here it is. So this just happened. So at 2:44 PM, like just a few minutes ago, Adam said, all right, everyone, please do not tweet or send this out to anyone. I want to keep this opportunity to this community only. And this is how he always does it. This is what he did with pixel map. I just didn't know the group yet,
+
+1 (21m 33s):
+But I don't think bright is doing right here is he is rowing out another one of these historic NFTs. This particular one is called ether, E T H E R. It was created in 20 18, 2 years after pixel map, like pixel map. Most people never noticed it back when it was created, but now Adam is going to help relaunch it. The way that Adam relaunched pixel map he'll get people to finally pay money for what it basically in this case, virtual imaginary buildings and virtual digital city can. And I read the conversation that's happening in the chat and McBride is telling the apes, let's all buy into this and get out there on Twitter. Tell everybody we know it by it as well.
+
+7 (22m 13s):
+So he's basically saying, go crazy on ether editor. I don't know how to say it.
+
+1 (22m 18s):
+And to make this especially appealing to the apes. McBride says that he has negotiated with the guy who created a therapy to offer a third to his apes at a special, low price quote. Well below what I think they're going to sell for and to get the special ed price. He tells them he's going to hold a live event on discord at 9:00 AM. Eastern time on Sunday, the apes respond. Adam. That's a fantastic opportunity for us all. Thanks for this much appreciated. You're the goat, Adam. Sunday's the next day at 9:00 AM the apes gather.
+
+9 (22m 55s):
+So get ready. It's coming up at any second here. Okay.
+
+1 (22m 58s):
+No. Right there is the voice of Adam McBride in the discord. You hear him, but you did not see him. You see his screenshare as he clicks on various stuff. And to give you a sense of the very happy let's make a deal. Take a look at what's behind the curtain vibe of the whole thing. Here is the moment when he gave 50 of his apes, the chance to sign up, to buy a Thur on the cheap around 340 bucks, he told the apes a sign up sheet was about to go live.
+
+9 (23m 23s):
+I am going to in the next minute or so make that public. And the first 50 of you guys who paste your name in there, we're going to give you a private sale link. So get ready, get your stuff ready. I hope you're all ready right now. So at some point in the next seconds, you guys tell me if you've see that, oh my God, boom. Eight-page
+
+1 (23m 49s):
+The sign up sheet is a beard named start filling in.
+
+9 (23m 52s):
+You guys are fast. I see my man Curio collector got in there. Let's see who else got in the top for sure. Chambers got in their ugly punky. Got in there for sure. Bottom Bali. Nice space Lama. Good to see your brother. He got in there for sure that that's just like, I wanted to have some sort of eight-page possible. I think eight-page is always appreciated and fun, man. I hope you guys enjoyed this. I definitely, I always
+
+1 (24m 28s):
+The other stuff that Adam McBride did, it was effective. It pushed up the price of ether. At some point in this, Ken took me to a site called open sea, which is a big trading platform where people buy and sell NFTs. And we watch as the apes descend from the trees and grab ether.
+
+7 (24m 46s):
+Yeah. So see where it says, see, two minutes, three minutes, four minutes. Let's see the price is going up. It was point like one four or whatever. There's one that just went for 3.9. I guarantee it's going to be going crazy by this evening. It's going to be crazy actually right now you should go by ethar cause like it's about to go up. Yeah. It's like to do that, but yeah, that's about it. That's what's going to happen shortly.
+
+1 (25m 11s):
+I have to save. It's kind of amazing sitting there watching the numbers go up, knowing that this was as close to a shore thing as I would ever get, it was like free money right there, but I didn't buy anything. Okay. Monday the average price of eight, there had risen from $2,000 to $5,000. There's in one day more than doubled our last amended, the 50 apes who signed up on Adam's list, but the special oil price of $340, each of them now on something worth $5,000.
+
+7 (25m 47s):
+A little higher. Yeah. A little bit better.
+
+1 (25m 50s):
+So those guys could just get out and they'll have just made out like bandits already. So what Adam's doing is working,
+
+7 (26m 0s):
+Yes.
+
+1 (26m 2s):
+You just literally like kind of rolled your eyes
+
+7 (26m 8s):
+No matter what. So the reason that I rolled my eyes is because like, it's, it's a zero sum thing. So like someone's making money no matter what. And when they do that mean someone's losing money. And basically the earlier you are the better it is. If you know news before other people, basically, if you're one of these people you're going to make out really well.
+
+1 (26m 33s):
+And lots of other people can believe we'll lose money. What we're seeing in his view is a classic pump and dump something that if he did it in the stock market would be totally illegal. The apes get in early, talk a bit there on Twitter, encourage other people to buy, which pushes up the price. And in a couple of days, when the price is at the highest, they sound taking a quick and sizable profit without the hype, the NFTs price falls and anybody left holding, it takes a beating whose money back today in the months, since that day, when Adam <inaudible>, the price is plummeted. It's now down as low as $900. Some days very different from those early booming days when it was $5,000.
+
+7 (27m 16s):
+And I don't think that many, as many people as you think you're going to make the money, like every apron in here is probably going to do okay, but it's not going to be good for the people outside of it. I'll hop on the train last.
+
+1 (27m 27s):
+And that's what Ken thinks is kind of evil about the world of NFTs, why he thinks they're a scam and shouldn't exist. It's seeing how this made me wonder if any of this is actually illegal and have now talked to a bunch of lawyers about it. Lawyers who deal with NFTs and crypto and security fraud, including two who advise companies that release NFTs. And I described what I saw Adam McBride do in relaunching ether. And all of them told me that NFTs are so new, but it's still pretty vague. There haven't been many lawsuits or much government enforcement in NFTs, but they pointed to two things that could be problematic. Okay. First, if Adam in the apes were pumping and dumping specifically, if they were lying about ether or about their own trading, that would be an issue like if they were going into Twitter and telling people that either is a great investment, we're seeking money into for the long run.
+
+1 (28m 19s):
+But then if they themselves only held onto it for a few days until the price rose and then they sold it, that will be illegal. That would be market manipulation. The second thing the lawyers pointed to transparency is key. If Adam was going out, giving a special price to 50 people to generate buzz and excitement, that is a normal kind of promotion in lots of industries. One of the lawyers says, he said, that could be fine, but the key to that being okay is that Adam would need to disclose it all publicly so that any possible investor can find out that some people got a special, cheaper price Vet him didn't do that. You'd be in danger of some investor, maybe somebody who lost money later, suing him over, holding back that information.
+
+1 (29m 4s):
+Okay. So was Adam crossing the line into illegality with either of those things can still didn't have proof of that either way. That's where the bot that mysterious bot purchased a thousand pixel map tiles. A fourth of all the tiles, Ken started away. There was someone much more sinister and Adam behind the bot one day he texts me panicked about what he's learning about the bot. So scared about it, that he doesn't know if he wants to go on the radio anymore.
+
+7 (29m 39s):
+I guess the short part is just, I'm kind of freaked out. Like it's just, it's, it's, it's so much bigger than what I've like. The body count that I was telling you about is just much, much bigger.
+
+1 (29m 53s):
+He sent me a screenshot that showed that the account had done nearly $2 billion in trades specifically it's 1.8, 4 billion. Since it was created 14 months before,
+
+7 (30m 3s):
+This is not some like normal person. This is like a legitimately smart probably group of bad people. Like it's a very well organized thing.
+
+1 (30m 16s):
+You don't think it's possible that it's just a bunch of investors. Like the group that Adam has assembled around him where it's like a hundred people and together they have a lot of money.
+
+7 (30m 25s):
+Well, I don't think he's sophisticated or like, yes, he might be working for this group or something, but he's not, I don't think he's smart enough to be like this. He wouldn't be doing what he's doing. If he had this much money, this is a totally different league of someone. It could be like the Russian mafia or something. I know that sounds ridiculous. But like, this is only one account. Like people that have that much money and are doing that type of behavior are not into people like blowing the whistle on them,
+
+1 (30m 57s):
+By the way. So he means talking about them publicly on the radio.
+
+7 (31m 1s):
+I don't know. There are no good movies or like the person that plays me makes it to the end and has like a happy life. Like it's usually like the person that's like me gets killed.
+
+1 (31m 13s):
+Wait, there are whistleblower movies with a whistleblower. It makes it to the end and waves.
+
+7 (31m 18s):
+I don't know. I literally don't have, I don't have a fence. I don't have like that offensive stuff. Anything I have like, no, I live in Indiana. I'm probably the only person that doesn't have a gun in the state. Like, like I, I seriously legitimately feel like my name being on a story could result in me, like not existing or like my family. Like I legitimately feel that way, Molly veteran, like that's how I feel.
+
+1 (31m 49s):
+I tell him on the call and later in email that I respect any choice he mags. And of course, it's fine if he drops out of the story, but is he right about that 1.8 billion in trades? Can the bat just be making a ton of trades with a much smaller amount of money, maybe the bats even buying from itself to drive up the price of NFTs. That's something that happens in the NFT world, Kenny, most back does maybe I'm right. Or maybe not that he's getting a new tool that could tell us how much money is really behind all those trades to get decide. If he really thinks to criminal, syndicate, pint all this and get a better sense of how much risk there is for him. But he's getting his software developed by a company called chain analysis.
+
+1 (32m 31s):
+And it's usually used by governments and law enforcement and financial institutions to track. Who's doing what in NFTs and crypto, you could tell what about was buying and selling and to who, what are their accounts and interacted with? I'm talking to the chain analysis people today can wrote me a few days, pass what can use it? The chain analysis tool to look at who bought and sold pixel map tiles, what the bot was doing. And then he texts me. I have lots of updates. I was wrong about pretty much everything, What he found and my conversation with the bot or anyway, the guys behind the bot.
+
+1 (33m 11s):
+That's in minute I'm Chicago public radio. When our program continues,
+
+11 (33m 17s):
+Hey there this American life listeners, I'm Wesley Morris. I'm a culture writer at the New York times. And I co-host a podcast called still processing this season. I invited some of my favorite writers and critics to come talk to me about the culture that shaped us, the changing ways we consume it and why Keanu Reeves is basically a culture unto himself. You can listen to still processing wherever you get your podcast.
+
+1 (33m 49s):
+It's this American life. My reclass today's program, the reluctant Explorer. We have the story of somebody who finds himself in this new world that he never asked to be part of. And he decides to take a look around, to figure out the truth of what is going on. I came along for the ride we're right now in the middle of our story about Ken Irwin and pixel map. And before we go further in that story, I'm thinking that this might be a good moment to explain what NFTs are in a little more detail for everyone. Who's gotten this far in our story and still actually does not know what they are. So, okay. NFTs their images or artwork or video clips, or basically anything that you can post on GYN. The key thing that makes them an NFT is it, someone can say they own it.
+
+1 (34m 31s):
+And ownership is possible because a record of who owns the NFT gets stored on something called a blockchain. And lots of people know what a blockchain is, but lots of people do not. So I'm just going to say the blockchain is a set of computers. They're all over the world. And they all store exactly the same data. And anybody can look at that data. They're like a public ledger that anybody can read. So blockchains store, the records of who owns which NFTs, who owns cryptocurrencies. And right now all kinds of people are inventing all kinds of things to throw up on the blockchain. It's a messy and archaic chaos. Really one end of things. You have like the NBA selling videos of great dunks as NFTs, basically reinventing sports trading cards for the crypto world, very old school, very commercial.
+
+1 (35m 23s):
+At the other end, you had stuff like some people who burned a Banksy print. And then, so the digital copy of the print, like a picture of the print for way more than the original labor cost, that was like a lot of crypto stuff in that it was kind of making fun of the whole idea that anybody would think that the NFT is worth anything. The original Banksy print actually had the sentence as part of the image, quote, I can't believe you morons actually buy the shit. So let's pick up our story where we left off at two in the time of chimpanzees, I was a monkey.
+
+1 (36m 3s):
+So what have you figured out since we last spoke
+
+7 (36m 6s):
+Everything, literally everything. Yeah. Do you want, do you want me to show you like how I found out
+
+1 (36m 12s):
+Ken screen shares may so I can see how the chain analysis software maps somebody's crypto transactions. And I have to say it is a very satisfying chart to look at with dots of different colors and wines and arrows connecting them. It took him days to look into all these transactions, but when he did, he learned for once and for all,
+
+7 (36m 32s):
+Adam
+
+1 (36m 34s):
+Was not the body, The rich guy, he suspected Darryl Moray, president of the 76 years. Also not the bot. So was the bot can start to look at everything that Bob was doing. And he found that whoever made the bot had not covered their tracks complete date. In spite of this one address that the bot sent money to, it was different from all the others.
+
+7 (36m 55s):
+So I got really lucky on this one,
+
+1 (36m 58s):
+Lucky, because he also found the same address on a message board asking for fake ether. Yes. Fake ether program has used fakie therapy to test new pieces of code the writing.
+
+7 (37m 8s):
+You never do this with someone else's address. You always do it with your own. I actually did this with my own.
+
+1 (37m 13s):
+This address led Ken to an account on get hub,
+
+7 (37m 16s):
+Get hub is where pretty much everyone on the planet stores, their source code. There's other competitors, but it's Microsoft owns it. Now. It's wonderful.
+
+1 (37m 27s):
+The GitHub account name is a pretty unusual Nan. And then Ken found a Twitter account with the same name That Twitter user
+
+7 (37m 36s):
+Had
+
+1 (37m 36s):
+To be the bot.
+
+7 (37m 37s):
+And it has like, he has an awesome little avatar. It's a picket shoe with like a little like headband belt thing. And he looks a little angry.
+
+1 (37m 46s):
+Kim reaches out DMS on Twitter.
+
+7 (37m 50s):
+So I said, I'm the creator of pixel map. I would love to talk to you if you have any time. And like, when I type this, I was freaking out. Like I was so excited. Then I said, I'm relatively certain that you bought over a thousand and just wanted to talk with you if you'd be open to that. And that's my smiley, cause I was like, my smiley was like, not freaking him out.
+
+1 (38m 10s):
+Then the guy writes back.
+
+7 (38m 12s):
+So you said, Hmm, interesting. I'm curious. How did you come to this conclusion? Which is like a really good freaking question. So I said, ah, I found your address connected to the bot account on both receiving and sending funds. And then I added another smiley, like to keep it like anyone to think that I'm trying to like threaten him or, you know what I mean?
+
+1 (38m 33s):
+Can I ask the guy how he found pixel map started buying so quickly guy says he saw Adam's tweet
+
+7 (38m 39s):
+This one I Googled.
+
+1 (38m 40s):
+And he asked again, and when
+
+7 (38m 41s):
+I did,
+
+1 (38m 42s):
+How did you find me on Twitter? A little puzzle, smiley Kent explains how he found him.
+
+7 (38m 48s):
+So then I wanted confirmation. Like I want him to validate that I was right. I said, oh, is you, did you get over a thousand, no connection to Daryl or Adam other than his tweet. And like at this point I'm thinking that there is no connection, but I'm just double checking. So he goes, yes, I own a lot of tiles, but don't know who Daryl is. I saw this as a historical project in eight 10
+
+1 (39m 10s):
+After that is very amicable. They chat about collaborating. Maybe someday the guy tells Kenny as a partner that he does all this with it. Doesn't have to get in touch with the partner. And the partner also agreed to talk to me on the condition that I wouldn't give their real names or record their voices. We did a session over zoom, the two guys behind the bot. I was giving in the Mideast, both in their twenties though, when they turned on the camera at one of them said, I know we don't look like them in my twenties. Crypto makes you age faster a week in crypto is like a year it's 24 7. A lot of things happen. They both got into crypto in 20 16, 20 17. One of them was making money, selling digital weapons to gamers for games like Counter-Strike global offensive and started doing a lot of those transactions in Bitcoin.
+
+1 (39m 54s):
+And then Bitcoin blew up. They got into NFTs, well liquidators for decentralized finance sites, which is like being kind of a crypto repo man. They just launched and Ft trading side was around compete with open sea. But the calling Gollum they're big quarter three Kings fans. I asked them about the 1.8, $4 billion in transactions. And they said they have about a hundred million dollars. So they invest with, and they just spend that over and over. They totally nerded out. When we talked about pixel map, like they've decorated a bunch of their tiles. If you go to the pixel map.io website, you can see what they combined a bunch of their tiles to ripe Gollum and some others, right? Donda they're big Kanye fans.
+
+1 (40m 36s):
+This is all. Can I say very different from what can imagine that the bot was controlled by a murderous criminal syndicate by somebody in wake with Adam McBride, trying to swindle him.
+
+7 (40m 48s):
+It was definitely shot him, but it was like, it probably impressed was the biggest thing.
+
+1 (40m 52s):
+Impressed. Cause Ken fan first guys get hub account. He looked at the code he'd written
+
+7 (40m 58s):
+And like looking through his stuff. I was like, this guy has got some good code. Like just like as a developer. He's a good death. Just super impressed. So for me, I don't know. He's like one of my people,
+
+1 (41m 10s):
+Which of course was kind of reassuring in a small world. The monsters we imagine are not real sort of way, but at the same time,
+
+7 (41m 17s):
+I would honestly say like there was some disappointment, which sounds like I definitely did not want to like get attacked by the Russian mafia. But like I really thought that I was going to like blow the cover on this huge, like huge thing. I thought that was going to be a super cool.
+
+1 (41m 36s):
+Yeah. There was something, there was something exciting about the thought of like, I'm going to uncover a massive criminal syndicate
+
+7 (41m 42s):
+Or at least like the president of the 76 years. Yeah. Like that that's a cooler story.
+
+1 (41m 56s):
+Okay. So it's the box, not Adam and doesn't have anything to do with Adam. What was Adam's angle? Why did he insist on lowering the price of picks him up so much? Was he pumping and dumping pixel maps and other NFTs? Did he know that Ken suspected him of being this two phase mastermind up to no good.
+
+9 (42m 15s):
+Never. I had no idea. Literally no idea that he was suspecting me.
+
+1 (42m 20s):
+This of course is Adam McBride. And we talked, I went into detail about all of the things that Ken had suspected him of. I read him quotes where Ken said that there was 0.01% chance that Adam wasn't deliberately ripping him off. Adam seemed truly amused by this.
+
+9 (42m 35s):
+It's just crazy, man. It's crazy. But you know, I get it. I understand his thought process. Like it makes sense. But at the, I mean, when I hear it, it's shocking. Like I wouldn't have even thought about doing that.
+
+1 (42m 50s):
+Surprised where I'm going to talk to Adam that Adam got hooked on NFTs only six months before he put Kevin into that world. Basically what happened is March of last year, a bunch of these quote unquote historic old NFTs were rediscovered and started making tons of money.
+
+9 (43m 5s):
+I mean, it just like, it flipped a switch in my brain like holy cow, it was literally like, oh my God, there's gold. Get your shovel go dig because there's gold there. All you gotta do is go find it
+
+1 (43m 17s):
+For the next four months. He says he spent 10 hours a day searching for other early NFTs, like Googling phrases, like digital collectibles, blockchain, art, blockchain, collectibles. He found 15 or 20 old NFTs. It seemed like they might work. But most of them, he says there was some problem in the original programming or whatever. They made them unsuitable Saturday. He did find a few that were suitable. And then he and a friend found pixel map. And from the beginning they thought it would be a big hit if they could just convince its creator to lower the price. And the reason that they go with it so much. Well, by that point, Adam had a little experience
+
+9 (43m 54s):
+And the only the one NFT relaunch, I failed out, we set that price too high. And if it failed,
+
+1 (43m 60s):
+Which one was this?
+
+9 (44m 1s):
+It's called a <inaudible>
+
+1 (44m 2s):
+People didn't buy enough of
+
+9 (44m 3s):
+Them. They didn't buy enough of it.
+
+1 (44m 5s):
+So he made his best guess for pixel maps price. And it worked out better than any NFT he's done before or since it just went nuts.
+
+9 (44m 12s):
+Yeah. It was a rocket ship. I mean a complete rocket ship.
+
+1 (44m 15s):
+How many tiles did you buy?
+
+9 (44m 17s):
+Three. I'm an idiot. I'm an idiot. You know, it's funny because I wasn't looking, I was more looking for, you know, the fame and recognition than the money. I don't even know what to say. Like, yeah. It was just like, it was more about like, look at McBride. He rediscovered this. This is awesome.
+
+1 (44m 40s):
+Okay. To be clear, he did make a half million dollars off this, the money that can handle them as a thank you. But he didn't know that it was going to happen. Usually he says the NFT creators give him nothing and nobody's giving him close to this much. He does want to make money in NFTs. But what Adam McBride also wants just as much it seems is that he wants to make historic and FTS like a thing, get them respect. Great. A much larger community. That's into them. That's his angle. If he succeeds. Yeah. He'll make money on all the historical NFTs that he owns personally. But it's also now become kind of a personal mission for him. He wants historic NFTs to be remembered and valued.
+
+1 (45m 21s):
+And for that reason he's not pumping and dumping with his own NFTs. Like there's no dumping, he's still holding onto his tales of pixel map. And the other historic NFTs he's launched can actually looked at Adam's transactions with the chain analysis tool and confirm that in all the transactions that he could find, Adam buys a few NFTs of each of his projects. And the basically just holds on to them as for the other big feature of a pump and dump scheme deception. I couldn't find any examples of Adam lying about the NFTs he promotes or making false promises about how much money people would make when it comes to the other concerns of the lawyers that I talked to about Adam and the way they live release that NFT ether, two 50 of his apes at a special, low price, just to remind you, they said basically, if people were getting a lower price, Adam needed to disclose that to the world, to anybody who might be considering buying a Thur.
+
+9 (46m 20s):
+Well, I actually do do that. Like with ether, it was on Twitter before we did any sort of like giveaway or opportunity. Anybody could have joined that discord. Anybody could have got it in. We wanted more people in.
+
+1 (46m 34s):
+That's not true at all. After we talked, I went back and looked at Adam's tweets from back then. And he never tweeted about the fact that you could get a really low price on ether by coming to this event, whether he had held the event at all. In fact on discord, he was saying to his followers, things like do not tweet or send this out. I want to keep this opportunity to this community. Only keep it on the down-low. He did mention the giveaway on a post that he did on medium after it happened. So we got back on the line.
+
+9 (47m 6s):
+They are, how are you doing?
+
+1 (47m 7s):
+I'm doing good. How are you doing
+
+9 (47m 10s):
+Pretty good memory is a funny thing. Isn't it? Oh, the webs we weave with our brain, man. It is funny.
+
+1 (47m 20s):
+He told me that when he went back and looked at what happened with ether, he realized back then he saw a chance to use the discounted NFTs, to reward the people in his discord, which he calls the alpha discord.
+
+9 (47m 31s):
+Even though it's a public community, anybody can join it. At that point in time, it was like, people were like, why are we in the alpha discourt if we're not getting any alpha,
+
+1 (47m 40s):
+Alpha in the EFT world means special information, Intel stuff. Everybody else doesn't have yet. Right?
+
+9 (47m 46s):
+Why are we here? If you're not going to give us some like awesome info, right? And so this, I was trying to reward people who had been, who were in there for awhile.
+
+1 (47m 55s):
+He told me that this was all in the spirit of creating a larger community of people who value these historic NFTs. In general, I have to say the fact that Adam did not think to disclose this special giveaway that he did for the apes just shows how much he and so much of the NFT world is just making it up. As they go along. Everyone is still figuring out what laws are going to apply to them. Like there was this moment when I was talking to Adam where I told him exactly how much disclosure the lawyers thought would be smart for him to do to avoid lawsuits. And it was news to Adam.
+
+9 (48m 26s):
+No, it's good. It's good advice. And I, I, I hear it. I think I've acted appropriately. I think intention matters. So I feel pretty good about what I've done.
+
+1 (48m 40s):
+Well, that's what all the criminals say,
+
+9 (48m 45s):
+Well, we'll see, come visit me in jail. IRA, will you please come visit me in jail?
+
+1 (48m 58s):
+It's not going to have here. Since my initial phone calls with Ken half a year, he's been traipsing around the NMT world that he found himself transported to. And he's acting more and more like a local, not exactly an APN, but definitely more ape tolerant. And if these don't seem so evil to them anymore, in fact, the exact thing that he thought was so terrible and MTS that get hyped, everybody piles on as the price rises and then people sell and take a quick profit, leaving lots of losers in their way. He's now speculated like that himself made money on a few things, lost money on others. He says with those NFTs, with most entities, he thinks actually everybody knows the price is going to go up for a little while and then crash.
+
+7 (49m 40s):
+And everyone knows that. And everyone's just trying to time it
+
+1 (49m 43s):
+Time when they'll sell,
+
+7 (49m 45s):
+If you time it right, then you do pretty well. And it's, it definitely feels like a, like a game sort of like the more I am in the space, the more it feels like we're all kind of advocacy. No. And there's no, because there aren't any rules. It's fair. Everyone is doing this type of thing. And I don't think there's anything morally wrong with it. Okay.
+
+1 (50m 9s):
+Oh my God, listen, you are so different than you were.
+
+7 (50m 14s):
+Maybe I've been corrupted.
+
+1 (50m 16s):
+What changed him? Exactly. The whole NFT world started to look different to him. The moment he realized he wasn't being scammed. Suddenly it didn't seem like he'd landed in a dark woods for thieves trying to take advantage of him.
+
+7 (50m 27s):
+Yeah. The reason why I was so angry until that point was I thought that it was like an house. Like they had been lied to by Adam this entire time. And then to find out that like, like he actually did a really good job of relaunching it and he actually was helping me.
+
+1 (50m 45s):
+Right. So you realize like, oh wait a second. Oh no, this stranger actually did something good for me.
+
+7 (50m 50s):
+Yes. And he literally didn't charge me like, yes, I tipped him, but I know if he never existed. And I somehow knew that I should relaunch pixel map and like, let's sit, I would not have done as good of a job. Like I had no idea anything like that is not my skillset. Yeah, no. He, he was like, legit.
+
+1 (51m 13s):
+Can I also met a bunch of developers like him who weren't scammers. They were just buying an FTS for fun. It's like he found his people and the whole NFT world seemed less ominous. Not that he thinks very much of most NFTs, 99% of them. He thinks were pretty much junk. Either intended as junk to make a quick buck or just misconceived ideas in the first place. I'll tell you, this is not an unusual opinion. It was interesting to me that the biggest NFT enthusiasts that I talked to for this story, people who really love NFTs, they pretty much agreed with that. Adam McBride says 99% of all NFTs where he is today will probably end up being worth nothing. He says the most people probably should not get into NFTs right now.
+
+1 (51m 55s):
+The bad guys put the number at 90% worthless. I read that one of the big NFT mobiles, Gary Vaynerchuk predicted the 98% of NFTs would lose money. Ken's life. These days, he's still in the same house. He was before all this Victorian with turquoise shutters and gnomes and trinkets. And doxins everywhere. He's paid off the mortgage with his pixel, that money bought himself a nicer computer and fancy sports car that now he thinks he's going to get rid of paid over a million dollars in taxes. I was like, is most of your money still in ether?
+
+1 (52m 35s):
+There's price goes up and down. And they explained that now he's converted more than half of it into regular us dollars for safety SIG. But he said that having all that money hasn't really changed much in the day-to-day way. He's working more than ever. He said, except now it's all on pixel map. I feel like you're in this weird situation where most of your working life, you are actually doing things and developing code for big companies. You know, Amazon and Snapchat and people would use the code. Like it would do stuff all over the world. And then this thing that you build, that's completely useless.
+
+7 (53m 9s):
+I hate you.
+
+1 (53m 11s):
+That doesn't contribute to society.
+
+7 (53m 14s):
+Well, you don't realize is I have been contributing to pointless causes my entire career. So like when I worked at Salesforce, it was to help make sure that on black Friday you get spam emails from best buy and every other company. And that's like, so,
+
+1 (53m 30s):
+So are you saying like this idea of like before you were a productive, contributing member of society,
+
+7 (53m 36s):
+Whatever, there was never a productive member,
+
+1 (53m 38s):
+But like, do you think about the fact that like, like the thing that made you rich is this thing that doesn't,
+
+7 (53m 45s):
+It's very odd that I've written probably like a million. I don't know how many lines, but a lot of lines of code and pixel methods, 70 lines. So is very odd that 70 lines that I wrote for fun. Yes. It was very odd. It feels, I think the best way I can describe it is it feels like I found a cheat code, like in a game, but for real life, like you type in the thing. And then all of a sudden, like your bank account, isn't an issue. It's very odd.
+
+1 (54m 22s):
+The time he spends working on pixel map every day. A couple of hours of that is chatting on descope with people who are on tiles, but with sucking up, most of his time, kids designing a video game for the pixel map site is paying a musician and artist and game developer and a project manager and doing lots of coding himself. He's always wanting to make a video game. And now he has the luxury of being able to spend as much time as he wants doing that. He knows this video game is not going to make him any money, but he just likes making stuff. That's the impulse that led him to create pixel map in the first place.
+
+13 (55m 15s):
+Where am I? No body speaks to me. Please. All give a gentle side as I wonder.
+
+1 (55m 33s):
+Well, the program is produced today by Michelle Navarro David Kestenbaum, the people who put together today's show include on a baker. Chris Benderev, Susan Burton's, Zoe chase, Sean Cole, Michael comma, Mickey Meeks, Don Nelson, Catherine Raymondo at least Spiegel. Robin Semina was the ship barster Chesky. Christopher saw Tyler, Matt Tierney, Julie Whittaker, and Diane Wu, our managing editor, Sarah Abdurrahman, our executive editors, Emmanuel Perry special. Thanks today to Kevin Roose, Timothy. Massive. How Jackson, Matt Levine, Aaron kind Smith of Ventura, Chris Crawford, and a bunch of people in the NFT world who asked not to be named, but who knows who they are this episode right now is our last episode with one of our longtime producers, Robin Semyon. She's been here for nearly 15 years, produced so much memorable stuff, including our live show at bam and what may be my favorite episode.
+
+1 (56m 15s):
+We ever done 129 cars about a car dealership, trying to make it to monthly quota gymnast at Peabody. With her episode, anatomy of doubt. She's a force behind the scenes here too. She will be very much missed she's off to create a new podcast series. As you've been thinking about for years, I definitely know Albert listening, our website, this American life.org. You can stream our archive of over 750 episodes for absolutely free. Also there's videos. There's lists of favorite programs. If you're looking for something new to listen to, there's tons of other stuff there again, this American life.org, this American life is to go to their public radio stations by PRX, the public radio exchange X is always your programs.
+
+1 (56m 54s):
+Co-founders Tory Maori TV, you know, before he got into radio, he worked for years as a field biologist who was actually Jane Goodall's assistant for a long time, but she fired him because whenever they would sneak up close to a pack of chimps he'd yell,
+
+9 (57m 9s):
+Oh my God, boom eight-page
+
+1 (57m 12s):
+I'm Eric Glass back next week with more stories of this American life Next week on the podcast for this American life, there were Ukrainian war refugees who flew to Mexico. I've been to cross the border at Tiguan and to the United States. We visited their shelter with another refugee woman from Mexico who is also trying to cross and staying in a different shelter.
+
+16 (57m 51s):
+Seriously. I don't believe it
+
+1 (57m 54s):
+When it's hard to believe what is right in front of your eyes. That's next. We can podcast on your local public radio station.

@@ -1,0 +1,254 @@
+1 (2s):
+Every fall, the FBI releases data on crime, what's happening, where it's happening, how often it's happening. They
+
+2 (8s):
+Have data, they have it monthly, they have it annually, they have it going back to 1930. And for nerds that look at crime data like me, it's, I hate to call it the Super Bowl of crime Data.
+
+1 (20s):
+Baked into that data is another number, the solve rate, which is exactly what it sounds like. It tells us how well the police are doing their jobs. This year, when the data dropped, analysts noticed something troubling and puzzling about the solve rate. It's fallen since 2019.
+
+2 (36s):
+It wasn't just murder that was having a decline in clearance rates, but it was really across the board to some of the lowest levels ever reported for every crime.
+
+1 (47s):
+We try to find out what's happening. Coming up on today explained
+
+Fetch Pet Insurance (1m 2s):
+Your pup deserves the very best, the best food, the best dog bed, the best medical care. With Fetch, Pet, Insurance, you can use any vet in the US or Canada and get paid back up to 90% on unexpected vet bills. Fetch Pet Insurance is the most comprehensive insurance for dogs and cats and covers more types of injury and illness than most other providers, including sick visit exams and breed specific issues. Get a fast and free quote at Fetch Pet dot com slash Vox.
+
+Atlassian (1m 35s):
+Support for this show comes from Atlassian. Atlassian. Software like Jira, confluence and Trello help power global collaboration for all teams so they can accomplish everything that's impossible alone, because individually we're great, but together we're so much better. No matter If, you're a team of two, 200 or 2 million Atlassian software keeps everyone connected and moving together as one towards shared company goals. Learn how to unleash the potential of your team at Atlassian dot com. That's A-T-L-A-S-S-I-A n.com Atlassian.
+
+5 (2m 16s):
+This is today explained.
+
+1 (2m 21s):
+Jeff Asher is a data analyst in New Orleans. Jeff's specialty is criminal justice agencies and every autumn, he looks forward to getting his mitts on the uniform crime report that the FBI releases. Within that report, as we said, there are numbers about the solve rate,
+
+2 (2m 37s):
+More or less. It means percentage of cases solved. So if your agency solves a murder from last year or from 1972, that's counted as a this year clearance in the numerator, the denominator is just the number of murders that happened this year, or the number of robberies that happened this year. So there's some weirdness, but it, it more or less is the percentage of of crimes that are solved in a a given year.
+
+1 (2m 60s):
+And the data shows that the solve rate is at one of its lowest ever levels.
+
+2 (3m 5s):
+That's correct, And. you kind of have to divide the data into the sort of unbelievable 1960s and 1970s and the last 30 years or so. So in the sixties and seventies, agencies tended to report implausibly high levels of clearance rates. So frequently you'd have 90, 95, a hundred percent of murders from an agency that's reporting a hundred murders solved every year. But
+
+6 (3m 35s):
+So
+
+2 (3m 36s):
+Many, and it's kind of not certain why that is, but the best guesses are basically that pre-and arrest standards were really low.
+
+7 (3m 46s):
+Do you even know the Miranda rights? You have the right to remain silent. Very good. You have the right to remain silent. Now what else?
+
+8 (3m 51s):
+Anything I say may be used against me in a court of
+
+7 (3m 54s):
+Law. That's true. You're doing great. You have
+
+6 (3m 57s):
+The right to an attorney.
+
+2 (3m 59s):
+You got really high robbery and auto theft and all of these, these crimes that now are being solved much less frequently were being reported at much higher levels of clearances decades ago. So things kind of, they, they came down in the seventies and the eighties and they kind of hit a plateau. And generally clearance rates in the nineties, two thousands and 2010s have been stable. The violent crime clearance rate throughout the mid nineties was around 45%. And in 2019 it was 45%. So we've seen, you know, every year it goes up or it goes down and, and there's certainly fluctuation, but it's something that for the last few decades has generally been relatively stable,
+
+1 (4m 43s):
+Generally been relatively stable. And if it were generally relatively stable until 2023, I don't think we'd be talking to you. What did you notice in the data that made your, your kind of hair stand up?
+
+2 (4m 55s):
+The first thing I look at is the murder clearance rate. And the murder clearance rate fell from 60 plus percent in 2019 to just 52% in 2022.
+
+9 (5m 6s):
+Barely half of the murder cases in the United States in fact end up being solved. The national homicide clearance rate is at an all time low, and that's according to FBI data.
+
+2 (5m 16s):
+That's a really large decline considering in the early two thousands it was at that 60 something percent range. It was reasonably stable at that range for a long time. And then you saw this big decline, it really declined. Declined 7% in 2020.
+
+6 (5m 33s):
+It has never been this bad. During the last seven months of 2020, most murders went unsolved and that's never happened before. In America, we
+
+2 (5m 42s):
+Don't really have good 2021 data, that's a whole different story, but we do have good 2022 data. So it went from 54% to 52% in 2022. So then I started looking at other crimes and for all violent crimes, the clearance rate went from almost 46%, 45.5% in 2019 to 36.7% in 2022. The same thing happened with property crimes, which are solved significantly less frequently. Property crime went from a 17% clearance rate to a 12% clearance rate from 2019 to 2022. And so you look crime by crime, every crime has seen really a nosedive in the last three or four years.
+
+2 (6m 25s):
+And so it's alarming, not because it's so much lower than it was in 1960, but because it's so much lower than it was in 2019 And, you saw relative stability for decades and that's really been interrupted.
+
+1 (6m 39s):
+Okay, so then the question becomes what happened between 2019 and 2022? What do you attribute this to?
+
+2 (6m 45s):
+Well, that's an excellent question and it's very easy to describe the trend. It's much harder to explain the trend. All we can really point to is that there was a substantial decline beginning really in the summer of 2020. So we can relate it to everything that's happened in American criminal justice, in policing and attitudes towards police. Since the murder of George Floyd in May of 2020,
+
+11 (7m 17s):
+I'm tired of my black man and my black woman being
+
+12 (7m 20s):
+Shot. It was the worst thing I've ever had to witness in my life to watch a man die on television. No human should have to die this way.
+
+2 (7m 31s):
+What the exact mechanism is there? What the exact cause is there, I think is really difficult to explain. It's probably something that criminologists will be trying to figure out for decades.
+
+1 (7m 43s):
+I think, Jeff, that people are going to sort of knee jerk ask the question, are police officers, are police departments getting worse at what they do? What do you think about that?
+
+2 (7m 57s):
+I think that's a very difficult question. and I don't want to describe a profession in sort of generalities and a professional performance. One, we ask police to do a lot of things and solving crime I think logically makes sense that that If, you were to design what your law enforcement does. You would say, oh, well solving crime is gonna be, you know, the top or one of the top three things. But in reality we ask police to do so much that solving crime, even murder tends to take a backseat to other tasks. So I think it's hard to say, are police doing worse?
+
+2 (8m 38s):
+Are they performing less effectively because of specifically clearance rate data that said, it is important and, and clearly these things are falling. So it's hard to say whether or not you'd put the, the lion's share of the blame on the police performance. Or is it community trust and community relations, which is leading to fewer people coming forward, leading to fewer witnesses, leading to less evidence being collected, which makes it harder to solve these cases. I think it's really hard to say. You're also seeing throughout a lot of agencies, police officers leaving resignations
+
+13 (9m 12s):
+In retirements are a concern nationally.
+
+14 (9m 14s):
+We've had more police officers retire this year at this point than we have in the last 30 years. Just last year we saw a 60% decrease in the number of applications around the nation to become police officers. And we know it's gonna be far worse this year.
+
+2 (9m 27s):
+The majority of big cities, a hundred thousand or more had fewer officers in 2022 than they did in 2019.
+
+15 (9m 35s):
+I was making a six-figure salary as a police officer. Most officers in big cities make six figures. It's very hard not to, right? It wasn't worth it. Right. Politicians, counselors, police experts that have never done the job, We will tell you how police need reform. Police need education, police need to deescalate, police need to learn better, police need to talk better, but they never talk about the culture of violence that police face every single night.
+
+2 (9m 59s):
+And so If, you have fewer officers, you have fewer resources to dedicate to solving crime, which means lower clearance rates. And we do have lots of research that shows that. And it, it makes logical sense. The more resources you dedicate, the more officers that are working on solving cases, the better your clearance rate's gonna be.
+
+1 (10m 17s):
+Okay. So again, causation, correlation, it's up in the air at this point. You've said people will be looking into it. But one of the things we factually can say is that police departments, and tell me if I'm wrong here, Jeff, police departments since 2019 have shrunk. There are fewer police officers across the country. Is that right?
+
+2 (10m 39s):
+The best data that we have from the FBI suggests that yes, we don't have 2023 data, but yeah, seven of the 10 agencies over a million people that reported how many officers they had to the FBI in 2019 and 2022 reported fewer officers in 2022 than 2019. Those are the big cities like New York, Chicago, Los Angeles, all these departments lost officers over that span. And then you had smaller declines the smaller the agency gets, but for the most part, the majority of agencies lost officers, especially sort of mid and big agencies.
+
+1 (11m 17s):
+I read your piece in the New York Times and then I read the comments below. Did you do that at all?
+
+2 (11m 23s):
+No, I, I'm a firm believer in never read the comments.
+
+1 (11m 25s):
+Okay. Fair play. Well, I read them this morning and what I saw was a lot of this since George Floyd was murdered, people don't trust the police, they don't respect the police, they don't want the police around. There have been calls to eliminate police departments entirely. What do you people expect? you know, speaking to speaking to the broader public, you are a data guy and I understand that. But I'm wondering, If, you have any thoughts about this? I don't know how widespread the belief is, but there does seem to be a belief in this country that we stopped respecting the police in 2020 and that's the problem. What do you think about that?
+
+2 (12m 2s):
+I tend to like to deal in sort of the hard numbers rather than sort of more vague concepts. We do have polling that shows that trust in police has fallen over the last few years.
+
+16 (12m 15s):
+31% of Americans have little to no trust in police officers. A 2021 Pew Research Center poll found,
+
+2 (12m 24s):
+But I don't think it's necessarily just police. I think we see that with a lot of public institutions. It wasn't something that you can kind of point to one answer or people in one place did one thing and that's the cause. I think it's a big national effect, which suggests that I do think that there's some value in, in the sort of broader idea that community trust in policing may have fallen post George Floyd. But I think that's something that's very difficult to measure and very difficult to understand in the concept of falling clearance rates.
+
+1 (12m 58s):
+So what are police departments doing to try to handle these challenges?
+
+2 (13m 3s):
+The smart departments I think are investing in civilians. Civilians are are easier to hire. They're less expensive, they're easier to put on a bunch of tasks
+
+17 (13m 14s):
+Like helping with paperwork, background checks or interviews. These wouldn't be sworn positions and they wouldn't be able to make arrests
+
+2 (13m 20s):
+And they free up officers. So If, you hire a civilian, they can take calls over the phone, they can respond to non-injury traffic accidents.
+
+18 (13m 30s):
+Typically our officers would bond with two officers to any type of vehicle incident. And now with our BM a program, they are able to respond just one officer and a bmap volunteer, which frees up that other officer to respond to other pressing needs within the city.
+
+2 (13m 47s):
+They can help be civilian investigators
+
+19 (13m 51s):
+By 11:00 AM Civilian investigator, Kathleen Noriega has already been out on a few calls. Noriega writes up a report, gathers evidence, and then looks for prints back at the station.
+
+2 (14m 2s):
+This is, they're not gonna go out there and, and make an arrest and carry a badge and a gun, but they can collect evidence, they can assist in the investigative process. I think that that's probably the most promising solution because your solutions are one, hire more officers so that you can put more resources into investigations. And it's just really hard to do that right now. It's not something that a lot of agencies are succeeding with. Or you can hire civilians, which is a lot easier and a lot cheaper and a lot faster. And it's a sort of, I think a common sense no duh solution to a really difficult problem.
+
+1 (14m 39s):
+Jeff Asher, crime data analyst. So how might police respond to the suggestion that they're not doing their jobs as well as they once were coming up, we call the cops
+
+SimpliSafe (15m 0s):
+Support for the show today comes from SimpliSafe. It's gonna be a new year pretty soon. And If you looking to make a resolution. Have you considered protecting your home? Protecting your home from who knows burglars. Protecting your home from porch pirates, protecting your home from natural disasters. All of these can be done with SimpliSafe SimpliSafe. Advanced sensors cannot only detect break-ins, but fires, floods, and we'll attempt to get you help as soon as possible with their new exclusive 24 7 live guard protection monitoring agents can actually see and speak to intruders in your home to try and stop them in real time. Who knows, maybe you'll even become friends with your monitoring agents. No guarantees there. Guys. Keep your home and family safer than ever in the new year as a listener. You can save 20% on your new system with a Fast Protect plan by visiting SimpliSafe dot com slash today. Explained. Customize your system in just minutes at SimpliSafe dot com slash today. Explained, there's no safe like SimpliSafe
+
+Atlassian (16m 14s):
+Support for this show comes from Atlassian. Atlassian Software like Jira, confluence, and Trello help power the collaboration for teams to accomplish what would otherwise be impossible alone. Because individually we're great, but together we're so much better. That's why millions of teams around the world, including 75% of the Fortune 500 trust Atlassian software for everything from space exploration and green energy to delivering pizzas and podcasts. Whether you're a team of two, 200 or 2 million, or whether your team is around the corner or around another continent altogether, Atlassian software is built to help keep you all on the same page from start to finish. That way every one of your teams, from engineering and IT to marketing, HR, and legal can stay connected and moving together as one towards shared company-wide goals, learn how to unleash the potential of your team at Atlassian dot com. That's A-T-L-A-S-S-I-A n.com. Atlassian
+
+My Life of Crime with Erin Moriarty (17m 16s):
+Join me 48 hours correspondent Erin Moriarty on my podcast, my Life of Crime as I take on true crime investigations like no other. This season I'm looking into the labyrinth of crime and secrets within families. I'm cutting straight to the evidence and talking to the people directly involved, including investigators and the families of victims. Listen to my life of crime with Aaron Moriarty. Wherever you get your podcasts,
+
+0 (17m 47s):
+What are your prime directives?
+
+21 (17m 49s):
+Serve the public trust, protect the innocent uphold.
+
+0 (17m 53s):
+Explain.
+
+22 (17m 55s):
+My name is Edgardo Garcia, although I go by Eddie Garcia. I'm the police chief of the Dallas Police Department.
+
+1 (18m 2s):
+Alright, chief Garcia, we're chatting today because of an annual FBI report that comes out in the fall. One of the data points in that report has to do with the solve rates for violent crimes. And this year what the data suggests is that that solve rate fell from about 46% to about 36.7% since 2019, meaning fewer violent crimes are being solved. What do you think is happening here? What do you think is causing this drop?
+
+22 (18m 31s):
+One thing that we have to say that, you know, to solve a violent crime is not easy. I mean it's not an easy task. And as departments face staffing shortages, the number one responsibility of any police department is to answer the nine one one call for service. I know that there are other chiefs as, as am I, that are very reticent to move bodies out of patrol as that's the number one priority of any department. And so you have amazing detectives do an amazing job that are working a lot that they're, you know, they're overworked in some areas as departments face, you know, you know, obviously with the backdrop of staffing, you know, we always look at at patrol, there's no question about it.
+
+22 (19m 11s):
+But you know, most of us also have a lot of holes to fill in our detective bureaus. And so that, that is one of the major issues I believe that that of if some agencies are seeing drops in their solve rates, I believe we could start there.
+
+1 (19m 25s):
+Why do you think you're having staffing problems? Personnel shortages?
+
+22 (19m 29s):
+What is often not talked about is really in these last few years, beginning in 2020, honorable police officers have not felt supported.
+
+23 (19m 39s):
+We have this constant vilification of the profession. People are constantly being told that police are the problem, police are dangerous.
+
+22 (19m 49s):
+They have not been felt supported by at times or community.
+
+24 (19m 52s):
+The law enforcement should be held at a higher accountability than a normal person because you're there to uphold the law.
+
+22 (19m 59s):
+They haven't felt supported by their administration at times and they haven't felt supported by their city governments. Oftentimes,
+
+25 (20m 6s):
+I think I just kind of fell outta love with the job. I was working 12 plus hour days, the days off canceling and shift changes kind of seemed to become the new norm.
+
+22 (20m 19s):
+There's probably not another profession of honorable men and women and I say honorable because I'm not gonna sit here and tell you that every police officer deserves to wear this uniform. They do not. But most of our men and women that are working this profession are honorable men and women. and I don't, I don't care what field you go into If, you don't feel supported if, if If, you don't, if people don't honor the work that you do in sacrificing your life every day. you know, I I I don't know if there's many other professions that have had a defund movement that's going to have an impact on honorable men and women joining any profession. Hmm. Much less law enforcement. That's important.
+
+1 (20m 57s):
+What do you hear specifically from officers? I imagine you sit And, you talk to them, And you are alluding to a couple of things. Some, some, you know, some real issues that have arisen since 2020. The nation goes through an uprising. We see calls to, you know, abolish the police altogether. We see slogans like a c, a B, I won't of course say what that means, but people know. When, you sit with officers and they tell you it's harder. What are the specifics? What are they talking about?
+
+22 (21m 25s):
+I started 32 years ago, and I'll tell you what, being a police officer 32 years ago is different than it is today. There's a lot more on officer's plates, quite frankly. Officers are asked to do too much to deal with a lot of the social ills that are impacting crime and officers wanna get compensated fairly. They feel they're overworked oftentimes. And so those are some of the issues that I hear. But one of the disconnects that I really believe is occurring now, and I and I say this because I'm not a stay in the office chief. And so a lot of this division is not being driven by neighborhoods. There's not a neighborhood in the city of Dallas.
+
+22 (22m 5s):
+and I can speak for my other colleagues as well, regardless of language spoken racial makeup or economic status that I have ever heard the words we wanna see less of you. It never happens. Hmm. And in fact, oftentimes it's our communities of color that plead with me. For more officers. I have invited people to come to community meetings with me where they will hear my community, let me have it if they're not seeing patrol officers and presence in their neighborhood. And oftentimes it's our most vulnerable communities, and it's not often, but sometimes they'll accuse police departments of providing more police services to other more affluent areas than the areas of need. And so there's, there's a real big disconnect and I think people need to get out of their offices and, and go into neighborhood meetings with police chiefs to hear the same information that I hear at every community meeting that I go to.
+
+1 (22m 58s):
+I think the reason that FBI data struck a chord chief Garcia is that there is a sense in this country, in parts of this country that police have stopped doing their jobs. Even If. you understand why you kind of feel like the police are doing less now if morale is low, that certainly can happen. Do you think there's any truth to the sentiment that police are pulling back because they feel overworked, they feel disrespected and they feel like doing this job is, is just gonna get you in trouble? I mean, what are you hearing?
+
+22 (23m 29s):
+You hit the nail on the head. That is absolutely an issue. They want to ensure that when chaos ensues, that they're gonna be judged fairly. And one of the dynamics, if the pendulum swings too far, oftentimes officers will feel, is this worth it? Listen, I'll tell you this, proactive policing is absolutely necessary. I can make an officer answer a nine one one call for service that I can do. But I can't make officers be proactive. And the only reason honorable men and women will be proactive is if they feel supported. So when officers don't feel supported, when they don't have morale, what it causes oftentimes is a community to go to their corner, the police go to their corner, and yet there's no one in the middle keeping us safe.
+
+22 (24m 14s):
+And those are things that not just come from my officers or other people that I've spoken to, but that comes from community members themselves. And so certainly that exists. you know, we have a crime plan here in the city of Dallas and, and I often say as I go around the country and I talk to individuals about what we're trying to do different in Dallas with a crime plan, the first thing that I say to people is, please do not screw up a perfectly good crime plan If, you don't have your finger on the pulse If, you men and women don't feel supported. If they don't feel they're gonna be treated fairly. Once chaos ensues, there's no crime plan that's gonna work. So your point is 100% valid and that's something that we need to work hard on.
+
+1 (24m 54s):
+What do you think it's gonna take to turn this around?
+
+22 (24m 57s):
+It takes strong leadership. It takes strong support from city government. I have a very supportive city council, which absolutely is necessary. I have an incredibly supportive city manager and quite frankly I have arguably the most supportive mayor of public safety I think there is in the country, quite frankly. And it starts with that. It starts with great community trust and great community understanding. We have to build the department. We can't lose sight of the fact that we need to grow. Nothing will ever amount to having a human being sitting in a desk, sitting in a patrol car offering that and provide that service. So we need to grow and solve rates will then increase by that.
+
+22 (25m 40s):
+And to your point, 90 to a hundred percent on all is definitely something we should strive for. Not necessarily realistic. There's several reasons communities don't speak to us. One of the reasons is lack of accountability in the system and keeping criminals and violent criminals in custody. We have witnesses in the city of Dallas that fear for their lives when they come forward only to see the individual that they came forward to be a witness against. To see them back on the street does not lend to credibility in the system. And it certainly doesn't make them feel safe when they come forward. So we have that to worry about, which is a humongous issue. We need accountability and, and that's, and that's hugely important that trust the community has in its police department will, will have people come forward to speak to us about what's occurring because we can't solve these crimes alone oftentimes, you know, the community is not a monolith.
+
+22 (26m 33s):
+Obviously we have to get better a profession. There's no question about it. But in my experience in nearly 32 years and now going into the new year, I'll be in my ninth year as a police chief, whether in, in California, here in Dallas. Our communities have never and still do not want us to go away.
+
+1 (26m 52s):
+That was Dallas Police Chief Eddie Garcia. Today's episode was produced by Haddi Mawajdeh and edited by Matthew Collette. Laura Bullard is our fact checker and David Herman is our engineer. Special thanks to Chief Art Acevedo of the Aurora Colorado Police Department for his insights. And to Brian Higgins at the John Jay College of Criminal Justice. I'm Noel King. It's today explained.

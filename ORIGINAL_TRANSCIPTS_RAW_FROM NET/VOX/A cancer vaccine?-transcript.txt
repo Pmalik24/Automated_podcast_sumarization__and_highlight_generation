@@ -1,0 +1,224 @@
+0 (1s):
+For the longest time, cancer vaccines were a pipe dream.
+
+1 (5s):
+So it was too risky a strategy for such a powerful immune weapon. And so we had to, for the entire history of cancer, we had surgery, chemotherapy, and radiation therapy, basically treating it like a monster, trying to destroy Godzilla without destroying Tokyo in the process.
+
+0 (26s):
+But in the last few years, there's been a sea change in the thinking around treating cancer
+
+1 (32s):
+And that's really opened up the field of immunotherapy and the possibility of, of treating cancer like any other disease, including through vaccines. And that's what we're seeing here in this study.
+
+0 (42s):
+Scientists at Memorial Sloan Kettering in New York City just released the results of a clinical trial on a pancreatic cancer vaccine, and the results could be a game changer. The potential of cancer vaccines coming up on today explained support for the show today comes from into the mix of podcasts from Ben and his buddy Jerry, about Joy and justice produced in partnership with Vox Creative as state legislatures consider more than 500 anti-trans bills. The latest episode of Into the Mix asks how you can best support and protect transgender youth.
+
+0 (1m 23s):
+You can find into the mix now and subscribe
+
+2 (1m 28s):
+A live action remake of The Little Mermaid Hits theaters this week with the Black Princess Ariel, which good, right?
+
+3 (1m 37s):
+It is very much giving the skin of diversity but not the root of it. It doesn't feel fully integrated into the movie
+
+2 (1m 48s):
+Disney and Black Princesses and the Racial Politics of Fairy Tales. This week on Intuit Vultures pop culture podcast
+
+0 (2m 10s):
+Today explained Sean Ramos from here with two qualified individuals to help you understand a clinical trial for a pancreatic cancer vaccine. The first Charles Graber, I'm
+
+1 (2m 21s):
+An investigative journalist and author most recently of a book called The Breakthrough Immunotherapy and the Race to Cure Cancer.
+
+0 (2m 28s):
+And the second is the chief scientist behind the study. Dr. Vera.
+
+5 (2m 34s):
+I'm a surgeon at Memorial Sloan Kettering Cancer Center. I take care of patients with pancreatic cancer and I also run a laboratory here where we're trying to find new ways to use the immune system to fight pancreatic cancer.
+
+0 (2m 46s):
+We ask the good doctor why pancreatic cancer. Pancreatic
+
+5 (2m 49s):
+Cancer is a deadly cancer, soon to become the second leading cause of cancer death in the United States by 2025, second only to lung cancer. And part of the reason for this is because the current treatments that we use for pancreatic cancer, which include surgery, chemotherapy, and radiation, are largely ineffective. And despite these best treatments, survival rates for pancreatic cancer patients remain only around 12%. So really pointing to an urgent need for new treatments for pancreatic cancer.
+
+5 (3m 34s):
+The simple question that we started with was 88% or so of pancreatic cancer patients died despite their best current treatments, but a rare 12% or so do not. And they receive essentially the same treatments as other patients, but they have really exceptional long-term survival. So in these long-term survivors, we think their immune systems are able to recognize their own cancers in a very strong way that we think helps them survive this long. So the question then led to what is the immune system actually seeing? And by understanding what the immune system was seeing, could we now teach other patients immune systems to recognize their own cancers in a similar way that these long-term survivors recognize their cancers?
+
+1 (4m 21s):
+In the case of pancreatic cancer, which is part of what makes it such a remarkable target for an immunotherapies, it's always been considered to have not a lot of mutations. Some cancers have a ton of mutations that make it look really different, like cancers that come from toxins are damaged, so like skin cancer with a lot of UV damage to DNA or kidney cancer or lung cancer, those have been strong targets for immunotherapies. But pancreatic cancer was not considered that.
+
+5 (4m 54s):
+One of the critical components of the immune system that recognizes cancers is this cell that is called a T-cell. A T-cell is a unique immune cell in the human body that protects the human body against a variety of threats such as viruses, bacteria, and cancer. And the T-cell does this by recognizing new proteins that it recognizes as foreign. And then if it sees a new protein, it essentially kills a cell that has this new protein.
+
+1 (5m 27s):
+These T-cells were just designed to see only those neoantigens, only the proteins, which you can think of like the brightly colored clove on a Christmas ham kind of thing. Some of those proteins were unique, they're just looking for those.
+
+5 (5m 40s):
+So in these long-term survivors, what we found is that in their bodies, T-cells are able to recognize mutations in their cancers as foreign and turns out that these proteins are individual to every single patient's tumor. Hmm. So in order to make a vaccine, this would need you to make a vaccine that is individual for every single patient. Wow. We started the idea for this clinical trial in 2017 with a company that was not as well known at the time called BioNTech, that is based out of Germany. I I've heard of them.
+
+6 (6m 19s):
+So BioNTech is run by two scientists who happened to be married to one another, but it was sort of this small little known German company that was known to be working in cancer drugs using messenger r n a, to try to fight cancer in this really cutting edge way.
+
+5 (6m 34s):
+So we a vaccinated 16 patients in this clinical trial. This is a small phase one clinical trial. The primary endpoint of this clinical trial was safety, meaning we designed the number of patients that we would test in to make sure the vaccines are safe. The way we do this clinical trial is we do surgery on patients here in New York.
+
+1 (7m 1s):
+So these are all folks that had pancreatic cancer. It's a solid tumor. They remove as much of the mass of the tumor as they can surgically,
+
+5 (7m 7s):
+And then within 72 hours we ship the tumors to Germany to colleagues in BioNTech.
+
+1 (7m 13s):
+There are a lot of differences between the tumor and a normal body cell. They identify that the differences that are going to be the most obvious to that individual's immune system, the immune system, which is sort of the, you know, the Robocop a hundred killer of bad guys in in the body. They have to give them wanted posters for what to look for,
+
+7 (7m 34s):
+Come quietly or there will be trouble.
+
+1 (7m 37s):
+That's how a vaccine works, essentially in the form of antigens
+
+5 (7m 40s):
+Who then make a bespoke vaccine for every single patient.
+
+1 (7m 45s):
+So they figure out the best targets and they code those
+
+5 (7m 49s):
+And then ship the vaccines back to us. And then we treat the patients here in New York,
+
+1 (7m 54s):
+They re-inject those in the patient and within the body, those instructions basically serve to show the T-cells, the killer cells that robocop cells in the in the body. What they're looking for,
+
+8 (8m 7s):
+Excuse me, I have to go somewhere. There is a crime
+
+1 (8m 12s):
+Happening. It's like a, they've given them a bunch of wanted posters. Not only that, they've included the instructions for the body to make more wanted posters. So now your body starts cranking out, wanted posters activating this entire army. Hmm. In fact building a clone army of killer T-cells that are just designed to be able to identify target and kill exactly that cancer cell based on those, what they're called neoantigens, the unique proteins expressed just by your tumor and not by normal body cells. Cancer's incredibly personal, obviously not just the experience of having it, but, but cancer itself, these are mutations that arise on your own cells in your own body.
+
+1 (8m 54s):
+So my cancer's gonna be different than your cancer and your immune system is gonna be different than mine in subtle ways. And the tumor is gonna be mutated in ways that are slightly different. So these are personalized vaccines because they have to be personalized because cancer's personalized. So
+
+0 (9m 12s):
+You're saying that each individual in the 16 person study was given a vaccine tailored to their particular pancreatic cancer, their individual singular thumbprint, pancreatic cancer.
+
+1 (9m 27s):
+That's right. The thumbprint of their pancreatic cancer, what makes it unique and different from their normal body cells was identified. The aspects of that difference that their individual immune system would best recognize and be able to weaponize were also identified. And that information was combined to make a personalized vaccine that was unique for that individual. Which makes this, I mean like science fiction stuff, first of all, incredible. It also makes it obviously expensive. The
+
+9 (9m 57s):
+Price tag you guys for this initial small trial, $100,000 per dose, so per dose, obviously per dose. Holy
+
+0 (10m 7s):
+Smokes.
+
+1 (10m 7s):
+And this is the thing about breakthroughs is that they're exciting and obviously this is just promising it's phase one, early days, small cohort, but a breakthrough that doesn't apply to everybody because you can see that financial disparities are going to come into play and that maybe not everyone's going to have access to the best new stuff. That's not really a full breakthrough. And so that's, that's yet another barrier. I have to really consider this a promising proof of concept. Well,
+
+0 (10m 32s):
+How did it go? I mean, how did this vaccine work for the 16 people who got it?
+
+5 (10m 38s):
+What we found is when we give these vaccines to pancreatic cancer patients, we see that these vaccines are number one, they're safe. Number two, they're feasible, meaning you can make fast vaccines individualized for cancer patients in real time. But interestingly, what we also found in these patients is that the vaccines were able to teach patients immune systems to recognize their own cancers in eight of 16 patients. So 50% of the patients, the vaccines were able to teach their own immune systems to recognize their own cancers using mRNA vaccines.
+
+5 (11m 21s):
+So
+
+1 (11m 22s):
+Half of the patients didn't have a response. What was supposed to happen is a T-cell army geared specifically to identify target and kill cancer cells, those specific cancer cells. It didn't arise, but in the other half it did happen. You had a T-cell army, a clone army built up. In fact, in some cases when they measured the T-cells, they found that as many as 10% of the T-cells in circulation in the bloodstream at that point were oriented towards finding cancer. If it showed up again, if a tumor regrew. And they found that in that group that did respond, that did have the T-cell Army build up and trained on those wanted posters they'd injected and created in the body.
+
+1 (12m 3s):
+There was no relapse of pancreatic cancer. Hmm. And in the other half there was within 13 months. And so, you know, again, small cohort, early days, phase one, but it's not designed for results like this. It's just designed to test safety. But patient outcomes are, are hard to ignore, especially when you get no incidence of disease after 13 months. It's really exciting. Cool.
+
+0 (12m 25s):
+I'm excited. This is exciting. I love it. It's contagious. I mean, not in like a disease way.
+
+1 (12m 31s):
+Hopefully not. Yes, It is really exciting. I mean, this is the fruit of the breakthrough that happened only a few years ago and in a way that very few people understood it. It's the basis of the Biden Moonshot. It's the thing that cured Jimmy Carter's brain cancer. You know, he had it and you thought, oh, he's old and he's got brain cancer. Well that's, you know, that's that. And then he didn't. And those were all immunotherapies. And it's all based on an understanding counter to everything that everyone in medical school was taught until very recently. That cancer can be seen by the immune system, can be killed by the immune system.
+
+1 (13m 13s):
+And you just have to learn to take the brakes off the immune system, the brakes that, that cancer applies to the immune system. And then you can successfully target. We were never going to cure cancer with the war on cancer as it was cut. Poison and burn didn't include the immune system. And you were never gonna cure a mutating tricky disease like cancer with things that don't mutate, basically. And now the scientists I speak to talk about this as a penicillin moment. Hmm. In our war against cancer. It's that big of a deal. And so these vaccines are an example of what happens when you, when you actually believe that it's possible. And so start looking and funding directions that were previously closed to, to funding cuz they seemed like crackpot ideas when you didn't believe it was possible.
+
+0 (14m 4s):
+What this penicillin moment might mean for other cancers when we're back on today. Explained Support for the show today comes from into the mix of Ben and Jerry's podcast about joy and justice produced with Vox Creative. Their most recent episode focuses on transgender kids and their families who are feeling increasingly under attack by conservative lawmakers.
+
+0 (14m 48s):
+In 2023 alone, lawmakers introduced more than 500 bills in 49 states that target gender affirming healthcare and other legal protections. In response, some families are leaving their home states and moving to places like Vermont that they view as more hospitable. That's what happened to Vera, a fifth generation Texan who left her home state to protect her nine year old child. Vera's family moved outta Texas last year after governor Greg Abbott directed state agencies to start defining gender affirming healthcare for transgender kids as child abuse. After arriving in Vermont, Veris as her family found community in an unexpected place, one created four and by l g BT Q Kids hear that story on the latest episode of Into the Mix.
+
+0 (15m 35s):
+You can subscribe now.
+
+10 (15m 39s):
+After I got the biopsies, I did another mammogram and I had to have my shirt off. And I was standing there at the machine and the technician said, oh my gosh, you have such a flat stomach, what are you, what is your secret? And I was like, oh, I'm dying.
+
+0 (15m 56s):
+He explained his back with science journalist Charles Graber, who reminded us that cancer vaccines are not a new idea.
+
+1 (16m 3s):
+No, they're really old. What's brand new is that they're working. The idea of cancer vaccines is not a new one because it's a disease. And you know, we've had vaccines for over a hundred years. So the idea that you could possibly make a vaccine against cancer, why not? But the, the immune system and cancer didn't seem to interact the way the immune system works with other diseases. And for that reason, it was believed that, yeah, you can't use the immune system, you can't weaponize or, or help the immune system to fight cancer. It's just, it doesn't work that way despite that. Some people kept on trying to make vaccines. The most basic version of a vaccine is, you know, you basically take the disease, chop it up, put it in a blender, and so it just is a series of parts or you kill it or make it really weak and you reintroduce it into somebody's system, you inject it into them.
+
+1 (16m 54s):
+So the immune system gets a sneak peak at, at what the enemy might look like if it ever shows up. And it can train on those weak diseases or the dead pieces of the diseases to or to identify them. That works with a lot of disease. But it, a couple problems with it. One, it, it can be dangerous to inject a disease into someone that doesn't have it, even if it's a weakened disease. And two, we didn't take into account some of the countermeasures that diseases have to foil the immune system. The mRNA stuff is really the game changer here. If Covid had an upside beside, you know, improving our ability to do jigsaw puzzles and binge watch
+
+0 (17m 38s):
+Sourdough bread,
+
+1 (17m 39s):
+Sourdough bread has really, you know, benefited from the pandemic for sure, toilet paper companies. But the technology that leapt forward in order to meet that challenge as quickly as possible, this mRNA technology, everything came together at the right time. Our ability to sequence genomes, to be quickly read what the blueprints of of cells were and to make that into another blueprint that we can reinject, that was really the basis of, of the Covid vaccine. And the difference there is that, you know, the, the Covid virus has these unique spikes, hence the Corona thing. Those spikes, you know, instead of giving the the immune system the whole virus, you just give them the spikes.
+
+1 (18m 23s):
+You just basically send in the working blueprints to code for those spikes. Say, Hey body, make a whole bunch of these spikes. Train your immune system on recognizing those spikes. You see anything with those spikes, nail it and then you've got this whole army ready, ready for that. And then it shows up and they're there in numbers and all trained up. So we just did the same thing here with cancer. So
+
+0 (18m 44s):
+What's new here isn't the idea of a cancer vaccine. What's new here is that we have mRNA technology that we can apply to a cancer vaccine. That's
+
+1 (18m 54s):
+Part of it. What's new is that we understand the immune system and cancer better and differently than we ever have before. So the, the idea of a vaccine isn't new, this approach is new. And there are also some other new drugs that we have that we can use alongside this stuff. Things that block cancer, secret handshake help prevent the cancer from applying the brakes to the immune system or trying to trick it into not attacking. We can dampen those and, and help go around them. We just basically didn't understand the disease. We thought we did, but we really didn't. And we definitely didn't understand the, the immune system, which is, it's like the deep ocean of biology.
+
+1 (19m 35s):
+It's incredibly complex and weird.
+
+0 (19m 37s):
+Do you think if these types of vaccines, cancer vaccines, these bespoke sort of customized individualized cancer vaccines that use mRNA technology can be produced at scale one day in the near distant future, that they could sort of transcend the amount of skepticism people had towards mRNA technology in the Covid vaccines? I
+
+1 (20m 0s):
+Think they're always gonna be flat earthers that essentially are opposed to sending genetic directions back into your body full stop. And, you know, armed with a little bit of science and a basic misunderstanding, I think there's always going to be skeptics and hand waivers. However, when it comes to cancer, it feels like people can dismiss covid as the flu and whereas cancer is not regarded that way and it really, really isn't that way. So I feel it, it'll be treated differently. But your, your question about scaling is really interesting and you know, you can see a, a future where it's really easy to, to genotype your tumor and your normal body cell because you just stick it into a machine that does that.
+
+1 (20m 45s):
+And really easy to then create the, use an AI program to figure out the best neoantigens, the best targets within the differences between your normal cells and, and your mutated cells to target. And then code that back into something, a fatty thing and just, you know, crank it out in your local pharmacy in, in one machine, you go in, you get your biopsy tumor is sent in along with, along with your normal body cells and you end up with this stuff that you can get at your Walgreens or something. Or if they figure out, okay, everybody's different and the everyone's gonna need a different one, but not really. Everyone's gonna need a one. You only need maybe 500,000 different variations and we've got 'em all ready to go.
+
+1 (21m 31s):
+So you're number 3, 5 7 8, 9 B. Okay, that's the one we're going to get and it's ready to go. You just programmed that in. You can imagine that's what's going to happen in the future. Scalability seems inevitable to me. It's bespoke now because it's new, you know, and it'll always be customized, but it'll be sort of like, you know, if you can order a suit by just taking pictures of your body and sending it in and have it be a customized suit and you don't have to go to Salva Row or Hong Kong or something, I, I don't see why we shouldn't be able to do that with vaccines in the near future.
+
+0 (22m 7s):
+How will this eventually compare the idea of treating cancer with vaccines to the existing cancer treatments? We have chemo and the rest immunotherapy
+
+1 (22m 18s):
+Taking the breaks off the immune system when it comes to identifying and killing cancer combined with killing the cancer and conventional physical means. You know, that actually turns out to be a really effective combination. So what we'll probably see in the future is more of what we're seeing now, which are, are combinations of approaches. Not one totally supplanting the other, but a series of of strikes in different directions that are compliment each other. The experts I do speak to have been really firm in their belief that cancer should be looked at as a curable or chronic disease in the future, which is to say one that you manage but isn't a death sentence.
+
+1 (23m 2s):
+I wouldn't wanna speculate, but I think that what cancer looks like in 10 years is going to be markedly different. And in 20 years I would expect all that science fiction George Jetson projection stuff that we were talking about with making vaccines by just plugging in numbers and ordering them up to be commonplace.
+
+0 (23m 23s):
+I'm excited for it, you know, I'm here for it. Can, can I start smoking cigarettes again because I'll eventually have a treatment for it.
+
+1 (23m 29s):
+No, totally. Yeah. Bring, bring it on. Right?
+
+0 (23m 36s):
+I need the cigarettes to deal with all the other maladies and then I need the vaccine to deal with the cigarettes.
+
+1 (23m 45s):
+Yeah, no, it's, it's, it's really hopeful and really exciting. I mean, the reason I wrote the breakthrough, the truth is it really is the most exciting medical development in our lifetime and most people don't understand it or realize that we're there, that something fundamental has changed. You know, cancer science has cried wolf on this stuff for generations, sometimes for good reasons, sometimes just outta hype. So I think we're immune to it until we actually see someone we know personally cured by it or we get it ourselves. But it's really thrilling and I don't wanna say this one study with one phase one clinical trial, the small cohort is the thing that gives us that excitement, but I had that excitement already.
+
+0 (24m 28s):
+Cool. Well thank you for helping us understand it today, Charlie. I really appreciate it.
+
+1 (24m 32s):
+Well thanks for being as excited about it as I am. This is really cool stuff.
+
+0 (24m 46s):
+Charles Graber, his book is The Breakthrough Immunotherapy and the Race to Cure Cancer. Thanks also to Dr. Veno Bales Shrin at Memorial Sloan Kettering Cancer Center in New York City. Aviche Artsy produced today's show with help from Matthew Collette, Laura Bullard and Michael Rayfield. I'm Sean Ram. This is today Explained. Don't Smoke cigarettes. Kids, you'll smell like an ashray.
+
+0 (25m 42s):
+Support for this show today has come to you from into the mix of Ben and Jerry's podcast about joy and justice produced with Vox Creative in state legislatures across the country. Lawmakers are considering bills that could limit transgender kids access to healthcare, and in some cases classifying gender affirming care as child abuse. Some families are leaving their home states and moving to places like Vermont that they view as more hospitable. The latest episode of Into the Mix tells the story of one family's exodus. You can subscribe to hear the latest episode of Into the Mix.

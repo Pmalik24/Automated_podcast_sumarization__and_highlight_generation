@@ -1,0 +1,254 @@
+0 (1s):
+Reddit. It's the nearly 20-year-old social media platform that looks a lot like it did when it launched Rare in the social media world. Now Reddit is going public and reportedly offering shares to some of its most dedicated users. you know, these users,
+
+1 (18s):
+Thanks to Reddit, GameStop shares had a gigantic day at one point rallying as much as 145%.
+
+0 (26s):
+They are not taking it well.
+
+2 (28s):
+Easiest short ever.
+
+0 (32s):
+It's the first social media company to go public since Pinterest in 2019 and a lot is riding on it.
+
+4 (39s):
+If this does well, if Reddit shares rise after the IPO, I think you probably will see a number of other companies following suit.
+
+0 (46s):
+Can it survive? Its IPO ahead on today. Explained
+
+BetterHelp (55s):
+Support for today explained comes from BetterHelp. We'd all like to find an extra hour every day for the things that really matter. Therapy might be able to help you suss out what is most important and prioritize it, and BetterHelp can make the entire process convenient and painless. You can fill out a brief questionnaire and get matched with a licensed therapist and practically no time at all. Learn to make time for what makes you happy with BetterHelp. You can visit BetterHelp dot com slash explain today to get 10% off your first month. That's better. HE p.com/explained.
+
+Shopify (1m 29s):
+This episode is brought to you by Shopify. Forget the frustration of picking commerce platforms when you switch your business to Shopify, the global commerce platform that supercharges your selling. Wherever you sell with Shopify, you'll harness the same intuitive features, trusted apps and powerful analytics used by the world's leading brands. Sign up today for your $1 per month trial period at Shopify dot com slash tech, all lowercase. That's Shopify dot com slash tech.
+
+0 (2m 4s):
+It's today explained. I'm David Pierce filling in as host today. My normal job is at the Verge, the tech site in the Vox Media Network and over there we've been thinking a lot about Reddit. Our guest today, Claire Duffy is not a big redditer.
+
+4 (2m 17s):
+I'm not a big redditer David. I use it in like very
+
+0 (2m 19s):
+Specific, but she does know a lot about it. She's been writing about the company's planned IPO for CNN business where she covers tech. One of the great things about Reddit, she says even the lurkers can win. Yeah,
+
+4 (2m 30s):
+I found a really great avocado stand in New York City on Reddit. That's my most favorite Reddit find ever.
+
+0 (2m 35s):
+I love that. So from avocado stands to IPOs? Yeah, this is now the Reddit story. I asked her to take me all the way back to the beginning.
+
+4 (2m 43s):
+Yeah, so I mean Reddit is sort of like the purview of the chronically online Reddit's core Reddit is this platform made up of a bunch of different message boards or forums, these communities called subreddits. And there's a subreddit for like nearly every topic. Everything from news and sports to memes, cat pictures, travel, video games. There's sort of something for everyone there. Reddit said in its IPO filing that it now has more than 100,000 of these subreddit communities. And then the homepage of Reddit is sort of this collection of the most popular posts and discussions from across all the various communities. And sort of from the beginning, Reddit was founded in 2005 by college roommates, Alexis Hanian and Steve Huffman.
+
+4 (3m 26s):
+The same year they graduated from the University of Virginia and they talked about wanting to make Reddit sort of the
+
+6 (3m 31s):
+Democratic front page of the best stuff on the web. You find some interesting content, say Ted Talk, submit it to Reddit and the community of your peers will vote it up if they like it voted down if they don't, and that creates the front page. It's always rising and falling, always changing.
+
+4 (3m 43s):
+It was the originator of the Ask Me Anything, the A MA, which is now sort of a model for engagement across the internet. Meanwhile,
+
+7 (3m 50s):
+President Obama took to the internet yesterday for an ask Me Anything chat on popular site, Reddit
+
+4 (3m 56s):
+Perennial favorite, am I the asshole? Am I the A-hole has now become sort of a form of internet storytelling that's taken on a life well beyond Reddit. I think one of the most well-known Reddit communities, especially over the past couple of years has been Wall Street bets. There's a
+
+1 (4m 9s):
+Video game retailer that's not doing a lot of business. Right now just OC coupled in value
+
+4 (4m 14s):
+This community of retail investors on the platform who, who really caused market upheaval by buying up shares of GameStop,
+
+1 (4m 21s):
+On Friday GameStop was worth $43 a share. Now a share of GameStop is worth more than $347. Running
+
+4 (4m 29s):
+Up the stock price to hurt hedge funds would bet against the stock. And in the process sort of popularizing this idea of meme stocks, which I think now again has taken on a life beyond Reddit. And in that process many people lost money. But it did help draw attention, I think, to the huge power that Reddit communities can have. 2005, the year Reddit was founded was the same year that the Facebook was renamed Facebook
+
+8 (4m 53s):
+Drop the the just Facebook. It's cleaner. Nice.
+
+4 (4m 57s):
+It was the first year that the first YouTube video was uploaded and it was before Twitter now called X even existed. So Reddit really is one of the sort of original social networks.
+
+0 (5m 6s):
+What is it about Reddit that has kept it different and it's community different from some of these other platforms that we've seen explode over time?
+
+4 (5m 15s):
+Yeah, I mean I think one of the really sort of unique things about Reddit is that, you know, it has some overarching content moderation rules, but each of these smaller subreddit communities has their own sort of rules of engagement and user moderators who enforce those rules. And so it has this really engaged core user base, people who are spending a lot of time not just posting there and consuming content, but actively sort of engaged in community there. And I think that that has made for a really loyal user base, although it's much smaller than some of its other competitors. So
+
+0 (5m 44s):
+All of that is happening over what, 15, 16 years before Reddit even starts to make noise about going public. What do we know about Reddit's business both kind of then and now? How does this company actually make money?
+
+4 (5m 57s):
+Right, so Reddit primarily is an advertising based business. Like most of the other major social platforms, it's still much smaller than most of its competitors. Although according to this prospectus, it's growing pretty quickly. The company said that its sales reached $804 million in 2023 up 21% from the prior year. So pretty solid growth numbers, but
+
+0 (6m 16s):
+That's like, that's big but not nearly in the like Facebook range of things, right? Yes.
+
+4 (6m 20s):
+Okay. Yes. Yeah. Well below Facebook, in fact even below Snapchat, Pinterest like these other sort of smaller players in this space. Then on the flip side, Reddit has yet to actually turn a profit in its nearly 19 years of existence. The company lost more than $90 million last year and it did point to this in the prospectus as a risk factor. It said that it has a history of losses, And, we may not be able to achieve or maintain profitability in the future if
+
+0 (6m 46s):
+There is the risk factor. That seems like probably something to start.
+
+4 (6m 50s):
+And you know, it's interesting timing too because we're in this moment where I think investors have become sort of less interested in buying companies that are these flashy big names with high profiles but aren't actually making any money. I mean, I think WeWork really sort of changed the interest in those high flying companies with its failed IPO in 2019, WeWork
+
+9 (7m 10s):
+Was one of the world's most highly valued private companies, but after its failed IPO, it's running low on cash and it may not have enough money to last the year.
+
+4 (7m 19s):
+It will be interesting to see what the response to this looks like. I have talked to analysts who said that it's not a deal breaker that Reddit's not making money. They just have to convince investors that they have a way of monetizing all of these users.
+
+0 (7m 31s):
+Okay, so lemme just make sure I have all this straight Reddit doesn't make any money, is much smaller than most of its competitors, has been around a long time and doesn't necessarily seem to be trending towards changing any of those things and is now going public. Do I have that? Do I have that basically right?
+
+4 (7m 47s):
+That's about right. Yeah, I mean, I think Reddit might say that it is trending towards making money. It's lost less money last year than it did in the year prior, but it's still not making any money.
+
+0 (7m 56s):
+Okay. So what is Reddit doing here to make up for that? What, what how? How Reddit can a Reddit IPO get, do you think?
+
+4 (8m 5s):
+So the company has a few other revenue streams that it's trying to grow. It talked about in the perspectives, trying to make it easier for users to make money on the platform from other users through things like tips, which the company could take a portion of it's also indicated that it plans to grow its revenue by selling data to AI firms to train their large language models. Reddit announced a deal with Google to train AI models using its data. It's reportedly a deal worth $60 million. And one of the other interesting things we learned from this prospectus is that OpenAI, CEO, Sam Altman is a major investor in Reddit. And so I think that might point to the fact that there may be potential for this company here to do more of this AI data licensing. I don't know how popular that's going to be with users to have their data used to train AI models, but I mean you certainly can see why the front page of the internet would be a useful thing to use to train AI models.
+
+4 (8m 56s):
+Totally,
+
+0 (8m 57s):
+Yeah. Talk to me about the user base here because in in, in all of these communities, I suspect there are a lot of people who are gonna feel a lot of feelings about Reddit going public and trying to make a lot of money on the back of essentially them having fun with their friends online. What do Reddit users think of the IPO?
+
+4 (9m 14s):
+Reddit users certainly are not afraid of letting the company know how they're feeling.
+
+0 (9m 18s):
+It's an understatement sometimes I think
+
+4 (9m 20s):
+Based, based on what I've seen. I mean some people seem to be excited about the possibility. Some people seem to be nervous about some of these potential lines of business that the company is talking about. But one of the unique things that Reddit is doing here is making it possible for a selection of its users, most loyal users to buy shares in this IPO Reddit,
+
+10 (9m 39s):
+Which was valued at $10 billion in a fundraising round in 2021. Despite being unprofitable says it will reserve an undetermined number of shares for 75,000 users who will get the opportunity to buy them before the stock starts trading an advantage usually reserved for high net worth investors and clients of the underwriting banks. Reddit
+
+4 (10m 2s):
+Has sort of said here we have these really loyal users, we've built this business on the backs of their engagement And. we want to give them an opportunity to participate and to make money here.
+
+0 (10m 11s):
+Does that feel like the right move from Reddit? Reddit obviously has this incredibly unusual experience of dealing with its community and its community like you said, has been very mad at Reddit many times over. Do you have a sense of this, whether it's gonna work or not for Reddit as it goes through this?
+
+4 (10m 28s):
+It's an interesting sort of risky bet. I think on one hand you have this community that has indicated, I mean you look at Wall Streete bets, this is clearly a community that's interested in investing, it's interested in participating in these kinds of deals. However, I think you have some users already questioning the business model in particular, this move to license data to AI companies.
+
+11 (10m 49s):
+It's content. What content did Reddit the company create? These are our ship posts,
+
+12 (10m 55s):
+Don't get me wrong. I'm happy Reddit is getting paid, but are people actually aware that their content and thoughts are being monetized in this way?
+
+13 (11m 3s):
+Where can I put a claim in for my share of the payday?
+
+4 (11m 6s):
+And so you can see how this could be risky. I mean, again, companies usually want to sell their IPO shares to institutional investors. They don't want their stock going up and down dramatically right after the IPO, but retail investors in general are more prone to selling. And then for Reddit users especially, I think there's this question of whether they'll have sort of a conflict of interest if they've also bought shares, will they push the company to make moves that are in the best interest of users but not necessarily in the best interest of the business? I think that's the thing that Reddit is going to have to grapple with, but I think they've made it very clear that they're willing to do that even for users who don't end up buying shares in the IPO.
+
+4 (11m 48s):
+The company has said that now, once it's public every quarter going forward, it will give users the opportunity to submit questions for consideration to be answered during the quarterly earnings call, which again is usually only open to retail investor analysts. So I think the company has seems to be willing to live with its users and die with its users. If this doesn't go well, I think that it's accepting that risk here.
+
+0 (12m 14s):
+That was Claire Duffy at CNN Up next. The risk for Reddit
+
+Noom (12m 33s):
+Support For the program today comes from Noom who would like to remind you that your body is like no one else's. Your body is a snowflake and they wanna help you with your snowflake according to Noom. They build a plan specifically for you based around psychology and biology even helping you understand why you might crave that one specific food at the same time every day. I've never craved the same food at the same time every day, but maybe Vox iss, Sarah Frank has Using Noom. I liked how easy it was to get set up and I liked their super friendly features that allowed me to track and input my workouts, goals, moods, and stress levels every day. You can stay focused on what's important to you with Noom psychology and biology based approach. Sign up for your trial today at Noom dot com. That's NOO m.com
+
+Wondery (13m 28s):
+Support For this episode of Today Explained comes from the Wondery podcast Wiki Hole. Do you know when Crystal Pepsi was discontinued or what was in Al Capone's Vault? Did you know he had a vault? Do you know which famous meteorologist is Lenny Kravitz's second cousin? If not, what are you doing? You're not spending enough time on Wikipedia clearly, but that's okay because you can learn about it on the new podcast. Wiki Hole from Smartless Media host Darcy Cardin leads you down the craziest rabbit holes on Wikipedia. Her comedian friends join her. They bring the cyber frontier directly to your tympanic membrane. And if you listen to Wiki Hole, you know what the Tympanic membrane is. Wiki Hole is a hyperlink rollercoaster starting out on one Wikipedia page and then going from link to link to link careening through links until it gets somewhere. You can follow Wiki Hole on the Wondery app or wherever you get your podcasts. You can listen to Wiki Hole ad free by joining Wondery Plus in the Wondery app or on Apple Podcasts.
+
+14 (14m 35s):
+Hey, before we get back to the show, here's something fun today explained is going to South by Southwest in Austin this year. I'm interviewing Charlemagne, the God host of the Breakfast Club. We're gonna talk about President Biden's problem with black voters. Polls, also vibes and EC data suggest that that black men are growing more interested in Donald Trump this election season. What's going on? I'm hosting a special live show on March 10th on the official Vox Media podcast stage at South by Southwest, sponsored by Atlassian. The stage is also gonna host live episodes of Stay Tuned with Preet on with Kara Swisher. Where should we begin with? Aire Perel, Brene Brown will be there. What and other shows from the Vox Media Podcast Network.
+
+14 (15m 16s):
+If you can't make it to Austin, I completely understand. You can hear my interview in your podcast feed on Monday, March 11th to Radio Hosts, Charlamagne, and Noelle. For the price of one, it's gonna be great. Visit Vox media.com/live to learn more. That's Vox media.com/live.
+
+16 (15m 35s):
+You know what? There was some weird guy on the forum recently, the forum. Yeah, it's a chat room for people who like to talk about eating human beings, but definitely won't act on it. Wink. Yeah, it's hosted on Reddit, obviously
+
+0 (15m 48s):
+Today explained. I'm David Pierce filling in his host Today we're back this time with John Herman, tech columnist at New York Magazine. He recently wrote a piece called Can Reddit Survive Its IPO. I asked him what he meant by that.
+
+17 (16m 1s):
+Well, I, I've been following Reddit for a really long time and I've been using Reddit for longer than I've been reporting on it. And it is an unruly, often disagreeable platform. There is no change there that doesn't get some sort of backlash or some sort of response. And here we have a situation where Reddit is first offering some users a chance to buy into its IPO. And then over the long term as a public company giving much broader set of users a chance to buy into the company. And I think what this does is it potentially escalates the kinds of conflicts that they could end up having with their users who in, you know, in many cases won't just be users, they'll be part owners.
+
+17 (16m 42s):
+So I don't know, it's never been an easy place to run. It has thwarted numerous leaders over the years. User uprisings have occasionally resulted in executives stepping down. It doesn't seem like this will lower the temperature in, in the types of conflicts that Reddit inevitably ends up happening. Well,
+
+0 (16m 59s):
+Yeah, that's kind of the, the central tension of all of this, right? That Reddit is this to some extent beautiful, unruly place on the internet that has lots of downsides, but also lots of very real upsides. But then on the other side, any attempt to turn that into any kind of stable thing, including stable business, runs the risk of breaking the other side of it. And I think, I'm just thinking about the, the protests from last summer, which were very much kind of a precursor to what all is happening with the IPO. Can you explain kind of what happened with the, the protests last year in 2023 and what it might say for what we're about to go through again?
+
+17 (17m 41s):
+Yeah, what's funny about what happened last year is that it was, it was a really big deal on Reddit, but when you try to describe what happened, it doesn't sound like that big of a deal.
+
+18 (17m 52s):
+More than 6,000 communities on the popular social networking forum Reddit have gone dark. As moderators protest, the company's decision to charge some third party apps for the use of Reddit data.
+
+17 (18m 4s):
+Reddit was to use their jargon, deprecating some APIs. They were cutting off access to the site on the back end in some ways that that interfered with tools that moderators used. There
+
+19 (18m 17s):
+Were a lot of third party Reddit apps out there. Very popular ones in fact that just kind of suck up the data from Reddit and put it out on their own app. There used to be Twitter apps like this too. Exactly. And because of this change, those apps are gonna have to start paying for access to that data. Now
+
+17 (18m 30s):
+They're, these are again, volunteer moderators who are in some cases working basically full-time jobs to try to keep big subreddits from filling up with spam or from, you know, having problems with harassment or hate speech, things like that. So they build custom tools to make those jobs easier and they have come to depend on those. And Reddit was saying, no, we, we don't want to leave our site open in those ways. We need to streamline that sounds like a pain, you know, if you're not a big Reddit user, that sounds like kind of annoying and you can imagine people being a little upset with it. But this was, this was a big deal. Like this turned into a huge crisis. This felt like a betrayal to a lot of Reddit users
+
+20 (19m 7s):
+Today I'd like to discuss how Reddit a website that was critical to me developing awareness of right to repair my YouTube channel. And above all the idea that you can fix motherboards, it is not impossible, seems to be shooting itself in the foot in one of the worst ways possible.
+
+17 (19m 21s):
+So this resulted in like what on platform they referred to as kind of an uprising. Bunch of moderators got together and said, we are protesting this by effectively shutting down our communities until our concerns are addressed. And again, this is, this is over something that from the outside sounds kind of small and it was a campaign organized by users who don't have like material leverage. This is a bunch of users and volunteers really kind of grinding things to a halt for a while.
+
+21 (19m 52s):
+Reddit is currently down, the narwhal is not bacon today, my friends. This is not a wholesome Chung moment.
+
+17 (20m 3s):
+So that's like, that's normal Reddit. That's like Reddit now. That's Reddit before it's a public company. Yeah.
+
+0 (20m 8s):
+And I, I wonder how you think that dynamic changes now that Reddit is gonna become a public company. On the one hand you have this core group of Redditors who are being offered the chance at least to be literal financial investors in the company. But then you have just the broader public of Reddit users who are going to be able to buy and sell shares of Reddit like any other stock. Suddenly it, it seems to me at least that you have money involved in a different way that's not just you're making money off of my content, but you're making money off of my content in a way that also affects my own money. And it just feels like this messy thing between these two groups stands to potentially get much messier.
+
+17 (20m 49s):
+Yeah, I mean there's a nice story you could tell about this, about how allowing Redditors to buy into the platform financially might help align some users with the priorities of leadership. Everyone's trying to make Reddit work, everyone's trying to make money, everything works out fine. That seems fairly naive for, for a few reasons. One is that, you know, Redditers are already sensitive about Reddit making money. They are there, they are not paying to be there, they are not being paid to contribute. A lot of people spend a lot of time making Reddit a better place. And when they feel like that labor is being turned into profit for someone else, they're already a little, a little unhappy.
+
+17 (21m 29s):
+If you try to think about what this like new class of user might look like, the sort of user investor, it's not really clear how they'd behave. Maybe they advocate for users in general and say, Hey Reddit, you don't understand. you know, how this platform really works. Your leadership is out of touch with the users. That's possible. But also if you look back to Wall Street vets and the peak of the mean stock craze, like Reddit investors were a peculiar bunch. These weren't straightforward investments in companies that Redditors thought, you know, had a, had a chance at success. They were these sort of abstract, often kind of trollish and sometimes disingenuous campaigns to maybe drive a short seller out of business and, and make an opportunity out of that.
+
+17 (22m 18s):
+So I don't know that this necessarily brings anyone in alignment with anyone. If anything, it just introduces new types of users and new types of investors that add chaos to an already sort of unwieldy situation.
+
+0 (22m 31s):
+And one thing we've seen with a bunch of these IPOs is that when a company like this goes public, it changes like the company itself changes, but also the product really starts to change. I think about, you know, the way Instagram has sort of slowly become a shopping mall and the way that Facebook pivoted toward marketplace and groups and away from the news business. Do you think Reddit can stay Reddit as a public company? Like these tensions will exist forever? I don't think they're solvable at all, but do you think Reddit kind of at its core can still be Reddit in that future where it is worried about quarterly earnings and analyst reports?
+
+17 (23m 9s):
+I think going public is a way to force change. I think users are used to social media platforms and in particular, you know, post IPO social media platforms changing under their feet gradually morphing into entirely new things.
+
+22 (23m 26s):
+I am proud to announce that starting today our company is now meta.
+
+17 (23m 32s):
+You don't really feel it as like a, a sudden betrayal or like a major loss. You don't even necessarily use them less, but you do sort of find yourself eventually looking at your phone being like, oh man, like what? Like what am I doing here? What is this? Who are these people? Like, what happened? I do understand why Reddit's leadership and Reddit's investors and current owners would like to sort of force some change. They do feel that they need to make money, that this is a huge untapped resource. It's a website with a ton of traffic and, and the simplest articulation, like it should, it should in their view be printing money. But I think there's a lot of risk beyond just, you know, user revolts and things like that in enforcing change to a platform that has been so resistant to change for so long.
+
+17 (24m 19s):
+And I think there's also a compelling argument that Reddit's relatively conservative leadership and that it's very touchy users have kept it intact. It has become a, a hugely important piece of the infrastructure of the web. It's funny to think about that, you know, with a little bit of hindsight, 10 or 15 years ago, you might not think that Reddit would be important to anyone but Redditors. But now it's one of the only reasons Google still works, you know? And that's honestly a credit to the stubbornness of Reddit users. And that's just like a strange outcome. But also I think going forward, something that Reddit's leadership should be very, very careful with.
+
+0 (24m 59s):
+Yeah, I think going into this, I've been thinking kind of along the lines of Reddit can't win either way here, that it can't survive the way that it was because it, it's this special weird thing on the internet that is very successful as a community and a just terrible business so far. So in a sense, going public makes sense to try and solve that, but if you go public, you risk changing the thing that makes Reddit lowercase valuable. Right. Do you think it can have it both ways over time? Like if your Reddit is going public, a totally crazy, impossible, bad idea?
+
+17 (25m 37s):
+I mean it sort of depends on who, you know, whose perspective you're adopting here. I don't think, let's say Facebook, I don't think that, you know, mark Zuckerberg, although I'm sure he's annoyed with some of the aspects of being running a public company, I don't think that they regret what happened. Things went pretty well. It was like part of their story of huge growth and making money that would be a great outcome for Reddit from the perspective of Reddit's current investors, executives, owners. But I don't know. It's, it's hard to imagine a scenario where it's current users, which this isn't like a niche community. We're talking about hundreds of millions of people where it's core users, which are themselves at least tens of millions of people where, where they aren't upset by the pace of change that could come from a public Reddit.
+
+0 (26m 34s):
+John Herman, New York magazine. Today's show was produced by Amanda Lewellyn and edited by Amina Ade Laura Bullard Fact checked David Herman, engineered, I'm David Pierce. This is today Explained.

@@ -1,0 +1,251 @@
+2 (0s):
+This is Saint Dominic. I'm an assistant managing editor at the New York Times. Our Newsroom has been empty since March, but we've been busier than ever before the pandemic has changed how we work, but it hasn't changed what we do. This is why we became journalists to bring to light real verified information when the stakes couldn't be higher. We can't do this work without our subscribers. If you'd like to subscribe, please go to nytimes.com / subscribe and
+
+3 (29s):
+thanks. Support for the show today comes from Sun basket AKA your new best friend because they want to solve dinner for you. They want to give you great ingredients to make even better meals. We're talking fresh produce sustainable Seafood Meats without the antibiotics and many of their meals are crafted by Michelin award-winning chefs right now some baskets offering $35 off your order when you go to Sun basket.com explained and enter the promo code explain to check out that is son basket.com / explained and enter the promo code explain it check out for Is off your order some basket.com explained and the promo code explained.
+
+3 (1m 19s):
+The United States is feeling lucky. It's going up against Google for the very first time the Department of Justice filed an antitrust lawsuit against a giant vault tech Giant's this week and it's got people like attorney general Bill bar and Senator Elizabeth Warren on the same team rare surprising. Wow, Russell Brand. Mm has been covering it for the Verge Russell what's going on with the government in Google for years now there has been building desire in Washington. Sort of in legal circles all around the country to bring some kind of antitrust action against these enormous tech companies have sprung up in the past 20 years and this is really the first one we're
+
+1 (2m 3s):
+seeing it is the government's most aggressive legal challenge to Big Tech in two decades the justice department and 11 states are suing Google for antitrust violations accusing it of abusing its Monopoly in search. All controls about 90% of global web
+
+3 (2m 22s):
+searches Google runs the most popular search engine the most popular browser and one of the most popular mobile operating systems along with a bunch of other stuff. Is that a little weird isn't that maybe monopolistic Market power and you know, now the justice department is going to go out and try to make the case that it is and something like this hasn't happened in two decades. What did it look like the last time?
+
+1 (2m 53s):
+Good morning, and Welcome to our hearing today on Market power and structural change in the software
+
+2 (2m 59s):
+industry. This hearing is a second is the second in a series of hearings. I plan to have in the competition Innovation and public
+
+1 (3m 6s):
+policy in the digital
+
+3 (3m 7s):
+age. The most recent Tech example is Microsoft in the 90s where essentially Microsoft was running Windows and they were using Windows to promote Internet Explorer and this was understood. Good to sort of be a bad
+
+2 (3m 20s):
+thing. Is there a danger the Monopoly power is or could be used to stifle Innovation the US software industry today
+
+1 (3m 30s):
+and perhaps more importantly looking forward
+
+3 (3m 33s):
+and there was a huge case that was kind of along similar lines for a time. It looked like Microsoft is going to be broken up. Although at the last minute the justice department sort of backed off. This has the potential to be bigger than the Microsoft case. I think the people who are pushing it certainly Our Hope. Being that it will be and at that point you have to go back really even further to like the breakup of Bell Telephone and kind of some of the classic antitrust cases in US history. Okay, and the government is focusing on the search engine like vintage
+
+1 (4m 9s):
+Google. So
+
+3 (4m 11s):
+the charges are under Section 2 of the Sherman Act which basically alleges that there a dominant player in the market and they're using that dominance to push out competitors or sort of maintain their dominance. Right and specifically the idea is that Google is doing this in search. So one of the big tests in I think the history of Google as a company was after the iPhone came out it was clear that the shift to mobile. What was happening people were going to be doing more and more searches on their phone, but it was not clear that Google was going to be the dominant search engine from people's phones. And one of the points that the Department of Justice makes in the in the filing is they were correct that this was a challenge now, we're seeing the majority of searches being made on mobile devices, right?
+
+3 (5m 1s):
+And this is not generally typing in google.com and then going to the bar. It's you're using Siri or you're using the sort of Google Voice thing or you're just typing it into the address bar. Why is Google the one that ends up powering all of those searches? It's great for Google because more searches means more search revenue for them because as soon as you go to the page, that's what Google serves ads on
+
+2 (5m 24s):
+the claim is that they
+
+3 (5m 25s):
+use their market dominance to ensure that no one could compete with them in mobile search and part of what you see is this web of contract we've known for wild at Google pays browsers to be the default search. Injured because that's a very valuable thing for any search
+
+2 (5m 43s):
+engine to have I understand that Google paid Apple nine billion dollars in 2018 and
+
+1 (5m 50s):
+12 billion in 2019 for the right to be the default search engine on Safari. Is that right?
+
+2 (5m 58s):
+Congressman? I'm not familiar with those numbers. Okay billions a big
+
+1 (6m 2s):
+number. So it's a big
+
+3 (6m 4s):
+numbers what's new now is the Department of Justice is saying these deals are anti I competitive this is you crowding out any other possible competitor to Google in the search Market. What's Google's response to this very specific argument that it's search dominance in particular is monopolistic. It's helpful to look at the deal. So for instance, like if you do a search in Firefox, which isn't run by Google as a competitor to Google Chrome, it will be a default Google search and this is something that Mozilla which runs Firefox for a long time how to deal with Yahoo for Yahoo to be the default and then they switched it to Google what?
+
+3 (6m 47s):
+You find when Yahoo! Is the default is that people just change it to Google because they prefer Google searches. They find the results were accurate. And so that's sort of the heart of Google's defense
+
+2 (6m 58s):
+Google which has become so ubiquitous and synonymous with search that has become a verb said the lawsuit is quote deeply flawed adding that people use Google because they want to not because they are forced
+
+3 (7m 11s):
+to they say, you know the minute you give them another option. They go right back to Google search. That's what they trust and they trust it because we've worked so hard to make it so wonderful and you worried that if the justice department does win they say, you know, all that's going to happen here is you're going to end up forcing people to use an inferior alternative. And so what will actually happen is that the sort of experience of web searching will get worse just because you don't want it all to come through the best search engine the one we built. So what would this mean for certainly the world's most formidable search engine?
+
+3 (7m 52s):
+If not, one of the world's most formidable companies if the United States government stepped in and said you gotta start breaking this thing up. You gotta have a Yahoo search toolbar in Google Chrome. You have to make room for these other players. DuckDuckGo is going to be the default. Yeah. I mean, I don't think we'll have mandatory. He ducked that go search as much as
+
+2 (8m 16s):
+that would thrill the doctor go pokes.
+
+3 (8m 24s):
+I think it's easy to focus on the specific order of the court. I think the real upshot here is and this is another thing you solve for Microsoft after the 90s. Google is going to be the subject of very intense regulatory scrutiny for the next 10 years and part of that is going to be this specific case, but then another part of it is however the case is resolved there will then be other us attorneys who want to make their name by making a similar case, but pushing it two steps further or they agree to some consent decree, but then people are keeping a very close eye on whether they're fulfilling that consent decree.
+
+3 (9m 7s):
+And what you saw with Microsoft is they got very very gun-shy about entering new area specifically for Microsoft. It was mobile. They weren't as aggressive as they could have been in promoting the mobile operating system they had and as a result, they got pushed out pretty fast, and we now have Apple and Google in the mobile operating system. So we're used to Google taking a lot of sort of big risky bets. As soon as there's a possibility for these personal home assistance, the voice activated ones like Alexa and Siri. We know Google's going to have one. They're working on self-driving cars. They're working on these smart home appliances. They almost built a sort of miniature City in Toronto.
+
+3 (9m 48s):
+There's just taking a lot of different vets in a lot of different areas, but I think if you're being actively regulated by the government and every time you buy a company the Department of Justice says, okay. Prove to us that this is not anti-competitive that you're not crowding out other players in the personal Voice Assistant Martin then as an executive those vets start to look along less enticing and they may just be focusing more on how do we wring every last dollar out of our search business and our smartphone business and if you want to go do self-driving car things, you should go start a self-driving car start up because we don't want to get in trouble with the
+
+1 (10m 31s):
+government. How this lawsuit made some
+
+3 (10m 44s):
+unlikely allies out of Attorney General Bill bar and Senator Elizabeth Warren as after break on today
+
+1 (10m 50s):
+explained. This is Advertiser content. Mutually exacerbating catastrophes. It sounds like the beginning of some sci-fi Parable. But that's what the 2020 Gates Foundation goalkeepers report says is happening today and with more than 850,000 Global deaths twelve trillion dollars to be lost from the global economy and extreme poverty Rising for the first time in 20 years. It's fitting the Shell Code or works on development policy and finance at the Bill and Melinda Gates Foundation.
+
+1 (11m 34s):
+He says the Is an opportunity to recognize how interconnected the world is and create strong systems to end this pandemic and build a more Equitable future.
+
+2 (11m 44s):
+We could be living in a world where
+
+1 (11m 46s):
+we're able to get the virus under better
+
+2 (11m 47s):
+control. The medical countermeasures governments are able to protect
+
+3 (11m 50s):
+their people and that the
+
+2 (11m 52s):
+sort of temporary problems say temporary rather than become
+
+3 (11m 55s):
+forever problems that said
+
+2 (11m 57s):
+it does require political leadership. It does
+
+3 (11m 59s):
+require thinking a little bit more
+
+2 (12m 1s):
+Beyond sort of the bounds of just your country and what's happening at this point in
+
+3 (12m 4s):
+time. Time and in your sphere so it's challenging to
+
+1 (12m 8s):
+there are of course endless other paths that we can take like one word governments don't come together to address the pandemic instead. We see closed borders each country for itself
+
+3 (12m 21s):
+New Zealand has zero cases for a hundred days and everything was fine. But the world the pandemic was raging around them. It was always on the come back in and there's no way you can sort of walk yourself down forever and isolate yourself forever.
+
+2 (12m 33s):
+Even if we vaccinate our entire population. Get it under control. You're never fully certain until you really get the virus under control everywhere
+
+1 (12m 40s):
+progress is possible but not inevitable and what our governments do now has a direct role to play and when and how these mutually exacerbating catastrophes end to learn more read the goalkeepers report at Gates foundation.org / goalkeepers making now work looks different for everyone Xerox can help but right now a lot stands in the way of
+
+3 (13m 3s):
+making work easy.
+
+1 (13m 5s):
+From juggling remote teams and increased IT
+
+3 (13m 6s):
+issues to attempting to achieve
+
+1 (13m 8s):
+IRL personalization in a URL setting now is a weird time Xerox automates and digitizes your workflows. So you and your team's can access them anywhere. They bring together opportunities to help you better engage your customers with personalized experiences and they make remote work easier with responsive it infrastructure to support your team's wherever they are. So even if making now work means having two lunches or setting cam free Friday's Xerox has a solution And for you learn more at Xerox.com box.
+
+3 (13m 45s):
+Thank you all for joining us this morning and told us for slight delay. This is on the record and you may broadcast the recording if you wish and we're going to start off with the deputy attorney general to Frozen. So the first thing I want to just address is this morning the Department of Justice and 11 states filed an antitrust civil lawsuit against Google for unlawfully maintaining a monopoly Peter Kafka. You're a senior correspondent.
+
+2 (14m 14s):
+To
+
+3 (14m 14s):
+recode why is Google bring this suit right now
+
+2 (14m 19s):
+because Bill bar the Attorney General was insistent that this happened this fall. He wanted to happen by the end of September reportedly and it was clearly important for him to get it done before the election.
+
+3 (14m 31s):
+Huh. Is this kind of like the Trump versus Tick Tock WeChat thing like where there seems to be some sort of political motive
+
+2 (14m 39s):
+or the Trump versus AT&T Time Warner case. There's a bunch of these where people are wondering why the Department of Justice has behaved a certain way under Donald Trump. We don't know there are two schools of thought one is this is a politically motivated case and that bill bar Donald Trump's crony is Elizabeth Warren calls him as doing this to score political points for Donald Trump. It's somehow important for the election and the other is this is a case that is 10 years in the making it's 10 years overdue that it should have been brought at any time over the last decade. And it Bill bar wants to get it done now because maybe Bill Barb won't be attorney general in January and he wants to make sure this case has been filed.
+
+3 (15m 23s):
+Hmm people think of Bill bar. They probably
+
+2 (15m 26s):
+don't think of his Keen interest in big Tech. Right? What's weird is Bill bar has made a point of saying he's been interested in big Tech and that he thinks the big tech companies have grown Too Big Without check and something should be done about it. He's been very vocal about that in a way attorney general is often aren't Aunt he's made it clear that he's interested in this case as well in a way that attorney general's are normally sort of signal publicly that is sort of a hands all over it no longer our tech companies the underdog upstarts. They have become Titans of us industry given this changing technological landscape valid questions have been raised on whether section 230 s broad immunity is still necessary at least in its current form.
+
+2 (16m 13s):
+We know that Prior to becoming to the AG Bill bar work for a long time for Verizon Verizon and other Telco companies other cable company generally aren't big fans of the internet and internet companies. So there's some conspiracy mongering there the more charitable way to look at it is this is a landmark case and it is now Bill bars Landmark case in this could be sort of his sort of the thing that he would like to be remembered for
+
+3 (16m 40s):
+and you mentioned Elizabeth Warren. She's involved tune some way
+
+2 (16m 43s):
+it was before it is on the sidelines cheering very loudly for Bill bars Department of Justice to bring this suit and to make it clear she despises Bill bar and thinks he should resign she calls him a corrupt crony, but she wants the United States Department of Justice to pursue this case and says, it has been long overdue. So warns putting her feelings about Bill bar inside because her feelings about Google and be a little stronger at the moment. Yeah, and I mean this was fascinating to me in the run-up to the suit. I kept wondering if people who are aligned ideologically with One would say I would love Google to be under the gun here, but I don't want to do it with Bill bar either because I just can't detest him and I won't work with him or because I'm worried that bill bars politics Will tank the case.
+
+2 (17m 28s):
+I have not been able to find anyone who said yeah, I really think this is going to be a problem. Now that may be people who think that but just don't want to tell me / a
+
+3 (17m 35s):
+reporter and those concerns are are being put aside even in the
+
+2 (17m 40s):
+very close lead up to a presidential election. Yes, a guy also wondered about that. That if you think this is politically motivated and you think that the president and or Bill bar thinks this is going to help their re-election case. Why would you why would you advocate for that now? Why not hold off you've had reporting from The New York Times said a bunch of people internally at the Department of Justice thought this case was getting rushed. It's not idle speculation about the timeline. It's There's real concerns about this and then the everyone I talked to said, you know what we can't wait for the perfect timing. This is overdue we got to do it. There was something that I Up over and over when I was doing this reporting which is a clip of Bill bar on Fox News this summer which to me strikes me as sort of the the Nathan Jessup.
+
+2 (18m 23s):
+You can't handle the truth from A Few Good Men where Bill Bar says out loud that there's anti conservative bias in big Tech. And that one way this can be addressed is through the antitrust laws and the challenging companies that engage in monopolistic practices, which is sort of a Anything to hear someone say because it is what he's saying is antitrust law which is supposed to sort of protect consumers from economic harm would be a good club to hit the big tech companies with for their alleged conservative bias that sort of confirms. Everyone's worst fears and Google will certainly bring this up in the in the in their defense, but that may not matter.
+
+3 (19m 6s):
+You know Russell mentioned that this is like the first big antitrust lawsuit of its kind since like
+
+2 (19m 11s):
+120 years ago against
+
+3 (19m 13s):
+Microsoft and it's obviously a big deal because it's the US government suing Google but for all the big deal - of it, it just doesn't sound as big when you actually get into the details. It's like this kind of convoluted thing about like sir. Engine dominance. Like do you think there was something splashy ER they could have said here with this statement.
+
+2 (19m 43s):
+I'm gonna I'm gonna both sides of here. It's a really big deal when the US government brings an antitrust suit against a big tech company. It's also a big deal because you've been hearing maybe you've been talking about the idea that the government's going to do something about big Tech and there is a congressional report out this month. There's a lot of folks saying something that something should be done, but this is actually something NG happening and everything else is a discussion about maybe we should change the law one day but not right now but maybe Congress will get around to it. And this is actually action against a big tech company so that that is notable by itself. Yes. This is a wonky suit about search.
+
+2 (20m 22s):
+It's also in the eyes of a lot of people who wanted to receive a suit brought a little narrower than they thought because it's really only about search engine dominance and there's other things you can attack Google for but this case could expand over time. A bunch of attorney generals who are going to bring a similar suit. So this is sort of the first of the problems. Google's going to have legally so that's one way to look at it. But if you're a regular person life goes on what you do get to see is your government funded by your tax payer dollars trying to rein in a big tech company in a way that no one has tried to do for two
+
+3 (20m 56s):
+decades. its effect
+
+2 (20m 60s):
+It's a thing
+
+1 (21m 7s):
+Peter kafka's the host of a podcast called recode media.
+
+2 (21m 11s):
+You can find it wherever you find this one. I'm Shawn Rama's firm. It's today explain,
+
+1 (21m 15s):
+okay. OK Google mow my lawn. OK Google text my mom and tell her that I love her. OK Google do my taxes. OK Google hold me closer. OK Google play the song again a hundred times. I forgot you have to deal with this anti dress
+
+3 (21m 46s):
+lawsuit. That's okay. I'll just ask Jeff to go or something. This is Mark Lacy National editor at the New York Times as we head into a pivotal election. It's our mission to find answers to the questions you have. That means analyzing what the candidates are saying, but it also means looking deeply at the issues from an economy under stress to a national Reckoning on racism every day. We do the research so we can help you make an informed decision. None of this work would be possible without our subscribers if you'd like to subscribe to the times go to NY. Satcom subscribe. Hi. I'm Neil Patel
+
+2 (22m 27s):
+co-founder and editor and chief of The Verge and host of decoder a new podcast from The Verge and the VOX media podcast network of a big ideas and other problems for over a decade. I've been interviewing leaders from the worlds of Technology business and policy about how they run their organizations make decisions and consider policy changes that could fundamentally alter entire Industries like Senator Ed Markey on the future of connectivity in America. Ah, Broadband has become the equivalence of water or electricity for people AMD CEO. Dr. Lisa Sue on building the next generation of
+
+1 (23m 0s):
+processors, you know, the idea was technology is you have to make a set of choices three to five years in
+
+2 (23m 6s):
+advance Google and alphabet CEO Sundar pichai on the current crisis and adapting to it coitus blurred the lines between consumer and Enterprise and people are using products in all kinds of contexts and Neil Young on. Well his feelings the MacBook Pro. It's a piece of crap. Are you kidding? With decoder, I'll be expanding these conversations with a diverse cast of CEOs policymakers and
+
+3 (23m 29s):
+innovators some you know, and some you wouldn't
+
+2 (23m 32s):
+expect we'll talk about how they're navigating and ever-changing Landscape what keeps them up at night and what it all means for our shared future. We're asking tough questions going to break some news and we're going to have some fun. So look for a decoder with v-line Patel
+
+1 (23m 45s):
+and apple podcasts or your favorite podcast.

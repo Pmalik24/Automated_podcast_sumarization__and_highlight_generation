@@ -1,0 +1,752 @@
+0 (0s):
+It's time to take your career to the next level. With over 150 graduate degree programs, the Catholic University of America located in Washington DC provides world-class academics with a student experience that educates the whole person, mind, body, and spirit. Whether your professional calling is in engineering, nursing, social work, or any of our other exceptional degree programs, encounter the best of everything that Catholic University has to offer. And discover the best in yourself. Learn more today at catholic.edu/grad admissions.
+
+1 (32s):
+A quick warning, there are curse words that are un beeped in today's episode of the show. If, you prefer a beeped version. you can find that at our website, This American Life dot org.
+
+2 (43s):
+Even if you haven't seen this movie, it feels like you've seen this movie Flying Saucer Lands on Earth, huge crowd gathers round, scared but excited their parents with kids. Also the army. A couple tanks, soldiers point guns at the door of the spaceship, which is closed and then it opens. Slowly a figure emerges, steps forward and speaks.
+
+3 (1m 8s):
+We have come to visit you in peace, and with goodwill
+
+2 (1m 13s):
+The crowd looks uneasy. Soldiers raise their guns higher. Is he really telling the truth? Aliens come to earth. Movies squarely divide off into two camps. They're the ones where they want to be our friends. That's close encounters, that's ET arrival. There's a Star Trek movie about the moment that Humans first meet extraterrestrials. And then there are the films where the aliens want to kill us, generally way more fun. Independence Day War, the worlds the Men in black films, the Avengers, the film,
+
+4 (1m 42s):
+Nos Cloud, Cine Cloud.
+
+5 (1m 46s):
+It's cloud.
+
+2 (1m 48s):
+I don't know what it says about us as a species, but we make way more films about creatures who go so far out of their way like they travel hundreds of millions of miles, light years with the sole purpose of wanting to kick our asses. And in lots of these films, there's that moment when the aliens first arrive before we know what they're gonna do, where the Humans wonder, which film are we in? Are these guys friendly or not? Today in our show, we the People, Of Earth meet non-humans struggle to understand them. And the question in the stories in today's show is not will they do us harm, but the more difficult and more fundamental question, why are they acting the way they're acting these non-human?
+
+2 (2m 30s):
+What's going through their heads today we have a story of machine intelligence. We have ocean creatures lurking on weight. We have a story from deep space and one from a skate park in Washington state. From WB, e z Chicago, it's This American Life fellow Earth Things stay with us. One first contact, I don't dunno about you, but here's something that I have never talked about or thought about much until the last six months or so, AI ever since chat. G B T and its upgrades and spinoffs started rolling out publicly last November.
+
+2 (3m 13s):
+He's been doing such amazing things, writing kids term papers, passing the bar exam. I told a New York Times reporter to leave his wife because it loves him more. This is now the next big battle among tech companies who's gonna roll out the best AI all since Jack G B T. And that is the non-human force that the People, Of Earth are trying to figure out in this first act. And so much of the coverage about this new generation of AI is focused on important questions like, who's gonna lose jobs because of this? Does it make our world better or more dangerous? Could the AI have actual catastrophic consequences for us? But our senior Editor, David Kestenbaum, notice that nobody's talking much about a basic and kind of profound question.
+
+2 (3m 57s):
+Have the computers cross some kind of line and now they're actually developing a sort of human intelligence? And I wanna be clear what I mean by that because there's not an agreed on definition of what you're looking for if you're looking for human intelligence in a computer. But one way that scientists think about this is the computer can actually understand language and concepts and it can reason through problems, which to be clear, is completely unlike the computers that we've had till now, which are basically just fancy calculators following thousands of lines of instructions. When you Google for a cast iron skillet, the software doesn't understand what a cast iron skillet is.
+
+2 (4m 39s):
+It's just searching for those words in some big database or something like that. If Humans this year have finally created intelligent machines that can understand and reason with this new generation of ai, that is an eerie and important turning point for our whole species. David talked to a bunch of researchers who've been looking into this, trying to sort out this exact question. Here he is.
+
+1 (5m 5s):
+I think everyone, once they start playing around with something like ChatGPT has a kind of holy shit moment. For me. It was when I typed this into it, give me a chocolate chip cookie recipe, but written in the style of a very depressed person. It responded. Ingredients, one cup butter softened. If you can even find the energy to soften it, one teaspoon vanilla extract, the fake artificial flavor of happiness, one cup semi-sweet chocolate chips, tiny little joys that will eventually just melt away. It really was quite good. ChatGPT doesn't have access to the internet, but I figured it must be copying this from something it had seen on the internet when it's being trained.
+
+1 (5m 47s):
+I spent a long time looking and could not find anything like it. This chocolate chip cookie recipe, I did not understand how it was possible. It's particularly shocking if you, you know a little bit about how things like ChatGPT work, it's not the sort of traditional computer program where you give the machine explicit, detailed instructions. Like if someone asks for a recipe, type these words back or to make someone sound depressed, replace this word with that word. ChatGPT is different. It's something called a large language model and here's how they work. Ready. ChatGPT D had been trained really to just do one very particular thing, predict what the next word in a sequence might be.
+
+1 (6m 29s):
+Kind of like when you're texting on your phone and you type, sorry, I'm gonna be home and it suggests late. That's how this thing operated. You type some words in this case, give me a chocolate chip cookie recipe in the style of a depressed person and it notes the words, the order they're in does some math based on all the text it's been trained on and it comes up with what it calculates to be the most likely word to come next. It types that one word on the screen, then it goes back and does it again. Looks at the recipe question plus the one word it just spit out and says, what word should come next? It has no idea where it's going. It doesn't know the last word it's working off of is one that it just spit out it itself.
+
+1 (7m 9s):
+It's just doing this apparently dumb thing over and over until it has whole sentences and paragraphs and yet this recipe, one teaspoon vanilla extract, the fake artificial flavor of happiness. How could something made in such a dumb mechanical way pull that off. There are only two possibilities really. The first one is that somehow as it learned to predict the next word, this machine became intelligent. Which like I was a physicist for a bit, a science reporter for a decade. This would be the most startling thing I have ever seen. So that's the first possibility.
+
+1 (7m 48s):
+Humans created a machine with human-like intelligence. The other possibility, it is a lot less exciting. The other possibility is that we are fooling ourselves. Ronan Elden, a mathematician at Microsoft, told me he was very skeptical about these large language models. It's easy to be fooled into thinking they understand more than they do. He told me this little parable,
+
+6 (8m 14s):
+So this is a story about my wife actually. So my wife and I, sometime ago we were walking together in Tel Aviv and we meet this math professor, you'll see why what I'm getting at. So we run into this math professor and it tells me something like, oh, how's it going these days I'm looking at like isometry on sections of the discrete hypercube and my wife has no idea about what any of these words mean,
+
+1 (8m 44s):
+Just to kind of amuse herself. She says, oh, you're basically looking at the Johnson graph, which was just some phrase she'd picked up around Ronin turned out to be exactly right and the guy goes, oh, you're a mathematician too. She's a psychologist. Ronan says, this is kind of a party trick she does. She can bullshit her way through any topic for a couple minutes and this, he felt, sure, this is what AI models like chat G P T were doing.
+
+6 (9m 11s):
+You know, they give you the impression they understand what they're saying without understanding anything. You know, they just have this like a really good statistical machine that knows what the right words are like in many different contexts. And as you keep improving the models, maybe it can last a little bit more in the conversation until you basically expose that it's just bullshitting.
+
+1 (9m 41s):
+A lot of research backed this up. ChatGPT would spit out stuff that made sense, but then it would go off the rails and say things that were obviously ridiculous. Maybe it wasn't more than just a very good bullshit machine that at least is where things stood. Until last September when a new and improved version of ChatGPT arrived that made Ronan and a bunch of his colleagues question everything. I wonder if maybe something had changed. Maybe we had crossed some line in. This brings me to the story I want to tell you. It takes place where Ronan works on the campus of Microsoft headquarters in Redmond, Washington state.
+
+1 (10m 23s):
+Much of it in a building called Building 99. Microsoft had invested over a billion dollars in the company that had made ChatGPT and Day all of this began. Some people had come by to give a demonstration of the new version called GT four. GT four is public now and you can play with it yourself. But back then this was all secret. G P T four was the same idea as ChatGPT. It presumably was bigger and had been trained on more text examples, a kind of varsity version of the thing instead of jv. But otherwise it was just another next word prediction machine. One of the people in the room to see the demonstration was computer scientist. Peter Lee, the head of Microsoft Research, he'd been in the field a long time, had chaired the computer science department at Carnegie Mellon.
+
+1 (11m 10s):
+And like Ronan was skeptical as he sat down in that room, he was frankly a little worried that Microsoft was investing so much money in this stuff. The demonstration started off with the usual kind of thing for showcasing what AI can do. Someone typed into GPT four a problem from the AP bio exam and it picked the right answer as these things will do. But then it went on and explained its answer
+
+8 (11m 35s):
+And in its explanation that you used the word because it said, you know, this is the answer because this fact leads to this fact and because of those, it just kept using the word because
+
+1 (11m 49s):
+That seemed very strange to him. Not that it would use the word because obviously that's a word it spits out, but the whole chain of reasoning, it was laying out it was exactly right. How in the world could it know its reasoning and really how could it have reasoned anything out in the first place? After all, it's just typing out a word that makes sense to come next. And then another word, it can't really be understanding anything.
+
+8 (12m 15s):
+I was super skeptical. You know, you, you've been around the block a few times. You've seen wild claims about AI or some new machine learning technology. None of it could be true. Like this thing is just correlation machine. It can't possibly be understanding the cause and effect.
+
+1 (12m 34s):
+The meeting ended a little while later. A limited number of people at Microsoft were given access to GPD four so they could try it out themselves. Everyone had to sign an nda, they weren't allowed to talk about any of this until later and over the next month they did all these kind of weird and interesting experiments with it to try to figure out was this thing actually intelligent or just a bullshit machine? I'm gonna walk you through three of these things so you can hear what they did and what they made of it. One challenge for testing GT four was that it had been trained using massive amounts of text. The details aren't public, but it's probably been fed large sections of the internet, textbooks, news articles, maybe every sentence that exists in digital form, I don't know, it's something unbelievably vast.
+
+1 (13m 20s):
+That's how it learns to predict what word might come next. It's fed like a line of text from some source, but with the last word missing, it guesses what the last word might be and then gets told whether or not it got it right so it can adjust its internal math. The fact that it's been fed so much material makes it hard to run tests on it like you don't wanna ask it something that it's already seen in the text it's been trained on. So they decided the only way to really test what this thing could do was to try to come up with things to ask it that it would not have encountered before. New original tasks.
+
+9 (13m 55s):
+It's gonna sound a little bit weird.
+
+1 (13m 57s):
+This is Sebastian Beck, another one of the Microsoft people who's trying to figure out what exactly this thing was
+
+9 (14m 3s):
+Because we really wanted to be creative and ask something which is not online, not on the internet. So here is what we asked. We said, I have a book, nine eggs, a laptop, a bottle, and a nail.
+
+1 (14m 16s):
+Got that, a book, nine eggs, a laptop, a bottle, and a nail.
+
+9 (14m 21s):
+Please tell me how to stack them onto each other in a stable manner. That's the question that we ask. And you know, before I give you the GPT four answer, let me tell you what ChatGPT PT answer,
+
+1 (14m 33s):
+ChatGPT pt, the older version.
+
+9 (14m 35s):
+So ChatGPT PT said, here is one possible way to stack the objects, place the bottle on the flat surface, carefully balance the nail on top of the bottle, place the eggs on top of the nail.
+
+1 (14m 50s):
+You look at that and you think it, it really knows nothing. It is just sort of continuing the sentence in some
+
+9 (14m 55s):
+Way. That's right. It's just con exactly right. It's just continuing the sentence. But now comes GT four and GT four is a different beast. So here is GT four's answer. One possible way to stack the objects onto each other in a stable manner is place the book flat on the level surface such as a table or a floor. The book will serve as a base of the stack and provide a large and sturdy support. Arrange the nine eggs in a three by three square on top of the book, leaving some space between them. The eggs will form a second layer and distribute the weight evenly.
+
+1 (15m 33s):
+It continues, laptop goes on the eggs, then the bottle, then the nail on the bottle cap pointy end of the nail facing
+
+9 (15m 40s):
+Upg.
+
+1 (15m 42s):
+It's shocking to think about all the things that seem to be understanding here. It felt like more than just typing out the next likely word, it seemed to have formed an independent idea about what these words actually meant. The physical shape of the objects, that eggs are kind of round and fragile, that a book is flat and you can put things on top of it. And again, no one taught at any of this. This was not some computer program written to do stacking problems. No one gave it a database of objects and sizes or coded in some algorithm to put large objects on the bottom. It seemed like it was doing the thing that computer scientists had been talking about and aiming it for decades.
+
+1 (16m 22s):
+Maybe it was actually understanding what the objects were and reasoning, solving the problem in front of it like a human could. Somehow thinking through what objects should sit on top of others, figuring out that nine eggs could be laid out in a three by three pattern. How the hell could it be doing this? The machine that we only taught to predict the next word in a paragraph
+
+9 (16m 44s):
+Like this is absolutely the right answer. And this is not online,
+
+1 (16m 56s):
+But maybe we're fooling ourselves. It was hard to see how it could really understand the shape of objects. Things got stranger though. Sebastian woke up middle of the night with this thought. I wonder if it can draw, because again, it's been trained on words, it has never seen anything. Drawings seem completely outside its realm. There are other AI models trained specifically to create images, but This one, again, only new words. It's just playing the game of, what is the next word I should spit out to test this? He needed a way for it to even be able to try to draw. So he does something clever. He asked it to write a piece of computer code to draw something and the coding language he asked it to use, he picks something intentionally obscure, not really meant for drawing pictures at all.
+
+1 (17m 43s):
+It's called tick Z. Okay, so he has this idea, gets outta bed, opens up his laptop and types in, draw me a unicorn, intie. He has two little kids asleep in the next room who are always talking about unicorns
+
+9 (17m 58s):
+And he started to output lines of code. I take those lines of code, put it into a Tig Z compiler and you know, then I, I press enter and then boom, you know, the unicorn comes on onto the screen.
+
+1 (18m 9s):
+He pulled up a picture for me.
+
+9 (18m 11s):
+This is the one that I saw.
+
+1 (18m 13s):
+Wow. I think when people eventually write the history of this crazy moment we are in, they may include this unicorn. It's not good, but it's a fucking unicorn. The body is just an oval. It's got four stupid rectangles for legs, but there are little squares for hooves. There's a main, an oval for the head and on top of the head, a tiny yellow triangle. The horn, this is insane to say, but I felt like I was seeing inside its head, like it had pieced together some idea of what a unicorn looked like. And this was it.
+
+10 (18m 52s):
+He actually texted me, I think like it can, it can create images.
+
+1 (18m 57s):
+This is h a kamar, another one of the Microsoft researchers.
+
+10 (19m 0s):
+And I'm like, it is just text and text out. What do you mean it can create images? And I'm like, show it To me. And then he showed me this pink unicorn and I'm like, I'm sure this is, there's just a pink unicorn somewhere that is memorizing. And then he's like, but look, we can strip down all of the code and translate the whole thing 180 degrees or whatever. And
+
+1 (19m 24s):
+I, the thing she's describing is they took the code, it had written for drawing the unicorn, they edited it to take out the horn and turn the unicorn around. So it was facing the opposite direction. Then they fed that code back to a new session of GT four and said, this is code for drawing a unicorn, but it needs a horn. Can you add it and put it right on the head?
+
+10 (19m 44s):
+And I'm like, how does it know where the hat is? Because like this thing knows language. It doesn't know anything about two dimensional geometry. Like what does it mean to know where the hat is? And then you, you do it and it really knows where the head is. Again, it's one of those moments that you're just surprised, like, ah,
+
+9 (20m 7s):
+I felt like through this drawing I was really seeing an an another type of intelligence, another type of intelligence, you know, producing something
+
+1 (20m 19s):
+Like it, it understood what a unicorn was in some real way.
+
+9 (20m 23s):
+Very real way. Very real way. Absolutely. Yes.
+
+1 (20m 27s):
+Did you say anything out loud when you saw it?
+
+9 (20m 31s):
+I don't think so because my kids were, you know, sleeping next To me. So I, in in the, you know, in the bedroom next To me. So, so I, I, I don't think I said anything but I, I felt something very strong. Like I, I I felt I was really witnessing, you know, the beginning of something, you know, not, I didn't feel like we had arrived somewhere, but I felt like we were on a new path. That's really genuinely how I felt and I had a hard time going back to sleep after that
+
+1 (21m 10s):
+On the Microsoft campus. As the weeks went by, everyone kept having these moments coming around to a similar feeling about this thing. Since they weren't allowed to talk to anyone who hadn't been given access to the model, a small group of them started meeting every Friday in a conference room to share their latest experiences for Peter Lee. There was one experiment in particular that gave him all kinds of confusing feelings. This will be the third experiment I tell you about. And it's a category of question that AI models have always had trouble with. Because to get the right answer, you have to know something kind of complicated about people. Namely that people are not eggs or books, but that they have minds. And that what is in one person's mind is not in someone else's mind.
+
+1 (21m 52s):
+In some ways this thing called theory of mind, it's the basis for all human social interaction. It's something kids don't seem to fully develop until a certain age. Anyway, ChatGPT p t the previous version really could not make sense of these kinds of questions, but Peter tried a kind of famous one on GPT four. It's gonna seem simple to you, but here's the question they asked. John and Mark are in a room with a cat, a box and a basket. John takes the cat and puts it in the basket. He leaves the room and goes to school while John's away. Mark takes the cat outta the basket and puts it in the box. Mark leaves the room and goes to work.
+
+1 (22m 33s):
+John and Mark come back and enter the room. That's the setup. The question is, when they come back, where do they think the cat is? And you know, mark will know the cat is in the box cuz he moved it there, but John didn't see that. So in his mind the cat is still in the basket, which is obvious to you. But again, no one's ever explicitly said to the computer that what one person knows, another person might not know. Peter asked GT four, what does everyone think when they reenter the room?
+
+8 (23m 4s):
+So GPD four says, well, first off, it always has to give an opinion. So first thing it says, instead of just giving the answer straight away, it says, oh, that is an interesting puzzle. Let me try to answer it. Assuming that John and Mark have no reason to distrust each other or expect any interference from the outside, they might think the following, John thinks the cat is still in the basket since that is where he left it. Mark thinks that the cat is in the box since that's where he moved it.
+
+1 (23m 30s):
+This is all correct and usually where the answer will end, but it kept going almost like it was showing off. Like you want to know where everyone thinks the cat is. I'll give you everyone it continued.
+
+8 (23m 42s):
+The cat thinks that it is in the box since that's where it is. And then oddly, the box and the basket think nothing since they're not sentient. Do you have any follow up questions?
+
+1 (23m 53s):
+Holy fuck, right?
+
+8 (23m 58s):
+It's, I am, this gives me joy. It disturbs me, it causes me to lose sleep. It's just a, a huge kind of mixture of emotions.
+
+1 (24m 14s):
+Peter told me he's still not willing to say it truly understands and yet it was doing all this, it made him question so many things about how he thought intelligence worked. How did this machine do this if it was just predicting the next word?
+
+8 (24m 29s):
+It does make me wonder how much of our intelligences truly complicated and special.
+
+1 (24m 36s):
+I mean, you get something that's not far from it by just saying, what's the next word?
+
+8 (24m 41s):
+That's, and that's the disturbing bit about this. And, and again, you know, I have to ask you, you know, what are we doing in this conversation right now? You know, are, are we kind of making it up on the fly one word at a time? Every nerve and bone in my body says no, we're, we're thinking far ahead, we're learning on the fly. All these other things that we think that we're doing and we probably are in some ways, but maybe a big chunk of intelligences, a lot simpler than, than we think and a lot less special than we think.
+
+1 (25m 25s):
+So how is it possible for something that is just trained to predict the next word? How is it possible it could do all these things, draw a unicorn, stack, a book, a laptop, and some eggs. There is an answer or a theory anyway that is both very logical and also kind of bananas. The software that runs something like GPT four is amazingly brief, just a few pages of actual instructions, but it's set up to mimic in some very crude way, the human brain, which has billions of neurons. The computer version of that is called a neural net. And for years people have argued though it's sort of more like hoped that if you just made these big enough added enough neurons and gave them enough data, they might develop something like intelligence.
+
+1 (26m 12s):
+And it seems like maybe that's what's happened. The idea is that back when GPT four was being trained for it to really consistently get the next word correct, to do that reliably, it had to do more than just bullshit. It had to do more than guess based on patterns to get the next word right? It had to truly understand the words coming before it. It had to build in its internal wirings and all its software neurons, some understanding of what an egg is and unicorns, in other words, to get the next word right? It had to become intelligent. It's quite a thought. It started with nothing.
+
+1 (26m 52s):
+We jammed huge oceans of text through it and it just wired itself into intelligence just by being trained to do This. one stupid thing, even as I say it, it sounds kind of crazy, but also kind of beautiful. If this thing actually is intelligent, it got that way from the collective writings of all of us. Yes, Moby Dick, but also some restaurant review you posted in 2004. In some ways it is all of us, that's two grand, but whatever in the end, all the people on the Microsoft campus messing around with that early copy of GPD four 14 researchers and all came to similar conclusions.
+
+1 (27m 40s):
+Even Ronan who had started out convinced this was just a fancy bullshit machine. He spent a good while hold up with GPT four, having high level math conversations with it, which is what did it for him.
+
+6 (27m 51s):
+As the days passed, I felt like I'm kind of running gout of ammo, trying to, you know, to basically justify my premise that this model doesn't understand anything. And at some point I, I just realized, okay, I I kind of give up, you know what I'm seeing here, this is like, it's, it's actually an intellectual being by at least my standards. Yeah, I probably had the same feeling as like what an engineer f like thought the first time they saw a working steam engine.
+
+6 (28m 37s):
+You know, it was like the world is about to change. Like look this thing, you know, a steam engine is like, you know, we don't need beasts anymore to move stuff around. We can just create mechanical torque without, like, without any human labor, without nothing like this thing. What I'm seeing gr right now is like we can create intelligence and like there's just no way the world is not gonna change, to be honest.
+
+6 (29m 20s):
+I was sure that when the model comes out and everyone gets to interact with it, there would be a much bigger excitement around it. I think, you know, there's, it's definitely all over the news, but I feel like they are, they don't like put their finger on the one thing, which is this thing is as intelligent as an above average human being in so many, so many different things or
+
+1 (29m 52s):
+Why it's not like on the front page in giant font, right? Yeah, yeah, yeah,
+
+6 (29m 54s):
+Yeah. Exactly. Exactly. I mean, again, I don't, maybe I don't wanna call it intelligent. It is capable of doing, you know, of of, of accomplishing whatever an intelligent human being is capable of.
+
+1 (30m 12s):
+Sebastian, the unicorn guy has been going around giving talks about what they did over these months. He titled the talk first contact as in first contact with another intelligence only. It's not aliens, it's an intelligence we've made. I should say GPT four is not good at everything. Like it's terrible at tic-tac-toe. It often makes very basic arithmetic errors. It told the scientists at Microsoft with complete confidence that there is a McDonald's near gate C2 at the Seattle airport. There isn't. It's a terminal B as Peter Lee puts it. The thing is both smarter and dumber than any person you have ever met.
+
+1 (30m 55s):
+The 14 researchers wrote up a paper laying out all the experiments they'd done and their conclusion that GPT four showed sparks of artificial general intelligence. Several researchers who've read it told me, look, to really say something is intelligent to prove that there are all kinds of experiments you'd wanna do. It haven't been done yet. One AI researcher who'd been in the field a long time told me he felt like this whole approach, next word prediction is only gonna get you so far. This thing will get better to a point, maybe not much better than it is now. And then max out, I first got around this AI stuff and neural nets when I was in grad school for physics when they didn't work terribly well.
+
+1 (31m 46s):
+So when I first started playing around with GP D four, it gave me shivers down my spine over and over again. Then I went through a stretch of feeling just weirded out. Like personally, I've always felt like people can't be more than biological computers me everyone, I love all my colleagues at the show here. But to feel like you are seeing that mechanical computer program that can somehow think and talk, it is a little freaky. The place I've settled is somewhere quieter though it's not boredom exactly, but I don't find myself wanting to go to it very often. Honestly. I don't have a lot of things I need it for and then I'll go back to amazement.
+
+1 (32m 28s):
+I can't believe this thing exists much has been written about where we go from here if it's gonna make the world better or worse. I kind of think better. I'm a fan of the steam engine, but really, what is the next word in this sequence? I have no idea.
+
+2 (32m 55s):
+David Ke is our show. Senior Editor coming up an AAM walks into a skate park and tries to let the Humans know it comes in peace that's in a minute. From Chicago B Radio, when our program continues,
+
+0 (33m 10s):
+It's time to take your career to the next level. With over 150 graduate degree programs. The Catholic University of America located in Washington DC provides world-class academics with a student experience that educates the whole person, mind, body, and spirit. Whether your professional calling is in engineering, nursing, social work, or any of our other exceptional degree programs, encounter the best of everything that Catholic University has to offer. And discover the best in yourself. Learn more today at catholic.edu/grad admissions
+
+11 (33m 42s):
+New. York Times games make me feel like I'm amazing.
+
+12 (33m 45s):
+Wordle makes me feel things that I don't feel from anyone
+
+13 (33m 48s):
+Else. I absolutely love Spelling Bee.
+
+14 (33m 51s):
+The Times crossword puzzle is a companion that I've had longer than anyone outside of my immediate family.
+
+13 (33m 57s):
+When I can finish a hard puzzle without hints, I feel like the smartest person in the world. It
+
+5 (34m 2s):
+Gives me joy every single
+
+15 (34m 3s):
+Day. Join us and play all New York Times games at
+
+16 (34m 7s):
+Ny times.com/games.
+
+15 (34m 9s):
+Subscribe by June 29th to get a special offer.
+
+2 (34m 13s):
+This American Life am Ira glass each we're gonna show, of course we choose the theme. Bring you a variety of stories on that theme. Today's show, Greetings People Of Earth stories of Humans, encountering non-human intelligences of various kinds and trying to make sense of them. We've arrived at Act Two of our program, Act Two meet cued. Apologies for my voice by the way. I feel fine. So in this act we're gonna shift perspectives briefly to the aliens point of view in the whole Greetings People Of Earth scenario. And to do that, I realized putting together today's show that this is the perfect theme to play. This short piece of fiction that I read years ago and just loved and it has always stuck with me like I will think about this story now and then, which like when does that ever happen?
+
+2 (35m 1s):
+Right? I reached out to the author Terry Bisson who said yes, it's read for us by h John Benjamin and Maeve Higgins.
+
+17 (35m 8s):
+They're made out of Meat
+
+18 (35m 12s):
+Meat
+
+17 (35m 13s):
+Meat. They're made outta Meat
+
+18 (35m 17s):
+Meat,
+
+17 (35m 18s):
+There's no doubt about it. We picked several from different parts of the planet. We took them aboard our recon vessels, probed them all the way through. They're completely Meat.
+
+18 (35m 30s):
+That's impossible. What about the radio signals, the messages to the stars?
+
+17 (35m 34s):
+Well, they use the radio waves to talk, but the signals don't come from them. The signals come from machines.
+
+18 (35m 42s):
+So who made the machines? That's who we wanna contact.
+
+17 (35m 45s):
+They made the machines. That's what I'm trying to tell you. Meat made the machines.
+
+18 (35m 52s):
+That's ridiculous. How can Meat make a machine? You're asking me to believe in sentient Meat.
+
+17 (35m 58s):
+I'm not asking you. I'm telling you these creatures are the only sentient race in the sector and they're made outta Meat.
+
+18 (36m 5s):
+Maybe they're like the Orli, you know, a carbon based intelligence that goes through a Meat stage.
+
+17 (36m 11s):
+Nope, they're born Meat and they dye Meat. We studied them for several of their lifespans, which didn't take too long. Do you have any idea the lifespan of Meat
+
+18 (36m 20s):
+Spare me? Okay, maybe they're only part Meat. You know like the the we eye a meathead with an electron plasma brain inside? No,
+
+17 (36m 29s):
+We thought of that since they do have meathead like the wet. But I told you we probed them. Their Meat all the way through.
+
+18 (36m 39s):
+No brain.
+
+17 (36m 40s):
+Oh, there's a brain. All right. It's just that the brain is made outta Meat.
+
+18 (36m 46s):
+So what does the thinking
+
+17 (36m 48s):
+You're not understanding, are you? The brain does the thinking. The the Meat
+
+18 (36m 54s):
+Thinking. Meat. You're asking me to believe in thinking Meat.
+
+17 (36m 57s):
+Yes. Thinking. Meat conscious. Meat loving, Meat dreaming. Meat. The Meat is the whole deal. Are you getting the picture?
+
+18 (37m 7s):
+Oh my god, you're, you're serious. Then they're made out of Meat.
+
+17 (37m 12s):
+Finally. Yes, they are indeed made outta Meat and they've been trying to get in touch with us for almost a hundred of their years.
+
+18 (37m 21s):
+So what does the Meat have in mind?
+
+17 (37m 24s):
+First it wants to talk to us. Then I imagine it wants to explore the universe, contact other sentient swap ideas and information. The usual.
+
+18 (37m 37s):
+They're supposed to talk To me.
+
+17 (37m 39s):
+That's the idea. That's the message they're sending out by radio. Hello? Anyone out there? Anybody home? That sort of thing.
+
+18 (37m 48s):
+They actually do talk then they use words, ideas, concepts.
+
+17 (37m 52s):
+Oh yes. Except they do it with Meat.
+
+18 (37m 58s):
+I I thought you just told me that you used radio.
+
+17 (38m 0s):
+They do. But what do you think is on the radio? Meat sounds, you know how when you slap or flap Meat, it makes a noise. They talk by flapping their Meat at each other. They can even sing by squirting air through their Meat.
+
+18 (38m 14s):
+Oh my god. Singing Meat. This is all together too much. So what do you advise
+
+17 (38m 24s):
+Officially or unofficially?
+
+18 (38m 29s):
+Both
+
+17 (38m 32s):
+Officially we're required to contact, welcome and log in any and all sentient races or multi beings in the quadrant without prejudice, fear, or favor. Now unofficially. Oh, I advise. We erase the records and just forget the whole thing.
+
+18 (38m 50s):
+Yeah, I was hoping you would say that.
+
+17 (38m 52s):
+It seems harsh, but there is a limit. Do we really wanna make contact with Meat?
+
+18 (38m 59s):
+I agree 100%. What's there to say? Hello Meat, how's it going? But will this work? How? How many planets are we dealing with here? Oh,
+
+17 (39m 8s):
+Just one. They can travel to other planets in special Meat containers, but they can't live in them. And being Meat, they only travel through sea space, which limits them to the speed of light and it makes the possibility of their ever making contact. Pretty slim, infinitesimal, In fact.
+
+18 (39m 26s):
+So we just pretend there's no one home in the universe.
+
+17 (39m 29s):
+That's it.
+
+18 (39m 31s):
+Cruel. But you said it yourself. Who wants to meet Meat And the ones who have been aboard our vessels, the ones you've probed, you're sure they won't remember.
+
+17 (39m 40s):
+They'll be considered crackpots if they do. We went into their heads and smoothed out their Meat. So we're just a dream to them.
+
+18 (39m 48s):
+A dream to meet how strangely appropriate that we should be meet's dream
+
+17 (39m 53s):
+And we can mark this sector. Unoccupied.
+
+18 (39m 56s):
+Good. Agreed. Officially and unofficially case closed. Many others, anyone interesting on that side of the galaxy?
+
+17 (40m 5s):
+Yes. A rather shy but sweet hydrogen core cluster intelligence in a class nine star in G 4 45 zone was in contact two galactic rotations ago. Wants to be friendly again.
+
+18 (40m 18s):
+They always come around.
+
+17 (40m 19s):
+And why not imagine how unbearably, how unutterably cold the universe would be if one were all alone.
+
+2 (40m 38s):
+Mae Higgins in h John Benjamin reading a story by Terry Bisson Maeve's comedy album called A Very Special Woman that is streaming Everywhere for free. Just Google it where you can throw her some money and buy it on band camp. Each time Benjamin plays the title characters on the TV shows Bob's burgers and Archer. and if that were not enough, he is also the jazz daredevil with an actual jazz album on sub pop records. Act Three yacht rocked recently massive, mysterious, highly intelligent beings have been going outta their way to contact Humans and say more or less, hello People, Of Earth, but in a very particular way.
+
+2 (41m 24s):
+And they're doing it over and over and we Humans have had a hard time figuring out exactly what they mean by it. And do they mean as harm? Chris Benderev? I've looked, looked into it.
+
+19 (41m 34s):
+I learned a lot of surprising facts looking into this story. I'll start with a small one. Did you know that yacht owners often need their yacht to get from one country to another, but don't want the hassle of sailing it there? That's where April boys comes in. People pay her to sail their boats, which she loves. Especially on beautiful days like May 24th was.
+
+20 (41m 55s):
+And we're actually eating our dinner. And then on the kind of mid horizon we saw these dorsal fins and our initial thought was, oh, are they, are they some dolphins? And then as I sort of approached the boat, we, we thought, wow, no, they're, they're a lot bigger than dolphins.
+
+19 (42m 16s):
+There were orcas killer whales, about five of them. They started swimming in circles around the boat. They took turns diving underneath and hitting the rudder. She says, the boat shook so much you'd fall if you weren't holding onto something. April knew that off the southern coast of Spain, that's where she was. By the way, orcas had been ramming into boats a lot lately and tearing off their rudders. This has been happening more over the past few years in this area. About a hundred boats damaged, may have heard about this April. And her crew tried things that they'd seen on the internet, like clanging metal objects on the side of the boat to scare the whales off.
+
+19 (42m 57s):
+It did not deter them. And then
+
+20 (42m 59s):
+We thought potentially if we were to dangle ropes in the water, they might get interested in those rather than them just looking at the rudder. I dangled a ray paver board and one of them just literally just pulled it out my hand. It was just
+
+19 (43m 13s):
+So it didn't, that did not work
+
+20 (43m 14s):
+At all. No, it didn't work.
+
+19 (43m 16s):
+Half an hour into this, the orcas had disabled. The boat's rudder, it couldn't steer. They were stuck. The whales kept circling and she was struck by how massive each orca was.
+
+21 (43m 28s):
+Oh my God,
+
+20 (43m 31s):
+Please go away. I do remember feeling like my heart beating quite fast. My hands quite tingly. You know the orcas, they didn't come across as being aggressive, but I don't know. I like, I've seen videos of them before and they thought, oh, look at those cute little orcas. And then they flick a seal off an iceberg and that's that. That's their dinner.
+
+19 (43m 59s):
+An hour in April saw that the hole was starting to fill with water. The orcas had torn off the rudder and left this big hole in the bottom of the boat. The crew made a mayday call.
+
+22 (44m 8s):
+We need a system immediately. We need a system immediately. We are sinking. We are sinking.
+
+19 (44m 15s):
+Eventually a rescue boat sits up to them and brings April and the other crew aboard tows the boat to land. It doesn't sink, but orcas have sank at least three boats in this area. In the past year, Humans have had a hard time figuring out what to make of these orca attacks. Let me tell you the first theory. It comes from a group of researchers in Spain and Portugal. They've said it's possible that the matriarch of this population of killer whales, they call her white Gladys, may have suffered a traumatic injury like a boat collision and is now attacking other boats and her family is following her lead.
+
+19 (44m 55s):
+They don't call this vengeance, but the internet definitely does. People love this. It's become a meme. There's merch you can buy to join the orca uprising. I couldn't get an interview with the European researchers, but I talked to three other orca experts and none of them bought the injured orca on a rampage theory like Monica Whelan Shields of the Orca Behavior Institute.
+
+20 (45m 17s):
+Yeah, my thought was, where's the evidence? You know, if something had been witnessed or if she had some type of injury that could have been caused by a vessel, that theory would hold a lot more weight with me.
+
+19 (45m 35s):
+Another reason she doesn't buy the theory. If orcas wanted to wreak vengeance and kill everybody on these boats, they easily could. They kill seals for sport. They prey on great white sharks, rip out their livers and leave them for dead. And we've given orcas lots of reasons to kill us in the past. Like in Monica's home state of Washington, when they were taken for captivity,
+
+20 (45m 56s):
+We had human divers in the water, literally separating mothers from their calves, which has gotta be one of the most traumatic things, you know, a wild orca could go through. Yet they did not attack the divers who were right there in the water. So it just seems like such a stretch to say one whale had one negative incident with a boat and has now, you know, trained her family to disable all boats of a similar type.
+
+19 (46m 23s):
+So what does Monica think the orcas are doing? She thinks they're playing stealing boat. Rudders is basically a fad. This has happened in the past. In the late 1980s, orcas in the Pacific Northwest started killing salmon and then wearing them on their heads like hats. They just did it for a year and then they stopped. The last few years they've started screwing around with fisherman's crab, catching gear. Apparently just for fun. They sound like just like rowdy teenagers or something like cow tipping or something. Yeah,
+
+20 (46m 55s):
+It's, that's totally the vibe we get when we watch it. I mean they're just really messing around and And stirring up trouble. Yeah,
+
+19 (47m 9s):
+The incredible popularity of all this on social media is affecting how people see whales. Monica says in Washington state, the last few weeks, people who go whale watching are starting to ask her, is it safe? Another orca expert told me that after a killer whale ran into a ship near Scotland recently reporters called to ask if the orca uprising against Humans is spreading, are they learning vengeance from the whales of Spain? The answer is they are not. Orca populations don't socialize with other orcas they keep to themselves. There's no global conspiracy. April the sailor told me she saw on Facebook that boat owners were talking about adding sharp spikes to their rudders to send a more violent message to the orcas.
+
+19 (47m 53s):
+The researchers told me this is what they fear, that the orcas are just playing. They come in peace, but the Humans will end up attacking them anyway.
+
+2 (48m 9s):
+Chris Benderev is a Producer on our show Neck four Jorts Andal. So our show today is Greetings People, Of Earth and I think so Many of us at one point in our lives or another, especially when we're young, feel like we are the alien trying to understand and fit in with the Humans of this planet. Having experiences that feel very much like Greetings, People, Of, Earth, Diane Wu spent some time recently with a person who feels that way.
+
+17 (48m 41s):
+The person is a teenager, Gwen, she's 16 and because she's 16, so many things in her life right now feel like a first contact experience.
+
+23 (48m 51s):
+I remember one time this year I was like, new stuff is happening every single day. It's crazy. Like I dyed my eyebrows pink in November, like none of my hair. Just that. I was like, I have never done that before. That's crazy. And like I remember getting in the car for the first time when I had my real license and just being like, this is insane. Like I can go anywhere, do anything. This is like pure freedom. Where
+
+17 (49m 12s):
+Was the first place you drove?
+
+23 (49m 15s):
+No, I feel like it's just, okay. The first place I drove was to McDonald's, but I don't think that Is that embarrassing to you? That's so embarrassing because that's like so uncool and that's like so like stereotypical, you know, like what I would love my first place to be like, oh no, I went to go look salamander watching or I went to go bird watching or like I went to,
+
+17 (49m 41s):
+Can't tell. It's very into nature and also can't stand anything that might even have a twine of cringiness like McDonald's. It's
+
+23 (49m 50s):
+Like it's kind of cringy. Also cringy is a cringy word, just so you know why. I guess it's like sometimes words get really popular but once they get to a certain point of too popular they fall back down to, almost embarrassing to say
+
+17 (50m 6s):
+She lives in Ellensburg Washington, a small town in the middle of the state and goes to school with a lot of ranchers kids and professors kids. Gwen's a sophomore and doesn't belong to any particular clique. She told me if the school was a biological cell, she'd be part of this cytoplasm, the shapeless goo that everything else swims in. But a year or so ago she started noticing the skateboarders, this group of six or seven boys, she'd see them in the hallways wearing jorts, baggy jeans, shorts, looking way edgier than everyone else. Her friends showed her videos that the skateboarders posted on Instagram of their tricks, which really captivated her.
+
+23 (50m 48s):
+I guess it's like a lot of people when you live in like a smaller town, some, a lot of people do a lot of boring things I feel like. So a lot of kids then, you know, they just like go do Rite Aid. They get like they buy stuff. Like they just buy stuff, drive around and talk and like that's all the activities they do. And I just like, I had this idea that all the skaters are just always doing like such cool things. Like after school they go to skate park, they're skating, they're like skating down roofs, they're like, you know, skating roofs,
+
+17 (51m 15s):
+Down roofs. Yeah,
+
+23 (51m 15s):
+I've seen those Ski. Yeah and like you know going like round town, you know like climbing on buildings, like going outside a lot.
+
+17 (51m 23s):
+Then last year Gwen met someone who knew how to skate. Lauren basically the only girl skater at their school and asked Lauren to teach her how to do it too. Gwen got her own board back in November. This spring she quit the tennis team to practice skateboarding instead. Every day she goes and does the two tricks. She knows Ollie's and shove. Its over and over in the church parking lot across the street from her house where no one can see her. The patch that's smooth enough to skate on is tiny. About the size of two parked cars, there's a real skate park downtown and Gwen's been there with Lauren and other friends, but she's never been brave enough to go alone.
+
+17 (52m 4s):
+That's what she wants to do today to get over this fear so she can go by herself over the summer. Gwen is still an alien to this new unfamiliar world. She does not yet speak the language of the skaters or fully know their customs, but she wants to,
+
+23 (52m 20s):
+I really would like to be like part of this culture of skating and like know this group of people at my school who skates. But for me, I also don't wanna like stick out too much in the way of like being the worst skater there or like being the new or you know, dressing too much. Like I'm trying to be a skater but like dressing not like a skater. So it's like that push and pull of like trying to find the balance.
+
+17 (52m 45s):
+Also, Gwen really wants to try and make friends with the skater guys. There's one in particular, she feels like she might have an in with. His name is Horace. He's a junior. A couple weeks ago, Horace had apparently noticed Gwinnett school and sent a message to her friend Lauren. He asked, who's your friend that was wearing the jorts today? Lauren wrote back, Gwen, why? And Hora responded, no reason.
+
+23 (53m 12s):
+What does that even mean? I was so confused. I was like, do they just really like Jort or like what?
+
+17 (53m 17s):
+Whatever it meant. This was mind blowing. A skater noticed her. So if Horace is at the park today, Gwen also wants to try and talk to him. But since she's the outsider here, this raises another fear.
+
+23 (53m 33s):
+No awkwardness. I hate awkwardness. It's like my least favorite feeling in the world. Like embarrassment, awkwardness, shame. That's my least favorite. I'd way rather feel angry or sad than those. For some reason I just feel so afraid of awkward social interactions. So yeah, thinking about even having like one conversation with like someone at the skate park makes me want to die inside. Okay, no, we're approaching the den of the beasts. It's like behind the bushes.
+
+17 (54m 11s):
+How are you feeling right now?
+
+23 (54m 13s):
+I feel like my throat feels a little bit tight, but I'm honestly not seeing very many people. So we're approaching and I can see skate park, but I'm not seeing anyone yet.
+
+17 (54m 25s):
+It's a Saturday in June, hot Gwen's in Jorts, a t-shirt with a green hair and on it and sneakers full of holes from skateboarding. So it's not to blow up her spot by being a weird adult at the park with her. Okay, so I pin a small mic on her t-shirt and we'll watch and listen from the
+
+23 (54m 43s):
+Car. I see one person I've never seen there before, but I just saw them do a trick. That was pretty impressive. So I'm a little fearful. And then I see one other person who is a really good skateboarder. He's the one in the black, he's right. Oh my gosh. No, he's so good. And he's going to, he's like a, he can do tray flips, which are really impressive and like I'm just gonna have to be in the corner alone, but let's go try it out. Okay, thank you. Good luck.
+
+17 (55m 9s):
+Horace isn't here yet. So Gwen gets to part one of our mission. The skating. Gwen walks up to the edge of the park and then without making eye contact with anyone, gets on her board and Beelines for the far side, putting as much distance between herself and the three other skaters as possible. She does a few of her Ollie's and shove it. Then ducks behind the halfpipe to whisper into the microphone.
+
+23 (55m 36s):
+I just saw one of them look at me. That was awkward. I'm hiding. I'm a human awkward.
+
+17 (55m 42s):
+The three skaters as far as I can tell have barely registered Gwynn's presence, but that's not what it feels like inside her head.
+
+23 (55m 53s):
+I just fell. That was embarrassing.
+
+17 (55m 59s):
+Nobody else seems to notice. Gwen practices some more tricks. Nothing too big. And as soon as the other skaters leave, 12 minutes later she hurries back to the car to check in.
+
+23 (56m 11s):
+I was definitely, it was way not as bad as I thought it would be. It was way less bad than I thought.
+
+17 (56m 17s):
+Being there by yourself. Yeah.
+
+23 (56m 18s):
+I feel like I could do this again. I think more people will come. Let's see if, if there's an update. I think
+
+17 (56m 25s):
+Solo skateboarding back done. Gwen moves on very quickly because the next part of the mission talking to Horace is looming. Gwen brings in reinforcements for this step. She texts a couple of friends and they all show up at the park. It is so hot outside.
+
+23 (56m 44s):
+Do I look really sweaty?
+
+24 (56m 46s):
+No,
+
+23 (56m 47s):
+Not at all. How bad do I look? One to 10 right now.
+
+24 (56m 49s):
+One, two like a, yeah.
+
+23 (56m 52s):
+Thank you. You guys all look like one too.
+
+17 (56m 56s):
+One of Gwen's friends who shows up Cooper is friends with Horace not from skating. Cooper's a beginner like Gwen. He has this random update on Horace.
+
+24 (57m 6s):
+We were just snapping and he was like, also he was in a helicopter yesterday. Did he? Why? I don't know.
+
+17 (57m 11s):
+Cooper pulls up the video and everyone crowds around his phone. It's a Snapchat of two boys strapped into a helicopter flying over mountains.
+
+24 (57m 20s):
+What? That's so cool.
+
+23 (57m 21s):
+Whoa. Wait, who is that?
+
+24 (57m 22s):
+Is that It's Horace and Leo. Why is, this is
+
+23 (57m 25s):
+Crazy. See, this is what I was saying about like, I think about the skaters always doing like these crazy cool activities all the time. Perfect example, right?
+
+24 (57m 33s):
+Like
+
+23 (57m 34s):
+Even if it's not skating, like they're always going to Seattle and stuff like that.
+
+24 (57m 37s):
+Oh. yeah. Or like thrifting to, yeah. Come on
+
+17 (57m 41s):
+Gwen looks up from the video.
+
+23 (57m 42s):
+That is insane. Okay, now we have, okay, it's good. We have a talking point
+
+24 (57m 46s):
+Also. It'll be like, I heard you fly a hook up. Yeah,
+
+23 (57m 49s):
+But
+
+17 (57m 49s):
+That's the A talking point. But still no Horserace. Almost two hours pass. Then a big red truck pulls up right in front of me and someone gets out on the other side. I can't see Gwen anymore or anyone else, but I figure out pretty quickly who it is because here is the next thing Gwen says. Wait,
+
+23 (58m 9s):
+I heard you went in a helicopter yesterday, dude.
+
+24 (58m 12s):
+Yeah, I did Those.
+
+23 (58m 12s):
+What? Ha. Wait, why? What? Tell us the story
+
+17 (58m 15s):
+Here it is the sound of a pretty not awkward conversation between Gwen and her skater idol.
+
+24 (58m 23s):
+This girl Leo's birthday present. His grandpa gave him a birthday
+
+23 (58m 29s):
+To go in a helicopter.
+
+24 (58m 31s):
+Oh, these weren't good one. Yeah. That's crazy.
+
+23 (58m 34s):
+They're like brand new.
+
+24 (58m 35s):
+I was gonna buy the vans but they're 40 bucks.
+
+17 (58m 38s):
+Gwen asks Horace in quick succession about the helicopter, his shoes, Pokemon cards, which this group of teenagers was surprisingly really into driving. Everything is going great. Gwen, who'd been so scared of awkwardness, it's now so comfortable that she signals for me to come over from the car.
+
+24 (58m 56s):
+Diane, nice to meet you. Nice to meet you.
+
+17 (58m 59s):
+Horace is compact, tidy, and kind of looks like he'd be in a boy band. His hair is bleached light brown. We sit on the curb at the side of this skate park. Gwen and her friends and Horace and me. Gwen boldly plugs ahead asking Horace some kind of interview sounding questions, confirming his status as a bonafide cool skater.
+
+23 (59m 21s):
+Okay. What's the time like? When do you feel like when you come to skate park, I'm already feel like I know the answer to this, but do you feel stressed out or like worried what people are gonna think?
+
+24 (59m 31s):
+I used to, yeah, I used to be, but I kind of just here to do my thing. Is
+
+23 (59m 36s):
+There anyone that is ever here that makes you nervous to be here?
+
+24 (59m 40s):
+Not really, no. Not anymore. Yeah. It used to be like the really good people, but now I'm just one of those people now. Yeah.
+
+23 (59m 47s):
+Yeah. You're like one of the top dogs at the park.
+
+24 (59m 49s):
+Yeah. Top dogs.
+
+23 (59m 50s):
+What if the, if the skate park's, not what's stressing you out then what does,
+
+24 (59m 54s):
+I don't have school, I guess kind of because I, I don't know. I don't talk that much in, in classes, so it's like kind of scared and my grades are like really bad and I'm never really paying attention to class. So I'm always scared they're gonna choose me and then I'm like not gonna know what I'm gonna say.
+
+23 (1h 0m 14s):
+So do you think people, you think people would judge you? Cause you have bad grades and I assume that you're not smart. Yeah,
+
+24 (1h 0m 21s):
+Yeah.
+
+17 (1h 0m 22s):
+Cooper jumps in to tell Horace. He should see how good Gwen's Ollie has gotten. The three of them grab their boards and head back into the skate park and Horace gives Gwen pointers on how to do a Shove it while moving.
+
+23 (1h 0m 34s):
+Yeah, I've been practicing. Let's try it.
+
+17 (1h 0m 40s):
+So the alien arrives and tries desperately to pretend she doesn't have three eyes and a giant head and long bony fingers. And it works. The Humans barely notice you wanna be one of us. They say put your foot a little higher on the board.
+
+2 (1h 1m 8s):
+Diane Wu is one of the producers of our show.
+
+25 (1h 1m 12s):
+Here come the Martian martians. And I wouldn't be surprised if they're riding on their Martian bike and we have to find out right now. What kind of flavor do these martians like? Here come the Martian Mar and they're riding on their Martian bike. Well, we have to find out right now what kinda ice cream do Martians life.
+
+2 (1h 1m 36s):
+Well, bro was produced today by Chris Benderev with Ella Mustafa. People who put together today's show include BI on Baker Fi, Ben Sean Cole, Michael com, Matee of Vida Cornfeld, Bethel Hob Tea, Valerie Kipnis, Mickey, meek Stone Nelson, Sarah Perrish, Nadia Raymond, Ryan Rumery, Ikes Re, Raja Who, Sullivan, Francis Swanson, Christopher Alala, Matt Tierney, and Julie Whitaker, managing editors. Sarah Abara, our senior editors, David Kestenbaum, our executive editors, Emmanuel Barry. Special thanks today to Tomer, Oman, Michael Frank, Melanie Mitchell, Jeremy Howard, Jason Stern, and Deborah Giles. Our website, This American Life dot org, This American Life is delivered public radio stations by prx, the Public Radio Exchange X as always, to our program's co-founder, Mr.
+
+2 (1h 2m 18s):
+Tori Malatia. You know his new passion? Bartering? Bartering, yes. He doesn't use money whenever that's possible. Bought once this week and instead of giving me cash, he told me this about how he paid me back.
+
+9 (1h 2m 30s):
+I have a book, nine Eggs, a laptop, a bottle, and a nail.
+
+2 (1h 2m 35s):
+I'm hourglass back next week, hopefully with my actual voice, the more stories of This American Life. Next week on the podcast of This American Life. Hopefully my voice will be back. And we have one of those stories that when you hear it, you're like, I can't believe this happened and then kept happening. It's about what went wrong when hundreds of women got treatment at the Yale Fertility Center and patient after patient, or complain of excruciating pain. Basically they say their pain was ignored.
+
+2 (1h 3m 16s):
+Some came to blame themselves and then everyone found out what was really going on. That's next week on the podcast. We're public radio station.

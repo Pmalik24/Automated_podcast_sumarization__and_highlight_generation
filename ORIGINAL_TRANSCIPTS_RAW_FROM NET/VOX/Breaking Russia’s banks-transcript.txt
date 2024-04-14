@@ -1,0 +1,215 @@
+1 (10s):
+It's today explained I'm Noel king a few weeks ago on the show we talk to the historian, Nicholas molder. He wrote a book about the history of economic sanctions and whether or not they work. And his answer was not so much, although the us keeps trying
+
+2 (27s):
+In most cases, I think it's clear that if the goal of those sanctions was behavioral change, only a very small amount of them have worked, or they've worked only a little bit, but not actually fully,
+
+1 (40s):
+But if the U S in Europe don't want to get involved in a ground or air or sea war with Russia hitting its financial sector is one of the only options on February 26th, the U S Canada and European allies announced they had committed to kicking some Russian banks out of swift. On today's show. We explain what swift is To explain what swift is. We called Emily Peck, a markets reporter for Axios.
+
+3 (1m 10s):
+It stands for the society for worldwide interbank financial telecommunication, but it just goes by swift
+
+1 (1m 18s):
+Who came up with that name?
+
+3 (1m 20s):
+I'm not sure exactly who came up with that name, but it is a cooperative of financial organizations all based in Belgium. This dates back to the 1970s, swift was founded to take over from a now very outdated technology.
+
+1 (1m 37s):
+So in times of non invasion in times of non war, what does swift?
+
+3 (1m 44s):
+Okay, so this has been really an interesting journey for me, Noel, because I'm not, I'm a longtime swift expert by any means like many of, no one is like many of us just getting up to speed during this crisis. And you might've seen already swift described as a messaging service used by banks. And that is correct. You can think of
+
+4 (2m 5s):
+As the backbone of the financial services sector, about half of all high value payments across borders, go through swift. It links more than 11,000 banks in 200 plus countries before
+
+3 (2m 19s):
+I think people might not understand. And what kind of does take a while to grok is that when you're moving money around the world, the message is everything, right? It's not like someone's like mailing cash or checks to another bank or financial institution. You tell a bank or you yourself want to move money. So you, you send a message. You say, I'm moving a hundred dollars to Noelle and sending it to her bank and this place, and here is the bank number. And that message is really what is so important. And without a system that lets all the different banks and institutions easily send these messages to each other becomes very difficult to transfer money between countries.
+
+3 (3m 3s):
+And that is what swift is doing is transferring money between countries, bank to bank.
+
+1 (3m 7s):
+And this is a thing that I don't think I understood until you just said it. Swift is a messaging service, but swift is not the thing sending me a hundred dollars. It's the thing, sending the message that says I, Emily am sending Noel a hundred dogs.
+
+3 (3m 22s):
+Exactly. Yes. Someone described it to me like an ATM. You go to the ATM and you deposit your a hundred dollars in there. And like, that's what matters. No, no little man is inside the, the ATM machine, like holding onto my money or anything like that. It's the message is everything. And you know, the banks will settle up that kind of like net out the money. You know what I mean? Cause they're sending money back and forth all the time.
+
+1 (3m 44s):
+This is a worldwide financial messaging system. Russia is part of the world. Russia is using swift and then Russia invades Ukraine. And what happens between Russia and swift?
+
+3 (3m 56s):
+Well, at first, nothing, nothing happens at all. Swifts keeps being Swifty, Russian banks and companies, and people still use it to send their money. But then there starts to be this kind of outcry.
+
+5 (4m 12s):
+There are major things they've not done, no block and Russia's energy market and no move to block Russia from a system called swift and into banking messaging platform that enables global payments,
+
+3 (4m 23s):
+The U S and the EU and other Western allies start talking about sanctions and you start hearing like they want to possibly cut Russia off from swift. And then a big announcement about sanctions comes out last week,
+
+6 (4m 37s):
+I chose this war and now he and his country will bear the consequences
+
+3 (4m 42s):
+Us and EU. They cut off Russian banks access to the United States financial system, but they do not cut off
+
+6 (4m 53s):
+The sanctions that were proposed on all their banks have the equal consequence may be more consequence than swift. Number one, number two, it is always an option. But right now that's not the position that the rest of Europe wishes to take
+
+1 (5m 12s):
+Everybody. At this point after Russia, invades Ukraine, the west is really upset. They're looking for things they can do to punish Russia. And it would seem like cutting Russian banks off from swift would be a really easy way to like knock them for a loop. Why does
+
+3 (5m 28s):
+Isn't that happened? Well, it doesn't happen right away. Cause I think it's seen as like someone described it to me as the ultimate sanction. Oh, it's considered like a very big deal for, I guess for a couple of reasons. One swift likes to say it's not political. It tries to be more of a neutral mechanism. And once you start monkeying with neutral mechanisms and using them as political weapons, you change the nature of the service. Yeah. Second, the sanctions they initially took against the Russian banks, cutting them off from the U S financial system, asset freezes, things like that. The argument was this is going to be a bigger deal than the swift cutoffs. Swift cutoff is symbolic, but these bank sanctions are going to be a bigger deal.
+
+3 (6m 13s):
+So initially that's why swift was left out. But then, but then, then the Ukrainian minister of foreign affairs, as we say in these times, he took to Twitter and you know, he tweeted the next day. You must ban Russia from swift and kick it out of everywhere.
+
+7 (6m 33s):
+We demand. And we need immediate steps to impose a full financial isolation of Russia from all civilized systems, applying to all Russian banks, including its central bank.
+
+3 (6m 46s):
+And this idea that you must ban Russia from swift really took off. And I guess it went viral and as much as a wonky financial transaction messaging service based in Belgium, Ken go viral. It did. And so then what happened was the us, the EU said, you know what? I will
+
+8 (7m 5s):
+Post to EU leaders. The following measures. First, we commit to ensuring that a certain number of Russian banks are removed from swift.
+
+3 (7m 16s):
+We learned it's seven Russian banks. We're going to be banned from swift that hasn't gone into effect yet. And they left out the biggest Russian banks Burbank. They also left out a bank that's like partly owned by Russian gas, giant gas prom from the swift ban. And the reason those two giants were left out is because one thing that the U S and the EU and everyone has been concerned about and levying, these sanctions has been Russia's oil and gas sector,
+
+9 (7m 45s):
+Russia supplies around a third of Europe's gas. And the latest figures show imports have actually increased since its invasion of Ukraine. People.
+
+3 (7m 56s):
+I want the oil and gas from Russia to keep flowing to Europe. And there was concern that if these big players were cut out of swift, it would be harder to sell the oil and gas. There's this notion of self-inflicted punishment, right? I mean, cutting Russian oil and gas from Europe would be pretty devastating for Europe. Prices are already shooting up higher for oil and gas, and nothing's really changed. Just the idea that these markets could be disrupted has sent prices, soaring. If it actually happens. And the oil and gas is shut off, that would be devastating for Germany, for Italy, for all these economies.
+
+3 (8m 38s):
+And I think there is not an appetite for that.
+
+1 (8m 43s):
+Once a bank is cut off from swift, who notices it first? Is it like some guy or gal in front of a terminal saying, oh, where'd my money go? Where are my messages? Like how, how is this realized
+
+3 (8m 56s):
+IRL? The seven banks have been notified. I think they have 10 days to sort of get ready. So it's not like some guy at a bank is gonna all of a sudden not be able to access it. The people who might be surprised or would be people living in Russia, because you could go on a service like wise, where you lets you transfer money internationally. And so you could use a service, could be anyone to, you know, to send money to your relatives and people in Russia want to get their money out of the country. So they might log on to an app or something to try and do that. And they won't be able to.
+
+1 (9m 30s):
+So like so many of these complicated, how do we punish people questions? This is one of those things that may end up punishing ordinary Russian people, rather than like Vladimir Putin and his cronies who all have wealth, stashed and houses and yachts and bank accounts elsewhere.
+
+3 (9m 48s):
+I think about this all the time. I think everyone's thinking about this. We've seen already like pictures of Russian people waiting on ATM lines and things like that. All these sanctions are, are going to weigh heavily on the Russian people. And while it might be hard for them to get their money out of Russia, big money always finds a way the U S and its allies are going after wealthy oligarchs and such, but just like you said, they have money stashed all around the world and all kinds of places and all kinds of assets. And it's going to be hard to find them all
+
+ZipRecruiter (10m 56s):
+Support for the show. Today comes from ZipRecruiter. ZipRecruiter uses its powerful technology to help you find and match the right candidates with your job. It proactively presents these candidates to you. You can easily review these candidates and invite your top choices to apply for your job, which encourages them to apply faster. ZipRecruiter is so effective, says ZipRecruiter that four out of five employers who post on ZipRecruiter get a quality candidate within the first day. So you can find your qualified candidates quickly. According to ZipRecruiter, find the right employees for your workplace with ZipRecruiter, try it for free at ziprecruiter.com/t E like today, explain that's ziprecruiter.com T E ZipRecruiter. The smartest way to hire. According to ZipRecruiter
+
+Thorne (12m 6s):
+Support for today's show comes from thorn. It's like a thorn that you know, is on a stamp or something, but with an E the end thorn is a health and tech company, empowering consumers to take health into their own hands. By providing testing education and science backed supplements. Thorn is elevating. The preventive wellness industry says thorn thorn helps you understand how to further improve your wellbeing with the help of their science backed nutritional supplement says thorn thorn has earned the highest certifications in their industry, says Dawn, by investing in comprehensive testing, sourcing high quality ingredients and creating a clean manufacturing process that provides solutions for your health says Thorne to learn more, visit thorn.com again, that's T H O R N e.com to start your personalized health and wellness journey.
+
+1 (13m 19s):
+We're back with Emily Peck. She's a markets reporter with Axios and she's part of a team there. That's putting together a new podcast called how it happened. Putin's invasion swift, the cooperative of financial organizations that allows banks to send messages to each other, tries to stay out of geopolitics, which makes sense. It wants to be a system for the world. And it can only do that if the whole world participates, but when Russia invaded Ukraine, Canada, the us and European allies instructed swift to cut Russia off. And it did partially by tossing off seven Russian banks, it was a noteworthy move, but it's not the first time in recent history that this has happened.
+
+3 (14m 8s):
+The example everyone points to is Iran getting cut off from swift, which happened back in 2012,
+
+11 (14m 16s):
+The European union imposed the new sanctions to put pressure on Iran, to suspend its program of uranium in Richmond, Western countries believe the program is designed to create nuclear weapons. It
+
+3 (14m 27s):
+Was pretty devastating for the country that
+
+11 (14m 29s):
+Surrounds bank customers who will feel the immediate effects when they find that unable to make simple international banking transactions.
+
+3 (14m 38s):
+And then in the lead up to negotiating the nuclear deal with Iran that the Obama administration put together, they rolled back those sanctions as like a sweetener to make the deal happen.
+
+1 (14m 50s):
+Happy
+
+12 (14m 51s):
+Crowds turned out to cheer the Iranian negotiators as they arrived back in Tehran, young people, especially who hope the deal will bring jobs and revive the economy.
+
+1 (15m 1s):
+And when you say it was devastating for Iran, in what way, what did that look like?
+
+3 (15m 5s):
+They weren't able to send money to buy things. It was hard for the people who live in Iran, but the country itself was able to kind of find a way through it. It wasn't pretty, but as with so many things, it's the regular people who get hurt the most
+
+13 (15m 18s):
+March 1st, 2022 St. Petersburg, Russia would just arrive here. It's like the only ACM in the entire city that's available. We got screamed at, by the gods telling us that there's no money in the ATM, whether we should leave immediately
+
+1 (15m 34s):
+A couple months ago today explained, did an episode about how Russia has its own version of NATO called the C STO the collective security treaty organization.
+
+14 (15m 45s):
+I think Russia would like to see it as Russia's NATO nav. NATO definitely doesn't view it as that right now, aside from Russia, it has five other members to GICA Stan kurgastan in central Asia, Armenia Belarus. And of course, Kazakhstan.
+
+1 (15m 58s):
+And this made me wonder in all honesty, as I've been hearing about swift, is there a Russian version of,
+
+3 (16m 5s):
+Yeah. Russia has developed its own financial messaging system, but it doesn't have very many financial institutions. Swift has more than 11,000. Russia has according to Bloomberg's reporting fewer than 400 and very few are international.
+
+1 (16m 22s):
+Russia has a version of swift, but the point of a messaging system is to be in touch with as many institutions as possible. That's how you get money around the world. And if it's only in touch with 400 other financial institutions, it's a version of swift, but it's kind of like a bootleg version of swift.
+
+3 (16m 39s):
+I've been thinking about it like a social network. It's only as good as the amount of people who show up to it every day. So like, remember when president Donald Trump got kicked off Twitter and tried to go to other platforms, he's trying to start his own thing. Now. It's like, okay, you have to have critical mass for a messaging network or any kind of network to add.
+
+1 (17m 0s):
+I actually work. I imagine that world powers that are in difficult diplomatic relationships with the west, look at swift and think, Hmm, there's this tool that the U S and the EU have that can really put our citizens in a difficult place financially, which no government wants, because that tends to be one of the ways that governments get overthrown. So I'm wondering in particular about China, right? Obviously vying with the United States for the position of leading world power. Does China have a version of swift?
+
+3 (17m 34s):
+Yes. China has a messaging service also
+
+15 (17m 37s):
+China's cross-boarder interbank payment system. Otherwise known as sips has been striving to become a highway for the Chinese,
+
+3 (17m 43s):
+The swamp, but just like Russia. It's mostly connected to other Chinese financial institutions. It's not anywhere near where swift is in terms of global connections. And the other problem is China's currency is just not used that much. The global currency is the dollar. Most payments in the world are in dollars. China has a messaging service. It's not very international, but I mean, I think you are right to ask that question. And I think swift doesn't want to be used politically because if people start to view it as a political tool, then it makes it less desirable.
+
+1 (18m 21s):
+If some world powers see swift as this system that might kick them out, surely at some point, China and Russia and other countries that are not allied with the United States and with the west are going to sit down together and say, we're going to do our own version of this, and we're going to make it big and we're going to make it work. And the west can do its thing and we'll do our thing. And then we have chaos, right?
+
+3 (18m 43s):
+And definitely people are worried about that. But right now I'm not because of the power of the dollar compared to the power of the Yuan. Obviously the ruble is not very powerful at this moment. It's just not comparable. I don't think anyone wants a currency issued by an autocracy to be the, the one that rules them all. I mean, China manages his economy very closely. We saw, I think it was last year. They decided that their big public companies were getting too big and they stopped IPOs from happening.
+
+3 (19m 24s):
+I don't think anyone would want to rely on the Yuan is like the global currency of choice. You have to transact in dollars. You have to transact in euros. Swift is how you do that.
+
+1 (19m 36s):
+We now have seven banks in Russia, cutoff, and we have people in Russia who are going to suffer because of it. And we have Russia surely looking for a solution. I know that people keep bringing up cryptocurrency and the possible people keep bringing up the specter of cryptocurrency. And whether Russia might be able to use cryptocurrencies to get around these institutional banking systems that in, in this case have kicked them off. Partially. I don't think
+
+3 (20m 8s):
+You need to worry about that very much because crypto needs on-ramps and more importantly, crypto needs off-ramps so you can put your money into crypto. You can buy the crypto, you can buy the Bitcoin, but you have to then convert it back into something, right? I can't take my Bitcoin to the store yet, mostly and buy stuff. So when you off-ramp the Bitcoin, that's where you're going to touch financial institutions that are subject to all these sanctions and you're hitting.
+
+1 (20m 37s):
+And if Russia continues this aggressive posture, if it keeps on with the war in Ukraine, it flatten your Putin. Won't back down. Do you think there is a world which the folks at swift people in the, in the EU and the U S get together and say, we are going to kick those two big Russian banks off they're done, or is that just not going to happen because of the, as you said earlier, you're punishing them, but you're actually punishing yourself dilemma.
+
+3 (21m 5s):
+I don't want to make any predictions right now because the swiftness, if you'll pardon my two word choices, the swiftness of the EU and the U S to levy, these sanctions, how the quick, how quickly they did it and how severe they've been and how they keep adding on more to the pile. I wouldn't rule it
+
+1 (21m 25s):
+Ever since the days of globalization. And I'm thinking about like the early nineties, we have heard many smart people say there are no more borders. There's just capital and capital flows through countries. And through systems through the mechanism of messaging systems like swift is the disconnection of Russian banks from swift proof of anything about the way we talk about globalization and the free flow of money. Yes,
+
+3 (21m 55s):
+Yes. I mean, since the nineties, there's really been huge efforts to bring Russia into the global financial system, even when it was a bad actor, you know, even after Crimea, I mean, there were sanctions, but Russia was still a part of the global financial system. Its, its wealthiest citizens have assets. Like we said all over the world, the reason we're able to do sanctions right now to cut brush out of swift, et cetera, is because it was part of that big river of capital flowing through the world. It was a player. So that gives us leverage to punish them essentially, by
+
+1 (22m 29s):
+Coming into the fold of capitalism, Russia opened itself up to this, it opened itself up to the potential that it would be punished in this way.
+
+3 (22m 40s):
+Yeah, exactly. And actually, since sanctions were levied back in 2014, after Russia invaded Crimea, it's been trying to kind of reduce its exposure to these kinds of sanctions. It's tried to build up currency reserves in currencies that are not the dollar has a big pile of gold. So it's tried to make itself less vulnerable to being a part of the global financial system. But even for all that, it was still quite vulnerable to the global financial system.
+
+1 (23m 15s):
+Do you think this moment in history where Russia is facing these unprecedented economic sanctions and is deciding, it's going to have to find different ways to do business and different ways to protect itself, it wants to de integrate from the global economy. Do you think that could be a trend going forward that other countries decide we don't want to be part of the global economic system because it makes us vulnerable.
+
+3 (23m 40s):
+I do think that could be a trend going forward. I think a slow moving trend, but a lot of smart financial columnist and observers and so on have been talking about this a lot the past week or two, like in these sanctions and this economic warfare, we've seen the U S and its allies engage in using the dollar as a weapon and demonstrating just how strong that weapon can be at the same time. Maybe that's the apex for the dollar. Maybe now that show of strength, Leeds, Russia, and countries like Russia to push harder to create something else
+
+1 (24m 29s):
+Today's show was produced by miles. Brian edited by Matthew collect engineered by a theme Shapiro and fact-checked by Laura Bullard. The rest of the team includes Halima Shaw will read Milwaukee and Victoria Chamberlain. Our supervising producer is oil Saudi Box's VP of audio is Liz Kelly Nelson. We use music by Breakmaster cylinder and no I'm Hassenfeld I'm Noel king today explained as part of the Vox media podcast network.
+
+Wealthfront (25m 18s):
+It's a new year. So it started off on the right foot, build a solid financial future for yourself by checking out wealth, front.com. Wealthfront was designed by financial experts to help you start investing with ease and clarity. If you're just getting started with investing, you can rely on their classic portfolio, but if you're already good at the whole investing thing, you can just use wealth front to simply rebalance your existing portfolio. Wealth front is here to get you invested in what interests you and make informed credible decisions to start building your wealth today and get your first $5,000 managed for free for life. Go to wealth, front.com/explained that's w E a L T H F R O N t.com/explained to start building your wealth, go to wealth, front.com/explained to get started today.
